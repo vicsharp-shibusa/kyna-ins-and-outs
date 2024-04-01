@@ -1,0 +1,26 @@
+Name,Category,Sub Category,Number Signals,Success %,Avg Duration
+Bullish Engulfing,Entity,VHI.US,10,0.7,55
+Bullish Engulfing,Entity,SEF.US,10,0.7,269
+Bullish Engulfing,Entity,BCH.US,11,0.6363636363636364,124
+Bullish Engulfing,Entity,GILT.US,10,0.6,106
+Bullish Engulfing,Entity,TIMB.US,10,0.6,119
+Bullish Engulfing,Entity,PARAA.US,10,0.5,420
+Bullish Engulfing,Overall,All,9371,0.49098281933625015,151
+Bullish Engulfing,Entity,SOXS.US,10,0.4,16
+Bullish Engulfing,Entity,MBIO.US,10,0.4,18
+Bullish Engulfing,Entity,SDS.US,10,0.4,141
+Bullish Engulfing,Entity,TWM.US,13,0.38461538461538464,90
+Bullish Engulfing,Entity,QID.US,14,0.35714285714285715,49
+Bullish Engulfing,Entity,SQQQ.US,13,0.3076923076923077,33
+Bullish Engulfing,Entity,SIJ.US,16,0.25,127
+Bullish Engulfing,Entity,SBB.US,12,0.25,342
+Bullish Engulfing,Entity,SKF.US,13,0.23076923076923078,246
+Bullish Engulfing,Entity,RWM.US,10,0.2,142
+Bullish Engulfing,Entity,DXD.US,11,0.18181818181818182,78
+Bullish Engulfing,Entity,SH.US,12,0.16666666666666666,215
+Bullish Engulfing,Entity,SPXS.US,13,0.15384615384615385,64
+Bullish Engulfing,Entity,REW.US,10,0.1,192
+Bullish Engulfing,Entity,DOG.US,10,0.1,600
+Bullish Engulfing,Entity,SPXU.US,11,0.09090909090909091,94
+Bullish Engulfing,Entity,PSQ.US,13,0.07692307692307693,103
+Bullish Engulfing,Entity,SDD.US,14,0.07142857142857142,95
