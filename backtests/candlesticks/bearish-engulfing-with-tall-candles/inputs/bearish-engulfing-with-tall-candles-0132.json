@@ -1,0 +1,33 @@
+{
+  "Type": "Candlestick Pattern",
+  "Name": "Bearish Engulfing With Tall Candles 132",
+  "Source": "eodhd.com",
+  "Description": "move: 0.2;prologue len: 30;trend desc: E200C;vol factor: 1.5;use market: False",
+  "Entry Price Point": "Close",
+  "Target Up": {
+    "Price Point": "High",
+    "Value": 0.2
+  },
+  "Target Down": {
+    "Price Point": "Low",
+    "Value": 0.2
+  },
+  "Signal Names": [
+    "Bearish Engulfing With Tall Candles"
+  ],
+  "Length of Prologue": 30,
+  "Max Parallelization": 10,
+  "Only Signal With Market": false,
+  "Volume Factor": 1.5,
+  "Chart Configuration": {
+    "Interval": "Daily",
+    "Moving Averages": null,
+    "Trend Configuration": [
+      {
+        "Trend": "E200C",
+        "Weight": null
+      }
+    ]
+  },
+  "Market Configuration": null
+}
