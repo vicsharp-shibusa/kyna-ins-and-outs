@@ -1,0 +1,33 @@
+{
+  "Type": "Candlestick Pattern",
+  "Name": "Piercing Pattern With FollowThru 112",
+  "Source": "eodhd.com",
+  "Description": "move: 0.2;prologue len: 30;trend desc: S50C;vol factor: 1;use market: False",
+  "Entry Price Point": "Close",
+  "Target Up": {
+    "Price Point": "High",
+    "Value": 0.2
+  },
+  "Target Down": {
+    "Price Point": "Low",
+    "Value": 0.2
+  },
+  "Signal Names": [
+    "Piercing Pattern With FollowThru"
+  ],
+  "Length of Prologue": 30,
+  "Max Parallelization": 10,
+  "Only Signal With Market": false,
+  "Volume Factor": 1,
+  "Chart Configuration": {
+    "Interval": "Daily",
+    "Moving Averages": null,
+    "Trend Configuration": [
+      {
+        "Trend": "S50C",
+        "Weight": null
+      }
+    ]
+  },
+  "Market Configuration": null
+}
