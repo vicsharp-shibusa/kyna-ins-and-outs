@@ -1,54 +1,54 @@
-Name,Category,Sub Category,Number Signals,Success %,Avg Duration
-Bearish Engulfing With Four White Predecessors,Industry,Electrical Equipment & Parts,12,0.75,35
-Bearish Engulfing With Four White Predecessors,Industry,Specialty Chemicals,15,0.6,44
-Bearish Engulfing With Four White Predecessors,Industry,Medical Devices,22,0.5909090909090909,44
-Bearish Engulfing With Four White Predecessors,Industry,REIT - Residential,19,0.5789473684210527,86
-Bearish Engulfing With Four White Predecessors,Industry,Oil & Gas Midstream,11,0.5454545454545454,50
-Bearish Engulfing With Four White Predecessors,Industry,Credit Services,11,0.5454545454545454,103
-Bearish Engulfing With Four White Predecessors,Industry,Consulting Services,13,0.5384615384615384,49
-Bearish Engulfing With Four White Predecessors,Industry,REIT - Office,13,0.5384615384615384,91
-Bearish Engulfing With Four White Predecessors,Industry,Oil & Gas E&P,18,0.5,32
-Bearish Engulfing With Four White Predecessors,Sector,Energy,60,0.5,35
-Bearish Engulfing With Four White Predecessors,Industry,Software - Infrastructure,22,0.5,39
-Bearish Engulfing With Four White Predecessors,Industry,Building Products & Equipment,10,0.5,44
-Bearish Engulfing With Four White Predecessors,Industry,Banks - Diversified,12,0.5,66
-Bearish Engulfing With Four White Predecessors,Industry,Biotechnology,31,0.4838709677419355,10
-Bearish Engulfing With Four White Predecessors,Sector,Consumer Cyclical,114,0.4824561403508772,44
-Bearish Engulfing With Four White Predecessors,Sector,Consumer Defensive,56,0.4642857142857143,61
-Bearish Engulfing With Four White Predecessors,Industry,Specialty Retail,13,0.46153846153846156,75
-Bearish Engulfing With Four White Predecessors,Industry,Asset Management,31,0.45161290322580644,67
-Bearish Engulfing With Four White Predecessors,Sector,Real Estate,103,0.44660194174757284,70
-Bearish Engulfing With Four White Predecessors,Industry,Software - Application,27,0.4444444444444444,30
-Bearish Engulfing With Four White Predecessors,Sector,Basic Materials,32,0.4375,47
-Bearish Engulfing With Four White Predecessors,Industry,Insurance - Specialty,14,0.42857142857142855,31
-Bearish Engulfing With Four White Predecessors,Industry,Insurance - Property & Casualty,14,0.42857142857142855,62
-Bearish Engulfing With Four White Predecessors,Industry,Telecom Services,12,0.4166666666666667,35
-Bearish Engulfing With Four White Predecessors,Industry,Auto Parts,12,0.4166666666666667,74
-Bearish Engulfing With Four White Predecessors,Sector,Financial Services,240,0.4166666666666667,74
-Bearish Engulfing With Four White Predecessors,Industry,Insurance - Diversified,12,0.4166666666666667,132
-Bearish Engulfing With Four White Predecessors,Sector,Healthcare,142,0.4154929577464789,35
-Bearish Engulfing With Four White Predecessors,Overall,All,3693,0.41429731925264013,93
-Bearish Engulfing With Four White Predecessors,Industry,Electronic Components,10,0.4,40
-Bearish Engulfing With Four White Predecessors,Sector,Communication Services,30,0.4,59
-Bearish Engulfing With Four White Predecessors,Industry,REIT - Industrial,10,0.4,66
-Bearish Engulfing With Four White Predecessors,Sector,Technology,124,0.3951612903225806,32
-Bearish Engulfing With Four White Predecessors,Industry,Banks - Regional,122,0.39344262295081966,78
-Bearish Engulfing With Four White Predecessors,Industry,Utilities - Regulated Electric,23,0.391304347826087,86
-Bearish Engulfing With Four White Predecessors,Industry,Oil & Gas Equipment & Services,13,0.38461538461538464,30
-Bearish Engulfing With Four White Predecessors,Sector,Utilities,46,0.3695652173913043,72
-Bearish Engulfing With Four White Predecessors,Industry,Medical Instruments & Supplies,19,0.3684210526315789,73
-Bearish Engulfing With Four White Predecessors,Industry,Semiconductors,11,0.36363636363636365,10
-Bearish Engulfing With Four White Predecessors,Industry,Engineering & Construction,11,0.36363636363636365,27
-Bearish Engulfing With Four White Predecessors,Sector,Industrials,182,0.35714285714285715,37
-Bearish Engulfing With Four White Predecessors,Industry,Real Estate Services,14,0.35714285714285715,42
-Bearish Engulfing With Four White Predecessors,Industry,Diagnostics & Research,17,0.35294117647058826,23
-Bearish Engulfing With Four White Predecessors,Industry,Drug Manufacturers - Specialty & Generic,17,0.35294117647058826,35
-Bearish Engulfing With Four White Predecessors,Industry,Medical Care Facilities,15,0.3333333333333333,60
-Bearish Engulfing With Four White Predecessors,Industry,REIT - Retail,15,0.3333333333333333,66
-Bearish Engulfing With Four White Predecessors,Industry,Specialty Industrial Machinery,19,0.3157894736842105,29
-Bearish Engulfing With Four White Predecessors,Industry,Aerospace & Defense,29,0.3103448275862069,44
-Bearish Engulfing With Four White Predecessors,Industry,REIT - Specialty,14,0.2857142857142857,52
-Bearish Engulfing With Four White Predecessors,Industry,Information Technology Services,26,0.2692307692307692,34
-Bearish Engulfing With Four White Predecessors,Industry,Apparel Retail,12,0.25,14
-Bearish Engulfing With Four White Predecessors,Industry,Specialty Business Services,12,0.25,28
-Bearish Engulfing With Four White Predecessors,Industry,Rental & Leasing Services,11,0.09090909090909091,28
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Engulfing With Four White Predecessors|Industry|Electrical Equipment & Parts|12|0.75|35
+Bearish Engulfing With Four White Predecessors|Industry|Specialty Chemicals|15|0.6|44
+Bearish Engulfing With Four White Predecessors|Industry|Medical Devices|22|0.5909090909090909|44
+Bearish Engulfing With Four White Predecessors|Industry|REIT - Residential|19|0.5789473684210527|86
+Bearish Engulfing With Four White Predecessors|Industry|Oil & Gas Midstream|11|0.5454545454545454|50
+Bearish Engulfing With Four White Predecessors|Industry|Credit Services|11|0.5454545454545454|103
+Bearish Engulfing With Four White Predecessors|Industry|Consulting Services|13|0.5384615384615384|49
+Bearish Engulfing With Four White Predecessors|Industry|REIT - Office|13|0.5384615384615384|91
+Bearish Engulfing With Four White Predecessors|Industry|Oil & Gas E&P|18|0.5|32
+Bearish Engulfing With Four White Predecessors|Sector|Energy|60|0.5|35
+Bearish Engulfing With Four White Predecessors|Industry|Software - Infrastructure|22|0.5|39
+Bearish Engulfing With Four White Predecessors|Industry|Building Products & Equipment|10|0.5|44
+Bearish Engulfing With Four White Predecessors|Industry|Banks - Diversified|12|0.5|66
+Bearish Engulfing With Four White Predecessors|Industry|Biotechnology|31|0.4838709677419355|10
+Bearish Engulfing With Four White Predecessors|Sector|Consumer Cyclical|114|0.4824561403508772|44
+Bearish Engulfing With Four White Predecessors|Sector|Consumer Defensive|56|0.4642857142857143|61
+Bearish Engulfing With Four White Predecessors|Industry|Specialty Retail|13|0.46153846153846156|75
+Bearish Engulfing With Four White Predecessors|Industry|Asset Management|31|0.45161290322580644|67
+Bearish Engulfing With Four White Predecessors|Sector|Real Estate|103|0.44660194174757284|70
+Bearish Engulfing With Four White Predecessors|Industry|Software - Application|27|0.4444444444444444|30
+Bearish Engulfing With Four White Predecessors|Sector|Basic Materials|32|0.4375|47
+Bearish Engulfing With Four White Predecessors|Industry|Insurance - Specialty|14|0.42857142857142855|31
+Bearish Engulfing With Four White Predecessors|Industry|Insurance - Property & Casualty|14|0.42857142857142855|62
+Bearish Engulfing With Four White Predecessors|Industry|Telecom Services|12|0.4166666666666667|35
+Bearish Engulfing With Four White Predecessors|Industry|Auto Parts|12|0.4166666666666667|74
+Bearish Engulfing With Four White Predecessors|Sector|Financial Services|240|0.4166666666666667|74
+Bearish Engulfing With Four White Predecessors|Industry|Insurance - Diversified|12|0.4166666666666667|132
+Bearish Engulfing With Four White Predecessors|Sector|Healthcare|142|0.4154929577464789|35
+Bearish Engulfing With Four White Predecessors|Overall|All|3693|0.41429731925264013|93
+Bearish Engulfing With Four White Predecessors|Industry|Electronic Components|10|0.4|40
+Bearish Engulfing With Four White Predecessors|Sector|Communication Services|30|0.4|59
+Bearish Engulfing With Four White Predecessors|Industry|REIT - Industrial|10|0.4|66
+Bearish Engulfing With Four White Predecessors|Sector|Technology|124|0.3951612903225806|32
+Bearish Engulfing With Four White Predecessors|Industry|Banks - Regional|122|0.39344262295081966|78
+Bearish Engulfing With Four White Predecessors|Industry|Utilities - Regulated Electric|23|0.391304347826087|86
+Bearish Engulfing With Four White Predecessors|Industry|Oil & Gas Equipment & Services|13|0.38461538461538464|30
+Bearish Engulfing With Four White Predecessors|Sector|Utilities|46|0.3695652173913043|72
+Bearish Engulfing With Four White Predecessors|Industry|Medical Instruments & Supplies|19|0.3684210526315789|73
+Bearish Engulfing With Four White Predecessors|Industry|Semiconductors|11|0.36363636363636365|10
+Bearish Engulfing With Four White Predecessors|Industry|Engineering & Construction|11|0.36363636363636365|27
+Bearish Engulfing With Four White Predecessors|Sector|Industrials|182|0.35714285714285715|37
+Bearish Engulfing With Four White Predecessors|Industry|Real Estate Services|14|0.35714285714285715|42
+Bearish Engulfing With Four White Predecessors|Industry|Diagnostics & Research|17|0.35294117647058826|23
+Bearish Engulfing With Four White Predecessors|Industry|Drug Manufacturers - Specialty & Generic|17|0.35294117647058826|35
+Bearish Engulfing With Four White Predecessors|Industry|Medical Care Facilities|15|0.3333333333333333|60
+Bearish Engulfing With Four White Predecessors|Industry|REIT - Retail|15|0.3333333333333333|66
+Bearish Engulfing With Four White Predecessors|Industry|Specialty Industrial Machinery|19|0.3157894736842105|29
+Bearish Engulfing With Four White Predecessors|Industry|Aerospace & Defense|29|0.3103448275862069|44
+Bearish Engulfing With Four White Predecessors|Industry|REIT - Specialty|14|0.2857142857142857|52
+Bearish Engulfing With Four White Predecessors|Industry|Information Technology Services|26|0.2692307692307692|34
+Bearish Engulfing With Four White Predecessors|Industry|Apparel Retail|12|0.25|14
+Bearish Engulfing With Four White Predecessors|Industry|Specialty Business Services|12|0.25|28
+Bearish Engulfing With Four White Predecessors|Industry|Rental & Leasing Services|11|0.09090909090909091|28
