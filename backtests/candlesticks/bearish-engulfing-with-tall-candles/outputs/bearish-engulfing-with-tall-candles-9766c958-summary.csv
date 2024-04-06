@@ -1,0 +1,37 @@
+Name,Category,Sub Category,Number Signals,Success %,Avg Duration
+Bearish Engulfing With Tall Candles,Industry,Asset Management,17,0.7647058823529411,140
+Bearish Engulfing With Tall Candles,Industry,Oil & Gas E&P,15,0.6666666666666666,66
+Bearish Engulfing With Tall Candles,Industry,Utilities - Regulated Electric,15,0.6,129
+Bearish Engulfing With Tall Candles,Industry,Drug Manufacturers - Specialty & Generic,12,0.5833333333333334,9
+Bearish Engulfing With Tall Candles,Industry,Medical Devices,12,0.5833333333333334,67
+Bearish Engulfing With Tall Candles,Industry,Biotechnology,26,0.5384615384615384,20
+Bearish Engulfing With Tall Candles,Industry,Aerospace & Defense,13,0.5384615384615384,47
+Bearish Engulfing With Tall Candles,Industry,Specialty Retail,13,0.5384615384615384,64
+Bearish Engulfing With Tall Candles,Sector,Healthcare,103,0.5048543689320388,33
+Bearish Engulfing With Tall Candles,Industry,Farm & Heavy Construction Machinery,10,0.5,18
+Bearish Engulfing With Tall Candles,Industry,Apparel Retail,14,0.5,23
+Bearish Engulfing With Tall Candles,Sector,Consumer Cyclical,100,0.49,40
+Bearish Engulfing With Tall Candles,Industry,REIT - Residential,13,0.46153846153846156,86
+Bearish Engulfing With Tall Candles,Sector,Consumer Defensive,50,0.46,71
+Bearish Engulfing With Tall Candles,Sector,Real Estate,55,0.45454545454545453,65
+Bearish Engulfing With Tall Candles,Sector,Utilities,34,0.4411764705882353,92
+Bearish Engulfing With Tall Candles,Overall,All,2669,0.3990258523791682,74
+Bearish Engulfing With Tall Candles,Sector,Financial Services,165,0.3939393939393939,79
+Bearish Engulfing With Tall Candles,Sector,Energy,46,0.391304347826087,51
+Bearish Engulfing With Tall Candles,Industry,Medical Instruments & Supplies,13,0.38461538461538464,25
+Bearish Engulfing With Tall Candles,Industry,Specialty Chemicals,21,0.38095238095238093,75
+Bearish Engulfing With Tall Candles,Sector,Technology,90,0.37777777777777777,31
+Bearish Engulfing With Tall Candles,Industry,Specialty Industrial Machinery,24,0.375,42
+Bearish Engulfing With Tall Candles,Sector,Industrials,136,0.36764705882352944,37
+Bearish Engulfing With Tall Candles,Industry,Specialty Business Services,11,0.36363636363636365,18
+Bearish Engulfing With Tall Candles,Industry,Credit Services,11,0.36363636363636365,37
+Bearish Engulfing With Tall Candles,Industry,Diagnostics & Research,14,0.35714285714285715,41
+Bearish Engulfing With Tall Candles,Industry,Banks - Regional,102,0.3431372549019608,66
+Bearish Engulfing With Tall Candles,Sector,Basic Materials,38,0.3157894736842105,80
+Bearish Engulfing With Tall Candles,Industry,Information Technology Services,13,0.3076923076923077,28
+Bearish Engulfing With Tall Candles,Industry,Oil & Gas Midstream,10,0.3,41
+Bearish Engulfing With Tall Candles,Industry,Scientific & Technical Instruments,11,0.2727272727272727,8
+Bearish Engulfing With Tall Candles,Sector,Communication Services,27,0.25925925925925924,17
+Bearish Engulfing With Tall Candles,Industry,Auto Parts,12,0.25,58
+Bearish Engulfing With Tall Candles,Industry,Software - Application,26,0.23076923076923078,20
+Bearish Engulfing With Tall Candles,Industry,Telecom Services,10,0.1,24

@@ -1,0 +1,378 @@
+Name,Category,Sub Category,Number Signals,Success %,Avg Duration
+Bearish Engulfing,Industry,Health Information Services,10,0.9,86
+Bearish Engulfing,Sector,Financials,10,0.8,256
+Bearish Engulfing,Industry,Electronic Gaming & Multimedia,14,0.7142857142857143,17
+Bearish Engulfing,Industry,REIT - Diversified,10,0.7,50
+Bearish Engulfing,Entity,AKO-B.US,10,0.7,52
+Bearish Engulfing,Entity,CCBG.US,10,0.7,74
+Bearish Engulfing,Entity,PFM.US,10,0.7,171
+Bearish Engulfing,Industry,Capital Markets,12,0.6666666666666666,14
+Bearish Engulfing,Entity,WABC.US,12,0.6666666666666666,126
+Bearish Engulfing,Entity,TTEK.US,11,0.6363636363636364,21
+Bearish Engulfing,Entity,SRCL.US,11,0.6363636363636364,58
+Bearish Engulfing,Entity,OMAB.US,11,0.6363636363636364,58
+Bearish Engulfing,Entity,RGI.US,11,0.6363636363636364,152
+Bearish Engulfing,Industry,Beverages - Non-Alcoholic,30,0.6333333333333333,77
+Bearish Engulfing,Industry,Electrical Equipment & Parts,29,0.6206896551724138,40
+Bearish Engulfing,Industry,Footwear & Accessories,13,0.6153846153846154,17
+Bearish Engulfing,Industry,Recreational Vehicles,13,0.6153846153846154,26
+Bearish Engulfing,Industry,Oil & Gas E&P,66,0.6060606060606061,40
+Bearish Engulfing,Industry,Internet Retail,15,0.6,14
+Bearish Engulfing,Industry,Oil & Gas Integrated,15,0.6,31
+Bearish Engulfing,Industry,Integrated Freight & Logistics,25,0.6,75
+Bearish Engulfing,Entity,LKFN.US,10,0.6,92
+Bearish Engulfing,Entity,COKE.US,10,0.6,113
+Bearish Engulfing,Entity,JPSE.US,10,0.6,113
+Bearish Engulfing,Industry,Aluminum,12,0.5833333333333334,23
+Bearish Engulfing,Entity,BWA.US,12,0.5833333333333334,84
+Bearish Engulfing,Entity,IVOG.US,12,0.5833333333333334,151
+Bearish Engulfing,Industry,Packaging & Containers,29,0.5517241379310345,69
+Bearish Engulfing,Entity,PSCT.US,11,0.5454545454545454,65
+Bearish Engulfing,Entity,CPK.US,11,0.5454545454545454,86
+Bearish Engulfing,Entity,VIS.US,11,0.5454545454545454,92
+Bearish Engulfing,Entity,EQWL.US,11,0.5454545454545454,111
+Bearish Engulfing,Entity,PRF.US,11,0.5454545454545454,190
+Bearish Engulfing,Industry,Farm & Heavy Construction Machinery,37,0.5405405405405406,30
+Bearish Engulfing,Entity,BF-B.US,13,0.5384615384615384,100
+Bearish Engulfing,Entity,RSPN.US,13,0.5384615384615384,156
+Bearish Engulfing,Entity,XSD.US,15,0.5333333333333333,44
+Bearish Engulfing,Entity,XLB.US,15,0.5333333333333333,80
+Bearish Engulfing,Entity,IJK.US,15,0.5333333333333333,114
+Bearish Engulfing,Industry,Credit Services,47,0.5319148936170213,60
+Bearish Engulfing,Industry,Entertainment,32,0.53125,55
+Bearish Engulfing,Entity,SOXX.US,19,0.5263157894736842,68
+Bearish Engulfing,Industry,Education & Training Services,21,0.5238095238095238,28
+Bearish Engulfing,Industry,Insurance - Life,21,0.5238095238095238,54
+Bearish Engulfing,Industry,Banks - Diversified,44,0.5227272727272727,71
+Bearish Engulfing,Industry,Asset Management,149,0.5167785234899329,142
+Bearish Engulfing,Industry,REIT - Residential,60,0.5166666666666667,93
+Bearish Engulfing,Industry,Electronic Components,45,0.5111111111111111,31
+Bearish Engulfing,Industry,Insurance - Property & Casualty,55,0.509090909090909,72
+Bearish Engulfing,Entity,MDC.US,10,0.5,15
+Bearish Engulfing,Entity,NWPX.US,10,0.5,18
+Bearish Engulfing,Entity,AZZ.US,10,0.5,19
+Bearish Engulfing,Entity,ASGN.US,10,0.5,24
+Bearish Engulfing,Entity,NSIT.US,12,0.5,33
+Bearish Engulfing,Industry,Electronics & Computer Distribution,14,0.5,36
+Bearish Engulfing,Industry,Discount Stores,22,0.5,39
+Bearish Engulfing,Industry,Packaged Foods,34,0.5,42
+Bearish Engulfing,Industry,Medical Distribution,20,0.5,59
+Bearish Engulfing,Entity,PTC.US,10,0.5,62
+Bearish Engulfing,Entity,SLV.US,10,0.5,65
+Bearish Engulfing,Entity,BIO.US,10,0.5,72
+Bearish Engulfing,Industry,REIT - Hotel & Motel,12,0.5,76
+Bearish Engulfing,Entity,EWW.US,12,0.5,83
+Bearish Engulfing,Entity,RSPU.US,12,0.5,88
+Bearish Engulfing,Entity,LNT.US,10,0.5,100
+Bearish Engulfing,Entity,ISCV.US,12,0.5,112
+Bearish Engulfing,Entity,ESS.US,10,0.5,114
+Bearish Engulfing,Entity,AVB.US,12,0.5,123
+Bearish Engulfing,Entity,ALE.US,16,0.5,126
+Bearish Engulfing,Entity,GPC.US,10,0.5,130
+Bearish Engulfing,Entity,IJJ.US,12,0.5,143
+Bearish Engulfing,Entity,SLYV.US,14,0.5,146
+Bearish Engulfing,Entity,PPH.US,14,0.5,150
+Bearish Engulfing,Entity,EPS.US,10,0.5,181
+Bearish Engulfing,Entity,FXO.US,10,0.5,223
+Bearish Engulfing,Entity,FTA.US,12,0.5,228
+Bearish Engulfing,Entity,MDYV.US,10,0.5,233
+Bearish Engulfing,Entity,DVY.US,10,0.5,319
+Bearish Engulfing,Industry,Apparel Retail,59,0.4915254237288136,25
+Bearish Engulfing,Industry,REIT - Office,55,0.4909090909090909,94
+Bearish Engulfing,Industry,Medical Devices,80,0.4875,42
+Bearish Engulfing,Sector,Consumer Defensive,229,0.4847161572052402,67
+Bearish Engulfing,Sector,Energy,189,0.48148148148148145,36
+Bearish Engulfing,Industry,Furnishings, Fixtures & Appliances,25,0.48,18
+Bearish Engulfing,Industry,Biotechnology,126,0.47619047619047616,13
+Bearish Engulfing,Industry,Software - Infrastructure,76,0.47368421052631576,39
+Bearish Engulfing,Industry,Semiconductors,36,0.4722222222222222,19
+Bearish Engulfing,Industry,Oil & Gas Equipment & Services,36,0.4722222222222222,33
+Bearish Engulfing,Industry,Agricultural Inputs,15,0.4666666666666667,53
+Bearish Engulfing,Entity,XLY.US,15,0.4666666666666667,102
+Bearish Engulfing,Entity,PKB.US,15,0.4666666666666667,115
+Bearish Engulfing,Entity,IXN.US,15,0.4666666666666667,123
+Bearish Engulfing,Entity,RFV.US,15,0.4666666666666667,139
+Bearish Engulfing,Entity,TECL.US,13,0.46153846153846156,27
+Bearish Engulfing,Industry,Healthcare Plans,26,0.46153846153846156,56
+Bearish Engulfing,Industry,Beverages - Brewers,13,0.46153846153846156,107
+Bearish Engulfing,Industry,Beverages - Wineries & Distilleries,24,0.4583333333333333,106
+Bearish Engulfing,Industry,Engineering & Construction,46,0.45652173913043476,30
+Bearish Engulfing,Industry,Medical Care Facilities,46,0.45652173913043476,43
+Bearish Engulfing,Entity,AX.US,11,0.45454545454545453,17
+Bearish Engulfing,Industry,Industrial Distribution,33,0.45454545454545453,41
+Bearish Engulfing,Entity,OKE.US,11,0.45454545454545453,50
+Bearish Engulfing,Entity,EFX.US,11,0.45454545454545453,67
+Bearish Engulfing,Entity,EWC.US,11,0.45454545454545453,76
+Bearish Engulfing,Entity,ROP.US,11,0.45454545454545453,84
+Bearish Engulfing,Industry,Utilities - Diversified,22,0.45454545454545453,107
+Bearish Engulfing,Entity,XRT.US,11,0.45454545454545453,107
+Bearish Engulfing,Entity,FRI.US,11,0.45454545454545453,112
+Bearish Engulfing,Entity,PGR.US,11,0.45454545454545453,119
+Bearish Engulfing,Entity,RZV.US,11,0.45454545454545453,123
+Bearish Engulfing,Entity,EWK.US,11,0.45454545454545453,125
+Bearish Engulfing,Entity,FNX.US,11,0.45454545454545453,150
+Bearish Engulfing,Industry,Metal Fabrication,20,0.45,33
+Bearish Engulfing,Industry,Utilities - Regulated Gas,20,0.45,98
+Bearish Engulfing,Sector,Financial Services,912,0.44846491228070173,79
+Bearish Engulfing,Sector,Consumer Cyclical,478,0.4476987447698745,43
+Bearish Engulfing,Sector,Healthcare,519,0.44508670520231214,38
+Bearish Engulfing,Entity,JKG.US,18,0.4444444444444444,117
+Bearish Engulfing,Entity,IMCB.US,18,0.4444444444444444,117
+Bearish Engulfing,Industry,Auto & Truck Dealerships,25,0.44,36
+Bearish Engulfing,Industry,Consulting Services,48,0.4375,68
+Bearish Engulfing,Industry,Utilities - Regulated Water,23,0.43478260869565216,50
+Bearish Engulfing,Industry,Banks - Regional,436,0.4334862385321101,67
+Bearish Engulfing,Industry,Specialty Chemicals,67,0.43283582089552236,60
+Bearish Engulfing,Industry,Auto Parts,44,0.4318181818181818,60
+Bearish Engulfing,Industry,Food Distribution,14,0.42857142857142855,8
+Bearish Engulfing,Industry,Airlines,14,0.42857142857142855,26
+Bearish Engulfing,Industry,Apparel Manufacturing,14,0.42857142857142855,28
+Bearish Engulfing,Industry,Information Technology Services,91,0.42857142857142855,32
+Bearish Engulfing,Entity,XPH.US,14,0.42857142857142855,50
+Bearish Engulfing,Industry,Insurance - Specialty,35,0.42857142857142855,50
+Bearish Engulfing,Sector,Basic Materials,154,0.42857142857142855,52
+Bearish Engulfing,Entity,PSR.US,14,0.42857142857142855,54
+Bearish Engulfing,Industry,Travel Services,14,0.42857142857142855,54
+Bearish Engulfing,Entity,ARE.US,14,0.42857142857142855,56
+Bearish Engulfing,Entity,BFS.US,14,0.42857142857142855,61
+Bearish Engulfing,Industry,Household & Personal Products,35,0.42857142857142855,68
+Bearish Engulfing,Entity,QQQ.US,14,0.42857142857142855,125
+Bearish Engulfing,Industry,Real Estate Services,33,0.42424242424242425,52
+Bearish Engulfing,Sector,Real Estate,350,0.4228571428571429,78
+Bearish Engulfing,Industry,Farm Products,19,0.42105263157894735,64
+Bearish Engulfing,Entity,UYG.US,12,0.4166666666666667,31
+Bearish Engulfing,Industry,Diagnostics & Research,60,0.4166666666666667,41
+Bearish Engulfing,Entity,VAW.US,12,0.4166666666666667,102
+Bearish Engulfing,Entity,ODC.US,12,0.4166666666666667,135
+Bearish Engulfing,Entity,PRFZ.US,12,0.4166666666666667,138
+Bearish Engulfing,Overall,All,15918,0.4155672823218997,105
+Bearish Engulfing,Industry,Drug Manufacturers - General,29,0.41379310344827586,77
+Bearish Engulfing,Industry,Railroads,17,0.4117647058823529,71
+Bearish Engulfing,Industry,Specialty Retail,51,0.4117647058823529,79
+Bearish Engulfing,Entity,SUSA.US,17,0.4117647058823529,130
+Bearish Engulfing,Entity,GAM.US,17,0.4117647058823529,267
+Bearish Engulfing,Sector,Industrials,656,0.4115853658536585,43
+Bearish Engulfing,Industry,Specialty Industrial Machinery,104,0.40384615384615385,46
+Bearish Engulfing,Industry,Residential Construction,20,0.4,10
+Bearish Engulfing,Industry,Trucking,10,0.4,16
+Bearish Engulfing,Entity,HEI.US,10,0.4,24
+Bearish Engulfing,Industry,Resorts & Casinos,20,0.4,25
+Bearish Engulfing,Entity,BPT.US,10,0.4,26
+Bearish Engulfing,Sector,Technology,495,0.4,29
+Bearish Engulfing,Industry,Waste Management,15,0.4,29
+Bearish Engulfing,Entity,STX.US,10,0.4,29
+Bearish Engulfing,Entity,TFX.US,10,0.4,30
+Bearish Engulfing,Entity,JJSF.US,10,0.4,39
+Bearish Engulfing,Entity,FR.US,10,0.4,46
+Bearish Engulfing,Entity,SASR.US,10,0.4,48
+Bearish Engulfing,Entity,LHX.US,10,0.4,49
+Bearish Engulfing,Entity,WMB.US,10,0.4,50
+Bearish Engulfing,Entity,BMO.US,10,0.4,57
+Bearish Engulfing,Entity,STC.US,10,0.4,57
+Bearish Engulfing,Entity,TROW.US,10,0.4,60
+Bearish Engulfing,Entity,FMX.US,10,0.4,66
+Bearish Engulfing,Entity,IXC.US,10,0.4,73
+Bearish Engulfing,Entity,XLK.US,20,0.4,78
+Bearish Engulfing,Entity,LMT.US,10,0.4,87
+Bearish Engulfing,Entity,IWO.US,15,0.4,88
+Bearish Engulfing,Entity,CNA.US,10,0.4,113
+Bearish Engulfing,Entity,PDP.US,10,0.4,118
+Bearish Engulfing,Entity,KXI.US,10,0.4,148
+Bearish Engulfing,Entity,VONV.US,10,0.4,167
+Bearish Engulfing,Entity,SPHQ.US,15,0.4,189
+Bearish Engulfing,Entity,IWD.US,10,0.4,194
+Bearish Engulfing,Entity,DTD.US,10,0.4,268
+Bearish Engulfing,Entity,QDEF.US,10,0.4,281
+Bearish Engulfing,Industry,Building Products & Equipment,28,0.39285714285714285,49
+Bearish Engulfing,Industry,REIT - Retail,56,0.39285714285714285,78
+Bearish Engulfing,Entity,IWS.US,18,0.3888888888888889,262
+Bearish Engulfing,Industry,Communication Equipment,31,0.3870967741935484,13
+Bearish Engulfing,Industry,REIT - Mortgage,31,0.3870967741935484,101
+Bearish Engulfing,Industry,Lodging,13,0.38461538461538464,37
+Bearish Engulfing,Entity,PYZ.US,13,0.38461538461538464,53
+Bearish Engulfing,Entity,JKK.US,13,0.38461538461538464,66
+Bearish Engulfing,Industry,Personal Services,13,0.38461538461538464,80
+Bearish Engulfing,Entity,BBH.US,13,0.38461538461538464,84
+Bearish Engulfing,Entity,IYC.US,13,0.38461538461538464,94
+Bearish Engulfing,Entity,DIA.US,13,0.38461538461538464,97
+Bearish Engulfing,Entity,VGT.US,13,0.38461538461538464,124
+Bearish Engulfing,Entity,VTI.US,13,0.38461538461538464,154
+Bearish Engulfing,Entity,XLV.US,13,0.38461538461538464,154
+Bearish Engulfing,Industry,Scientific & Technical Instruments,34,0.38235294117647056,32
+Bearish Engulfing,Sector,Utilities,178,0.38202247191011235,113
+Bearish Engulfing,Industry,Semiconductor Equipment & Materials,21,0.38095238095238093,15
+Bearish Engulfing,Sector,Communication Services,113,0.3805309734513274,44
+Bearish Engulfing,Industry,REIT - Industrial,37,0.3783783783783784,62
+Bearish Engulfing,Entity,QLD.US,16,0.375,34
+Bearish Engulfing,Entity,JKI.US,16,0.375,161
+Bearish Engulfing,Industry,Drug Manufacturers - Specialty & Generic,57,0.3684210526315789,23
+Bearish Engulfing,Industry,Security & Protection Services,19,0.3684210526315789,51
+Bearish Engulfing,Entity,AMG.US,11,0.36363636363636365,25
+Bearish Engulfing,Entity,CAR.US,11,0.36363636363636365,26
+Bearish Engulfing,Industry,Building Materials,11,0.36363636363636365,45
+Bearish Engulfing,Entity,PLD.US,11,0.36363636363636365,46
+Bearish Engulfing,Entity,STZ.US,11,0.36363636363636365,50
+Bearish Engulfing,Entity,LLY.US,11,0.36363636363636365,51
+Bearish Engulfing,Entity,WINA.US,11,0.36363636363636365,54
+Bearish Engulfing,Entity,SSP.US,11,0.36363636363636365,69
+Bearish Engulfing,Entity,FNY.US,11,0.36363636363636365,70
+Bearish Engulfing,Entity,IYR.US,11,0.36363636363636365,81
+Bearish Engulfing,Entity,IWN.US,11,0.36363636363636365,92
+Bearish Engulfing,Entity,PSCC.US,11,0.36363636363636365,132
+Bearish Engulfing,Entity,FIW.US,11,0.36363636363636365,173
+Bearish Engulfing,Entity,RPG.US,11,0.36363636363636365,282
+Bearish Engulfing,Industry,Aerospace & Defense,72,0.3611111111111111,44
+Bearish Engulfing,Industry,Gold,25,0.36,27
+Bearish Engulfing,Entity,IGM.US,25,0.36,113
+Bearish Engulfing,Entity,IWY.US,14,0.35714285714285715,100
+Bearish Engulfing,Entity,ACGL.US,14,0.35714285714285715,102
+Bearish Engulfing,Industry,Oil & Gas Midstream,31,0.3548387096774194,44
+Bearish Engulfing,Industry,Restaurants,51,0.35294117647058826,43
+Bearish Engulfing,Entity,IMCV.US,17,0.35294117647058826,161
+Bearish Engulfing,Industry,Specialty Business Services,37,0.35135135135135137,35
+Bearish Engulfing,Industry,Medical Instruments & Supplies,64,0.34375,44
+Bearish Engulfing,Industry,Utilities - Regulated Electric,100,0.34,99
+Bearish Engulfing,Entity,UPW.US,12,0.3333333333333333,16
+Bearish Engulfing,Entity,XMMO.US,12,0.3333333333333333,43
+Bearish Engulfing,Industry,Gambling,12,0.3333333333333333,46
+Bearish Engulfing,Entity,CACI.US,12,0.3333333333333333,52
+Bearish Engulfing,Entity,ISCG.US,12,0.3333333333333333,74
+Bearish Engulfing,Entity,AKR.US,15,0.3333333333333333,81
+Bearish Engulfing,Entity,IWP.US,15,0.3333333333333333,82
+Bearish Engulfing,Entity,RZG.US,12,0.3333333333333333,82
+Bearish Engulfing,Industry,Insurance - Reinsurance,12,0.3333333333333333,102
+Bearish Engulfing,Entity,SPGP.US,12,0.3333333333333333,117
+Bearish Engulfing,Entity,QQEW.US,15,0.3333333333333333,126
+Bearish Engulfing,Entity,IJH.US,12,0.3333333333333333,131
+Bearish Engulfing,Entity,SPYV.US,12,0.3333333333333333,163
+Bearish Engulfing,Entity,RWL.US,12,0.3333333333333333,180
+Bearish Engulfing,Entity,IYW.US,25,0.32,96
+Bearish Engulfing,Entity,MDY.US,22,0.3181818181818182,108
+Bearish Engulfing,Industry,Leisure,19,0.3157894736842105,41
+Bearish Engulfing,Industry,Insurance - Diversified,42,0.30952380952380953,73
+Bearish Engulfing,Entity,BCPC.US,13,0.3076923076923077,39
+Bearish Engulfing,Entity,IJT.US,13,0.3076923076923077,51
+Bearish Engulfing,Entity,ELS.US,13,0.3076923076923077,75
+Bearish Engulfing,Entity,IYG.US,13,0.3076923076923077,124
+Bearish Engulfing,Entity,PSCF.US,13,0.3076923076923077,161
+Bearish Engulfing,Entity,IVW.US,13,0.3076923076923077,162
+Bearish Engulfing,Entity,IXJ.US,13,0.3076923076923077,196
+Bearish Engulfing,Entity,IWR.US,13,0.3076923076923077,210
+Bearish Engulfing,Entity,ONEQ.US,23,0.30434782608695654,101
+Bearish Engulfing,Entity,RJF.US,10,0.3,19
+Bearish Engulfing,Entity,MDT.US,10,0.3,28
+Bearish Engulfing,Entity,EWD.US,10,0.3,28
+Bearish Engulfing,Entity,PTH.US,10,0.3,42
+Bearish Engulfing,Entity,VO.US,10,0.3,43
+Bearish Engulfing,Entity,DOV.US,10,0.3,44
+Bearish Engulfing,Industry,Consumer Electronics,10,0.3,54
+Bearish Engulfing,Entity,FYX.US,10,0.3,59
+Bearish Engulfing,Entity,VLO.US,10,0.3,60
+Bearish Engulfing,Entity,FBNC.US,10,0.3,61
+Bearish Engulfing,Entity,IYM.US,20,0.3,72
+Bearish Engulfing,Entity,SNPS.US,10,0.3,75
+Bearish Engulfing,Entity,LANC.US,10,0.3,84
+Bearish Engulfing,Entity,JKF.US,10,0.3,96
+Bearish Engulfing,Entity,ILCV.US,10,0.3,96
+Bearish Engulfing,Entity,FDL.US,10,0.3,107
+Bearish Engulfing,Entity,IVE.US,10,0.3,119
+Bearish Engulfing,Entity,VOT.US,10,0.3,121
+Bearish Engulfing,Entity,VHT.US,10,0.3,141
+Bearish Engulfing,Entity,XHS.US,10,0.3,144
+Bearish Engulfing,Entity,XAR.US,10,0.3,151
+Bearish Engulfing,Entity,RTM.US,10,0.3,173
+Bearish Engulfing,Entity,DTE.US,10,0.3,231
+Bearish Engulfing,Industry,Software - Application,124,0.29838709677419356,23
+Bearish Engulfing,Entity,FDN.US,17,0.29411764705882354,58
+Bearish Engulfing,Entity,PTF.US,17,0.29411764705882354,70
+Bearish Engulfing,Entity,RTH.US,14,0.2857142857142857,95
+Bearish Engulfing,Entity,IAK.US,14,0.2857142857142857,160
+Bearish Engulfing,Entity,IYF.US,14,0.2857142857142857,184
+Bearish Engulfing,Industry,Financial Data & Stock Exchanges,18,0.2777777777777778,53
+Bearish Engulfing,Industry,Telecom Services,36,0.2777777777777778,61
+Bearish Engulfing,Entity,WDFC.US,11,0.2727272727272727,19
+Bearish Engulfing,Entity,MNRO.US,11,0.2727272727272727,39
+Bearish Engulfing,Entity,UHT.US,11,0.2727272727272727,61
+Bearish Engulfing,Entity,VONG.US,11,0.2727272727272727,77
+Bearish Engulfing,Entity,BMI.US,11,0.2727272727272727,85
+Bearish Engulfing,Entity,IYE.US,11,0.2727272727272727,86
+Bearish Engulfing,Entity,RXI.US,11,0.2727272727272727,132
+Bearish Engulfing,Entity,IJS.US,11,0.2727272727272727,157
+Bearish Engulfing,Entity,IWB.US,11,0.2727272727272727,160
+Bearish Engulfing,Entity,QQQE.US,11,0.2727272727272727,231
+Bearish Engulfing,Entity,SSO.US,15,0.26666666666666666,38
+Bearish Engulfing,Entity,SMH.US,15,0.26666666666666666,57
+Bearish Engulfing,Entity,SPY.US,19,0.2631578947368421,131
+Bearish Engulfing,Industry,Rental & Leasing Services,36,0.25,21
+Bearish Engulfing,Entity,NJR.US,12,0.25,51
+Bearish Engulfing,Entity,HEI-A.US,12,0.25,57
+Bearish Engulfing,Entity,IJR.US,12,0.25,67
+Bearish Engulfing,Entity,PEJ.US,12,0.25,67
+Bearish Engulfing,Entity,STBA.US,12,0.25,109
+Bearish Engulfing,Entity,IHI.US,16,0.25,133
+Bearish Engulfing,Entity,VXF.US,12,0.25,191
+Bearish Engulfing,Industry,Oil & Gas Refining & Marketing,21,0.23809523809523808,26
+Bearish Engulfing,Industry,REIT - Healthcare Facilities,17,0.23529411764705882,95
+Bearish Engulfing,Entity,IWV.US,17,0.23529411764705882,156
+Bearish Engulfing,Entity,LII.US,13,0.23076923076923078,48
+Bearish Engulfing,Entity,GGME.US,13,0.23076923076923078,76
+Bearish Engulfing,Entity,KBWP.US,13,0.23076923076923078,86
+Bearish Engulfing,Entity,IMCG.US,13,0.23076923076923078,94
+Bearish Engulfing,Entity,XLI.US,13,0.23076923076923078,106
+Bearish Engulfing,Entity,VOX.US,13,0.23076923076923078,149
+Bearish Engulfing,Industry,Insurance Brokers,35,0.22857142857142856,82
+Bearish Engulfing,Entity,SPTM.US,22,0.22727272727272727,308
+Bearish Engulfing,Entity,IVV.US,18,0.2222222222222222,225
+Bearish Engulfing,Industry,REIT - Specialty,32,0.21875,35
+Bearish Engulfing,Entity,JKE.US,23,0.21739130434782608,106
+Bearish Engulfing,Entity,ILCG.US,23,0.21739130434782608,106
+Bearish Engulfing,Entity,IWC.US,14,0.21428571428571427,65
+Bearish Engulfing,Entity,NOW.US,10,0.2,20
+Bearish Engulfing,Entity,ORLY.US,10,0.2,24
+Bearish Engulfing,Entity,UPRO.US,15,0.2,31
+Bearish Engulfing,Entity,VRNT.US,10,0.2,32
+Bearish Engulfing,Entity,FXG.US,10,0.2,51
+Bearish Engulfing,Entity,XLP.US,10,0.2,60
+Bearish Engulfing,Entity,XNTK.US,15,0.2,82
+Bearish Engulfing,Entity,CZA.US,10,0.2,108
+Bearish Engulfing,Entity,IAT.US,10,0.2,114
+Bearish Engulfing,Entity,RWR.US,15,0.2,140
+Bearish Engulfing,Entity,ILCB.US,10,0.2,182
+Bearish Engulfing,Entity,JKD.US,10,0.2,182
+Bearish Engulfing,Entity,VTHR.US,10,0.2,183
+Bearish Engulfing,Industry,Utilities - Renewable,10,0.2,222
+Bearish Engulfing,Entity,PWV.US,10,0.2,250
+Bearish Engulfing,Industry,Staffing & Employment Services,27,0.18518518518518517,31
+Bearish Engulfing,Entity,BBSI.US,11,0.18181818181818182,8
+Bearish Engulfing,Industry,Advertising Agencies,11,0.18181818181818182,22
+Bearish Engulfing,Entity,VPU.US,11,0.18181818181818182,81
+Bearish Engulfing,Entity,VDC.US,11,0.18181818181818182,82
+Bearish Engulfing,Entity,MDYG.US,11,0.18181818181818182,188
+Bearish Engulfing,Entity,VOO.US,11,0.18181818181818182,208
+Bearish Engulfing,Entity,PUI.US,11,0.18181818181818182,226
+Bearish Engulfing,Entity,QQXT.US,11,0.18181818181818182,261
+Bearish Engulfing,Industry,Internet Content & Information,17,0.17647058823529413,9
+Bearish Engulfing,Entity,SPYG.US,12,0.16666666666666666,50
+Bearish Engulfing,Entity,VCR.US,12,0.16666666666666666,77
+Bearish Engulfing,Entity,VV.US,12,0.16666666666666666,110
+Bearish Engulfing,Entity,IWX.US,12,0.16666666666666666,415
+Bearish Engulfing,Entity,PNQI.US,13,0.15384615384615385,22
+Bearish Engulfing,Entity,GSBC.US,13,0.15384615384615385,34
+Bearish Engulfing,Entity,IUSG.US,13,0.15384615384615385,80
+Bearish Engulfing,Entity,PWB.US,13,0.15384615384615385,130
+Bearish Engulfing,Entity,MGK.US,13,0.15384615384615385,157
+Bearish Engulfing,Entity,ITOT.US,14,0.14285714285714285,214
+Bearish Engulfing,Entity,VOOG.US,15,0.13333333333333333,97
+Bearish Engulfing,Entity,IDU.US,16,0.125,89
+Bearish Engulfing,Entity,EGP.US,10,0.1,43
+Bearish Engulfing,Entity,VTWG.US,10,0.1,46
+Bearish Engulfing,Entity,UCC.US,10,0.1,85
+Bearish Engulfing,Entity,XLG.US,10,0.1,95
+Bearish Engulfing,Entity,QTEC.US,11,0.09090909090909091,32
+Bearish Engulfing,Entity,FXZ.US,11,0.09090909090909091,284
+Bearish Engulfing,Entity,IWM.US,11,0.09090909090909091,311
+Bearish Engulfing,Entity,RSPS.US,12,0.08333333333333333,21
+Bearish Engulfing,Entity,IWF.US,13,0.07692307692307693,49
+Bearish Engulfing,Entity,OEF.US,16,0.0625,192
+Bearish Engulfing,Entity,LRGE.US,10,0,0
+Bearish Engulfing,Entity,IYY.US,11,0,0

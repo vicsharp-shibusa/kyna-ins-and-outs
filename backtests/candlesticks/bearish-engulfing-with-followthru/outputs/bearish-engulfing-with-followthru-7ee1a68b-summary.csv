@@ -1,0 +1,79 @@
+Name,Category,Sub Category,Number Signals,Success %,Avg Duration
+Bearish Engulfing With FollowThru,Entity,FNY.US,10,0.7,359
+Bearish Engulfing With FollowThru,Entity,KNCT.US,12,0.6666666666666666,205
+Bearish Engulfing With FollowThru,Industry,Furnishings, Fixtures & Appliances,11,0.6363636363636364,149
+Bearish Engulfing With FollowThru,Industry,Biotechnology,50,0.6,56
+Bearish Engulfing With FollowThru,Industry,Internet Content & Information,10,0.6,122
+Bearish Engulfing With FollowThru,Sector,Communication Services,41,0.5609756097560976,132
+Bearish Engulfing With FollowThru,Industry,REIT - Office,10,0.5,481
+Bearish Engulfing With FollowThru,Industry,Medical Devices,21,0.47619047619047616,70
+Bearish Engulfing With FollowThru,Industry,Drug Manufacturers - Specialty & Generic,19,0.47368421052631576,36
+Bearish Engulfing With FollowThru,Industry,REIT - Residential,19,0.47368421052631576,287
+Bearish Engulfing With FollowThru,Industry,Electronic Components,15,0.4666666666666667,117
+Bearish Engulfing With FollowThru,Industry,Telecom Services,13,0.46153846153846156,123
+Bearish Engulfing With FollowThru,Sector,Healthcare,180,0.4388888888888889,76
+Bearish Engulfing With FollowThru,Industry,Semiconductors,14,0.42857142857142855,49
+Bearish Engulfing With FollowThru,Industry,Packaged Foods,14,0.42857142857142855,125
+Bearish Engulfing With FollowThru,Industry,Information Technology Services,21,0.42857142857142855,171
+Bearish Engulfing With FollowThru,Entity,FAD.US,12,0.4166666666666667,281
+Bearish Engulfing With FollowThru,Sector,Real Estate,96,0.4166666666666667,336
+Bearish Engulfing With FollowThru,Industry,Farm & Heavy Construction Machinery,17,0.4117647058823529,69
+Bearish Engulfing With FollowThru,Industry,Gold,10,0.4,106
+Bearish Engulfing With FollowThru,Industry,Insurance - Property & Casualty,10,0.4,151
+Bearish Engulfing With FollowThru,Sector,Basic Materials,70,0.4,162
+Bearish Engulfing With FollowThru,Industry,REIT - Specialty,10,0.4,188
+Bearish Engulfing With FollowThru,Entity,IMCG.US,10,0.4,193
+Bearish Engulfing With FollowThru,Entity,PYZ.US,10,0.4,244
+Bearish Engulfing With FollowThru,Industry,Credit Services,18,0.3888888888888889,192
+Bearish Engulfing With FollowThru,Overall,All,6283,0.37466178577112846,292
+Bearish Engulfing With FollowThru,Industry,Oil & Gas E&P,27,0.37037037037037035,140
+Bearish Engulfing With FollowThru,Entity,RSPN.US,11,0.36363636363636365,325
+Bearish Engulfing With FollowThru,Industry,Beverages - Non-Alcoholic,14,0.35714285714285715,207
+Bearish Engulfing With FollowThru,Sector,Consumer Cyclical,180,0.35,142
+Bearish Engulfing With FollowThru,Industry,Software - Infrastructure,20,0.35,163
+Bearish Engulfing With FollowThru,Sector,Technology,152,0.34868421052631576,116
+Bearish Engulfing With FollowThru,Sector,Consumer Defensive,87,0.3448275862068966,208
+Bearish Engulfing With FollowThru,Industry,Medical Instruments & Supplies,32,0.34375,98
+Bearish Engulfing With FollowThru,Industry,Specialty Industrial Machinery,53,0.33962264150943394,290
+Bearish Engulfing With FollowThru,Sector,Energy,71,0.3380281690140845,95
+Bearish Engulfing With FollowThru,Sector,Industrials,244,0.3360655737704918,155
+Bearish Engulfing With FollowThru,Industry,Medical Care Facilities,15,0.3333333333333333,99
+Bearish Engulfing With FollowThru,Industry,Engineering & Construction,21,0.3333333333333333,119
+Bearish Engulfing With FollowThru,Industry,Banks - Regional,207,0.3333333333333333,294
+Bearish Engulfing With FollowThru,Industry,Asset Management,45,0.3333333333333333,559
+Bearish Engulfing With FollowThru,Industry,Specialty Chemicals,37,0.32432432432432434,254
+Bearish Engulfing With FollowThru,Industry,Apparel Retail,25,0.32,145
+Bearish Engulfing With FollowThru,Industry,Utilities - Regulated Electric,25,0.32,399
+Bearish Engulfing With FollowThru,Industry,Diagnostics & Research,19,0.3157894736842105,174
+Bearish Engulfing With FollowThru,Sector,Financial Services,346,0.315028901734104,318
+Bearish Engulfing With FollowThru,Sector,Utilities,56,0.30357142857142855,340
+Bearish Engulfing With FollowThru,Industry,Apparel Manufacturing,10,0.3,43
+Bearish Engulfing With FollowThru,Industry,Consulting Services,10,0.3,89
+Bearish Engulfing With FollowThru,Entity,XSMO.US,10,0.3,157
+Bearish Engulfing With FollowThru,Entity,ONEQ.US,10,0.3,286
+Bearish Engulfing With FollowThru,Entity,IDU.US,10,0.3,342
+Bearish Engulfing With FollowThru,Industry,Banks - Diversified,10,0.3,548
+Bearish Engulfing With FollowThru,Industry,Software - Application,42,0.2857142857142857,90
+Bearish Engulfing With FollowThru,Industry,Restaurants,32,0.28125,99
+Bearish Engulfing With FollowThru,Industry,Aerospace & Defense,29,0.27586206896551724,140
+Bearish Engulfing With FollowThru,Industry,Communication Equipment,11,0.2727272727272727,58
+Bearish Engulfing With FollowThru,Industry,Education & Training Services,11,0.2727272727272727,131
+Bearish Engulfing With FollowThru,Industry,Auto Parts,11,0.2727272727272727,131
+Bearish Engulfing With FollowThru,Industry,Household & Personal Products,11,0.2727272727272727,133
+Bearish Engulfing With FollowThru,Entity,EQWL.US,11,0.2727272727272727,424
+Bearish Engulfing With FollowThru,Entity,SPTM.US,11,0.2727272727272727,675
+Bearish Engulfing With FollowThru,Industry,Industrial Distribution,12,0.25,144
+Bearish Engulfing With FollowThru,Industry,Utilities - Regulated Water,12,0.25,397
+Bearish Engulfing With FollowThru,Industry,REIT - Retail,18,0.2222222222222222,422
+Bearish Engulfing With FollowThru,Industry,Real Estate Services,14,0.21428571428571427,116
+Bearish Engulfing With FollowThru,Industry,Oil & Gas Refining & Marketing,15,0.2,62
+Bearish Engulfing With FollowThru,Entity,IJR.US,10,0.2,270
+Bearish Engulfing With FollowThru,Entity,FELE.US,10,0.2,496
+Bearish Engulfing With FollowThru,Industry,Beverages - Wineries & Distilleries,10,0.2,757
+Bearish Engulfing With FollowThru,Industry,Packaging & Containers,11,0.18181818181818182,172
+Bearish Engulfing With FollowThru,Industry,Insurance - Specialty,11,0.18181818181818182,316
+Bearish Engulfing With FollowThru,Entity,IHE.US,11,0.18181818181818182,914
+Bearish Engulfing With FollowThru,Industry,Insurance - Diversified,12,0.16666666666666666,268
+Bearish Engulfing With FollowThru,Industry,Scientific & Technical Instruments,13,0.15384615384615385,254
+Bearish Engulfing With FollowThru,Industry,Insurance Brokers,15,0.13333333333333333,384
+Bearish Engulfing With FollowThru,Industry,Specialty Business Services,11,0,0

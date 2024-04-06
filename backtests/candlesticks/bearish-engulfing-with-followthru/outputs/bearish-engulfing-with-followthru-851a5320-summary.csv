@@ -1,0 +1,710 @@
+Name,Category,Sub Category,Number Signals,Success %,Avg Duration
+Bearish Engulfing With FollowThru,Entity,SRET.US,13,0.8461538461538461,311
+Bearish Engulfing With FollowThru,Entity,CMCSA.US,11,0.8181818181818182,62
+Bearish Engulfing With FollowThru,Entity,RGR.US,10,0.8,26
+Bearish Engulfing With FollowThru,Entity,GL.US,10,0.8,78
+Bearish Engulfing With FollowThru,Entity,DES.US,10,0.8,263
+Bearish Engulfing With FollowThru,Entity,ETR.US,13,0.7692307692307693,57
+Bearish Engulfing With FollowThru,Entity,VAW.US,13,0.7692307692307693,164
+Bearish Engulfing With FollowThru,Entity,IWO.US,15,0.7333333333333333,104
+Bearish Engulfing With FollowThru,Entity,TISI.US,11,0.7272727272727273,28
+Bearish Engulfing With FollowThru,Entity,PJP.US,11,0.7272727272727273,50
+Bearish Engulfing With FollowThru,Entity,ALX.US,11,0.7272727272727273,58
+Bearish Engulfing With FollowThru,Entity,BG.US,11,0.7272727272727273,93
+Bearish Engulfing With FollowThru,Entity,TAP.US,11,0.7272727272727273,97
+Bearish Engulfing With FollowThru,Entity,LKFN.US,11,0.7272727272727273,98
+Bearish Engulfing With FollowThru,Entity,RGI.US,11,0.7272727272727273,182
+Bearish Engulfing With FollowThru,Entity,KMB.US,11,0.7272727272727273,238
+Bearish Engulfing With FollowThru,Entity,NSIT.US,10,0.7,24
+Bearish Engulfing With FollowThru,Entity,CLB.US,10,0.7,24
+Bearish Engulfing With FollowThru,Entity,DECK.US,10,0.7,31
+Bearish Engulfing With FollowThru,Entity,HOG.US,10,0.7,38
+Bearish Engulfing With FollowThru,Entity,CHRW.US,10,0.7,60
+Bearish Engulfing With FollowThru,Entity,TNC.US,10,0.7,62
+Bearish Engulfing With FollowThru,Entity,DD.US,10,0.7,72
+Bearish Engulfing With FollowThru,Entity,SCHL.US,10,0.7,77
+Bearish Engulfing With FollowThru,Entity,RWO.US,10,0.7,135
+Bearish Engulfing With FollowThru,Entity,PFM.US,10,0.7,221
+Bearish Engulfing With FollowThru,Sector,Financials,10,0.7,355
+Bearish Engulfing With FollowThru,Entity,BFS.US,13,0.6923076923076923,35
+Bearish Engulfing With FollowThru,Entity,VTR.US,13,0.6923076923076923,37
+Bearish Engulfing With FollowThru,Entity,MGRC.US,13,0.6923076923076923,51
+Bearish Engulfing With FollowThru,Entity,ODC.US,13,0.6923076923076923,67
+Bearish Engulfing With FollowThru,Entity,SYY.US,13,0.6923076923076923,87
+Bearish Engulfing With FollowThru,Entity,AEM.US,15,0.6666666666666666,21
+Bearish Engulfing With FollowThru,Entity,SMP.US,12,0.6666666666666666,22
+Bearish Engulfing With FollowThru,Entity,GPS.US,12,0.6666666666666666,36
+Bearish Engulfing With FollowThru,Entity,ARW.US,12,0.6666666666666666,46
+Bearish Engulfing With FollowThru,Entity,PXE.US,12,0.6666666666666666,48
+Bearish Engulfing With FollowThru,Entity,PFG.US,12,0.6666666666666666,54
+Bearish Engulfing With FollowThru,Entity,SXI.US,12,0.6666666666666666,56
+Bearish Engulfing With FollowThru,Entity,CCEP.US,12,0.6666666666666666,65
+Bearish Engulfing With FollowThru,Entity,VLY.US,12,0.6666666666666666,146
+Bearish Engulfing With FollowThru,Industry,REIT - Hotel & Motel,17,0.6470588235294118,44
+Bearish Engulfing With FollowThru,Entity,PSCH.US,14,0.6428571428571429,103
+Bearish Engulfing With FollowThru,Entity,CACC.US,11,0.6363636363636364,22
+Bearish Engulfing With FollowThru,Entity,GBX.US,11,0.6363636363636364,23
+Bearish Engulfing With FollowThru,Entity,PLXS.US,11,0.6363636363636364,27
+Bearish Engulfing With FollowThru,Entity,LEN-B.US,11,0.6363636363636364,34
+Bearish Engulfing With FollowThru,Entity,NTGR.US,11,0.6363636363636364,47
+Bearish Engulfing With FollowThru,Entity,CCBG.US,11,0.6363636363636364,49
+Bearish Engulfing With FollowThru,Entity,BP.US,11,0.6363636363636364,51
+Bearish Engulfing With FollowThru,Entity,PYZ.US,11,0.6363636363636364,75
+Bearish Engulfing With FollowThru,Entity,CBU.US,11,0.6363636363636364,75
+Bearish Engulfing With FollowThru,Entity,FXR.US,11,0.6363636363636364,93
+Bearish Engulfing With FollowThru,Entity,REZ.US,11,0.6363636363636364,94
+Bearish Engulfing With FollowThru,Entity,XLB.US,11,0.6363636363636364,95
+Bearish Engulfing With FollowThru,Entity,IUSG.US,11,0.6363636363636364,95
+Bearish Engulfing With FollowThru,Entity,CPT.US,11,0.6363636363636364,97
+Bearish Engulfing With FollowThru,Entity,KRC.US,11,0.6363636363636364,144
+Bearish Engulfing With FollowThru,Entity,FVC.US,11,0.6363636363636364,158
+Bearish Engulfing With FollowThru,Entity,DEUS.US,11,0.6363636363636364,165
+Bearish Engulfing With FollowThru,Industry,Electronic Gaming & Multimedia,16,0.625,17
+Bearish Engulfing With FollowThru,Entity,CNX.US,13,0.6153846153846154,14
+Bearish Engulfing With FollowThru,Entity,RDIV.US,13,0.6153846153846154,225
+Bearish Engulfing With FollowThru,Industry,Farm Products,44,0.6136363636363636,42
+Bearish Engulfing With FollowThru,Industry,Food Distribution,18,0.6111111111111112,34
+Bearish Engulfing With FollowThru,Entity,ZEUS.US,10,0.6,9
+Bearish Engulfing With FollowThru,Entity,PLCE.US,10,0.6,10
+Bearish Engulfing With FollowThru,Entity,DINO.US,10,0.6,22
+Bearish Engulfing With FollowThru,Entity,LNC.US,10,0.6,31
+Bearish Engulfing With FollowThru,Entity,MLKN.US,10,0.6,34
+Bearish Engulfing With FollowThru,Entity,ADBE.US,15,0.6,43
+Bearish Engulfing With FollowThru,Entity,CCI.US,10,0.6,46
+Bearish Engulfing With FollowThru,Entity,SCHH.US,10,0.6,53
+Bearish Engulfing With FollowThru,Entity,ATRI.US,10,0.6,65
+Bearish Engulfing With FollowThru,Industry,Mortgage Finance,10,0.6,74
+Bearish Engulfing With FollowThru,Entity,RBCAA.US,10,0.6,75
+Bearish Engulfing With FollowThru,Entity,FNY.US,15,0.6,118
+Bearish Engulfing With FollowThru,Industry,Insurance - Life,34,0.5882352941176471,72
+Bearish Engulfing With FollowThru,Entity,OLED.US,12,0.5833333333333334,10
+Bearish Engulfing With FollowThru,Industry,Marine Shipping,12,0.5833333333333334,20
+Bearish Engulfing With FollowThru,Entity,UAA.US,12,0.5833333333333334,28
+Bearish Engulfing With FollowThru,Entity,PAC.US,12,0.5833333333333334,48
+Bearish Engulfing With FollowThru,Entity,EME.US,12,0.5833333333333334,63
+Bearish Engulfing With FollowThru,Entity,WTRG.US,12,0.5833333333333334,75
+Bearish Engulfing With FollowThru,Entity,PBJ.US,12,0.5833333333333334,156
+Bearish Engulfing With FollowThru,Industry,Recreational Vehicles,21,0.5714285714285714,27
+Bearish Engulfing With FollowThru,Entity,VGT.US,14,0.5714285714285714,95
+Bearish Engulfing With FollowThru,Entity,IVOG.US,14,0.5714285714285714,157
+Bearish Engulfing With FollowThru,Entity,RFV.US,14,0.5714285714285714,187
+Bearish Engulfing With FollowThru,Industry,Capital Markets,30,0.5666666666666667,49
+Bearish Engulfing With FollowThru,Industry,Metal Fabrication,32,0.5625,28
+Bearish Engulfing With FollowThru,Entity,ASA.US,16,0.5625,35
+Bearish Engulfing With FollowThru,Entity,BMI.US,16,0.5625,37
+Bearish Engulfing With FollowThru,Industry,Waste Management,16,0.5625,49
+Bearish Engulfing With FollowThru,Entity,EWC.US,16,0.5625,90
+Bearish Engulfing With FollowThru,Industry,Footwear & Accessories,18,0.5555555555555556,24
+Bearish Engulfing With FollowThru,Entity,JWN.US,11,0.5454545454545454,18
+Bearish Engulfing With FollowThru,Entity,RRC.US,11,0.5454545454545454,20
+Bearish Engulfing With FollowThru,Entity,LFUS.US,11,0.5454545454545454,21
+Bearish Engulfing With FollowThru,Entity,MTW.US,11,0.5454545454545454,21
+Bearish Engulfing With FollowThru,Industry,Rental & Leasing Services,33,0.5454545454545454,30
+Bearish Engulfing With FollowThru,Entity,BCPC.US,11,0.5454545454545454,33
+Bearish Engulfing With FollowThru,Entity,PHO.US,11,0.5454545454545454,36
+Bearish Engulfing With FollowThru,Entity,ALB.US,11,0.5454545454545454,43
+Bearish Engulfing With FollowThru,Entity,VLO.US,11,0.5454545454545454,44
+Bearish Engulfing With FollowThru,Entity,LKQ.US,11,0.5454545454545454,44
+Bearish Engulfing With FollowThru,Entity,STRA.US,11,0.5454545454545454,45
+Bearish Engulfing With FollowThru,Entity,UNH.US,11,0.5454545454545454,56
+Bearish Engulfing With FollowThru,Industry,Paper & Paper Products,11,0.5454545454545454,60
+Bearish Engulfing With FollowThru,Entity,OZK.US,11,0.5454545454545454,62
+Bearish Engulfing With FollowThru,Entity,CADE.US,11,0.5454545454545454,66
+Bearish Engulfing With FollowThru,Entity,SYK.US,11,0.5454545454545454,88
+Bearish Engulfing With FollowThru,Entity,OTTR.US,11,0.5454545454545454,92
+Bearish Engulfing With FollowThru,Industry,Health Information Services,11,0.5454545454545454,108
+Bearish Engulfing With FollowThru,Entity,SDOG.US,11,0.5454545454545454,161
+Bearish Engulfing With FollowThru,Industry,Electronic Components,46,0.5434782608695652,37
+Bearish Engulfing With FollowThru,Industry,Auto Parts,59,0.5423728813559322,57
+Bearish Engulfing With FollowThru,Industry,Advertising Agencies,13,0.5384615384615384,36
+Bearish Engulfing With FollowThru,Entity,LOW.US,13,0.5384615384615384,40
+Bearish Engulfing With FollowThru,Entity,STN.US,13,0.5384615384615384,42
+Bearish Engulfing With FollowThru,Entity,AFL.US,13,0.5384615384615384,79
+Bearish Engulfing With FollowThru,Entity,PSCT.US,13,0.5384615384615384,83
+Bearish Engulfing With FollowThru,Entity,SXT.US,13,0.5384615384615384,117
+Bearish Engulfing With FollowThru,Entity,IYM.US,13,0.5384615384615384,150
+Bearish Engulfing With FollowThru,Industry,Drug Manufacturers - Specialty & Generic,60,0.5333333333333333,16
+Bearish Engulfing With FollowThru,Entity,TECH.US,15,0.5333333333333333,51
+Bearish Engulfing With FollowThru,Entity,PKB.US,15,0.5333333333333333,78
+Bearish Engulfing With FollowThru,Entity,NFG.US,15,0.5333333333333333,82
+Bearish Engulfing With FollowThru,Industry,REIT - Mortgage,34,0.5294117647058824,162
+Bearish Engulfing With FollowThru,Industry,Auto & Truck Dealerships,41,0.5121951219512195,28
+Bearish Engulfing With FollowThru,Industry,Banks - Diversified,47,0.5106382978723404,85
+Bearish Engulfing With FollowThru,Industry,Biotechnology,153,0.5098039215686274,13
+Bearish Engulfing With FollowThru,Entity,USPH.US,10,0.5,14
+Bearish Engulfing With FollowThru,Entity,MED.US,10,0.5,15
+Bearish Engulfing With FollowThru,Entity,UWM.US,10,0.5,15
+Bearish Engulfing With FollowThru,Entity,ATI.US,10,0.5,18
+Bearish Engulfing With FollowThru,Industry,Oil & Gas Drilling,16,0.5,19
+Bearish Engulfing With FollowThru,Entity,FL.US,10,0.5,20
+Bearish Engulfing With FollowThru,Entity,AKAM.US,10,0.5,20
+Bearish Engulfing With FollowThru,Entity,HP.US,14,0.5,20
+Bearish Engulfing With FollowThru,Entity,NWPX.US,12,0.5,21
+Bearish Engulfing With FollowThru,Entity,STLD.US,10,0.5,21
+Bearish Engulfing With FollowThru,Entity,RICK.US,10,0.5,22
+Bearish Engulfing With FollowThru,Entity,TOL.US,12,0.5,23
+Bearish Engulfing With FollowThru,Entity,FCN.US,10,0.5,24
+Bearish Engulfing With FollowThru,Entity,PETS.US,10,0.5,25
+Bearish Engulfing With FollowThru,Entity,CAH.US,10,0.5,25
+Bearish Engulfing With FollowThru,Entity,FMX.US,10,0.5,26
+Bearish Engulfing With FollowThru,Industry,Airlines,30,0.5,26
+Bearish Engulfing With FollowThru,Industry,Electrical Equipment & Parts,38,0.5,27
+Bearish Engulfing With FollowThru,Entity,PHM.US,14,0.5,30
+Bearish Engulfing With FollowThru,Entity,SCSC.US,10,0.5,30
+Bearish Engulfing With FollowThru,Entity,POOL.US,16,0.5,31
+Bearish Engulfing With FollowThru,Industry,Gambling,18,0.5,32
+Bearish Engulfing With FollowThru,Entity,EAT.US,12,0.5,32
+Bearish Engulfing With FollowThru,Entity,LTC.US,12,0.5,32
+Bearish Engulfing With FollowThru,Entity,BEN.US,12,0.5,32
+Bearish Engulfing With FollowThru,Industry,Furnishings, Fixtures & Appliances,28,0.5,33
+Bearish Engulfing With FollowThru,Entity,HIBB.US,12,0.5,34
+Bearish Engulfing With FollowThru,Entity,MDT.US,12,0.5,36
+Bearish Engulfing With FollowThru,Entity,MSI.US,10,0.5,37
+Bearish Engulfing With FollowThru,Industry,Other Industrial Metals & Mining,10,0.5,41
+Bearish Engulfing With FollowThru,Entity,DRI.US,12,0.5,44
+Bearish Engulfing With FollowThru,Entity,PRFZ.US,10,0.5,47
+Bearish Engulfing With FollowThru,Industry,Utilities - Renewable,14,0.5,47
+Bearish Engulfing With FollowThru,Entity,ARGT.US,10,0.5,53
+Bearish Engulfing With FollowThru,Entity,CACI.US,12,0.5,54
+Bearish Engulfing With FollowThru,Entity,STBA.US,12,0.5,57
+Bearish Engulfing With FollowThru,Industry,Credit Services,76,0.5,58
+Bearish Engulfing With FollowThru,Entity,WSO.US,14,0.5,58
+Bearish Engulfing With FollowThru,Entity,IT.US,10,0.5,59
+Bearish Engulfing With FollowThru,Entity,J.US,10,0.5,59
+Bearish Engulfing With FollowThru,Entity,WBA.US,10,0.5,61
+Bearish Engulfing With FollowThru,Entity,KLAC.US,10,0.5,67
+Bearish Engulfing With FollowThru,Entity,AVB.US,12,0.5,67
+Bearish Engulfing With FollowThru,Entity,GTY.US,10,0.5,68
+Bearish Engulfing With FollowThru,Entity,BBH.US,18,0.5,74
+Bearish Engulfing With FollowThru,Entity,MA.US,10,0.5,74
+Bearish Engulfing With FollowThru,Entity,RZV.US,10,0.5,75
+Bearish Engulfing With FollowThru,Entity,XBI.US,12,0.5,76
+Bearish Engulfing With FollowThru,Entity,APD.US,14,0.5,78
+Bearish Engulfing With FollowThru,Entity,VDE.US,12,0.5,79
+Bearish Engulfing With FollowThru,Entity,FCFS.US,12,0.5,83
+Bearish Engulfing With FollowThru,Entity,HQL.US,10,0.5,86
+Bearish Engulfing With FollowThru,Entity,XNTK.US,20,0.5,86
+Bearish Engulfing With FollowThru,Industry,Telecom Services,62,0.5,88
+Bearish Engulfing With FollowThru,Entity,EGP.US,10,0.5,89
+Bearish Engulfing With FollowThru,Entity,USB.US,10,0.5,111
+Bearish Engulfing With FollowThru,Entity,PPH.US,16,0.5,113
+Bearish Engulfing With FollowThru,Entity,FIW.US,16,0.5,126
+Bearish Engulfing With FollowThru,Entity,XTL.US,10,0.5,126
+Bearish Engulfing With FollowThru,Entity,SPGP.US,10,0.5,150
+Bearish Engulfing With FollowThru,Entity,ISCV.US,16,0.5,151
+Bearish Engulfing With FollowThru,Entity,MDY.US,16,0.5,178
+Bearish Engulfing With FollowThru,Entity,VOX.US,10,0.5,213
+Bearish Engulfing With FollowThru,Entity,FVD.US,10,0.5,234
+Bearish Engulfing With FollowThru,Entity,ONEV.US,12,0.5,272
+Bearish Engulfing With FollowThru,Industry,Engineering & Construction,90,0.4888888888888889,37
+Bearish Engulfing With FollowThru,Industry,Oil & Gas Midstream,45,0.4888888888888889,39
+Bearish Engulfing With FollowThru,Industry,Oil & Gas Equipment & Services,54,0.48148148148148145,23
+Bearish Engulfing With FollowThru,Industry,Specialty Chemicals,119,0.4789915966386555,58
+Bearish Engulfing With FollowThru,Industry,Electronics & Computer Distribution,23,0.4782608695652174,37
+Bearish Engulfing With FollowThru,Industry,REIT - Specialty,46,0.4782608695652174,61
+Bearish Engulfing With FollowThru,Industry,Oil & Gas Integrated,40,0.475,64
+Bearish Engulfing With FollowThru,Industry,REIT - Healthcare Facilities,17,0.47058823529411764,44
+Bearish Engulfing With FollowThru,Industry,Personal Services,17,0.47058823529411764,55
+Bearish Engulfing With FollowThru,Entity,XTN.US,17,0.47058823529411764,64
+Bearish Engulfing With FollowThru,Industry,Scientific & Technical Instruments,49,0.46938775510204084,30
+Bearish Engulfing With FollowThru,Industry,Semiconductors,62,0.46774193548387094,26
+Bearish Engulfing With FollowThru,Entity,DY.US,15,0.4666666666666667,18
+Bearish Engulfing With FollowThru,Entity,MU.US,15,0.4666666666666667,21
+Bearish Engulfing With FollowThru,Entity,HEI.US,15,0.4666666666666667,34
+Bearish Engulfing With FollowThru,Industry,Education & Training Services,30,0.4666666666666667,36
+Bearish Engulfing With FollowThru,Industry,Consulting Services,60,0.4666666666666667,53
+Bearish Engulfing With FollowThru,Entity,CWT.US,15,0.4666666666666667,58
+Bearish Engulfing With FollowThru,Entity,NHI.US,15,0.4666666666666667,78
+Bearish Engulfing With FollowThru,Entity,PWB.US,15,0.4666666666666667,84
+Bearish Engulfing With FollowThru,Entity,QQEW.US,15,0.4666666666666667,146
+Bearish Engulfing With FollowThru,Entity,BIB.US,13,0.46153846153846156,23
+Bearish Engulfing With FollowThru,Entity,IEX.US,13,0.46153846153846156,35
+Bearish Engulfing With FollowThru,Entity,MOS.US,13,0.46153846153846156,41
+Bearish Engulfing With FollowThru,Entity,SBIO.US,13,0.46153846153846156,54
+Bearish Engulfing With FollowThru,Entity,OCFC.US,13,0.46153846153846156,78
+Bearish Engulfing With FollowThru,Entity,VCR.US,13,0.46153846153846156,111
+Bearish Engulfing With FollowThru,Entity,PSL.US,13,0.46153846153846156,125
+Bearish Engulfing With FollowThru,Entity,MSEX.US,13,0.46153846153846156,129
+Bearish Engulfing With FollowThru,Industry,REIT - Diversified,13,0.46153846153846156,139
+Bearish Engulfing With FollowThru,Entity,ISCB.US,13,0.46153846153846156,160
+Bearish Engulfing With FollowThru,Entity,JKJ.US,13,0.46153846153846156,160
+Bearish Engulfing With FollowThru,Entity,PSCI.US,13,0.46153846153846156,178
+Bearish Engulfing With FollowThru,Industry,Oil & Gas Refining & Marketing,35,0.45714285714285713,43
+Bearish Engulfing With FollowThru,Sector,Communication Services,184,0.45652173913043476,63
+Bearish Engulfing With FollowThru,Entity,SAH.US,11,0.45454545454545453,10
+Bearish Engulfing With FollowThru,Entity,IONS.US,11,0.45454545454545453,12
+Bearish Engulfing With FollowThru,Entity,LPX.US,11,0.45454545454545453,15
+Bearish Engulfing With FollowThru,Industry,Resorts & Casinos,22,0.45454545454545453,21
+Bearish Engulfing With FollowThru,Entity,RS.US,11,0.45454545454545453,28
+Bearish Engulfing With FollowThru,Entity,KSS.US,11,0.45454545454545453,30
+Bearish Engulfing With FollowThru,Entity,COO.US,11,0.45454545454545453,32
+Bearish Engulfing With FollowThru,Entity,BHE.US,11,0.45454545454545453,35
+Bearish Engulfing With FollowThru,Entity,PBR-A.US,11,0.45454545454545453,35
+Bearish Engulfing With FollowThru,Entity,RNR.US,11,0.45454545454545453,39
+Bearish Engulfing With FollowThru,Entity,MSA.US,11,0.45454545454545453,39
+Bearish Engulfing With FollowThru,Entity,UNF.US,11,0.45454545454545453,40
+Bearish Engulfing With FollowThru,Entity,DIN.US,11,0.45454545454545453,41
+Bearish Engulfing With FollowThru,Entity,PXI.US,11,0.45454545454545453,41
+Bearish Engulfing With FollowThru,Entity,TBI.US,11,0.45454545454545453,47
+Bearish Engulfing With FollowThru,Entity,WMB.US,11,0.45454545454545453,48
+Bearish Engulfing With FollowThru,Entity,SEIC.US,11,0.45454545454545453,49
+Bearish Engulfing With FollowThru,Entity,TXN.US,11,0.45454545454545453,60
+Bearish Engulfing With FollowThru,Entity,ROP.US,11,0.45454545454545453,60
+Bearish Engulfing With FollowThru,Entity,CHE.US,11,0.45454545454545453,66
+Bearish Engulfing With FollowThru,Entity,TJX.US,11,0.45454545454545453,71
+Bearish Engulfing With FollowThru,Entity,SPGI.US,11,0.45454545454545453,71
+Bearish Engulfing With FollowThru,Entity,PB.US,11,0.45454545454545453,74
+Bearish Engulfing With FollowThru,Entity,PAYX.US,11,0.45454545454545453,75
+Bearish Engulfing With FollowThru,Entity,FXN.US,11,0.45454545454545453,75
+Bearish Engulfing With FollowThru,Entity,UHT.US,11,0.45454545454545453,84
+Bearish Engulfing With FollowThru,Entity,BWA.US,11,0.45454545454545453,94
+Bearish Engulfing With FollowThru,Entity,XLK.US,11,0.45454545454545453,100
+Bearish Engulfing With FollowThru,Entity,HIG.US,11,0.45454545454545453,105
+Bearish Engulfing With FollowThru,Entity,HON.US,11,0.45454545454545453,130
+Bearish Engulfing With FollowThru,Entity,IYK.US,11,0.45454545454545453,133
+Bearish Engulfing With FollowThru,Entity,IYG.US,11,0.45454545454545453,165
+Bearish Engulfing With FollowThru,Entity,DGRS.US,11,0.45454545454545453,198
+Bearish Engulfing With FollowThru,Entity,AOA.US,11,0.45454545454545453,228
+Bearish Engulfing With FollowThru,Industry,Healthcare Plans,42,0.4523809523809524,46
+Bearish Engulfing With FollowThru,Sector,Energy,325,0.4523076923076923,39
+Bearish Engulfing With FollowThru,Entity,LHX.US,20,0.45,66
+Bearish Engulfing With FollowThru,Industry,REIT - Retail,72,0.4444444444444444,50
+Bearish Engulfing With FollowThru,Entity,PLD.US,18,0.4444444444444444,62
+Bearish Engulfing With FollowThru,Entity,IJK.US,18,0.4444444444444444,82
+Bearish Engulfing With FollowThru,Entity,FTC.US,18,0.4444444444444444,114
+Bearish Engulfing With FollowThru,Sector,Real Estate,442,0.4434389140271493,75
+Bearish Engulfing With FollowThru,Industry,Packaging & Containers,43,0.4418604651162791,76
+Bearish Engulfing With FollowThru,Industry,Restaurants,107,0.4392523364485981,35
+Bearish Engulfing With FollowThru,Industry,Software - Infrastructure,105,0.4380952380952381,35
+Bearish Engulfing With FollowThru,Industry,Beverages - Brewers,16,0.4375,35
+Bearish Engulfing With FollowThru,Entity,SPYG.US,16,0.4375,92
+Bearish Engulfing With FollowThru,Entity,RFG.US,16,0.4375,95
+Bearish Engulfing With FollowThru,Entity,IVOO.US,16,0.4375,200
+Bearish Engulfing With FollowThru,Sector,Healthcare,665,0.43609022556390975,34
+Bearish Engulfing With FollowThru,Industry,Oil & Gas E&P,115,0.43478260869565216,41
+Bearish Engulfing With FollowThru,Industry,Railroads,30,0.43333333333333335,28
+Bearish Engulfing With FollowThru,Entity,SKX.US,14,0.42857142857142855,28
+Bearish Engulfing With FollowThru,Entity,SBUX.US,14,0.42857142857142855,31
+Bearish Engulfing With FollowThru,Entity,ESE.US,14,0.42857142857142855,32
+Bearish Engulfing With FollowThru,Entity,LNN.US,14,0.42857142857142855,45
+Bearish Engulfing With FollowThru,Entity,AWR.US,14,0.42857142857142855,47
+Bearish Engulfing With FollowThru,Entity,PTF.US,14,0.42857142857142855,51
+Bearish Engulfing With FollowThru,Entity,AOS.US,14,0.42857142857142855,64
+Bearish Engulfing With FollowThru,Entity,QTEC.US,14,0.42857142857142855,82
+Bearish Engulfing With FollowThru,Sector,Financial Services,1223,0.428454619787408,78
+Bearish Engulfing With FollowThru,Industry,Banks - Regional,538,0.4256505576208178,79
+Bearish Engulfing With FollowThru,Industry,Beverages - Non-Alcoholic,33,0.42424242424242425,86
+Bearish Engulfing With FollowThru,Sector,Basic Materials,255,0.4235294117647059,49
+Bearish Engulfing With FollowThru,Industry,REIT - Industrial,45,0.4222222222222222,58
+Bearish Engulfing With FollowThru,Industry,Apparel Retail,109,0.42201834862385323,32
+Bearish Engulfing With FollowThru,Industry,Medical Devices,95,0.42105263157894735,47
+Bearish Engulfing With FollowThru,Industry,Agricultural Inputs,19,0.42105263157894735,48
+Bearish Engulfing With FollowThru,Industry,Entertainment,57,0.42105263157894735,69
+Bearish Engulfing With FollowThru,Industry,Software - Application,145,0.4206896551724138,24
+Bearish Engulfing With FollowThru,Overall,All,20029,0.42044036147586,91
+Bearish Engulfing With FollowThru,Industry,Farm & Heavy Construction Machinery,50,0.42,35
+Bearish Engulfing With FollowThru,Industry,REIT - Residential,79,0.4177215189873418,87
+Bearish Engulfing With FollowThru,Entity,LRCX.US,12,0.4166666666666667,19
+Bearish Engulfing With FollowThru,Entity,CP.US,12,0.4166666666666667,33
+Bearish Engulfing With FollowThru,Entity,NSC.US,12,0.4166666666666667,37
+Bearish Engulfing With FollowThru,Entity,COST.US,12,0.4166666666666667,38
+Bearish Engulfing With FollowThru,Entity,JOE.US,12,0.4166666666666667,38
+Bearish Engulfing With FollowThru,Entity,OSK.US,12,0.4166666666666667,38
+Bearish Engulfing With FollowThru,Industry,Building Products & Equipment,36,0.4166666666666667,44
+Bearish Engulfing With FollowThru,Sector,Consumer Defensive,336,0.4166666666666667,52
+Bearish Engulfing With FollowThru,Entity,KELYA.US,12,0.4166666666666667,53
+Bearish Engulfing With FollowThru,Entity,CI.US,12,0.4166666666666667,53
+Bearish Engulfing With FollowThru,Entity,IHI.US,12,0.4166666666666667,54
+Bearish Engulfing With FollowThru,Entity,HQH.US,12,0.4166666666666667,55
+Bearish Engulfing With FollowThru,Entity,WTM.US,12,0.4166666666666667,55
+Bearish Engulfing With FollowThru,Entity,CTSH.US,12,0.4166666666666667,63
+Bearish Engulfing With FollowThru,Entity,GRC.US,12,0.4166666666666667,69
+Bearish Engulfing With FollowThru,Entity,EPR.US,12,0.4166666666666667,77
+Bearish Engulfing With FollowThru,Entity,IVW.US,12,0.4166666666666667,87
+Bearish Engulfing With FollowThru,Entity,PARAA.US,12,0.4166666666666667,91
+Bearish Engulfing With FollowThru,Entity,VZ.US,12,0.4166666666666667,126
+Bearish Engulfing With FollowThru,Entity,PEG.US,12,0.4166666666666667,154
+Bearish Engulfing With FollowThru,Entity,IWN.US,12,0.4166666666666667,216
+Bearish Engulfing With FollowThru,Industry,Asset Management,219,0.4155251141552511,98
+Bearish Engulfing With FollowThru,Sector,Industrials,960,0.41354166666666664,44
+Bearish Engulfing With FollowThru,Industry,Utilities - Regulated Water,46,0.41304347826086957,58
+Bearish Engulfing With FollowThru,Sector,Consumer Cyclical,776,0.41237113402061853,42
+Bearish Engulfing With FollowThru,Industry,Medical Instruments & Supplies,97,0.41237113402061853,43
+Bearish Engulfing With FollowThru,Sector,Technology,648,0.41203703703703703,32
+Bearish Engulfing With FollowThru,Industry,Consumer Electronics,17,0.4117647058823529,29
+Bearish Engulfing With FollowThru,Entity,YORW.US,17,0.4117647058823529,43
+Bearish Engulfing With FollowThru,Entity,VO.US,17,0.4117647058823529,73
+Bearish Engulfing With FollowThru,Entity,VXF.US,17,0.4117647058823529,114
+Bearish Engulfing With FollowThru,Industry,Lodging,22,0.4090909090909091,59
+Bearish Engulfing With FollowThru,Industry,Utilities - Regulated Electric,168,0.40476190476190477,114
+Bearish Engulfing With FollowThru,Industry,REIT - Office,57,0.40350877192982454,89
+Bearish Engulfing With FollowThru,Entity,QDEL.US,10,0.4,13
+Bearish Engulfing With FollowThru,Entity,TECL.US,15,0.4,14
+Bearish Engulfing With FollowThru,Entity,FORM.US,10,0.4,14
+Bearish Engulfing With FollowThru,Entity,RGS.US,10,0.4,14
+Bearish Engulfing With FollowThru,Entity,COHR.US,10,0.4,17
+Bearish Engulfing With FollowThru,Entity,ATGE.US,10,0.4,19
+Bearish Engulfing With FollowThru,Entity,ROG.US,10,0.4,21
+Bearish Engulfing With FollowThru,Entity,FUL.US,10,0.4,26
+Bearish Engulfing With FollowThru,Entity,ANSS.US,10,0.4,28
+Bearish Engulfing With FollowThru,Entity,AMED.US,15,0.4,29
+Bearish Engulfing With FollowThru,Entity,AAPL.US,15,0.4,30
+Bearish Engulfing With FollowThru,Industry,Gold,40,0.4,35
+Bearish Engulfing With FollowThru,Entity,PBR.US,10,0.4,36
+Bearish Engulfing With FollowThru,Entity,DPZ.US,10,0.4,38
+Bearish Engulfing With FollowThru,Entity,SP.US,10,0.4,40
+Bearish Engulfing With FollowThru,Entity,FC.US,10,0.4,42
+Bearish Engulfing With FollowThru,Entity,BDX.US,15,0.4,45
+Bearish Engulfing With FollowThru,Entity,EXPO.US,10,0.4,46
+Bearish Engulfing With FollowThru,Entity,GOOGL.US,10,0.4,48
+Bearish Engulfing With FollowThru,Entity,ESGR.US,10,0.4,54
+Bearish Engulfing With FollowThru,Entity,WEX.US,10,0.4,65
+Bearish Engulfing With FollowThru,Entity,ATO.US,15,0.4,70
+Bearish Engulfing With FollowThru,Industry,Integrated Freight & Logistics,45,0.4,77
+Bearish Engulfing With FollowThru,Entity,KBWP.US,15,0.4,88
+Bearish Engulfing With FollowThru,Entity,ELME.US,10,0.4,89
+Bearish Engulfing With FollowThru,Entity,DWAS.US,15,0.4,90
+Bearish Engulfing With FollowThru,Entity,FAD.US,15,0.4,95
+Bearish Engulfing With FollowThru,Industry,Insurance - Diversified,60,0.4,95
+Bearish Engulfing With FollowThru,Entity,TRP.US,10,0.4,97
+Bearish Engulfing With FollowThru,Entity,AVY.US,10,0.4,106
+Bearish Engulfing With FollowThru,Entity,TRV.US,15,0.4,143
+Bearish Engulfing With FollowThru,Entity,RSPN.US,15,0.4,169
+Bearish Engulfing With FollowThru,Entity,RLI.US,10,0.4,172
+Bearish Engulfing With FollowThru,Entity,VFH.US,10,0.4,180
+Bearish Engulfing With FollowThru,Entity,XLI.US,10,0.4,183
+Bearish Engulfing With FollowThru,Entity,JHML.US,10,0.4,188
+Bearish Engulfing With FollowThru,Entity,MDYV.US,10,0.4,248
+Bearish Engulfing With FollowThru,Entity,IWD.US,10,0.4,289
+Bearish Engulfing With FollowThru,Sector,Utilities,292,0.3972602739726027,98
+Bearish Engulfing With FollowThru,Industry,Travel Services,23,0.391304347826087,77
+Bearish Engulfing With FollowThru,Industry,Trucking,18,0.3888888888888889,26
+Bearish Engulfing With FollowThru,Entity,JKK.US,18,0.3888888888888889,78
+Bearish Engulfing With FollowThru,Entity,ISCG.US,18,0.3888888888888889,83
+Bearish Engulfing With FollowThru,Industry,Conglomerates,18,0.3888888888888889,99
+Bearish Engulfing With FollowThru,Entity,JKG.US,18,0.3888888888888889,119
+Bearish Engulfing With FollowThru,Entity,IMCB.US,18,0.3888888888888889,119
+Bearish Engulfing With FollowThru,Industry,Aerospace & Defense,106,0.3867924528301887,38
+Bearish Engulfing With FollowThru,Entity,IDCC.US,13,0.38461538461538464,8
+Bearish Engulfing With FollowThru,Entity,MIDU.US,13,0.38461538461538464,21
+Bearish Engulfing With FollowThru,Entity,RJF.US,13,0.38461538461538464,23
+Bearish Engulfing With FollowThru,Entity,TT.US,13,0.38461538461538464,34
+Bearish Engulfing With FollowThru,Entity,RXL.US,13,0.38461538461538464,34
+Bearish Engulfing With FollowThru,Entity,KWR.US,13,0.38461538461538464,38
+Bearish Engulfing With FollowThru,Entity,TSN.US,13,0.38461538461538464,41
+Bearish Engulfing With FollowThru,Entity,MKL.US,13,0.38461538461538464,48
+Bearish Engulfing With FollowThru,Entity,KIM.US,13,0.38461538461538464,53
+Bearish Engulfing With FollowThru,Entity,XLY.US,13,0.38461538461538464,57
+Bearish Engulfing With FollowThru,Entity,BANF.US,13,0.38461538461538464,65
+Bearish Engulfing With FollowThru,Entity,BLK.US,13,0.38461538461538464,66
+Bearish Engulfing With FollowThru,Entity,QQQ.US,13,0.38461538461538464,71
+Bearish Engulfing With FollowThru,Entity,SHW.US,13,0.38461538461538464,82
+Bearish Engulfing With FollowThru,Entity,PGR.US,13,0.38461538461538464,89
+Bearish Engulfing With FollowThru,Entity,GILD.US,13,0.38461538461538464,90
+Bearish Engulfing With FollowThru,Entity,STC.US,13,0.38461538461538464,91
+Bearish Engulfing With FollowThru,Entity,MCD.US,13,0.38461538461538464,98
+Bearish Engulfing With FollowThru,Entity,FYX.US,13,0.38461538461538464,136
+Bearish Engulfing With FollowThru,Industry,Packaged Foods,68,0.38235294117647056,39
+Bearish Engulfing With FollowThru,Industry,Insurance - Specialty,55,0.38181818181818183,74
+Bearish Engulfing With FollowThru,Entity,ONEQ.US,21,0.38095238095238093,132
+Bearish Engulfing With FollowThru,Industry,Industrial Distribution,45,0.37777777777777777,35
+Bearish Engulfing With FollowThru,Industry,Diagnostics & Research,53,0.37735849056603776,37
+Bearish Engulfing With FollowThru,Industry,Insurance - Property & Casualty,77,0.37662337662337664,70
+Bearish Engulfing With FollowThru,Entity,PZZA.US,16,0.375,38
+Bearish Engulfing With FollowThru,Entity,VBK.US,16,0.375,64
+Bearish Engulfing With FollowThru,Entity,EIX.US,16,0.375,65
+Bearish Engulfing With FollowThru,Entity,AEP.US,16,0.375,84
+Bearish Engulfing With FollowThru,Entity,IWP.US,16,0.375,106
+Bearish Engulfing With FollowThru,Entity,VONE.US,16,0.375,264
+Bearish Engulfing With FollowThru,Industry,Medical Distribution,27,0.37037037037037035,60
+Bearish Engulfing With FollowThru,Industry,Medical Care Facilities,76,0.3684210526315789,31
+Bearish Engulfing With FollowThru,Industry,Specialty Industrial Machinery,196,0.3673469387755102,61
+Bearish Engulfing With FollowThru,Entity,FTNT.US,11,0.36363636363636365,18
+Bearish Engulfing With FollowThru,Entity,TPC.US,11,0.36363636363636365,21
+Bearish Engulfing With FollowThru,Entity,MSFT.US,11,0.36363636363636365,30
+Bearish Engulfing With FollowThru,Entity,RYAAY.US,11,0.36363636363636365,32
+Bearish Engulfing With FollowThru,Entity,INDS.US,11,0.36363636363636365,38
+Bearish Engulfing With FollowThru,Entity,XMMO.US,11,0.36363636363636365,45
+Bearish Engulfing With FollowThru,Entity,CDNS.US,11,0.36363636363636365,47
+Bearish Engulfing With FollowThru,Entity,MATV.US,11,0.36363636363636365,49
+Bearish Engulfing With FollowThru,Entity,SOXX.US,11,0.36363636363636365,50
+Bearish Engulfing With FollowThru,Entity,XSW.US,11,0.36363636363636365,63
+Bearish Engulfing With FollowThru,Entity,DVN.US,11,0.36363636363636365,64
+Bearish Engulfing With FollowThru,Entity,WTFC.US,11,0.36363636363636365,71
+Bearish Engulfing With FollowThru,Entity,O.US,11,0.36363636363636365,74
+Bearish Engulfing With FollowThru,Entity,IMCG.US,22,0.36363636363636365,81
+Bearish Engulfing With FollowThru,Entity,PKG.US,11,0.36363636363636365,95
+Bearish Engulfing With FollowThru,Entity,VTWG.US,11,0.36363636363636365,148
+Bearish Engulfing With FollowThru,Entity,SITC.US,14,0.35714285714285715,20
+Bearish Engulfing With FollowThru,Entity,NBR.US,14,0.35714285714285715,26
+Bearish Engulfing With FollowThru,Entity,NEU.US,14,0.35714285714285715,42
+Bearish Engulfing With FollowThru,Industry,Aluminum,14,0.35714285714285715,45
+Bearish Engulfing With FollowThru,Entity,LECO.US,14,0.35714285714285715,50
+Bearish Engulfing With FollowThru,Entity,FDX.US,14,0.35714285714285715,56
+Bearish Engulfing With FollowThru,Entity,PSR.US,14,0.35714285714285715,66
+Bearish Engulfing With FollowThru,Entity,MDYG.US,14,0.35714285714285715,94
+Bearish Engulfing With FollowThru,Entity,SPYV.US,14,0.35714285714285715,178
+Bearish Engulfing With FollowThru,Entity,ACGL.US,14,0.35714285714285715,190
+Bearish Engulfing With FollowThru,Entity,IWS.US,14,0.35714285714285715,213
+Bearish Engulfing With FollowThru,Entity,VTHR.US,14,0.35714285714285715,280
+Bearish Engulfing With FollowThru,Industry,Utilities - Regulated Gas,31,0.3548387096774194,58
+Bearish Engulfing With FollowThru,Industry,Internet Content & Information,34,0.35294117647058826,37
+Bearish Engulfing With FollowThru,Entity,KNCT.US,17,0.35294117647058826,99
+Bearish Engulfing With FollowThru,Industry,Real Estate Services,54,0.35185185185185186,40
+Bearish Engulfing With FollowThru,Industry,Discount Stores,37,0.35135135135135137,37
+Bearish Engulfing With FollowThru,Industry,Leisure,23,0.34782608695652173,95
+Bearish Engulfing With FollowThru,Entity,SLYG.US,26,0.34615384615384615,66
+Bearish Engulfing With FollowThru,Industry,Drug Manufacturers - General,47,0.3404255319148936,63
+Bearish Engulfing With FollowThru,Industry,Information Technology Services,106,0.33962264150943394,54
+Bearish Engulfing With FollowThru,Entity,MTH.US,12,0.3333333333333333,4
+Bearish Engulfing With FollowThru,Industry,Solar,15,0.3333333333333333,7
+Bearish Engulfing With FollowThru,Entity,BJRI.US,12,0.3333333333333333,14
+Bearish Engulfing With FollowThru,Entity,STE.US,12,0.3333333333333333,15
+Bearish Engulfing With FollowThru,Entity,ODFL.US,12,0.3333333333333333,20
+Bearish Engulfing With FollowThru,Entity,TDW.US,12,0.3333333333333333,24
+Bearish Engulfing With FollowThru,Entity,PTH.US,12,0.3333333333333333,26
+Bearish Engulfing With FollowThru,Entity,MTX.US,12,0.3333333333333333,29
+Bearish Engulfing With FollowThru,Industry,Semiconductor Equipment & Materials,33,0.3333333333333333,31
+Bearish Engulfing With FollowThru,Entity,CASY.US,12,0.3333333333333333,34
+Bearish Engulfing With FollowThru,Industry,Insurance Brokers,39,0.3333333333333333,42
+Bearish Engulfing With FollowThru,Entity,VMC.US,12,0.3333333333333333,43
+Bearish Engulfing With FollowThru,Entity,ZBRA.US,12,0.3333333333333333,44
+Bearish Engulfing With FollowThru,Entity,TFX.US,12,0.3333333333333333,47
+Bearish Engulfing With FollowThru,Entity,KMT.US,12,0.3333333333333333,50
+Bearish Engulfing With FollowThru,Entity,EQT.US,12,0.3333333333333333,53
+Bearish Engulfing With FollowThru,Entity,ROST.US,12,0.3333333333333333,66
+Bearish Engulfing With FollowThru,Entity,HUBB.US,12,0.3333333333333333,68
+Bearish Engulfing With FollowThru,Entity,XSMO.US,15,0.3333333333333333,84
+Bearish Engulfing With FollowThru,Entity,ETN.US,15,0.3333333333333333,84
+Bearish Engulfing With FollowThru,Entity,XHS.US,12,0.3333333333333333,84
+Bearish Engulfing With FollowThru,Entity,PFE.US,12,0.3333333333333333,99
+Bearish Engulfing With FollowThru,Entity,SPLG.US,12,0.3333333333333333,100
+Bearish Engulfing With FollowThru,Entity,CMS.US,12,0.3333333333333333,114
+Bearish Engulfing With FollowThru,Entity,VB.US,15,0.3333333333333333,126
+Bearish Engulfing With FollowThru,Entity,RPG.US,15,0.3333333333333333,156
+Bearish Engulfing With FollowThru,Entity,EXC.US,12,0.3333333333333333,214
+Bearish Engulfing With FollowThru,Entity,SO.US,12,0.3333333333333333,224
+Bearish Engulfing With FollowThru,Industry,Financial Data & Stock Exchanges,25,0.32,49
+Bearish Engulfing With FollowThru,Industry,Residential Construction,47,0.3191489361702128,27
+Bearish Engulfing With FollowThru,Industry,Household & Personal Products,41,0.3170731707317073,59
+Bearish Engulfing With FollowThru,Entity,CRVL.US,19,0.3157894736842105,25
+Bearish Engulfing With FollowThru,Entity,VUG.US,19,0.3157894736842105,63
+Bearish Engulfing With FollowThru,Entity,GIL.US,16,0.3125,17
+Bearish Engulfing With FollowThru,Entity,URBN.US,16,0.3125,42
+Bearish Engulfing With FollowThru,Entity,RSPM.US,16,0.3125,60
+Bearish Engulfing With FollowThru,Entity,CALM.US,13,0.3076923076923077,6
+Bearish Engulfing With FollowThru,Entity,THRM.US,13,0.3076923076923077,14
+Bearish Engulfing With FollowThru,Entity,ITW.US,13,0.3076923076923077,37
+Bearish Engulfing With FollowThru,Entity,FI.US,13,0.3076923076923077,42
+Bearish Engulfing With FollowThru,Entity,MCHP.US,13,0.3076923076923077,56
+Bearish Engulfing With FollowThru,Entity,VNO.US,13,0.3076923076923077,65
+Bearish Engulfing With FollowThru,Entity,CME.US,13,0.3076923076923077,68
+Bearish Engulfing With FollowThru,Entity,SPG.US,13,0.3076923076923077,68
+Bearish Engulfing With FollowThru,Industry,Insurance - Reinsurance,13,0.3076923076923077,75
+Bearish Engulfing With FollowThru,Entity,FELE.US,13,0.3076923076923077,80
+Bearish Engulfing With FollowThru,Entity,BF-B.US,13,0.3076923076923077,86
+Bearish Engulfing With FollowThru,Entity,IWR.US,13,0.3076923076923077,166
+Bearish Engulfing With FollowThru,Entity,XHE.US,13,0.3076923076923077,184
+Bearish Engulfing With FollowThru,Entity,ILCV.US,13,0.3076923076923077,278
+Bearish Engulfing With FollowThru,Industry,Communication Equipment,43,0.3023255813953488,12
+Bearish Engulfing With FollowThru,Entity,HAIN.US,10,0.3,7
+Bearish Engulfing With FollowThru,Entity,OII.US,10,0.3,17
+Bearish Engulfing With FollowThru,Entity,PPG.US,10,0.3,19
+Bearish Engulfing With FollowThru,Entity,CF.US,10,0.3,19
+Bearish Engulfing With FollowThru,Entity,BBY.US,10,0.3,21
+Bearish Engulfing With FollowThru,Entity,XME.US,10,0.3,30
+Bearish Engulfing With FollowThru,Entity,DCI.US,10,0.3,33
+Bearish Engulfing With FollowThru,Entity,MHO.US,10,0.3,35
+Bearish Engulfing With FollowThru,Entity,LEA.US,10,0.3,35
+Bearish Engulfing With FollowThru,Entity,COP.US,10,0.3,40
+Bearish Engulfing With FollowThru,Entity,ALG.US,10,0.3,42
+Bearish Engulfing With FollowThru,Entity,STZ.US,10,0.3,46
+Bearish Engulfing With FollowThru,Entity,GCO.US,10,0.3,50
+Bearish Engulfing With FollowThru,Entity,WRK.US,10,0.3,51
+Bearish Engulfing With FollowThru,Entity,CSL.US,10,0.3,54
+Bearish Engulfing With FollowThru,Entity,GD.US,10,0.3,56
+Bearish Engulfing With FollowThru,Entity,AXS.US,10,0.3,81
+Bearish Engulfing With FollowThru,Entity,SOR.US,10,0.3,82
+Bearish Engulfing With FollowThru,Entity,JHMM.US,10,0.3,86
+Bearish Engulfing With FollowThru,Entity,MOG-A.US,10,0.3,87
+Bearish Engulfing With FollowThru,Entity,M.US,10,0.3,89
+Bearish Engulfing With FollowThru,Entity,IYR.US,10,0.3,93
+Bearish Engulfing With FollowThru,Entity,RXI.US,10,0.3,98
+Bearish Engulfing With FollowThru,Entity,ATR.US,10,0.3,114
+Bearish Engulfing With FollowThru,Entity,XLP.US,10,0.3,142
+Bearish Engulfing With FollowThru,Entity,CCL.US,10,0.3,143
+Bearish Engulfing With FollowThru,Entity,SCHG.US,10,0.3,148
+Bearish Engulfing With FollowThru,Entity,RWK.US,10,0.3,212
+Bearish Engulfing With FollowThru,Entity,RTM.US,17,0.29411764705882354,60
+Bearish Engulfing With FollowThru,Entity,BRK-A.US,17,0.29411764705882354,101
+Bearish Engulfing With FollowThru,Industry,Staffing & Employment Services,24,0.2916666666666667,53
+Bearish Engulfing With FollowThru,Entity,SUSA.US,24,0.2916666666666667,156
+Bearish Engulfing With FollowThru,Entity,CMG.US,14,0.2857142857142857,22
+Bearish Engulfing With FollowThru,Entity,CINF.US,14,0.2857142857142857,38
+Bearish Engulfing With FollowThru,Entity,IYY.US,14,0.2857142857142857,90
+Bearish Engulfing With FollowThru,Industry,Beverages - Wineries & Distilleries,28,0.2857142857142857,115
+Bearish Engulfing With FollowThru,Entity,ITOT.US,14,0.2857142857142857,122
+Bearish Engulfing With FollowThru,Entity,CAC.US,14,0.2857142857142857,136
+Bearish Engulfing With FollowThru,Entity,SLYV.US,14,0.2857142857142857,170
+Bearish Engulfing With FollowThru,Entity,GGME.US,14,0.2857142857142857,180
+Bearish Engulfing With FollowThru,Entity,FBT.US,18,0.2777777777777778,73
+Bearish Engulfing With FollowThru,Entity,ELS.US,18,0.2777777777777778,77
+Bearish Engulfing With FollowThru,Entity,IMAX.US,11,0.2727272727272727,10
+Bearish Engulfing With FollowThru,Entity,GES.US,11,0.2727272727272727,12
+Bearish Engulfing With FollowThru,Entity,QLD.US,11,0.2727272727272727,18
+Bearish Engulfing With FollowThru,Entity,IOSP.US,11,0.2727272727272727,29
+Bearish Engulfing With FollowThru,Entity,WAB.US,11,0.2727272727272727,34
+Bearish Engulfing With FollowThru,Entity,CVX.US,11,0.2727272727272727,41
+Bearish Engulfing With FollowThru,Industry,Thermal Coal,11,0.2727272727272727,42
+Bearish Engulfing With FollowThru,Entity,TTEK.US,11,0.2727272727272727,44
+Bearish Engulfing With FollowThru,Entity,GWW.US,11,0.2727272727272727,49
+Bearish Engulfing With FollowThru,Entity,LANC.US,11,0.2727272727272727,53
+Bearish Engulfing With FollowThru,Entity,PEZ.US,11,0.2727272727272727,76
+Bearish Engulfing With FollowThru,Entity,VIOO.US,11,0.2727272727272727,83
+Bearish Engulfing With FollowThru,Entity,XEL.US,11,0.2727272727272727,95
+Bearish Engulfing With FollowThru,Entity,PGJ.US,11,0.2727272727272727,97
+Bearish Engulfing With FollowThru,Entity,IUSV.US,11,0.2727272727272727,106
+Bearish Engulfing With FollowThru,Entity,FE.US,11,0.2727272727272727,131
+Bearish Engulfing With FollowThru,Entity,VBR.US,11,0.2727272727272727,183
+Bearish Engulfing With FollowThru,Entity,GGG.US,11,0.2727272727272727,189
+Bearish Engulfing With FollowThru,Entity,JKI.US,11,0.2727272727272727,304
+Bearish Engulfing With FollowThru,Industry,Specialty Retail,78,0.2692307692307692,51
+Bearish Engulfing With FollowThru,Entity,EW.US,15,0.26666666666666666,50
+Bearish Engulfing With FollowThru,Entity,NEE.US,15,0.26666666666666666,90
+Bearish Engulfing With FollowThru,Entity,ILCG.US,15,0.26666666666666666,103
+Bearish Engulfing With FollowThru,Entity,JKE.US,15,0.26666666666666666,103
+Bearish Engulfing With FollowThru,Entity,RWR.US,15,0.26666666666666666,105
+Bearish Engulfing With FollowThru,Entity,UPW.US,16,0.25,12
+Bearish Engulfing With FollowThru,Entity,IP.US,12,0.25,15
+Bearish Engulfing With FollowThru,Entity,DHI.US,12,0.25,17
+Bearish Engulfing With FollowThru,Industry,Apparel Manufacturing,24,0.25,20
+Bearish Engulfing With FollowThru,Entity,OTEX.US,16,0.25,24
+Bearish Engulfing With FollowThru,Entity,ASGN.US,12,0.25,28
+Bearish Engulfing With FollowThru,Entity,XSD.US,12,0.25,28
+Bearish Engulfing With FollowThru,Entity,FXL.US,16,0.25,32
+Bearish Engulfing With FollowThru,Entity,WASH.US,12,0.25,45
+Bearish Engulfing With FollowThru,Entity,SHEN.US,12,0.25,48
+Bearish Engulfing With FollowThru,Entity,NPK.US,12,0.25,48
+Bearish Engulfing With FollowThru,Entity,EWW.US,12,0.25,63
+Bearish Engulfing With FollowThru,Entity,QTUM.US,12,0.25,73
+Bearish Engulfing With FollowThru,Industry,Utilities - Diversified,28,0.25,77
+Bearish Engulfing With FollowThru,Entity,LMT.US,16,0.25,86
+Bearish Engulfing With FollowThru,Entity,WRB.US,12,0.25,97
+Bearish Engulfing With FollowThru,Entity,IDU.US,20,0.25,126
+Bearish Engulfing With FollowThru,Entity,RZG.US,12,0.25,179
+Bearish Engulfing With FollowThru,Entity,VOOG.US,12,0.25,183
+Bearish Engulfing With FollowThru,Entity,DTE.US,12,0.25,190
+Bearish Engulfing With FollowThru,Entity,EQWL.US,16,0.25,211
+Bearish Engulfing With FollowThru,Entity,JKF.US,12,0.25,277
+Bearish Engulfing With FollowThru,Industry,Internet Retail,29,0.2413793103448276,65
+Bearish Engulfing With FollowThru,Entity,IGM.US,25,0.24,152
+Bearish Engulfing With FollowThru,Industry,Chemicals,17,0.23529411764705882,15
+Bearish Engulfing With FollowThru,Entity,IXN.US,17,0.23529411764705882,48
+Bearish Engulfing With FollowThru,Entity,IYC.US,17,0.23529411764705882,120
+Bearish Engulfing With FollowThru,Entity,TROW.US,13,0.23076923076923078,37
+Bearish Engulfing With FollowThru,Entity,INTC.US,13,0.23076923076923078,77
+Bearish Engulfing With FollowThru,Entity,RTH.US,13,0.23076923076923078,93
+Bearish Engulfing With FollowThru,Entity,IVE.US,13,0.23076923076923078,126
+Bearish Engulfing With FollowThru,Entity,SCHB.US,13,0.23076923076923078,155
+Bearish Engulfing With FollowThru,Entity,CZA.US,13,0.23076923076923078,290
+Bearish Engulfing With FollowThru,Industry,Specialty Business Services,37,0.21621621621621623,40
+Bearish Engulfing With FollowThru,Entity,PH.US,14,0.21428571428571427,32
+Bearish Engulfing With FollowThru,Industry,Home Improvement Retail,14,0.21428571428571427,38
+Bearish Engulfing With FollowThru,Entity,IAK.US,14,0.21428571428571427,202
+Bearish Engulfing With FollowThru,Entity,FTCS.US,14,0.21428571428571427,277
+Bearish Engulfing With FollowThru,Entity,RVTY.US,10,0.2,6
+Bearish Engulfing With FollowThru,Entity,CYH.US,10,0.2,8
+Bearish Engulfing With FollowThru,Entity,MVV.US,10,0.2,13
+Bearish Engulfing With FollowThru,Entity,NFLX.US,10,0.2,15
+Bearish Engulfing With FollowThru,Entity,SJW.US,10,0.2,17
+Bearish Engulfing With FollowThru,Entity,AMWD.US,10,0.2,22
+Bearish Engulfing With FollowThru,Entity,LII.US,10,0.2,24
+Bearish Engulfing With FollowThru,Entity,GDX.US,10,0.2,35
+Bearish Engulfing With FollowThru,Entity,TEX.US,10,0.2,46
+Bearish Engulfing With FollowThru,Entity,ROCK.US,10,0.2,53
+Bearish Engulfing With FollowThru,Entity,COR.US,10,0.2,65
+Bearish Engulfing With FollowThru,Entity,PG.US,10,0.2,66
+Bearish Engulfing With FollowThru,Entity,SSD.US,10,0.2,78
+Bearish Engulfing With FollowThru,Entity,DOV.US,10,0.2,80
+Bearish Engulfing With FollowThru,Entity,NTRS.US,10,0.2,84
+Bearish Engulfing With FollowThru,Entity,FRT.US,10,0.2,84
+Bearish Engulfing With FollowThru,Entity,OKE.US,10,0.2,92
+Bearish Engulfing With FollowThru,Entity,VPU.US,15,0.2,96
+Bearish Engulfing With FollowThru,Entity,ZD.US,10,0.2,98
+Bearish Engulfing With FollowThru,Entity,PSCC.US,10,0.2,102
+Bearish Engulfing With FollowThru,Entity,EQR.US,10,0.2,107
+Bearish Engulfing With FollowThru,Entity,ALE.US,10,0.2,116
+Bearish Engulfing With FollowThru,Entity,BMVP.US,10,0.2,116
+Bearish Engulfing With FollowThru,Entity,IWC.US,15,0.2,119
+Bearish Engulfing With FollowThru,Entity,D.US,10,0.2,123
+Bearish Engulfing With FollowThru,Industry,Security & Protection Services,21,0.19047619047619047,93
+Bearish Engulfing With FollowThru,Entity,IHE.US,21,0.19047619047619047,172
+Bearish Engulfing With FollowThru,Entity,XPH.US,16,0.1875,106
+Bearish Engulfing With FollowThru,Entity,IJS.US,16,0.1875,184
+Bearish Engulfing With FollowThru,Entity,VRTX.US,11,0.18181818181818182,2
+Bearish Engulfing With FollowThru,Entity,SM.US,11,0.18181818181818182,4
+Bearish Engulfing With FollowThru,Entity,RGEN.US,11,0.18181818181818182,8
+Bearish Engulfing With FollowThru,Entity,ORLY.US,11,0.18181818181818182,18
+Bearish Engulfing With FollowThru,Entity,PNQI.US,11,0.18181818181818182,23
+Bearish Engulfing With FollowThru,Entity,HD.US,11,0.18181818181818182,27
+Bearish Engulfing With FollowThru,Entity,HEI-A.US,11,0.18181818181818182,28
+Bearish Engulfing With FollowThru,Entity,CSCO.US,11,0.18181818181818182,28
+Bearish Engulfing With FollowThru,Entity,RSPU.US,11,0.18181818181818182,53
+Bearish Engulfing With FollowThru,Entity,OXY.US,11,0.18181818181818182,66
+Bearish Engulfing With FollowThru,Entity,SMH.US,11,0.18181818181818182,76
+Bearish Engulfing With FollowThru,Entity,ADP.US,11,0.18181818181818182,93
+Bearish Engulfing With FollowThru,Entity,HSY.US,11,0.18181818181818182,178
+Bearish Engulfing With FollowThru,Industry,Confectioners,11,0.18181818181818182,178
+Bearish Engulfing With FollowThru,Entity,PUI.US,11,0.18181818181818182,242
+Bearish Engulfing With FollowThru,Entity,IMCV.US,11,0.18181818181818182,285
+Bearish Engulfing With FollowThru,Entity,SPY.US,17,0.17647058823529413,24
+Bearish Engulfing With FollowThru,Entity,SPTM.US,17,0.17647058823529413,34
+Bearish Engulfing With FollowThru,Entity,IWM.US,17,0.17647058823529413,60
+Bearish Engulfing With FollowThru,Entity,ORCL.US,18,0.16666666666666666,20
+Bearish Engulfing With FollowThru,Entity,UNP.US,12,0.16666666666666666,24
+Bearish Engulfing With FollowThru,Entity,WY.US,12,0.16666666666666666,25
+Bearish Engulfing With FollowThru,Entity,RHS.US,12,0.16666666666666666,29
+Bearish Engulfing With FollowThru,Entity,TPR.US,12,0.16666666666666666,58
+Bearish Engulfing With FollowThru,Entity,ADC.US,12,0.16666666666666666,86
+Bearish Engulfing With FollowThru,Entity,FHI.US,12,0.16666666666666666,100
+Bearish Engulfing With FollowThru,Entity,BF-A.US,12,0.16666666666666666,113
+Bearish Engulfing With FollowThru,Entity,PSA.US,12,0.16666666666666666,142
+Bearish Engulfing With FollowThru,Entity,BCH.US,12,0.16666666666666666,158
+Bearish Engulfing With FollowThru,Entity,NOC.US,13,0.15384615384615385,33
+Bearish Engulfing With FollowThru,Entity,UNFI.US,13,0.15384615384615385,62
+Bearish Engulfing With FollowThru,Entity,GSBC.US,13,0.15384615384615385,83
+Bearish Engulfing With FollowThru,Entity,IJT.US,20,0.15,118
+Bearish Engulfing With FollowThru,Entity,WDFC.US,14,0.14285714285714285,14
+Bearish Engulfing With FollowThru,Industry,Building Materials,14,0.14285714285714285,18
+Bearish Engulfing With FollowThru,Entity,DSI.US,14,0.14285714285714285,40
+Bearish Engulfing With FollowThru,Entity,AZO.US,14,0.14285714285714285,61
+Bearish Engulfing With FollowThru,Entity,FDN.US,14,0.14285714285714285,66
+Bearish Engulfing With FollowThru,Entity,XLU.US,14,0.14285714285714285,74
+Bearish Engulfing With FollowThru,Entity,IJR.US,14,0.14285714285714285,190
+Bearish Engulfing With FollowThru,Entity,CTAS.US,15,0.13333333333333333,29
+Bearish Engulfing With FollowThru,Entity,ILCB.US,15,0.13333333333333333,257
+Bearish Engulfing With FollowThru,Entity,JKD.US,15,0.13333333333333333,257
+Bearish Engulfing With FollowThru,Entity,IJH.US,16,0.125,76
+Bearish Engulfing With FollowThru,Entity,IJJ.US,16,0.125,175
+Bearish Engulfing With FollowThru,Entity,AMGN.US,10,0.1,1
+Bearish Engulfing With FollowThru,Entity,PLUS.US,10,0.1,51
+Bearish Engulfing With FollowThru,Entity,EWY.US,10,0.1,69
+Bearish Engulfing With FollowThru,Entity,QQXT.US,10,0.1,260
+Bearish Engulfing With FollowThru,Entity,VDC.US,10,0.1,367
+Bearish Engulfing With FollowThru,Entity,L.US,11,0.09090909090909091,14
+Bearish Engulfing With FollowThru,Entity,KMPR.US,11,0.09090909090909091,61
+Bearish Engulfing With FollowThru,Entity,BRC.US,11,0.09090909090909091,100
+Bearish Engulfing With FollowThru,Entity,CNA.US,11,0.09090909090909091,300
+Bearish Engulfing With FollowThru,Entity,PPA.US,12,0.08333333333333333,82
+Bearish Engulfing With FollowThru,Entity,GAM.US,12,0.08333333333333333,222
+Bearish Engulfing With FollowThru,Entity,WWD.US,13,0.07692307692307693,11
+Bearish Engulfing With FollowThru,Entity,IWB.US,13,0.07692307692307693,43
+Bearish Engulfing With FollowThru,Entity,XAR.US,13,0.07692307692307693,148
+Bearish Engulfing With FollowThru,Entity,CSGP.US,14,0.07142857142857142,28
+Bearish Engulfing With FollowThru,Entity,RSPS.US,14,0.07142857142857142,32
+Bearish Engulfing With FollowThru,Entity,IBB.US,14,0.07142857142857142,68
+Bearish Engulfing With FollowThru,Entity,VIOG.US,14,0.07142857142857142,86
+Bearish Engulfing With FollowThru,Entity,ABT.US,15,0.06666666666666667,133
+Bearish Engulfing With FollowThru,Entity,FXH.US,10,0,0
+Bearish Engulfing With FollowThru,Entity,AMZN.US,10,0,0
+Bearish Engulfing With FollowThru,Entity,WTS.US,13,0,0
