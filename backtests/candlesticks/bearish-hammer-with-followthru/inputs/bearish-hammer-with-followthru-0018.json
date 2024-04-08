@@ -1,0 +1,33 @@
+{
+  "Type": "Candlestick Pattern",
+  "Name": "Bearish Hammer With FollowThru 18",
+  "Source": "eodhd.com",
+  "Description": "move: 0.1;prologue len: 15;trend desc: S200C;vol factor: 2;use market: False",
+  "Entry Price Point": "Close",
+  "Target Up": {
+    "Price Point": "High",
+    "Value": 0.1
+  },
+  "Target Down": {
+    "Price Point": "Low",
+    "Value": 0.1
+  },
+  "Signal Names": [
+    "Bearish Hammer With FollowThru"
+  ],
+  "Max Parallelization": 10,
+  "Only Signal With Market": false,
+  "Volume Factor": 2,
+  "Chart Configuration": {
+    "Interval": "Daily",
+    "Moving Averages": null,
+    "Trend Configuration": [
+      {
+        "Trend": "S200C",
+        "Weight": null
+      }
+    ],
+    "Length of Prologue": 15
+  },
+  "Market Configuration": null
+}
