@@ -1,0 +1,104 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Engulfing|Industry|Oil & Gas Equipment & Services|22|0.7272727272727273|16
+Bearish Engulfing|Entity|TVC.US|10|0.7|450
+Bearish Engulfing|Industry|REIT - Healthcare Facilities|13|0.6923076923076923|58
+Bearish Engulfing|Industry|Beverages - Non-Alcoholic|12|0.6666666666666666|19
+Bearish Engulfing|Industry|REIT - Mortgage|12|0.6666666666666666|66
+Bearish Engulfing|Industry|Farm & Heavy Construction Machinery|20|0.65|24
+Bearish Engulfing|Entity|BMY.US|11|0.6363636363636364|60
+Bearish Engulfing|Industry|Credit Services|16|0.625|29
+Bearish Engulfing|Industry|Apparel Retail|32|0.625|41
+Bearish Engulfing|Industry|Personal Services|13|0.6153846153846154|48
+Bearish Engulfing|Industry|Communication Equipment|23|0.6086956521739131|23
+Bearish Engulfing|Industry|Semiconductors|15|0.6|13
+Bearish Engulfing|Industry|Education & Training Services|10|0.6|15
+Bearish Engulfing|Industry|Software - Infrastructure|35|0.6|27
+Bearish Engulfing|Industry|Security & Protection Services|10|0.6|37
+Bearish Engulfing|Industry|Electrical Equipment & Parts|10|0.6|39
+Bearish Engulfing|Industry|REIT - Specialty|25|0.6|46
+Bearish Engulfing|Industry|Drug Manufacturers - General|34|0.5882352941176471|39
+Bearish Engulfing|Entity|MDT.US|12|0.5833333333333334|21
+Bearish Engulfing|Industry|Medical Care Facilities|30|0.5666666666666667|27
+Bearish Engulfing|Entity|HRB.US|11|0.5454545454545454|34
+Bearish Engulfing|Entity|LNT.US|11|0.5454545454545454|95
+Bearish Engulfing|Industry|Packaged Foods|35|0.5428571428571428|47
+Bearish Engulfing|Industry|Asset Management|56|0.5357142857142857|143
+Bearish Engulfing|Industry|Diagnostics & Research|25|0.52|41
+Bearish Engulfing|Industry|REIT - Office|25|0.52|114
+Bearish Engulfing|Industry|Aerospace & Defense|35|0.5142857142857142|26
+Bearish Engulfing|Industry|Information Technology Services|35|0.5142857142857142|36
+Bearish Engulfing|Sector|Technology|205|0.5121951219512195|24
+Bearish Engulfing|Sector|Real Estate|197|0.5076142131979695|73
+Bearish Engulfing|Industry|Biotechnology|73|0.5068493150684932|15
+Bearish Engulfing|Sector|Healthcare|302|0.5066225165562914|29
+Bearish Engulfing|Industry|Medical Devices|34|0.5|18
+Bearish Engulfing|Industry|Airlines|12|0.5|25
+Bearish Engulfing|Industry|Consulting Services|20|0.5|30
+Bearish Engulfing|Industry|Oil & Gas Integrated|14|0.5|35
+Bearish Engulfing|Industry|Healthcare Plans|18|0.5|35
+Bearish Engulfing|Industry|Real Estate Services|16|0.5|37
+Bearish Engulfing|Industry|Insurance Brokers|12|0.5|38
+Bearish Engulfing|Industry|Medical Distribution|16|0.5|39
+Bearish Engulfing|Industry|Integrated Freight & Logistics|14|0.5|41
+Bearish Engulfing|Industry|Insurance - Specialty|18|0.5|46
+Bearish Engulfing|Industry|Agricultural Inputs|12|0.5|64
+Bearish Engulfing|Sector|Energy|167|0.49101796407185627|29
+Bearish Engulfing|Industry|REIT - Residential|39|0.48717948717948717|115
+Bearish Engulfing|Industry|Engineering & Construction|31|0.4838709677419355|50
+Bearish Engulfing|Industry|Software - Application|46|0.4782608695652174|22
+Bearish Engulfing|Industry|Specialty Retail|23|0.4782608695652174|33
+Bearish Engulfing|Industry|Industrial Distribution|19|0.47368421052631576|50
+Bearish Engulfing|Industry|Packaging & Containers|17|0.47058823529411764|35
+Bearish Engulfing|Sector|Consumer Cyclical|259|0.4671814671814672|38
+Bearish Engulfing|Industry|Oil & Gas Refining & Marketing|15|0.4666666666666667|56
+Bearish Engulfing|Industry|Entertainment|13|0.46153846153846156|39
+Bearish Engulfing|Sector|Industrials|305|0.45901639344262296|36
+Bearish Engulfing|Industry|Oil & Gas E&P|68|0.45588235294117646|31
+Bearish Engulfing|Entity|WDFC.US|11|0.45454545454545453|17
+Bearish Engulfing|Industry|Banks - Diversified|22|0.45454545454545453|49
+Bearish Engulfing|Industry|Specialty Chemicals|44|0.45454545454545453|55
+Bearish Engulfing|Industry|Utilities - Diversified|22|0.45454545454545453|57
+Bearish Engulfing|Overall|All|6091|0.4424560827450337|79
+Bearish Engulfing|Industry|Furnishings, Fixtures & Appliances|16|0.4375|82
+Bearish Engulfing|Industry|Beverages - Wineries & Distilleries|16|0.4375|97
+Bearish Engulfing|Industry|Drug Manufacturers - Specialty & Generic|37|0.43243243243243246|22
+Bearish Engulfing|Industry|Scientific & Technical Instruments|14|0.42857142857142855|12
+Bearish Engulfing|Industry|Oil & Gas Midstream|35|0.42857142857142855|29
+Bearish Engulfing|Industry|Utilities - Regulated Gas|14|0.42857142857142855|44
+Bearish Engulfing|Sector|Consumer Defensive|154|0.42207792207792205|55
+Bearish Engulfing|Sector|Financial Services|435|0.41839080459770117|75
+Bearish Engulfing|Industry|Leisure|12|0.4166666666666667|66
+Bearish Engulfing|Entity|MRK.US|12|0.4166666666666667|99
+Bearish Engulfing|Industry|Medical Instruments & Supplies|29|0.41379310344827586|41
+Bearish Engulfing|Sector|Utilities|161|0.40993788819875776|68
+Bearish Engulfing|Industry|Utilities - Regulated Water|22|0.4090909090909091|37
+Bearish Engulfing|Industry|Banks - Regional|229|0.40611353711790393|72
+Bearish Engulfing|Sector|Basic Materials|119|0.40336134453781514|41
+Bearish Engulfing|Industry|Consumer Electronics|10|0.4|9
+Bearish Engulfing|Industry|Electronic Components|10|0.4|36
+Bearish Engulfing|Entity|NJR.US|10|0.4|50
+Bearish Engulfing|Industry|REIT - Retail|33|0.3939393939393939|47
+Bearish Engulfing|Industry|Utilities - Regulated Electric|97|0.3917525773195876|73
+Bearish Engulfing|Sector|Communication Services|52|0.38461538461538464|32
+Bearish Engulfing|Industry|Specialty Business Services|13|0.38461538461538464|57
+Bearish Engulfing|Entity|ALE.US|13|0.38461538461538464|60
+Bearish Engulfing|Industry|Restaurants|40|0.375|39
+Bearish Engulfing|Industry|Gold|38|0.3684210526315789|12
+Bearish Engulfing|Industry|Specialty Industrial Machinery|49|0.3673469387755102|38
+Bearish Engulfing|Industry|Household & Personal Products|30|0.36666666666666664|95
+Bearish Engulfing|Entity|CRT.US|11|0.36363636363636365|20
+Bearish Engulfing|Industry|Auto Parts|11|0.36363636363636365|43
+Bearish Engulfing|Industry|Discount Stores|17|0.35294117647058826|34
+Bearish Engulfing|Industry|REIT - Industrial|20|0.35|85
+Bearish Engulfing|Industry|Auto & Truck Dealerships|15|0.3333333333333333|44
+Bearish Engulfing|Entity|WEC.US|12|0.3333333333333333|120
+Bearish Engulfing|Industry|Residential Construction|13|0.3076923076923077|12
+Bearish Engulfing|Entity|AVB.US|10|0.3|26
+Bearish Engulfing|Entity|CL.US|10|0.3|138
+Bearish Engulfing|Industry|Telecom Services|17|0.29411764705882354|49
+Bearish Engulfing|Industry|Staffing & Employment Services|11|0.2727272727272727|27
+Bearish Engulfing|Industry|Insurance - Property & Casualty|23|0.2608695652173913|37
+Bearish Engulfing|Entity|LANC.US|12|0.25|33
+Bearish Engulfing|Industry|Insurance - Diversified|31|0.22580645161290322|62
+Bearish Engulfing|Industry|Farm Products|16|0.1875|44
+Bearish Engulfing|Entity|MCD.US|10|0.1|467

@@ -1,0 +1,957 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bullish Engulfing|Entity|CRUS.US|12|1|22
+Bullish Engulfing|Entity|AMGN.US|10|1|25
+Bullish Engulfing|Entity|PEBO.US|12|1|38
+Bullish Engulfing|Entity|PNW.US|10|1|90
+Bullish Engulfing|Entity|SKX.US|12|0.9166666666666666|17
+Bullish Engulfing|Entity|XLF.US|12|0.9166666666666666|57
+Bullish Engulfing|Entity|SHEL.US|12|0.9166666666666666|109
+Bullish Engulfing|Entity|SO.US|12|0.9166666666666666|199
+Bullish Engulfing|Entity|AVY.US|10|0.9|49
+Bullish Engulfing|Entity|IJR.US|10|0.9|72
+Bullish Engulfing|Entity|RZG.US|10|0.9|86
+Bullish Engulfing|Entity|BKE.US|15|0.8666666666666667|20
+Bullish Engulfing|Entity|CRMT.US|14|0.8571428571428571|31
+Bullish Engulfing|Entity|LEN-B.US|13|0.8461538461538461|19
+Bullish Engulfing|Entity|TXN.US|13|0.8461538461538461|24
+Bullish Engulfing|Entity|ARE.US|13|0.8461538461538461|67
+Bullish Engulfing|Entity|FUL.US|13|0.8461538461538461|67
+Bullish Engulfing|Entity|TIMB.US|12|0.8333333333333334|16
+Bullish Engulfing|Entity|FCX.US|12|0.8333333333333334|18
+Bullish Engulfing|Industry|Copper|12|0.8333333333333334|18
+Bullish Engulfing|Entity|AIR.US|12|0.8333333333333334|18
+Bullish Engulfing|Entity|MLM.US|12|0.8333333333333334|30
+Bullish Engulfing|Entity|PKE.US|12|0.8333333333333334|30
+Bullish Engulfing|Entity|ADSK.US|12|0.8333333333333334|35
+Bullish Engulfing|Entity|ATR.US|12|0.8333333333333334|69
+Bullish Engulfing|Entity|ED.US|18|0.8333333333333334|165
+Bullish Engulfing|Industry|Medical Distribution|23|0.8260869565217391|48
+Bullish Engulfing|Entity|ALNY.US|11|0.8181818181818182|25
+Bullish Engulfing|Entity|TMO.US|11|0.8181818181818182|30
+Bullish Engulfing|Entity|EHC.US|11|0.8181818181818182|32
+Bullish Engulfing|Entity|MLR.US|11|0.8181818181818182|43
+Bullish Engulfing|Entity|CHCO.US|11|0.8181818181818182|54
+Bullish Engulfing|Entity|TTC.US|11|0.8181818181818182|57
+Bullish Engulfing|Entity|ENB.US|11|0.8181818181818182|72
+Bullish Engulfing|Entity|WEC.US|11|0.8181818181818182|94
+Bullish Engulfing|Entity|AZPN.US|10|0.8|9
+Bullish Engulfing|Entity|NTES.US|10|0.8|12
+Bullish Engulfing|Entity|TER.US|10|0.8|13
+Bullish Engulfing|Entity|ESE.US|10|0.8|16
+Bullish Engulfing|Entity|BRKR.US|10|0.8|21
+Bullish Engulfing|Entity|VFC.US|10|0.8|22
+Bullish Engulfing|Entity|TRS.US|10|0.8|33
+Bullish Engulfing|Entity|EG.US|10|0.8|37
+Bullish Engulfing|Entity|JPM.US|10|0.8|44
+Bullish Engulfing|Entity|STE.US|10|0.8|44
+Bullish Engulfing|Entity|JJSF.US|10|0.8|46
+Bullish Engulfing|Entity|FISI.US|15|0.8|54
+Bullish Engulfing|Entity|WSFS.US|10|0.8|60
+Bullish Engulfing|Entity|OMC.US|10|0.8|60
+Bullish Engulfing|Entity|ISCG.US|10|0.8|63
+Bullish Engulfing|Entity|FFIC.US|10|0.8|64
+Bullish Engulfing|Entity|TRV.US|10|0.8|76
+Bullish Engulfing|Entity|SAFT.US|10|0.8|80
+Bullish Engulfing|Entity|SLYG.US|10|0.8|89
+Bullish Engulfing|Entity|HP.US|14|0.7857142857142857|33
+Bullish Engulfing|Entity|HELE.US|14|0.7857142857142857|33
+Bullish Engulfing|Entity|L.US|14|0.7857142857142857|45
+Bullish Engulfing|Entity|WMS.US|13|0.7692307692307693|13
+Bullish Engulfing|Entity|ICFI.US|13|0.7692307692307693|15
+Bullish Engulfing|Entity|MATW.US|13|0.7692307692307693|42
+Bullish Engulfing|Entity|IBM.US|13|0.7692307692307693|51
+Bullish Engulfing|Entity|MSEX.US|13|0.7692307692307693|66
+Bullish Engulfing|Industry|Integrated Freight & Logistics|56|0.7678571428571429|30
+Bullish Engulfing|Industry|Financial Data & Stock Exchanges|17|0.7647058823529411|59
+Bullish Engulfing|Entity|PCAR.US|16|0.75|14
+Bullish Engulfing|Entity|DLTR.US|12|0.75|19
+Bullish Engulfing|Entity|EL.US|12|0.75|28
+Bullish Engulfing|Entity|PBI.US|12|0.75|28
+Bullish Engulfing|Entity|FIX.US|12|0.75|30
+Bullish Engulfing|Entity|WST.US|16|0.75|45
+Bullish Engulfing|Entity|ASH.US|12|0.75|48
+Bullish Engulfing|Entity|AMSF.US|12|0.75|55
+Bullish Engulfing|Entity|DDS.US|19|0.7368421052631579|33
+Bullish Engulfing|Industry|Department Stores|19|0.7368421052631579|33
+Bullish Engulfing|Entity|CUK.US|15|0.7333333333333333|16
+Bullish Engulfing|Entity|IP.US|15|0.7333333333333333|22
+Bullish Engulfing|Entity|WTFC.US|15|0.7333333333333333|29
+Bullish Engulfing|Entity|SNPS.US|15|0.7333333333333333|34
+Bullish Engulfing|Entity|FDX.US|15|0.7333333333333333|36
+Bullish Engulfing|Entity|ABM.US|15|0.7333333333333333|74
+Bullish Engulfing|Entity|UHT.US|15|0.7333333333333333|179
+Bullish Engulfing|Entity|WNC.US|11|0.7272727272727273|10
+Bullish Engulfing|Entity|RBBN.US|11|0.7272727272727273|12
+Bullish Engulfing|Entity|PRGS.US|11|0.7272727272727273|22
+Bullish Engulfing|Entity|ICUI.US|11|0.7272727272727273|23
+Bullish Engulfing|Entity|BK.US|11|0.7272727272727273|30
+Bullish Engulfing|Entity|LHX.US|11|0.7272727272727273|31
+Bullish Engulfing|Entity|LIVN.US|11|0.7272727272727273|31
+Bullish Engulfing|Entity|GVA.US|11|0.7272727272727273|33
+Bullish Engulfing|Entity|CNK.US|11|0.7272727272727273|34
+Bullish Engulfing|Entity|PXD.US|11|0.7272727272727273|34
+Bullish Engulfing|Entity|CTS.US|11|0.7272727272727273|35
+Bullish Engulfing|Entity|BFS.US|11|0.7272727272727273|36
+Bullish Engulfing|Entity|SYBT.US|11|0.7272727272727273|36
+Bullish Engulfing|Entity|SU.US|11|0.7272727272727273|39
+Bullish Engulfing|Entity|BALL.US|11|0.7272727272727273|40
+Bullish Engulfing|Entity|DRI.US|11|0.7272727272727273|41
+Bullish Engulfing|Entity|XES.US|11|0.7272727272727273|41
+Bullish Engulfing|Entity|WTRG.US|11|0.7272727272727273|52
+Bullish Engulfing|Entity|SMH.US|11|0.7272727272727273|60
+Bullish Engulfing|Entity|SJW.US|11|0.7272727272727273|69
+Bullish Engulfing|Entity|CNA.US|11|0.7272727272727273|118
+Bullish Engulfing|Entity|DJP.US|11|0.7272727272727273|121
+Bullish Engulfing|Entity|MLP.US|14|0.7142857142857143|23
+Bullish Engulfing|Entity|HURC.US|14|0.7142857142857143|24
+Bullish Engulfing|Entity|UMBF.US|14|0.7142857142857143|54
+Bullish Engulfing|Industry|Lodging|24|0.7083333333333334|28
+Bullish Engulfing|Entity|CADE.US|17|0.7058823529411765|54
+Bullish Engulfing|Entity|WABC.US|17|0.7058823529411765|77
+Bullish Engulfing|Entity|TECH.US|17|0.7058823529411765|81
+Bullish Engulfing|Entity|ANIP.US|10|0.7|9
+Bullish Engulfing|Entity|VSAT.US|10|0.7|15
+Bullish Engulfing|Entity|WLDN.US|10|0.7|15
+Bullish Engulfing|Industry|Waste Management|20|0.7|15
+Bullish Engulfing|Entity|TRIP.US|10|0.7|15
+Bullish Engulfing|Entity|CGNX.US|10|0.7|16
+Bullish Engulfing|Entity|SILC.US|10|0.7|17
+Bullish Engulfing|Entity|IART.US|10|0.7|21
+Bullish Engulfing|Entity|SIG.US|10|0.7|21
+Bullish Engulfing|Entity|KBR.US|10|0.7|29
+Bullish Engulfing|Entity|MLKN.US|10|0.7|30
+Bullish Engulfing|Entity|BHE.US|10|0.7|30
+Bullish Engulfing|Entity|PBH.US|10|0.7|33
+Bullish Engulfing|Entity|FIVE.US|10|0.7|35
+Bullish Engulfing|Entity|ORCL.US|10|0.7|49
+Bullish Engulfing|Entity|TFC.US|10|0.7|58
+Bullish Engulfing|Entity|SENEA.US|10|0.7|63
+Bullish Engulfing|Entity|MDT.US|10|0.7|65
+Bullish Engulfing|Entity|KRE.US|10|0.7|69
+Bullish Engulfing|Entity|WASH.US|10|0.7|77
+Bullish Engulfing|Entity|BKH.US|10|0.7|78
+Bullish Engulfing|Entity|WAFD.US|10|0.7|81
+Bullish Engulfing|Entity|MFA.US|10|0.7|81
+Bullish Engulfing|Entity|RLI.US|10|0.7|83
+Bullish Engulfing|Entity|D.US|10|0.7|123
+Bullish Engulfing|Entity|IMKTA.US|13|0.6923076923076923|17
+Bullish Engulfing|Entity|EAT.US|13|0.6923076923076923|19
+Bullish Engulfing|Entity|ERY.US|13|0.6923076923076923|21
+Bullish Engulfing|Entity|OCN.US|13|0.6923076923076923|21
+Bullish Engulfing|Entity|TBRG.US|13|0.6923076923076923|23
+Bullish Engulfing|Entity|BBY.US|13|0.6923076923076923|24
+Bullish Engulfing|Entity|INVA.US|13|0.6923076923076923|27
+Bullish Engulfing|Entity|IDXX.US|13|0.6923076923076923|29
+Bullish Engulfing|Entity|MCY.US|13|0.6923076923076923|41
+Bullish Engulfing|Entity|AON.US|13|0.6923076923076923|42
+Bullish Engulfing|Entity|FDP.US|13|0.6923076923076923|47
+Bullish Engulfing|Entity|UDR.US|13|0.6923076923076923|59
+Bullish Engulfing|Entity|PDCO.US|13|0.6923076923076923|70
+Bullish Engulfing|Entity|SR.US|13|0.6923076923076923|73
+Bullish Engulfing|Entity|RNR.US|13|0.6923076923076923|94
+Bullish Engulfing|Entity|OTTR.US|13|0.6923076923076923|116
+Bullish Engulfing|Entity|HZO.US|16|0.6875|14
+Bullish Engulfing|Entity|DUG.US|16|0.6875|25
+Bullish Engulfing|Entity|GD.US|16|0.6875|65
+Bullish Engulfing|Entity|PSA.US|16|0.6875|68
+Bullish Engulfing|Entity|CBRL.US|19|0.6842105263157895|60
+Bullish Engulfing|Industry|Entertainment|66|0.6818181818181818|30
+Bullish Engulfing|Industry|Utilities - Regulated Gas|25|0.68|73
+Bullish Engulfing|Industry|Packaging & Containers|43|0.6744186046511628|39
+Bullish Engulfing|Entity|JAN.US|12|0.6666666666666666|5
+Bullish Engulfing|Entity|DY.US|12|0.6666666666666666|11
+Bullish Engulfing|Industry|Resorts & Casinos|36|0.6666666666666666|11
+Bullish Engulfing|Entity|TALO.US|18|0.6666666666666666|12
+Bullish Engulfing|Entity|VRTX.US|12|0.6666666666666666|13
+Bullish Engulfing|Entity|GDEN.US|12|0.6666666666666666|13
+Bullish Engulfing|Entity|TCRT.US|12|0.6666666666666666|14
+Bullish Engulfing|Entity|OIH.US|12|0.6666666666666666|20
+Bullish Engulfing|Industry|Grocery Stores|15|0.6666666666666666|20
+Bullish Engulfing|Entity|IONS.US|12|0.6666666666666666|22
+Bullish Engulfing|Entity|EOG.US|15|0.6666666666666666|24
+Bullish Engulfing|Entity|DVN.US|18|0.6666666666666666|29
+Bullish Engulfing|Entity|BRC.US|12|0.6666666666666666|34
+Bullish Engulfing|Entity|MNRO.US|18|0.6666666666666666|35
+Bullish Engulfing|Entity|VTR.US|15|0.6666666666666666|35
+Bullish Engulfing|Entity|EWBC.US|12|0.6666666666666666|35
+Bullish Engulfing|Entity|CDP.US|15|0.6666666666666666|36
+Bullish Engulfing|Entity|MATX.US|12|0.6666666666666666|38
+Bullish Engulfing|Entity|KMPR.US|18|0.6666666666666666|39
+Bullish Engulfing|Entity|WY.US|15|0.6666666666666666|41
+Bullish Engulfing|Entity|HOLX.US|12|0.6666666666666666|43
+Bullish Engulfing|Entity|LUV.US|15|0.6666666666666666|46
+Bullish Engulfing|Entity|BME.US|12|0.6666666666666666|48
+Bullish Engulfing|Entity|MGEE.US|12|0.6666666666666666|50
+Bullish Engulfing|Industry|Security & Protection Services|33|0.6666666666666666|52
+Bullish Engulfing|Entity|JKHY.US|12|0.6666666666666666|61
+Bullish Engulfing|Entity|ASB.US|12|0.6666666666666666|66
+Bullish Engulfing|Entity|WMK.US|12|0.6666666666666666|78
+Bullish Engulfing|Entity|CINF.US|12|0.6666666666666666|103
+Bullish Engulfing|Entity|MCD.US|12|0.6666666666666666|123
+Bullish Engulfing|Entity|GE.US|15|0.6666666666666666|130
+Bullish Engulfing|Industry|Oil & Gas Midstream|72|0.6527777777777778|44
+Bullish Engulfing|Entity|AEM.US|20|0.65|32
+Bullish Engulfing|Industry|Aerospace & Defense|117|0.6495726495726496|32
+Bullish Engulfing|Entity|DHI.US|17|0.6470588235294118|17
+Bullish Engulfing|Entity|OII.US|17|0.6470588235294118|19
+Bullish Engulfing|Entity|BLKB.US|17|0.6470588235294118|20
+Bullish Engulfing|Entity|SKY.US|17|0.6470588235294118|21
+Bullish Engulfing|Entity|NCTY.US|14|0.6428571428571429|7
+Bullish Engulfing|Entity|DIOD.US|14|0.6428571428571429|14
+Bullish Engulfing|Entity|WRLD.US|14|0.6428571428571429|17
+Bullish Engulfing|Entity|PTC.US|14|0.6428571428571429|22
+Bullish Engulfing|Entity|CBT.US|14|0.6428571428571429|25
+Bullish Engulfing|Entity|SMDD.US|14|0.6428571428571429|27
+Bullish Engulfing|Entity|WW.US|14|0.6428571428571429|30
+Bullish Engulfing|Industry|Home Improvement Retail|14|0.6428571428571429|31
+Bullish Engulfing|Entity|MSI.US|14|0.6428571428571429|39
+Bullish Engulfing|Entity|MSA.US|14|0.6428571428571429|41
+Bullish Engulfing|Entity|XRAY.US|14|0.6428571428571429|51
+Bullish Engulfing|Entity|VVI.US|14|0.6428571428571429|60
+Bullish Engulfing|Industry|Healthcare Plans|25|0.64|45
+Bullish Engulfing|Entity|CLDX.US|11|0.6363636363636364|13
+Bullish Engulfing|Entity|TK.US|11|0.6363636363636364|13
+Bullish Engulfing|Entity|AYI.US|11|0.6363636363636364|14
+Bullish Engulfing|Entity|CIEN.US|11|0.6363636363636364|16
+Bullish Engulfing|Entity|MTN.US|11|0.6363636363636364|17
+Bullish Engulfing|Entity|ROK.US|11|0.6363636363636364|19
+Bullish Engulfing|Entity|LNC.US|11|0.6363636363636364|21
+Bullish Engulfing|Entity|CIB.US|11|0.6363636363636364|22
+Bullish Engulfing|Entity|SCX.US|11|0.6363636363636364|23
+Bullish Engulfing|Entity|AAP.US|11|0.6363636363636364|24
+Bullish Engulfing|Entity|ATNI.US|11|0.6363636363636364|27
+Bullish Engulfing|Industry|Oil & Gas Drilling|22|0.6363636363636364|28
+Bullish Engulfing|Entity|DD.US|11|0.6363636363636364|31
+Bullish Engulfing|Entity|CTAS.US|11|0.6363636363636364|31
+Bullish Engulfing|Entity|CMCSA.US|11|0.6363636363636364|31
+Bullish Engulfing|Entity|VLO.US|11|0.6363636363636364|32
+Bullish Engulfing|Entity|FCBC.US|11|0.6363636363636364|32
+Bullish Engulfing|Entity|MSTR.US|11|0.6363636363636364|39
+Bullish Engulfing|Entity|NBTB.US|11|0.6363636363636364|45
+Bullish Engulfing|Entity|GLW.US|11|0.6363636363636364|49
+Bullish Engulfing|Entity|COST.US|11|0.6363636363636364|65
+Bullish Engulfing|Entity|QQQ.US|11|0.6363636363636364|65
+Bullish Engulfing|Industry|Other Industrial Metals & Mining|11|0.6363636363636364|68
+Bullish Engulfing|Entity|TRST.US|11|0.6363636363636364|69
+Bullish Engulfing|Entity|CSCO.US|11|0.6363636363636364|90
+Bullish Engulfing|Entity|BUSE.US|11|0.6363636363636364|94
+Bullish Engulfing|Entity|TRP.US|11|0.6363636363636364|182
+Bullish Engulfing|Entity|UIS.US|19|0.631578947368421|22
+Bullish Engulfing|Entity|CPB.US|19|0.631578947368421|126
+Bullish Engulfing|Industry|Medical Care Facilities|86|0.627906976744186|27
+Bullish Engulfing|Industry|Specialty Retail|110|0.6272727272727273|28
+Bullish Engulfing|Entity|KLAC.US|16|0.625|17
+Bullish Engulfing|Entity|OXM.US|16|0.625|17
+Bullish Engulfing|Entity|MOD.US|16|0.625|18
+Bullish Engulfing|Industry|Building Materials|16|0.625|19
+Bullish Engulfing|Entity|BP.US|16|0.625|71
+Bullish Engulfing|Entity|PEGY.US|16|0.625|75
+Bullish Engulfing|Entity|UHS.US|16|0.625|79
+Bullish Engulfing|Entity|SEF.US|16|0.625|131
+Bullish Engulfing|Industry|Insurance - Specialty|53|0.6226415094339622|42
+Bullish Engulfing|Industry|Banks - Diversified|53|0.6226415094339622|50
+Bullish Engulfing|Industry|Insurance - Life|29|0.6206896551724138|59
+Bullish Engulfing|Industry|Electrical Equipment & Parts|71|0.6197183098591549|22
+Bullish Engulfing|Entity|IDT.US|21|0.6190476190476191|25
+Bullish Engulfing|Industry|Auto & Truck Dealerships|55|0.6181818181818182|26
+Bullish Engulfing|Entity|FARO.US|13|0.6153846153846154|7
+Bullish Engulfing|Entity|SCHW.US|13|0.6153846153846154|11
+Bullish Engulfing|Entity|RJF.US|13|0.6153846153846154|21
+Bullish Engulfing|Entity|UEIC.US|13|0.6153846153846154|23
+Bullish Engulfing|Entity|GES.US|13|0.6153846153846154|23
+Bullish Engulfing|Entity|WBS.US|13|0.6153846153846154|32
+Bullish Engulfing|Entity|SCHL.US|13|0.6153846153846154|33
+Bullish Engulfing|Entity|NVDA.US|13|0.6153846153846154|35
+Bullish Engulfing|Entity|SSP.US|13|0.6153846153846154|36
+Bullish Engulfing|Entity|USM.US|13|0.6153846153846154|37
+Bullish Engulfing|Entity|AIT.US|13|0.6153846153846154|39
+Bullish Engulfing|Industry|Utilities - Diversified|26|0.6153846153846154|62
+Bullish Engulfing|Entity|CUZ.US|13|0.6153846153846154|71
+Bullish Engulfing|Entity|LTC.US|13|0.6153846153846154|75
+Bullish Engulfing|Industry|Scientific & Technical Instruments|62|0.6129032258064516|17
+Bullish Engulfing|Industry|Utilities - Regulated Electric|188|0.6117021276595744|92
+Bullish Engulfing|Entity|EPAC.US|18|0.6111111111111112|23
+Bullish Engulfing|Entity|FSS.US|18|0.6111111111111112|36
+Bullish Engulfing|Industry|Drug Manufacturers - General|72|0.6111111111111112|40
+Bullish Engulfing|Entity|PRGO.US|18|0.6111111111111112|42
+Bullish Engulfing|Industry|Telecom Services|95|0.6105263157894737|35
+Bullish Engulfing|Industry|Specialty Chemicals|146|0.6095890410958904|36
+Bullish Engulfing|Entity|IOVA.US|10|0.6|4
+Bullish Engulfing|Entity|GEVO.US|10|0.6|6
+Bullish Engulfing|Entity|OIS.US|10|0.6|9
+Bullish Engulfing|Entity|TCX.US|10|0.6|9
+Bullish Engulfing|Entity|INVE.US|10|0.6|10
+Bullish Engulfing|Entity|SMN.US|20|0.6|11
+Bullish Engulfing|Entity|PBYI.US|10|0.6|12
+Bullish Engulfing|Entity|IZEA.US|10|0.6|12
+Bullish Engulfing|Entity|BMA.US|10|0.6|13
+Bullish Engulfing|Entity|SRTY.US|15|0.6|14
+Bullish Engulfing|Entity|TTEK.US|10|0.6|14
+Bullish Engulfing|Entity|AMAT.US|20|0.6|17
+Bullish Engulfing|Entity|CFR.US|10|0.6|19
+Bullish Engulfing|Entity|LCII.US|10|0.6|20
+Bullish Engulfing|Entity|PARA.US|15|0.6|20
+Bullish Engulfing|Entity|TSEM.US|10|0.6|21
+Bullish Engulfing|Entity|LAD.US|10|0.6|22
+Bullish Engulfing|Entity|MGM.US|10|0.6|22
+Bullish Engulfing|Entity|SAIA.US|10|0.6|23
+Bullish Engulfing|Entity|NOV.US|10|0.6|23
+Bullish Engulfing|Entity|SEE.US|10|0.6|24
+Bullish Engulfing|Entity|LPX.US|10|0.6|24
+Bullish Engulfing|Entity|GRMN.US|10|0.6|24
+Bullish Engulfing|Entity|USL.US|10|0.6|26
+Bullish Engulfing|Entity|THO.US|10|0.6|26
+Bullish Engulfing|Entity|EPR.US|10|0.6|27
+Bullish Engulfing|Entity|MCHP.US|10|0.6|28
+Bullish Engulfing|Entity|GDX.US|10|0.6|31
+Bullish Engulfing|Entity|HAL.US|15|0.6|35
+Bullish Engulfing|Entity|CBSH.US|10|0.6|35
+Bullish Engulfing|Entity|MLAB.US|10|0.6|35
+Bullish Engulfing|Entity|BMY.US|10|0.6|36
+Bullish Engulfing|Entity|QCOM.US|15|0.6|40
+Bullish Engulfing|Entity|DXC.US|10|0.6|42
+Bullish Engulfing|Entity|NHI.US|10|0.6|43
+Bullish Engulfing|Entity|WLY.US|15|0.6|43
+Bullish Engulfing|Entity|PZZA.US|10|0.6|45
+Bullish Engulfing|Industry|REIT - Hotel & Motel|30|0.6|46
+Bullish Engulfing|Entity|KNX.US|10|0.6|47
+Bullish Engulfing|Entity|DOV.US|10|0.6|52
+Bullish Engulfing|Entity|VAW.US|10|0.6|54
+Bullish Engulfing|Entity|SAFE.US|10|0.6|64
+Bullish Engulfing|Entity|VLGEA.US|10|0.6|65
+Bullish Engulfing|Entity|FRME.US|10|0.6|72
+Bullish Engulfing|Entity|ALL.US|15|0.6|76
+Bullish Engulfing|Entity|BDN.US|10|0.6|80
+Bullish Engulfing|Entity|CHKP.US|10|0.6|87
+Bullish Engulfing|Entity|BCE.US|10|0.6|92
+Bullish Engulfing|Entity|PPL.US|10|0.6|96
+Bullish Engulfing|Entity|RWR.US|20|0.6|125
+Bullish Engulfing|Entity|HTBI.US|10|0.6|170
+Bullish Engulfing|Entity|BRK-A.US|10|0.6|264
+Bullish Engulfing|Sector|Utilities|324|0.5925925925925926|80
+Bullish Engulfing|Industry|Beverages - Wineries & Distilleries|27|0.5925925925925926|118
+Bullish Engulfing|Entity|LXRX.US|17|0.5882352941176471|9
+Bullish Engulfing|Entity|AZTA.US|17|0.5882352941176471|21
+Bullish Engulfing|Entity|SMTC.US|17|0.5882352941176471|22
+Bullish Engulfing|Industry|Insurance - Reinsurance|17|0.5882352941176471|37
+Bullish Engulfing|Industry|Travel Services|29|0.5862068965517241|20
+Bullish Engulfing|Industry|Chemicals|29|0.5862068965517241|32
+Bullish Engulfing|Industry|Electronic Components|65|0.5846153846153846|30
+Bullish Engulfing|Industry|Household & Personal Products|65|0.5846153846153846|44
+Bullish Engulfing|Entity|STRR.US|12|0.5833333333333334|6
+Bullish Engulfing|Entity|QMCO.US|12|0.5833333333333334|7
+Bullish Engulfing|Entity|SNOA.US|12|0.5833333333333334|7
+Bullish Engulfing|Entity|VSEC.US|12|0.5833333333333334|8
+Bullish Engulfing|Entity|AXDX.US|12|0.5833333333333334|9
+Bullish Engulfing|Entity|MYGN.US|12|0.5833333333333334|10
+Bullish Engulfing|Entity|ZUMZ.US|12|0.5833333333333334|11
+Bullish Engulfing|Entity|PLUG.US|12|0.5833333333333334|14
+Bullish Engulfing|Entity|MD.US|12|0.5833333333333334|14
+Bullish Engulfing|Entity|WIRE.US|12|0.5833333333333334|18
+Bullish Engulfing|Entity|KWR.US|12|0.5833333333333334|18
+Bullish Engulfing|Entity|NBIX.US|12|0.5833333333333334|19
+Bullish Engulfing|Entity|QDEL.US|12|0.5833333333333334|19
+Bullish Engulfing|Entity|IRBT.US|12|0.5833333333333334|22
+Bullish Engulfing|Entity|RAMP.US|12|0.5833333333333334|22
+Bullish Engulfing|Industry|Building Products & Equipment|48|0.5833333333333334|22
+Bullish Engulfing|Entity|RCL.US|12|0.5833333333333334|24
+Bullish Engulfing|Entity|IWO.US|12|0.5833333333333334|31
+Bullish Engulfing|Entity|ADI.US|12|0.5833333333333334|34
+Bullish Engulfing|Entity|NNN.US|12|0.5833333333333334|38
+Bullish Engulfing|Entity|CRVL.US|12|0.5833333333333334|39
+Bullish Engulfing|Entity|SRL.US|12|0.5833333333333334|47
+Bullish Engulfing|Entity|PLPC.US|12|0.5833333333333334|48
+Bullish Engulfing|Entity|ORLY.US|12|0.5833333333333334|49
+Bullish Engulfing|Entity|KSS.US|12|0.5833333333333334|51
+Bullish Engulfing|Entity|MAA.US|12|0.5833333333333334|54
+Bullish Engulfing|Entity|HUBB.US|12|0.5833333333333334|60
+Bullish Engulfing|Entity|WBA.US|12|0.5833333333333334|67
+Bullish Engulfing|Entity|GILD.US|12|0.5833333333333334|69
+Bullish Engulfing|Entity|FE.US|12|0.5833333333333334|95
+Bullish Engulfing|Entity|VLY.US|12|0.5833333333333334|101
+Bullish Engulfing|Entity|BF-A.US|12|0.5833333333333334|168
+Bullish Engulfing|Industry|Auto Manufacturers|43|0.5813953488372093|11
+Bullish Engulfing|Industry|Insurance - Property & Casualty|93|0.5806451612903226|64
+Bullish Engulfing|Industry|Semiconductors|92|0.5760869565217391|20
+Bullish Engulfing|Industry|Engineering & Construction|99|0.5757575757575758|27
+Bullish Engulfing|Industry|Medical Devices|173|0.5722543352601156|24
+Bullish Engulfing|Entity|VIAV.US|14|0.5714285714285714|11
+Bullish Engulfing|Entity|MS.US|14|0.5714285714285714|12
+Bullish Engulfing|Entity|ANF.US|14|0.5714285714285714|15
+Bullish Engulfing|Entity|ADTN.US|14|0.5714285714285714|18
+Bullish Engulfing|Entity|IAC.US|14|0.5714285714285714|23
+Bullish Engulfing|Entity|TYL.US|14|0.5714285714285714|24
+Bullish Engulfing|Industry|REIT - Specialty|49|0.5714285714285714|27
+Bullish Engulfing|Entity|GILT.US|14|0.5714285714285714|27
+Bullish Engulfing|Entity|SEIC.US|14|0.5714285714285714|29
+Bullish Engulfing|Entity|HMN.US|14|0.5714285714285714|29
+Bullish Engulfing|Industry|Apparel Manufacturing|21|0.5714285714285714|34
+Bullish Engulfing|Entity|STC.US|14|0.5714285714285714|40
+Bullish Engulfing|Entity|KOF.US|14|0.5714285714285714|45
+Bullish Engulfing|Entity|TRC.US|14|0.5714285714285714|50
+Bullish Engulfing|Entity|RYN.US|14|0.5714285714285714|58
+Bullish Engulfing|Entity|LNT.US|21|0.5714285714285714|64
+Bullish Engulfing|Entity|WTBA.US|14|0.5714285714285714|64
+Bullish Engulfing|Industry|Packaged Foods|98|0.5714285714285714|82
+Bullish Engulfing|Industry|Specialty Business Services|67|0.5671641791044776|47
+Bullish Engulfing|Industry|Paper & Paper Products|23|0.5652173913043478|17
+Bullish Engulfing|Sector|Basic Materials|387|0.5633074935400517|29
+Bullish Engulfing|Entity|DOMH.US|16|0.5625|5
+Bullish Engulfing|Entity|VHI.US|16|0.5625|15
+Bullish Engulfing|Entity|AEIS.US|16|0.5625|15
+Bullish Engulfing|Entity|RRC.US|16|0.5625|16
+Bullish Engulfing|Industry|Aluminum|16|0.5625|16
+Bullish Engulfing|Industry|Utilities - Renewable|32|0.5625|29
+Bullish Engulfing|Entity|HES.US|16|0.5625|35
+Bullish Engulfing|Entity|UGI.US|16|0.5625|65
+Bullish Engulfing|Industry|Information Technology Services|137|0.5620437956204379|35
+Bullish Engulfing|Sector|Industrials|1259|0.5615567911040509|30
+Bullish Engulfing|Entity|VXRT.US|25|0.56|4
+Bullish Engulfing|Industry|Specialty Industrial Machinery|240|0.5583333333333333|40
+Bullish Engulfing|Entity|COLB.US|18|0.5555555555555556|28
+Bullish Engulfing|Entity|BKR.US|18|0.5555555555555556|29
+Bullish Engulfing|Entity|SXT.US|18|0.5555555555555556|77
+Bullish Engulfing|Industry|Industrial Distribution|56|0.5535714285714286|28
+Bullish Engulfing|Entity|BWEN.US|11|0.5454545454545454|4
+Bullish Engulfing|Entity|LABD.US|11|0.5454545454545454|5
+Bullish Engulfing|Entity|EFOI.US|11|0.5454545454545454|5
+Bullish Engulfing|Entity|HGEN.US|11|0.5454545454545454|9
+Bullish Engulfing|Entity|ENLC.US|11|0.5454545454545454|10
+Bullish Engulfing|Entity|ALKS.US|11|0.5454545454545454|10
+Bullish Engulfing|Entity|MTEX.US|11|0.5454545454545454|11
+Bullish Engulfing|Entity|SPB.US|11|0.5454545454545454|12
+Bullish Engulfing|Industry|Footwear & Accessories|22|0.5454545454545454|15
+Bullish Engulfing|Entity|BYD.US|11|0.5454545454545454|15
+Bullish Engulfing|Entity|UAA.US|11|0.5454545454545454|20
+Bullish Engulfing|Entity|CLB.US|11|0.5454545454545454|22
+Bullish Engulfing|Industry|Staffing & Employment Services|22|0.5454545454545454|23
+Bullish Engulfing|Entity|RDUS.US|11|0.5454545454545454|24
+Bullish Engulfing|Entity|TSN.US|11|0.5454545454545454|27
+Bullish Engulfing|Entity|OLN.US|11|0.5454545454545454|30
+Bullish Engulfing|Entity|PUK.US|11|0.5454545454545454|33
+Bullish Engulfing|Entity|MATV.US|11|0.5454545454545454|40
+Bullish Engulfing|Entity|EXPO.US|11|0.5454545454545454|48
+Bullish Engulfing|Entity|AKO-A.US|11|0.5454545454545454|49
+Bullish Engulfing|Entity|GIB.US|11|0.5454545454545454|52
+Bullish Engulfing|Industry|REIT - Healthcare Facilities|22|0.5454545454545454|57
+Bullish Engulfing|Entity|OCFC.US|11|0.5454545454545454|57
+Bullish Engulfing|Entity|GPC.US|11|0.5454545454545454|62
+Bullish Engulfing|Entity|SASR.US|11|0.5454545454545454|80
+Bullish Engulfing|Entity|ONB.US|11|0.5454545454545454|90
+Bullish Engulfing|Entity|RWT.US|11|0.5454545454545454|90
+Bullish Engulfing|Entity|EWU.US|11|0.5454545454545454|92
+Bullish Engulfing|Entity|CWT.US|11|0.5454545454545454|94
+Bullish Engulfing|Entity|AEP.US|11|0.5454545454545454|95
+Bullish Engulfing|Entity|LEE.US|11|0.5454545454545454|100
+Bullish Engulfing|Industry|Communication Equipment|114|0.543859649122807|27
+Bullish Engulfing|Industry|Restaurants|138|0.5434782608695652|35
+Bullish Engulfing|Industry|Metal Fabrication|37|0.5405405405405406|16
+Bullish Engulfing|Entity|SAH.US|13|0.5384615384615384|10
+Bullish Engulfing|Entity|BC.US|13|0.5384615384615384|10
+Bullish Engulfing|Entity|SLB.US|13|0.5384615384615384|13
+Bullish Engulfing|Entity|POWL.US|13|0.5384615384615384|18
+Bullish Engulfing|Entity|GEOS.US|13|0.5384615384615384|20
+Bullish Engulfing|Entity|RF.US|13|0.5384615384615384|26
+Bullish Engulfing|Entity|B.US|13|0.5384615384615384|29
+Bullish Engulfing|Entity|HNI.US|13|0.5384615384615384|30
+Bullish Engulfing|Industry|Business Equipment & Supplies|13|0.5384615384615384|30
+Bullish Engulfing|Entity|STX.US|13|0.5384615384615384|30
+Bullish Engulfing|Entity|AY.US|13|0.5384615384615384|33
+Bullish Engulfing|Industry|Real Estate - Diversified|13|0.5384615384615384|38
+Bullish Engulfing|Entity|UPBD.US|13|0.5384615384615384|41
+Bullish Engulfing|Entity|CHE.US|13|0.5384615384615384|46
+Bullish Engulfing|Entity|AWR.US|13|0.5384615384615384|57
+Bullish Engulfing|Entity|CVX.US|13|0.5384615384615384|59
+Bullish Engulfing|Entity|T.US|13|0.5384615384615384|81
+Bullish Engulfing|Entity|EVRG.US|13|0.5384615384615384|91
+Bullish Engulfing|Industry|Apparel Retail|136|0.5367647058823529|21
+Bullish Engulfing|Sector|Consumer Cyclical|1144|0.5340909090909091|24
+Bullish Engulfing|Industry|Medical Instruments & Supplies|148|0.5337837837837838|35
+Bullish Engulfing|Entity|GOLD.US|15|0.5333333333333333|15
+Bullish Engulfing|Entity|SM.US|15|0.5333333333333333|22
+Bullish Engulfing|Entity|SUI.US|15|0.5333333333333333|39
+Bullish Engulfing|Entity|EQR.US|15|0.5333333333333333|49
+Bullish Engulfing|Industry|Utilities - Regulated Water|45|0.5333333333333333|74
+Bullish Engulfing|Entity|SNV.US|15|0.5333333333333333|75
+Bullish Engulfing|Entity|FFBC.US|15|0.5333333333333333|83
+Bullish Engulfing|Entity|MYY.US|15|0.5333333333333333|84
+Bullish Engulfing|Entity|KIM.US|15|0.5333333333333333|89
+Bullish Engulfing|Entity|NPK.US|15|0.5333333333333333|105
+Bullish Engulfing|Entity|HE.US|15|0.5333333333333333|110
+Bullish Engulfing|Sector|Communication Services|360|0.5305555555555556|26
+Bullish Engulfing|Entity|IPAR.US|17|0.5294117647058824|23
+Bullish Engulfing|Industry|Oil & Gas E&P|153|0.5294117647058824|28
+Bullish Engulfing|Entity|SHEN.US|17|0.5294117647058824|37
+Bullish Engulfing|Entity|PCH.US|17|0.5294117647058824|42
+Bullish Engulfing|Entity|EXC.US|17|0.5294117647058824|46
+Bullish Engulfing|Entity|GLT.US|19|0.5263157894736842|18
+Bullish Engulfing|Entity|BANR.US|19|0.5263157894736842|55
+Bullish Engulfing|Industry|Gambling|21|0.5238095238095238|17
+Bullish Engulfing|Industry|Consulting Services|65|0.5230769230769231|29
+Bullish Engulfing|Sector|Technology|1059|0.52219074598678|23
+Bullish Engulfing|Industry|Pollution & Treatment Controls|23|0.5217391304347826|34
+Bullish Engulfing|Industry|Farm Products|46|0.5217391304347826|46
+Bullish Engulfing|Industry|Oil & Gas Integrated|46|0.5217391304347826|58
+Bullish Engulfing|Sector|Energy|459|0.5206971677559913|34
+Bullish Engulfing|Sector|Financial Services|1598|0.5206508135168961|56
+Bullish Engulfing|Industry|Electronics & Computer Distribution|25|0.52|28
+Bullish Engulfing|Industry|REIT - Office|108|0.5185185185185185|65
+Bullish Engulfing|Sector|Consumer Defensive|435|0.5172413793103449|55
+Bullish Engulfing|Industry|Banks - Regional|812|0.5160098522167488|54
+Bullish Engulfing|Industry|Insurance Brokers|66|0.5151515151515151|74
+Bullish Engulfing|Industry|Credit Services|76|0.5131578947368421|24
+Bullish Engulfing|Overall|All|26521|0.5120847630179858|52
+Bullish Engulfing|Industry|Capital Markets|49|0.5102040816326531|19
+Bullish Engulfing|Industry|Software - Infrastructure|175|0.5028571428571429|22
+Bullish Engulfing|Entity|ABEO.US|14|0.5|4
+Bullish Engulfing|Entity|NVAX.US|10|0.5|5
+Bullish Engulfing|Entity|DRIO.US|10|0.5|5
+Bullish Engulfing|Entity|MLCO.US|14|0.5|6
+Bullish Engulfing|Entity|DRRX.US|10|0.5|6
+Bullish Engulfing|Entity|ICAD.US|10|0.5|6
+Bullish Engulfing|Entity|GRPN.US|12|0.5|6
+Bullish Engulfing|Entity|SINT.US|10|0.5|6
+Bullish Engulfing|Entity|VANI.US|10|0.5|8
+Bullish Engulfing|Entity|NKTR.US|12|0.5|8
+Bullish Engulfing|Entity|NOG.US|10|0.5|9
+Bullish Engulfing|Entity|DGLY.US|10|0.5|9
+Bullish Engulfing|Entity|RICK.US|12|0.5|10
+Bullish Engulfing|Entity|DRS.US|10|0.5|10
+Bullish Engulfing|Entity|XOMA.US|14|0.5|10
+Bullish Engulfing|Entity|PLCE.US|16|0.5|11
+Bullish Engulfing|Entity|CPA.US|10|0.5|11
+Bullish Engulfing|Entity|HOV.US|16|0.5|11
+Bullish Engulfing|Entity|GIC.US|14|0.5|11
+Bullish Engulfing|Entity|DVAX.US|10|0.5|11
+Bullish Engulfing|Entity|GBCI.US|14|0.5|11
+Bullish Engulfing|Entity|USAP.US|10|0.5|12
+Bullish Engulfing|Entity|SMG.US|14|0.5|12
+Bullish Engulfing|Entity|RARE.US|14|0.5|13
+Bullish Engulfing|Entity|FSLR.US|10|0.5|13
+Bullish Engulfing|Entity|DRV.US|14|0.5|14
+Bullish Engulfing|Entity|LEN.US|14|0.5|14
+Bullish Engulfing|Entity|ADBE.US|12|0.5|16
+Bullish Engulfing|Entity|KEY.US|12|0.5|16
+Bullish Engulfing|Entity|CRS.US|10|0.5|16
+Bullish Engulfing|Entity|SCO.US|10|0.5|17
+Bullish Engulfing|Entity|ONCY.US|10|0.5|17
+Bullish Engulfing|Entity|BH.US|10|0.5|17
+Bullish Engulfing|Entity|NOC.US|14|0.5|18
+Bullish Engulfing|Entity|ITRI.US|16|0.5|19
+Bullish Engulfing|Entity|NBR.US|12|0.5|19
+Bullish Engulfing|Sector|Healthcare|1644|0.5|19
+Bullish Engulfing|Entity|PKOH.US|12|0.5|19
+Bullish Engulfing|Entity|HIBB.US|10|0.5|21
+Bullish Engulfing|Entity|MRCY.US|12|0.5|21
+Bullish Engulfing|Entity|POWI.US|12|0.5|22
+Bullish Engulfing|Entity|MUR.US|14|0.5|22
+Bullish Engulfing|Entity|AMZN.US|10|0.5|22
+Bullish Engulfing|Entity|STT.US|10|0.5|23
+Bullish Engulfing|Entity|ZION.US|18|0.5|23
+Bullish Engulfing|Entity|INTC.US|14|0.5|24
+Bullish Engulfing|Entity|ATI.US|10|0.5|24
+Bullish Engulfing|Entity|AB.US|14|0.5|26
+Bullish Engulfing|Entity|PRDO.US|12|0.5|26
+Bullish Engulfing|Entity|TCI.US|12|0.5|27
+Bullish Engulfing|Entity|WBD.US|10|0.5|27
+Bullish Engulfing|Entity|BELFB.US|12|0.5|28
+Bullish Engulfing|Entity|RL.US|10|0.5|28
+Bullish Engulfing|Industry|Advertising Agencies|60|0.5|29
+Bullish Engulfing|Entity|CBU.US|12|0.5|30
+Bullish Engulfing|Entity|WTS.US|14|0.5|30
+Bullish Engulfing|Entity|REGN.US|12|0.5|30
+Bullish Engulfing|Entity|IOSP.US|12|0.5|30
+Bullish Engulfing|Entity|SAM.US|10|0.5|32
+Bullish Engulfing|Entity|NKE.US|10|0.5|33
+Bullish Engulfing|Entity|BLMN.US|10|0.5|33
+Bullish Engulfing|Entity|CSGS.US|10|0.5|34
+Bullish Engulfing|Entity|QRVO.US|10|0.5|34
+Bullish Engulfing|Entity|WGO.US|16|0.5|35
+Bullish Engulfing|Entity|NWN.US|12|0.5|35
+Bullish Engulfing|Entity|AOS.US|10|0.5|36
+Bullish Engulfing|Entity|MZZ.US|16|0.5|36
+Bullish Engulfing|Entity|SUP.US|10|0.5|38
+Bullish Engulfing|Entity|VMI.US|12|0.5|38
+Bullish Engulfing|Entity|BEN.US|12|0.5|38
+Bullish Engulfing|Entity|HRB.US|14|0.5|40
+Bullish Engulfing|Entity|NTGR.US|14|0.5|44
+Bullish Engulfing|Entity|LEG.US|24|0.5|46
+Bullish Engulfing|Entity|WFC.US|10|0.5|47
+Bullish Engulfing|Entity|VNO.US|14|0.5|47
+Bullish Engulfing|Entity|TXT.US|10|0.5|47
+Bullish Engulfing|Entity|NNI.US|10|0.5|48
+Bullish Engulfing|Entity|ODC.US|10|0.5|52
+Bullish Engulfing|Entity|IBB.US|12|0.5|54
+Bullish Engulfing|Entity|FARM.US|10|0.5|63
+Bullish Engulfing|Entity|NEM.US|14|0.5|64
+Bullish Engulfing|Entity|DHIL.US|10|0.5|69
+Bullish Engulfing|Entity|SYY.US|10|0.5|71
+Bullish Engulfing|Entity|PFS.US|12|0.5|88
+Bullish Engulfing|Entity|DLX.US|10|0.5|93
+Bullish Engulfing|Entity|XHB.US|12|0.5|98
+Bullish Engulfing|Entity|IYR.US|12|0.5|100
+Bullish Engulfing|Entity|WDFC.US|16|0.5|132
+Bullish Engulfing|Entity|EQC.US|10|0.5|133
+Bullish Engulfing|Entity|VZ.US|12|0.5|142
+Bullish Engulfing|Entity|KBE.US|10|0.5|206
+Bullish Engulfing|Entity|TLH.US|10|0.5|550
+Bullish Engulfing|Industry|Oil & Gas Refining & Marketing|45|0.4888888888888889|42
+Bullish Engulfing|Industry|Leisure|43|0.4883720930232558|20
+Bullish Engulfing|Industry|Beverages - Non-Alcoholic|37|0.4864864864864865|48
+Bullish Engulfing|Industry|Residential Construction|68|0.4852941176470588|14
+Bullish Engulfing|Industry|Health Information Services|31|0.4838709677419355|23
+Bullish Engulfing|Industry|Solar|27|0.48148148148148145|8
+Bullish Engulfing|Sector|Real Estate|540|0.48148148148148145|52
+Bullish Engulfing|Industry|Semiconductor Equipment & Materials|52|0.4807692307692308|14
+Bullish Engulfing|Industry|Discount Stores|46|0.4782608695652174|40
+Bullish Engulfing|Industry|Recreational Vehicles|44|0.4772727272727273|18
+Bullish Engulfing|Industry|REIT - Retail|65|0.47692307692307695|62
+Bullish Engulfing|Industry|Food Distribution|21|0.47619047619047616|12
+Bullish Engulfing|Industry|Airlines|42|0.47619047619047616|17
+Bullish Engulfing|Industry|Diagnostics & Research|141|0.475177304964539|20
+Bullish Engulfing|Industry|Trucking|19|0.47368421052631576|16
+Bullish Engulfing|Entity|GPS.US|19|0.47368421052631576|23
+Bullish Engulfing|Entity|PHM.US|19|0.47368421052631576|30
+Bullish Engulfing|Entity|GIS.US|19|0.47368421052631576|161
+Bullish Engulfing|Industry|Software - Application|279|0.4731182795698925|17
+Bullish Engulfing|Industry|Farm & Heavy Construction Machinery|72|0.4722222222222222|17
+Bullish Engulfing|Industry|Agricultural Inputs|36|0.4722222222222222|22
+Bullish Engulfing|Industry|Asset Management|263|0.4714828897338403|62
+Bullish Engulfing|Industry|Drug Manufacturers - Specialty & Generic|187|0.47058823529411764|10
+Bullish Engulfing|Entity|AEE.US|17|0.47058823529411764|61
+Bullish Engulfing|Industry|Rental & Leasing Services|47|0.46808510638297873|28
+Bullish Engulfing|Entity|SEAC.US|15|0.4666666666666667|11
+Bullish Engulfing|Entity|VICR.US|15|0.4666666666666667|17
+Bullish Engulfing|Entity|ZEUS.US|15|0.4666666666666667|17
+Bullish Engulfing|Entity|TZOO.US|15|0.4666666666666667|18
+Bullish Engulfing|Entity|ROG.US|15|0.4666666666666667|20
+Bullish Engulfing|Entity|HWC.US|15|0.4666666666666667|38
+Bullish Engulfing|Entity|MBI.US|15|0.4666666666666667|44
+Bullish Engulfing|Industry|REIT - Mortgage|45|0.4666666666666667|49
+Bullish Engulfing|Entity|BIO.US|15|0.4666666666666667|66
+Bullish Engulfing|Industry|Insurance - Diversified|56|0.4642857142857143|132
+Bullish Engulfing|Entity|RGEN.US|13|0.46153846153846156|8
+Bullish Engulfing|Entity|ASUR.US|13|0.46153846153846156|10
+Bullish Engulfing|Entity|TPC.US|13|0.46153846153846156|10
+Bullish Engulfing|Entity|ACOR.US|13|0.46153846153846156|18
+Bullish Engulfing|Entity|SOHU.US|13|0.46153846153846156|19
+Bullish Engulfing|Entity|SIL.US|13|0.46153846153846156|21
+Bullish Engulfing|Entity|RCI.US|13|0.46153846153846156|22
+Bullish Engulfing|Entity|GBX.US|13|0.46153846153846156|22
+Bullish Engulfing|Entity|JBL.US|13|0.46153846153846156|24
+Bullish Engulfing|Entity|SCL.US|13|0.46153846153846156|24
+Bullish Engulfing|Entity|EGAN.US|13|0.46153846153846156|26
+Bullish Engulfing|Entity|AAPL.US|13|0.46153846153846156|28
+Bullish Engulfing|Entity|PAYX.US|13|0.46153846153846156|34
+Bullish Engulfing|Industry|REIT - Industrial|39|0.46153846153846156|35
+Bullish Engulfing|Entity|NDSN.US|13|0.46153846153846156|37
+Bullish Engulfing|Entity|AVT.US|13|0.46153846153846156|40
+Bullish Engulfing|Entity|DCOM.US|13|0.46153846153846156|42
+Bullish Engulfing|Entity|UBSI.US|13|0.46153846153846156|43
+Bullish Engulfing|Industry|Personal Services|26|0.46153846153846156|43
+Bullish Engulfing|Entity|STBA.US|13|0.46153846153846156|58
+Bullish Engulfing|Entity|LMT.US|13|0.46153846153846156|80
+Bullish Engulfing|Entity|ETR.US|13|0.46153846153846156|81
+Bullish Engulfing|Industry|Gold|89|0.4606741573033708|22
+Bullish Engulfing|Industry|Real Estate Services|50|0.46|16
+Bullish Engulfing|Industry|Oil & Gas Equipment & Services|98|0.45918367346938777|24
+Bullish Engulfing|Entity|ODP.US|11|0.45454545454545453|8
+Bullish Engulfing|Entity|SMSI.US|11|0.45454545454545453|8
+Bullish Engulfing|Entity|CTRN.US|11|0.45454545454545453|11
+Bullish Engulfing|Entity|GEG.US|11|0.45454545454545453|11
+Bullish Engulfing|Entity|BWA.US|11|0.45454545454545453|13
+Bullish Engulfing|Entity|IRM.US|11|0.45454545454545453|13
+Bullish Engulfing|Entity|ETD.US|11|0.45454545454545453|15
+Bullish Engulfing|Entity|ARWR.US|11|0.45454545454545453|15
+Bullish Engulfing|Entity|GEL.US|11|0.45454545454545453|16
+Bullish Engulfing|Industry|Conglomerates|33|0.45454545454545453|18
+Bullish Engulfing|Entity|APA.US|11|0.45454545454545453|18
+Bullish Engulfing|Entity|MKSI.US|11|0.45454545454545453|19
+Bullish Engulfing|Entity|INCY.US|11|0.45454545454545453|19
+Bullish Engulfing|Entity|AGM.US|11|0.45454545454545453|21
+Bullish Engulfing|Entity|SRDX.US|11|0.45454545454545453|21
+Bullish Engulfing|Entity|NVEC.US|11|0.45454545454545453|22
+Bullish Engulfing|Entity|LII.US|11|0.45454545454545453|22
+Bullish Engulfing|Entity|TXRH.US|11|0.45454545454545453|24
+Bullish Engulfing|Entity|WRB.US|11|0.45454545454545453|25
+Bullish Engulfing|Entity|ALCO.US|11|0.45454545454545453|45
+Bullish Engulfing|Entity|PNR.US|11|0.45454545454545453|47
+Bullish Engulfing|Entity|VTRS.US|11|0.45454545454545453|56
+Bullish Engulfing|Entity|TKR.US|11|0.45454545454545453|56
+Bullish Engulfing|Entity|NEE.US|11|0.45454545454545453|63
+Bullish Engulfing|Entity|MAC.US|11|0.45454545454545453|64
+Bullish Engulfing|Entity|XOM.US|11|0.45454545454545453|68
+Bullish Engulfing|Entity|COP.US|11|0.45454545454545453|78
+Bullish Engulfing|Entity|PWOD.US|11|0.45454545454545453|114
+Bullish Engulfing|Industry|Railroads|31|0.45161290322580644|28
+Bullish Engulfing|Industry|Electronic Gaming & Multimedia|40|0.45|13
+Bullish Engulfing|Entity|TSAT.US|20|0.45|61
+Bullish Engulfing|Industry|Biotechnology|743|0.44818304172274565|8
+Bullish Engulfing|Entity|TZA.US|18|0.4444444444444444|13
+Bullish Engulfing|Entity|MOS.US|18|0.4444444444444444|15
+Bullish Engulfing|Entity|TOL.US|18|0.4444444444444444|54
+Bullish Engulfing|Entity|SOXS.US|16|0.4375|5
+Bullish Engulfing|Entity|SSYS.US|16|0.4375|14
+Bullish Engulfing|Entity|USNA.US|16|0.4375|19
+Bullish Engulfing|Entity|AXL.US|16|0.4375|24
+Bullish Engulfing|Entity|UNG.US|16|0.4375|30
+Bullish Engulfing|Industry|REIT - Residential|80|0.4375|86
+Bullish Engulfing|Entity|K.US|16|0.4375|92
+Bullish Engulfing|Industry|Education & Training Services|46|0.43478260869565216|20
+Bullish Engulfing|Entity|SKF.US|23|0.43478260869565216|25
+Bullish Engulfing|Industry|Internet Retail|72|0.4305555555555556|18
+Bullish Engulfing|Entity|BB.US|14|0.42857142857142855|8
+Bullish Engulfing|Entity|CCL.US|14|0.42857142857142855|12
+Bullish Engulfing|Entity|CAL.US|14|0.42857142857142855|13
+Bullish Engulfing|Entity|CAMP.US|14|0.42857142857142855|13
+Bullish Engulfing|Entity|FOSL.US|14|0.42857142857142855|14
+Bullish Engulfing|Entity|DRQ.US|14|0.42857142857142855|17
+Bullish Engulfing|Entity|UAN.US|14|0.42857142857142855|18
+Bullish Engulfing|Entity|R.US|14|0.42857142857142855|20
+Bullish Engulfing|Entity|ITT.US|14|0.42857142857142855|22
+Bullish Engulfing|Entity|PAAS.US|14|0.42857142857142855|23
+Bullish Engulfing|Entity|PEGA.US|14|0.42857142857142855|25
+Bullish Engulfing|Entity|FELE.US|14|0.42857142857142855|29
+Bullish Engulfing|Entity|STRA.US|14|0.42857142857142855|32
+Bullish Engulfing|Entity|BCH.US|14|0.42857142857142855|44
+Bullish Engulfing|Entity|ASA.US|14|0.42857142857142855|46
+Bullish Engulfing|Entity|HQL.US|14|0.42857142857142855|55
+Bullish Engulfing|Entity|KMB.US|14|0.42857142857142855|121
+Bullish Engulfing|Industry|Furnishings, Fixtures & Appliances|78|0.4230769230769231|17
+Bullish Engulfing|Entity|EXAS.US|19|0.42105263157894735|7
+Bullish Engulfing|Entity|TWM.US|19|0.42105263157894735|14
+Bullish Engulfing|Entity|ASRT.US|12|0.4166666666666667|9
+Bullish Engulfing|Entity|TEO.US|12|0.4166666666666667|9
+Bullish Engulfing|Entity|AMRN.US|12|0.4166666666666667|10
+Bullish Engulfing|Entity|TRIB.US|12|0.4166666666666667|14
+Bullish Engulfing|Entity|IPI.US|12|0.4166666666666667|14
+Bullish Engulfing|Entity|TV.US|12|0.4166666666666667|15
+Bullish Engulfing|Entity|CRK.US|12|0.4166666666666667|20
+Bullish Engulfing|Industry|Consumer Electronics|24|0.4166666666666667|20
+Bullish Engulfing|Entity|MMS.US|12|0.4166666666666667|21
+Bullish Engulfing|Entity|NGS.US|12|0.4166666666666667|22
+Bullish Engulfing|Entity|MGA.US|12|0.4166666666666667|24
+Bullish Engulfing|Entity|FMC.US|12|0.4166666666666667|37
+Bullish Engulfing|Entity|GGG.US|12|0.4166666666666667|38
+Bullish Engulfing|Entity|TKO.US|12|0.4166666666666667|40
+Bullish Engulfing|Entity|MAN.US|12|0.4166666666666667|42
+Bullish Engulfing|Entity|CRAI.US|12|0.4166666666666667|43
+Bullish Engulfing|Industry|Beverages - Brewers|12|0.4166666666666667|61
+Bullish Engulfing|Entity|FRT.US|12|0.4166666666666667|103
+Bullish Engulfing|Entity|GAM.US|12|0.4166666666666667|120
+Bullish Engulfing|Entity|NTCT.US|17|0.4117647058823529|16
+Bullish Engulfing|Entity|WOLF.US|17|0.4117647058823529|17
+Bullish Engulfing|Industry|Luxury Goods|17|0.4117647058823529|18
+Bullish Engulfing|Entity|HHS.US|17|0.4117647058823529|26
+Bullish Engulfing|Entity|TRMB.US|17|0.4117647058823529|26
+Bullish Engulfing|Entity|BIS.US|17|0.4117647058823529|33
+Bullish Engulfing|Entity|VRE.US|17|0.4117647058823529|75
+Bullish Engulfing|Entity|HOG.US|22|0.4090909090909091|29
+Bullish Engulfing|Industry|Marine Shipping|42|0.40476190476190477|8
+Bullish Engulfing|Entity|CRDF.US|10|0.4|5
+Bullish Engulfing|Entity|BYON.US|15|0.4|6
+Bullish Engulfing|Entity|MIND.US|10|0.4|7
+Bullish Engulfing|Entity|FNGD.US|10|0.4|7
+Bullish Engulfing|Entity|INGN.US|10|0.4|9
+Bullish Engulfing|Entity|DK.US|10|0.4|11
+Bullish Engulfing|Entity|RNST.US|10|0.4|12
+Bullish Engulfing|Entity|LL.US|10|0.4|12
+Bullish Engulfing|Industry|Internet Content & Information|90|0.4|13
+Bullish Engulfing|Entity|INSM.US|10|0.4|14
+Bullish Engulfing|Entity|LUMO.US|10|0.4|14
+Bullish Engulfing|Entity|AMWD.US|15|0.4|15
+Bullish Engulfing|Entity|COHR.US|10|0.4|15
+Bullish Engulfing|Entity|MTH.US|15|0.4|16
+Bullish Engulfing|Entity|NWPX.US|15|0.4|19
+Bullish Engulfing|Entity|APEI.US|10|0.4|26
+Bullish Engulfing|Entity|FHN.US|10|0.4|28
+Bullish Engulfing|Entity|FAZ.US|15|0.4|29
+Bullish Engulfing|Entity|BECN.US|10|0.4|31
+Bullish Engulfing|Entity|WHG.US|10|0.4|32
+Bullish Engulfing|Entity|CMA.US|10|0.4|32
+Bullish Engulfing|Entity|SPOK.US|10|0.4|34
+Bullish Engulfing|Entity|TD.US|10|0.4|34
+Bullish Engulfing|Entity|HCI.US|10|0.4|36
+Bullish Engulfing|Entity|UFCS.US|10|0.4|36
+Bullish Engulfing|Entity|BBWI.US|15|0.4|37
+Bullish Engulfing|Entity|GRC.US|15|0.4|37
+Bullish Engulfing|Entity|PNM.US|15|0.4|38
+Bullish Engulfing|Entity|CMTL.US|10|0.4|44
+Bullish Engulfing|Entity|ESS.US|10|0.4|47
+Bullish Engulfing|Entity|FCNCA.US|10|0.4|49
+Bullish Engulfing|Entity|MAT.US|10|0.4|55
+Bullish Engulfing|Entity|EBAY.US|10|0.4|61
+Bullish Engulfing|Entity|CL.US|15|0.4|78
+Bullish Engulfing|Entity|AVB.US|10|0.4|91
+Bullish Engulfing|Entity|TBI.US|18|0.3888888888888889|22
+Bullish Engulfing|Entity|FORM.US|13|0.38461538461538464|13
+Bullish Engulfing|Entity|TECK.US|13|0.38461538461538464|17
+Bullish Engulfing|Entity|YPF.US|13|0.38461538461538464|21
+Bullish Engulfing|Entity|BJRI.US|13|0.38461538461538464|28
+Bullish Engulfing|Entity|MCK.US|13|0.38461538461538464|36
+Bullish Engulfing|Entity|HOFT.US|13|0.38461538461538464|42
+Bullish Engulfing|Entity|STRT.US|13|0.38461538461538464|46
+Bullish Engulfing|Entity|TR.US|13|0.38461538461538464|108
+Bullish Engulfing|Entity|BRK-B.US|13|0.38461538461538464|270
+Bullish Engulfing|Entity|QID.US|34|0.38235294117647056|32
+Bullish Engulfing|Industry|REIT - Diversified|21|0.38095238095238093|44
+Bullish Engulfing|Entity|SQQQ.US|29|0.3793103448275862|17
+Bullish Engulfing|Entity|CDE.US|16|0.375|6
+Bullish Engulfing|Entity|ANIK.US|16|0.375|18
+Bullish Engulfing|Entity|BPOP.US|16|0.375|26
+Bullish Engulfing|Sector|Financials|16|0.375|179
+Bullish Engulfing|Industry|Investment Banking & Investment Services|16|0.375|179
+Bullish Engulfing|Entity|SIJ.US|19|0.3684210526315789|47
+Bullish Engulfing|Entity|AGCO.US|11|0.36363636363636365|2
+Bullish Engulfing|Entity|ATOS.US|11|0.36363636363636365|3
+Bullish Engulfing|Entity|HEAR.US|11|0.36363636363636365|7
+Bullish Engulfing|Entity|SSKN.US|11|0.36363636363636365|7
+Bullish Engulfing|Entity|AMSC.US|11|0.36363636363636365|10
+Bullish Engulfing|Entity|GTLS.US|11|0.36363636363636365|12
+Bullish Engulfing|Entity|CAR.US|11|0.36363636363636365|12
+Bullish Engulfing|Entity|BHC.US|11|0.36363636363636365|14
+Bullish Engulfing|Entity|SYNA.US|11|0.36363636363636365|16
+Bullish Engulfing|Entity|TTEC.US|11|0.36363636363636365|17
+Bullish Engulfing|Entity|FORR.US|11|0.36363636363636365|18
+Bullish Engulfing|Entity|BDC.US|11|0.36363636363636365|23
+Bullish Engulfing|Entity|EGP.US|11|0.36363636363636365|24
+Bullish Engulfing|Entity|NUS.US|11|0.36363636363636365|27
+Bullish Engulfing|Entity|IFF.US|11|0.36363636363636365|30
+Bullish Engulfing|Entity|UNF.US|11|0.36363636363636365|36
+Bullish Engulfing|Entity|ALX.US|11|0.36363636363636365|43
+Bullish Engulfing|Entity|CAKE.US|11|0.36363636363636365|49
+Bullish Engulfing|Entity|DOC.US|11|0.36363636363636365|49
+Bullish Engulfing|Entity|JNJ.US|11|0.36363636363636365|188
+Bullish Engulfing|Entity|TDW.US|14|0.35714285714285715|7
+Bullish Engulfing|Entity|TAOP.US|14|0.35714285714285715|12
+Bullish Engulfing|Entity|VECO.US|14|0.35714285714285715|18
+Bullish Engulfing|Entity|FFIV.US|14|0.35714285714285715|23
+Bullish Engulfing|Entity|WSBC.US|14|0.35714285714285715|40
+Bullish Engulfing|Entity|NSIT.US|14|0.35714285714285715|49
+Bullish Engulfing|Entity|RRGB.US|17|0.35294117647058826|7
+Bullish Engulfing|Entity|EHTH.US|17|0.35294117647058826|7
+Bullish Engulfing|Entity|TECS.US|17|0.35294117647058826|9
+Bullish Engulfing|Entity|JWN.US|17|0.35294117647058826|21
+Bullish Engulfing|Entity|OPY.US|17|0.35294117647058826|42
+Bullish Engulfing|Entity|RWM.US|23|0.34782608695652173|131
+Bullish Engulfing|Industry|Auto Parts|78|0.34615384615384615|20
+Bullish Engulfing|Entity|ATLC.US|12|0.3333333333333333|4
+Bullish Engulfing|Entity|MBIO.US|12|0.3333333333333333|6
+Bullish Engulfing|Entity|SLAB.US|12|0.3333333333333333|8
+Bullish Engulfing|Entity|ELDN.US|12|0.3333333333333333|8
+Bullish Engulfing|Entity|MHO.US|12|0.3333333333333333|8
+Bullish Engulfing|Entity|DIN.US|15|0.3333333333333333|17
+Bullish Engulfing|Entity|KTOS.US|12|0.3333333333333333|18
+Bullish Engulfing|Entity|LGND.US|12|0.3333333333333333|20
+Bullish Engulfing|Entity|TRMK.US|12|0.3333333333333333|24
+Bullish Engulfing|Entity|CRT.US|12|0.3333333333333333|42
+Bullish Engulfing|Entity|IDU.US|12|0.3333333333333333|50
+Bullish Engulfing|Entity|HSY.US|15|0.3333333333333333|72
+Bullish Engulfing|Industry|Confectioners|15|0.3333333333333333|72
+Bullish Engulfing|Entity|HDGE.US|15|0.3333333333333333|112
+Bullish Engulfing|Entity|SPWR.US|16|0.3125|11
+Bullish Engulfing|Entity|REW.US|16|0.3125|26
+Bullish Engulfing|Entity|KRC.US|16|0.3125|44
+Bullish Engulfing|Entity|JOE.US|16|0.3125|61
+Bullish Engulfing|Entity|CGA.US|13|0.3076923076923077|6
+Bullish Engulfing|Entity|INSG.US|13|0.3076923076923077|9
+Bullish Engulfing|Entity|KBH.US|13|0.3076923076923077|12
+Bullish Engulfing|Entity|MHK.US|13|0.3076923076923077|14
+Bullish Engulfing|Entity|SXI.US|13|0.3076923076923077|16
+Bullish Engulfing|Entity|ZSL.US|13|0.3076923076923077|17
+Bullish Engulfing|Entity|AU.US|13|0.3076923076923077|21
+Bullish Engulfing|Entity|UNM.US|13|0.3076923076923077|23
+Bullish Engulfing|Entity|FL.US|13|0.3076923076923077|38
+Bullish Engulfing|Entity|TARO.US|13|0.3076923076923077|42
+Bullish Engulfing|Entity|SVC.US|13|0.3076923076923077|44
+Bullish Engulfing|Entity|MRK.US|13|0.3076923076923077|48
+Bullish Engulfing|Entity|HTH.US|13|0.3076923076923077|49
+Bullish Engulfing|Entity|SNBR.US|10|0.3|4
+Bullish Engulfing|Entity|FTK.US|10|0.3|4
+Bullish Engulfing|Entity|SNCR.US|10|0.3|4
+Bullish Engulfing|Entity|SQM.US|10|0.3|8
+Bullish Engulfing|Entity|GREE.US|10|0.3|9
+Bullish Engulfing|Entity|OPCH.US|10|0.3|9
+Bullish Engulfing|Entity|EGO.US|10|0.3|9
+Bullish Engulfing|Entity|CCJ.US|10|0.3|10
+Bullish Engulfing|Industry|Uranium|10|0.3|10
+Bullish Engulfing|Entity|VRA.US|10|0.3|13
+Bullish Engulfing|Entity|MTEM.US|10|0.3|14
+Bullish Engulfing|Entity|PARAA.US|20|0.3|17
+Bullish Engulfing|Entity|JLL.US|10|0.3|19
+Bullish Engulfing|Entity|GPI.US|10|0.3|21
+Bullish Engulfing|Entity|JBSS.US|10|0.3|25
+Bullish Engulfing|Entity|SLG.US|10|0.3|33
+Bullish Engulfing|Entity|CP.US|10|0.3|33
+Bullish Engulfing|Entity|RXD.US|10|0.3|34
+Bullish Engulfing|Entity|BANC.US|10|0.3|34
+Bullish Engulfing|Entity|MDC.US|20|0.3|36
+Bullish Engulfing|Entity|SDS.US|30|0.3|49
+Bullish Engulfing|Entity|SBR.US|10|0.3|71
+Bullish Engulfing|Entity|IBCP.US|10|0.3|73
+Bullish Engulfing|Entity|VOD.US|10|0.3|92
+Bullish Engulfing|Entity|AGEN.US|14|0.2857142857142857|13
+Bullish Engulfing|Entity|EQT.US|14|0.2857142857142857|20
+Bullish Engulfing|Entity|MU.US|14|0.2857142857142857|26
+Bullish Engulfing|Industry|Mortgage Finance|14|0.2857142857142857|28
+Bullish Engulfing|Sector|Other|14|0.2857142857142857|30
+Bullish Engulfing|Industry|Other|14|0.2857142857142857|30
+Bullish Engulfing|Entity|VRSN.US|14|0.2857142857142857|44
+Bullish Engulfing|Entity|SPXU.US|25|0.28|23
+Bullish Engulfing|Entity|GOGL.US|11|0.2727272727272727|5
+Bullish Engulfing|Entity|CDMO.US|11|0.2727272727272727|6
+Bullish Engulfing|Entity|PRM.US|11|0.2727272727272727|7
+Bullish Engulfing|Entity|AMG.US|11|0.2727272727272727|12
+Bullish Engulfing|Entity|BLNK.US|11|0.2727272727272727|15
+Bullish Engulfing|Entity|CMCT.US|11|0.2727272727272727|16
+Bullish Engulfing|Entity|ON.US|11|0.2727272727272727|17
+Bullish Engulfing|Entity|CPF.US|11|0.2727272727272727|21
+Bullish Engulfing|Entity|NLY.US|11|0.2727272727272727|22
+Bullish Engulfing|Entity|FUN.US|11|0.2727272727272727|22
+Bullish Engulfing|Entity|NWL.US|11|0.2727272727272727|23
+Bullish Engulfing|Entity|SRS.US|22|0.2727272727272727|28
+Bullish Engulfing|Entity|AOSL.US|11|0.2727272727272727|28
+Bullish Engulfing|Entity|KFS.US|11|0.2727272727272727|49
+Bullish Engulfing|Entity|PSQ.US|33|0.2727272727272727|54
+Bullish Engulfing|Entity|HAE.US|11|0.2727272727272727|55
+Bullish Engulfing|Entity|ELME.US|11|0.2727272727272727|56
+Bullish Engulfing|Entity|FITB.US|11|0.2727272727272727|79
+Bullish Engulfing|Entity|O.US|11|0.2727272727272727|103
+Bullish Engulfing|Entity|LNW.US|15|0.26666666666666666|17
+Bullish Engulfing|Entity|AWH.US|12|0.25|5
+Bullish Engulfing|Entity|ROCK.US|12|0.25|37
+Bullish Engulfing|Entity|SH.US|25|0.24|80
+Bullish Engulfing|Entity|DXD.US|21|0.23809523809523808|57
+Bullish Engulfing|Entity|NYT.US|17|0.23529411764705882|62
+Bullish Engulfing|Entity|ONTO.US|13|0.23076923076923078|10
+Bullish Engulfing|Industry|Thermal Coal|13|0.23076923076923078|23
+Bullish Engulfing|Entity|DINO.US|13|0.23076923076923078|24
+Bullish Engulfing|Entity|GLL.US|14|0.21428571428571427|46
+Bullish Engulfing|Entity|SBB.US|14|0.21428571428571427|47
+Bullish Engulfing|Entity|SDOW.US|19|0.21052631578947367|32
+Bullish Engulfing|Entity|ASAP.US|10|0.2|1
+Bullish Engulfing|Entity|ICLK.US|10|0.2|4
+Bullish Engulfing|Entity|TUP.US|10|0.2|4
+Bullish Engulfing|Entity|RMTI.US|10|0.2|5
+Bullish Engulfing|Entity|IDCC.US|15|0.2|7
+Bullish Engulfing|Entity|BZH.US|10|0.2|10
+Bullish Engulfing|Entity|HRTX.US|10|0.2|12
+Bullish Engulfing|Entity|NOVT.US|10|0.2|12
+Bullish Engulfing|Entity|BSET.US|10|0.2|12
+Bullish Engulfing|Entity|BIG.US|20|0.2|25
+Bullish Engulfing|Entity|SDD.US|15|0.2|47
+Bullish Engulfing|Entity|CASI.US|16|0.1875|2
+Bullish Engulfing|Entity|GVP.US|11|0.18181818181818182|6
+Bullish Engulfing|Entity|JAKK.US|11|0.18181818181818182|12
+Bullish Engulfing|Entity|RIG.US|11|0.18181818181818182|26
+Bullish Engulfing|Entity|TDC.US|11|0.18181818181818182|36
+Bullish Engulfing|Entity|NFG.US|11|0.18181818181818182|145
+Bullish Engulfing|Entity|SPDN.US|11|0.18181818181818182|154
+Bullish Engulfing|Entity|SPXS.US|24|0.16666666666666666|8
+Bullish Engulfing|Entity|CTLP.US|12|0.16666666666666666|8
+Bullish Engulfing|Industry|Real Estate - Development|18|0.16666666666666666|11
+Bullish Engulfing|Entity|SDP.US|12|0.16666666666666666|36
+Bullish Engulfing|Entity|DOG.US|18|0.16666666666666666|110
+Bullish Engulfing|Entity|SJB.US|10|0.1|279
+Bullish Engulfing|Entity|SCC.US|10|0|0
+Bullish Engulfing|Entity|AKO-B.US|10|0|0

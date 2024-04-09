@@ -1,0 +1,734 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Engulfing With Tall Candles|Entity|BGR.US|10|0.9|112
+Bearish Engulfing With Tall Candles|Industry|Health Information Services|13|0.8461538461538461|75
+Bearish Engulfing With Tall Candles|Industry|Other|13|0.8461538461538461|398
+Bearish Engulfing With Tall Candles|Sector|Other|13|0.8461538461538461|398
+Bearish Engulfing With Tall Candles|Entity|GII.US|11|0.8181818181818182|211
+Bearish Engulfing With Tall Candles|Entity|ASA.US|10|0.8|32
+Bearish Engulfing With Tall Candles|Entity|LEG.US|10|0.8|59
+Bearish Engulfing With Tall Candles|Entity|SUP.US|12|0.75|36
+Bearish Engulfing With Tall Candles|Entity|NEU.US|11|0.7272727272727273|27
+Bearish Engulfing With Tall Candles|Entity|SRDX.US|11|0.7272727272727273|32
+Bearish Engulfing With Tall Candles|Entity|DE.US|11|0.7272727272727273|41
+Bearish Engulfing With Tall Candles|Entity|LEE.US|11|0.7272727272727273|54
+Bearish Engulfing With Tall Candles|Entity|TJX.US|11|0.7272727272727273|67
+Bearish Engulfing With Tall Candles|Entity|CCBG.US|11|0.7272727272727273|80
+Bearish Engulfing With Tall Candles|Entity|CFR.US|11|0.7272727272727273|82
+Bearish Engulfing With Tall Candles|Sector|Financials|17|0.7058823529411765|218
+Bearish Engulfing With Tall Candles|Entity|BB.US|10|0.7|9
+Bearish Engulfing With Tall Candles|Entity|TNA.US|10|0.7|13
+Bearish Engulfing With Tall Candles|Entity|SAIA.US|10|0.7|27
+Bearish Engulfing With Tall Candles|Entity|ERJ.US|10|0.7|29
+Bearish Engulfing With Tall Candles|Entity|TR.US|10|0.7|45
+Bearish Engulfing With Tall Candles|Industry|Textile Manufacturing|10|0.7|63
+Bearish Engulfing With Tall Candles|Entity|AIN.US|10|0.7|63
+Bearish Engulfing With Tall Candles|Industry|Investment Banking & Investment Services|10|0.7|288
+Bearish Engulfing With Tall Candles|Industry|Footwear & Accessories|18|0.6666666666666666|12
+Bearish Engulfing With Tall Candles|Entity|OCN.US|12|0.6666666666666666|29
+Bearish Engulfing With Tall Candles|Entity|SRCL.US|15|0.6666666666666666|52
+Bearish Engulfing With Tall Candles|Entity|SPB.US|12|0.6666666666666666|57
+Bearish Engulfing With Tall Candles|Entity|VIS.US|15|0.6666666666666666|72
+Bearish Engulfing With Tall Candles|Entity|DGT.US|12|0.6666666666666666|142
+Bearish Engulfing With Tall Candles|Industry|Capital Markets|23|0.6521739130434783|13
+Bearish Engulfing With Tall Candles|Industry|Electronic Gaming & Multimedia|17|0.6470588235294118|16
+Bearish Engulfing With Tall Candles|Entity|TTEK.US|14|0.6428571428571429|18
+Bearish Engulfing With Tall Candles|Entity|PHM.US|14|0.6428571428571429|56
+Bearish Engulfing With Tall Candles|Entity|PFM.US|14|0.6428571428571429|177
+Bearish Engulfing With Tall Candles|Entity|LPX.US|11|0.6363636363636364|13
+Bearish Engulfing With Tall Candles|Entity|PXJ.US|11|0.6363636363636364|38
+Bearish Engulfing With Tall Candles|Entity|RVTY.US|11|0.6363636363636364|43
+Bearish Engulfing With Tall Candles|Entity|IBOC.US|11|0.6363636363636364|48
+Bearish Engulfing With Tall Candles|Entity|RSPF.US|11|0.6363636363636364|79
+Bearish Engulfing With Tall Candles|Industry|Electrical Equipment & Parts|42|0.6190476190476191|33
+Bearish Engulfing With Tall Candles|Entity|OMAB.US|13|0.6153846153846154|54
+Bearish Engulfing With Tall Candles|Entity|XLB.US|18|0.6111111111111112|78
+Bearish Engulfing With Tall Candles|Entity|PLCE.US|10|0.6|11
+Bearish Engulfing With Tall Candles|Entity|PAM.US|10|0.6|12
+Bearish Engulfing With Tall Candles|Entity|BHC.US|10|0.6|20
+Bearish Engulfing With Tall Candles|Entity|SBRA.US|10|0.6|24
+Bearish Engulfing With Tall Candles|Entity|HELE.US|10|0.6|38
+Bearish Engulfing With Tall Candles|Entity|UTHR.US|10|0.6|42
+Bearish Engulfing With Tall Candles|Entity|BHE.US|10|0.6|43
+Bearish Engulfing With Tall Candles|Entity|ADBE.US|10|0.6|63
+Bearish Engulfing With Tall Candles|Entity|SLX.US|10|0.6|67
+Bearish Engulfing With Tall Candles|Entity|IDA.US|10|0.6|77
+Bearish Engulfing With Tall Candles|Entity|SCL.US|10|0.6|82
+Bearish Engulfing With Tall Candles|Entity|MGEE.US|10|0.6|103
+Bearish Engulfing With Tall Candles|Entity|USVM.US|10|0.6|104
+Bearish Engulfing With Tall Candles|Entity|CINF.US|10|0.6|109
+Bearish Engulfing With Tall Candles|Entity|VIOV.US|10|0.6|200
+Bearish Engulfing With Tall Candles|Entity|NPK.US|12|0.5833333333333334|62
+Bearish Engulfing With Tall Candles|Entity|XHB.US|12|0.5833333333333334|64
+Bearish Engulfing With Tall Candles|Entity|CWB.US|12|0.5833333333333334|122
+Bearish Engulfing With Tall Candles|Entity|WTV.US|12|0.5833333333333334|124
+Bearish Engulfing With Tall Candles|Entity|IVOG.US|12|0.5833333333333334|151
+Bearish Engulfing With Tall Candles|Entity|DEUS.US|12|0.5833333333333334|237
+Bearish Engulfing With Tall Candles|Industry|Chemicals|19|0.5789473684210527|39
+Bearish Engulfing With Tall Candles|Industry|Oil & Gas E&P|95|0.5789473684210527|42
+Bearish Engulfing With Tall Candles|Industry|Aluminum|14|0.5714285714285714|21
+Bearish Engulfing With Tall Candles|Entity|BWA.US|14|0.5714285714285714|76
+Bearish Engulfing With Tall Candles|Entity|PSCT.US|14|0.5714285714285714|76
+Bearish Engulfing With Tall Candles|Entity|IART.US|14|0.5714285714285714|78
+Bearish Engulfing With Tall Candles|Entity|BF-B.US|14|0.5714285714285714|94
+Bearish Engulfing With Tall Candles|Industry|Banks - Diversified|53|0.5660377358490566|66
+Bearish Engulfing With Tall Candles|Industry|Beverages - Non-Alcoholic|39|0.5641025641025641|73
+Bearish Engulfing With Tall Candles|Industry|Packaged Foods|55|0.5636363636363636|39
+Bearish Engulfing With Tall Candles|Entity|XSD.US|16|0.5625|43
+Bearish Engulfing With Tall Candles|Entity|WABC.US|16|0.5625|127
+Bearish Engulfing With Tall Candles|Entity|RGI.US|16|0.5625|130
+Bearish Engulfing With Tall Candles|Entity|IJJ.US|18|0.5555555555555556|152
+Bearish Engulfing With Tall Candles|Industry|Internet Retail|31|0.5483870967741935|11
+Bearish Engulfing With Tall Candles|Industry|Education & Training Services|31|0.5483870967741935|30
+Bearish Engulfing With Tall Candles|Industry|Integrated Freight & Logistics|42|0.5476190476190477|56
+Bearish Engulfing With Tall Candles|Entity|ROCK.US|11|0.5454545454545454|12
+Bearish Engulfing With Tall Candles|Entity|AZZ.US|11|0.5454545454545454|17
+Bearish Engulfing With Tall Candles|Entity|WMS.US|11|0.5454545454545454|17
+Bearish Engulfing With Tall Candles|Entity|THO.US|11|0.5454545454545454|27
+Bearish Engulfing With Tall Candles|Entity|FBP.US|11|0.5454545454545454|28
+Bearish Engulfing With Tall Candles|Entity|POWL.US|11|0.5454545454545454|29
+Bearish Engulfing With Tall Candles|Entity|MBI.US|11|0.5454545454545454|31
+Bearish Engulfing With Tall Candles|Entity|PJP.US|11|0.5454545454545454|56
+Bearish Engulfing With Tall Candles|Entity|EQT.US|11|0.5454545454545454|62
+Bearish Engulfing With Tall Candles|Entity|RYN.US|11|0.5454545454545454|64
+Bearish Engulfing With Tall Candles|Entity|EWZS.US|11|0.5454545454545454|65
+Bearish Engulfing With Tall Candles|Entity|QCLN.US|11|0.5454545454545454|80
+Bearish Engulfing With Tall Candles|Entity|BMVP.US|11|0.5454545454545454|87
+Bearish Engulfing With Tall Candles|Entity|KRC.US|11|0.5454545454545454|87
+Bearish Engulfing With Tall Candles|Entity|SHW.US|11|0.5454545454545454|88
+Bearish Engulfing With Tall Candles|Entity|UFCS.US|11|0.5454545454545454|95
+Bearish Engulfing With Tall Candles|Entity|IYK.US|11|0.5454545454545454|98
+Bearish Engulfing With Tall Candles|Entity|GBLI.US|11|0.5454545454545454|101
+Bearish Engulfing With Tall Candles|Entity|FVC.US|11|0.5454545454545454|102
+Bearish Engulfing With Tall Candles|Entity|IJK.US|22|0.5454545454545454|103
+Bearish Engulfing With Tall Candles|Entity|JPSE.US|11|0.5454545454545454|113
+Bearish Engulfing With Tall Candles|Entity|IVOO.US|11|0.5454545454545454|123
+Bearish Engulfing With Tall Candles|Entity|EWN.US|11|0.5454545454545454|136
+Bearish Engulfing With Tall Candles|Entity|MDYV.US|11|0.5454545454545454|200
+Bearish Engulfing With Tall Candles|Entity|PID.US|11|0.5454545454545454|291
+Bearish Engulfing With Tall Candles|Industry|Thermal Coal|13|0.5384615384615384|21
+Bearish Engulfing With Tall Candles|Entity|AKO-B.US|13|0.5384615384615384|52
+Bearish Engulfing With Tall Candles|Entity|SXT.US|13|0.5384615384615384|84
+Bearish Engulfing With Tall Candles|Entity|ESS.US|13|0.5384615384615384|87
+Bearish Engulfing With Tall Candles|Entity|AGR.US|13|0.5384615384615384|144
+Bearish Engulfing With Tall Candles|Entity|IWD.US|13|0.5384615384615384|196
+Bearish Engulfing With Tall Candles|Entity|FXO.US|13|0.5384615384615384|204
+Bearish Engulfing With Tall Candles|Industry|Metal Fabrication|28|0.5357142857142857|23
+Bearish Engulfing With Tall Candles|Industry|Recreational Vehicles|15|0.5333333333333333|26
+Bearish Engulfing With Tall Candles|Entity|EQWL.US|15|0.5333333333333333|99
+Bearish Engulfing With Tall Candles|Entity|ISCV.US|15|0.5333333333333333|116
+Bearish Engulfing With Tall Candles|Entity|PRFZ.US|15|0.5333333333333333|176
+Bearish Engulfing With Tall Candles|Entity|XPH.US|17|0.5294117647058824|92
+Bearish Engulfing With Tall Candles|Industry|Oil & Gas Integrated|19|0.5263157894736842|31
+Bearish Engulfing With Tall Candles|Industry|REIT - Diversified|19|0.5263157894736842|72
+Bearish Engulfing With Tall Candles|Entity|ALE.US|19|0.5263157894736842|130
+Bearish Engulfing With Tall Candles|Industry|REIT - Office|65|0.5230769230769231|85
+Bearish Engulfing With Tall Candles|Industry|Utilities - Diversified|29|0.5172413793103449|94
+Bearish Engulfing With Tall Candles|Industry|Utilities - Regulated Water|31|0.5161290322580645|40
+Bearish Engulfing With Tall Candles|Industry|Credit Services|62|0.5161290322580645|54
+Bearish Engulfing With Tall Candles|Industry|Insurance - Property & Casualty|76|0.5131578947368421|72
+Bearish Engulfing With Tall Candles|Industry|Packaging & Containers|45|0.5111111111111111|58
+Bearish Engulfing With Tall Candles|Industry|Biotechnology|214|0.5093457943925234|12
+Bearish Engulfing With Tall Candles|Entity|CROX.US|10|0.5|6
+Bearish Engulfing With Tall Candles|Entity|SSYS.US|12|0.5|16
+Bearish Engulfing With Tall Candles|Industry|Semiconductors|58|0.5|18
+Bearish Engulfing With Tall Candles|Entity|TISI.US|10|0.5|20
+Bearish Engulfing With Tall Candles|Entity|MTN.US|10|0.5|20
+Bearish Engulfing With Tall Candles|Entity|ASGN.US|14|0.5|20
+Bearish Engulfing With Tall Candles|Entity|NWPX.US|12|0.5|22
+Bearish Engulfing With Tall Candles|Entity|NHI.US|10|0.5|23
+Bearish Engulfing With Tall Candles|Entity|VVI.US|10|0.5|24
+Bearish Engulfing With Tall Candles|Entity|CUTR.US|10|0.5|24
+Bearish Engulfing With Tall Candles|Entity|FIX.US|12|0.5|25
+Bearish Engulfing With Tall Candles|Entity|RJF.US|16|0.5|25
+Bearish Engulfing With Tall Candles|Entity|SBGI.US|10|0.5|25
+Bearish Engulfing With Tall Candles|Industry|Farm & Heavy Construction Machinery|52|0.5|27
+Bearish Engulfing With Tall Candles|Entity|FRPH.US|12|0.5|29
+Bearish Engulfing With Tall Candles|Industry|Electronic Components|58|0.5|30
+Bearish Engulfing With Tall Candles|Entity|AUB.US|10|0.5|30
+Bearish Engulfing With Tall Candles|Entity|ANIK.US|10|0.5|32
+Bearish Engulfing With Tall Candles|Entity|UPBD.US|12|0.5|32
+Bearish Engulfing With Tall Candles|Entity|TV.US|10|0.5|33
+Bearish Engulfing With Tall Candles|Entity|BIG.US|10|0.5|35
+Bearish Engulfing With Tall Candles|Entity|PGJ.US|10|0.5|35
+Bearish Engulfing With Tall Candles|Entity|CRT.US|14|0.5|37
+Bearish Engulfing With Tall Candles|Industry|Software - Infrastructure|106|0.5|39
+Bearish Engulfing With Tall Candles|Industry|Pollution & Treatment Controls|10|0.5|40
+Bearish Engulfing With Tall Candles|Entity|KBH.US|10|0.5|41
+Bearish Engulfing With Tall Candles|Entity|AGM.US|10|0.5|42
+Bearish Engulfing With Tall Candles|Entity|FCBC.US|10|0.5|42
+Bearish Engulfing With Tall Candles|Entity|XBI.US|14|0.5|48
+Bearish Engulfing With Tall Candles|Industry|Personal Services|18|0.5|50
+Bearish Engulfing With Tall Candles|Entity|NVR.US|10|0.5|54
+Bearish Engulfing With Tall Candles|Industry|Medical Distribution|26|0.5|56
+Bearish Engulfing With Tall Candles|Entity|HIG.US|10|0.5|56
+Bearish Engulfing With Tall Candles|Industry|Farm Products|32|0.5|57
+Bearish Engulfing With Tall Candles|Entity|SXI.US|12|0.5|58
+Bearish Engulfing With Tall Candles|Entity|HSIC.US|10|0.5|65
+Bearish Engulfing With Tall Candles|Entity|CNP.US|12|0.5|71
+Bearish Engulfing With Tall Candles|Entity|FHI.US|10|0.5|72
+Bearish Engulfing With Tall Candles|Entity|ELME.US|12|0.5|72
+Bearish Engulfing With Tall Candles|Entity|EWW.US|18|0.5|73
+Bearish Engulfing With Tall Candles|Entity|SEE.US|12|0.5|75
+Bearish Engulfing With Tall Candles|Entity|CNA.US|14|0.5|75
+Bearish Engulfing With Tall Candles|Entity|FYC.US|10|0.5|76
+Bearish Engulfing With Tall Candles|Entity|CPT.US|10|0.5|78
+Bearish Engulfing With Tall Candles|Entity|MSEX.US|10|0.5|84
+Bearish Engulfing With Tall Candles|Entity|CTBI.US|10|0.5|86
+Bearish Engulfing With Tall Candles|Entity|LKFN.US|12|0.5|92
+Bearish Engulfing With Tall Candles|Entity|CSGS.US|10|0.5|93
+Bearish Engulfing With Tall Candles|Entity|PEG.US|10|0.5|94
+Bearish Engulfing With Tall Candles|Entity|NRT.US|10|0.5|98
+Bearish Engulfing With Tall Candles|Entity|FXR.US|14|0.5|99
+Bearish Engulfing With Tall Candles|Entity|ILF.US|10|0.5|101
+Bearish Engulfing With Tall Candles|Entity|PKB.US|22|0.5|102
+Bearish Engulfing With Tall Candles|Entity|COKE.US|14|0.5|103
+Bearish Engulfing With Tall Candles|Entity|IJH.US|18|0.5|105
+Bearish Engulfing With Tall Candles|Entity|PGR.US|12|0.5|105
+Bearish Engulfing With Tall Candles|Entity|XHS.US|14|0.5|118
+Bearish Engulfing With Tall Candles|Entity|SMOG.US|10|0.5|127
+Bearish Engulfing With Tall Candles|Entity|AVB.US|14|0.5|140
+Bearish Engulfing With Tall Candles|Entity|FRI.US|14|0.5|145
+Bearish Engulfing With Tall Candles|Entity|RFV.US|18|0.5|151
+Bearish Engulfing With Tall Candles|Entity|XMHQ.US|10|0.5|155
+Bearish Engulfing With Tall Candles|Entity|CVY.US|10|0.5|166
+Bearish Engulfing With Tall Candles|Entity|EPS.US|10|0.5|181
+Bearish Engulfing With Tall Candles|Entity|PRF.US|16|0.5|199
+Bearish Engulfing With Tall Candles|Entity|DVY.US|12|0.5|270
+Bearish Engulfing With Tall Candles|Entity|SPLB.US|10|0.5|289
+Bearish Engulfing With Tall Candles|Entity|FAB.US|10|0.5|301
+Bearish Engulfing With Tall Candles|Entity|TIP.US|10|0.5|679
+Bearish Engulfing With Tall Candles|Industry|Asset Management|241|0.49377593360995853|126
+Bearish Engulfing With Tall Candles|Sector|Consumer Defensive|314|0.49044585987261147|60
+Bearish Engulfing With Tall Candles|Industry|Apparel Retail|78|0.48717948717948717|25
+Bearish Engulfing With Tall Candles|Industry|Beverages - Wineries & Distilleries|29|0.4827586206896552|99
+Bearish Engulfing With Tall Candles|Entity|XLK.US|23|0.4782608695652174|77
+Bearish Engulfing With Tall Candles|Sector|Energy|275|0.4763636363636364|37
+Bearish Engulfing With Tall Candles|Industry|Entertainment|59|0.4745762711864407|44
+Bearish Engulfing With Tall Candles|Entity|RSPN.US|19|0.47368421052631576|132
+Bearish Engulfing With Tall Candles|Entity|BFS.US|17|0.47058823529411764|54
+Bearish Engulfing With Tall Candles|Entity|SLYV.US|17|0.47058823529411764|137
+Bearish Engulfing With Tall Candles|Industry|Marine Shipping|15|0.4666666666666667|12
+Bearish Engulfing With Tall Candles|Industry|Beverages - Brewers|15|0.4666666666666667|97
+Bearish Engulfing With Tall Candles|Entity|IWN.US|15|0.4666666666666667|119
+Bearish Engulfing With Tall Candles|Entity|USRT.US|15|0.4666666666666667|126
+Bearish Engulfing With Tall Candles|Entity|VGT.US|15|0.4666666666666667|127
+Bearish Engulfing With Tall Candles|Entity|FTA.US|15|0.4666666666666667|209
+Bearish Engulfing With Tall Candles|Industry|Oil & Gas Equipment & Services|54|0.46296296296296297|28
+Bearish Engulfing With Tall Candles|Entity|MDC.US|13|0.46153846153846156|18
+Bearish Engulfing With Tall Candles|Entity|NOV.US|13|0.46153846153846156|22
+Bearish Engulfing With Tall Candles|Industry|Trucking|13|0.46153846153846156|22
+Bearish Engulfing With Tall Candles|Industry|Engineering & Construction|78|0.46153846153846156|26
+Bearish Engulfing With Tall Candles|Entity|UYG.US|13|0.46153846153846156|28
+Bearish Engulfing With Tall Candles|Industry|Discount Stores|26|0.46153846153846156|38
+Bearish Engulfing With Tall Candles|Entity|SLV.US|13|0.46153846153846156|57
+Bearish Engulfing With Tall Candles|Entity|BIO.US|13|0.46153846153846156|69
+Bearish Engulfing With Tall Candles|Entity|SSP.US|13|0.46153846153846156|72
+Bearish Engulfing With Tall Candles|Entity|VAW.US|13|0.46153846153846156|90
+Bearish Engulfing With Tall Candles|Entity|XRT.US|13|0.46153846153846156|96
+Bearish Engulfing With Tall Candles|Entity|EWK.US|13|0.46153846153846156|119
+Bearish Engulfing With Tall Candles|Entity|SWX.US|13|0.46153846153846156|122
+Bearish Engulfing With Tall Candles|Entity|RSPM.US|13|0.46153846153846156|167
+Bearish Engulfing With Tall Candles|Entity|FNX.US|13|0.46153846153846156|172
+Bearish Engulfing With Tall Candles|Industry|REIT - Residential|79|0.45569620253164556|93
+Bearish Engulfing With Tall Candles|Entity|AX.US|11|0.45454545454545453|17
+Bearish Engulfing With Tall Candles|Entity|GIC.US|11|0.45454545454545453|17
+Bearish Engulfing With Tall Candles|Entity|ALG.US|11|0.45454545454545453|21
+Bearish Engulfing With Tall Candles|Entity|SMG.US|11|0.45454545454545453|22
+Bearish Engulfing With Tall Candles|Industry|Semiconductor Equipment & Materials|33|0.45454545454545453|23
+Bearish Engulfing With Tall Candles|Entity|ARLP.US|11|0.45454545454545453|27
+Bearish Engulfing With Tall Candles|Entity|TBI.US|11|0.45454545454545453|28
+Bearish Engulfing With Tall Candles|Entity|COLM.US|11|0.45454545454545453|29
+Bearish Engulfing With Tall Candles|Entity|KALU.US|11|0.45454545454545453|39
+Bearish Engulfing With Tall Candles|Entity|DSGX.US|11|0.45454545454545453|40
+Bearish Engulfing With Tall Candles|Entity|WMB.US|11|0.45454545454545453|42
+Bearish Engulfing With Tall Candles|Entity|MATW.US|11|0.45454545454545453|52
+Bearish Engulfing With Tall Candles|Entity|FDS.US|11|0.45454545454545453|52
+Bearish Engulfing With Tall Candles|Entity|RSPG.US|11|0.45454545454545453|52
+Bearish Engulfing With Tall Candles|Entity|TROW.US|11|0.45454545454545453|53
+Bearish Engulfing With Tall Candles|Entity|ZD.US|11|0.45454545454545453|55
+Bearish Engulfing With Tall Candles|Entity|UNP.US|11|0.45454545454545453|56
+Bearish Engulfing With Tall Candles|Entity|RIO.US|11|0.45454545454545453|64
+Bearish Engulfing With Tall Candles|Entity|JKK.US|22|0.45454545454545453|64
+Bearish Engulfing With Tall Candles|Entity|PRN.US|11|0.45454545454545453|65
+Bearish Engulfing With Tall Candles|Entity|EG.US|11|0.45454545454545453|65
+Bearish Engulfing With Tall Candles|Entity|ABM.US|11|0.45454545454545453|75
+Bearish Engulfing With Tall Candles|Entity|DOC.US|11|0.45454545454545453|82
+Bearish Engulfing With Tall Candles|Entity|DSI.US|11|0.45454545454545453|82
+Bearish Engulfing With Tall Candles|Entity|SOR.US|11|0.45454545454545453|97
+Bearish Engulfing With Tall Candles|Entity|WM.US|11|0.45454545454545453|99
+Bearish Engulfing With Tall Candles|Entity|LNT.US|11|0.45454545454545453|100
+Bearish Engulfing With Tall Candles|Entity|FEX.US|11|0.45454545454545453|112
+Bearish Engulfing With Tall Candles|Entity|FDM.US|11|0.45454545454545453|131
+Bearish Engulfing With Tall Candles|Entity|POWA.US|11|0.45454545454545453|147
+Bearish Engulfing With Tall Candles|Entity|VONV.US|11|0.45454545454545453|172
+Bearish Engulfing With Tall Candles|Sector|Financial Services|1287|0.4522144522144522|77
+Bearish Engulfing With Tall Candles|Entity|XLY.US|20|0.45|90
+Bearish Engulfing With Tall Candles|Sector|Healthcare|789|0.44740177439797213|32
+Bearish Engulfing With Tall Candles|Industry|Electronics & Computer Distribution|18|0.4444444444444444|32
+Bearish Engulfing With Tall Candles|Industry|Waste Management|18|0.4444444444444444|35
+Bearish Engulfing With Tall Candles|Industry|Insurance - Life|27|0.4444444444444444|54
+Bearish Engulfing With Tall Candles|Entity|PEJ.US|18|0.4444444444444444|90
+Bearish Engulfing With Tall Candles|Entity|PPH.US|18|0.4444444444444444|139
+Bearish Engulfing With Tall Candles|Industry|Medical Devices|120|0.44166666666666665|39
+Bearish Engulfing With Tall Candles|Industry|Real Estate Services|50|0.44|41
+Bearish Engulfing With Tall Candles|Industry|REIT - Retail|75|0.44|86
+Bearish Engulfing With Tall Candles|Industry|Banks - Regional|612|0.4395424836601307|69
+Bearish Engulfing With Tall Candles|Industry|Medical Care Facilities|66|0.4393939393939394|37
+Bearish Engulfing With Tall Candles|Industry|Drug Manufacturers - General|41|0.43902439024390244|63
+Bearish Engulfing With Tall Candles|Sector|Basic Materials|219|0.4383561643835616|47
+Bearish Engulfing With Tall Candles|Entity|PYZ.US|16|0.4375|73
+Bearish Engulfing With Tall Candles|Industry|Drug Manufacturers - Specialty & Generic|87|0.4367816091954023|24
+Bearish Engulfing With Tall Candles|Industry|Information Technology Services|124|0.43548387096774194|35
+Bearish Engulfing With Tall Candles|Industry|Communication Equipment|46|0.43478260869565216|19
+Bearish Engulfing With Tall Candles|Industry|Apparel Manufacturing|23|0.43478260869565216|42
+Bearish Engulfing With Tall Candles|Entity|SOXX.US|23|0.43478260869565216|68
+Bearish Engulfing With Tall Candles|Industry|Specialty Business Services|51|0.43137254901960786|42
+Bearish Engulfing With Tall Candles|Sector|Real Estate|480|0.43125|77
+Bearish Engulfing With Tall Candles|Industry|Gold|35|0.42857142857142855|25
+Bearish Engulfing With Tall Candles|Entity|HEI.US|14|0.42857142857142855|27
+Bearish Engulfing With Tall Candles|Industry|Airlines|21|0.42857142857142855|32
+Bearish Engulfing With Tall Candles|Entity|LHX.US|14|0.42857142857142855|43
+Bearish Engulfing With Tall Candles|Entity|PTC.US|14|0.42857142857142855|55
+Bearish Engulfing With Tall Candles|Industry|Healthcare Plans|42|0.42857142857142855|60
+Bearish Engulfing With Tall Candles|Entity|HNI.US|14|0.42857142857142855|64
+Bearish Engulfing With Tall Candles|Industry|Business Equipment & Supplies|14|0.42857142857142855|64
+Bearish Engulfing With Tall Candles|Industry|REIT - Hotel & Motel|14|0.42857142857142855|76
+Bearish Engulfing With Tall Candles|Entity|CPK.US|14|0.42857142857142855|86
+Bearish Engulfing With Tall Candles|Entity|DIA.US|14|0.42857142857142855|87
+Bearish Engulfing With Tall Candles|Entity|FNY.US|14|0.42857142857142855|89
+Bearish Engulfing With Tall Candles|Entity|SPYV.US|14|0.42857142857142855|128
+Bearish Engulfing With Tall Candles|Entity|IWS.US|21|0.42857142857142855|229
+Bearish Engulfing With Tall Candles|Sector|Technology|691|0.4283646888567294|29
+Bearish Engulfing With Tall Candles|Industry|Scientific & Technical Instruments|54|0.42592592592592593|26
+Bearish Engulfing With Tall Candles|Industry|Household & Personal Products|47|0.425531914893617|58
+Bearish Engulfing With Tall Candles|Overall|All|22728|0.4254223864836325|103
+Bearish Engulfing With Tall Candles|Industry|Specialty Industrial Machinery|146|0.4246575342465753|47
+Bearish Engulfing With Tall Candles|Sector|Industrials|964|0.42323651452282157|41
+Bearish Engulfing With Tall Candles|Industry|Specialty Chemicals|97|0.422680412371134|58
+Bearish Engulfing With Tall Candles|Industry|Insurance - Specialty|45|0.4222222222222222|49
+Bearish Engulfing With Tall Candles|Entity|BBH.US|19|0.42105263157894735|71
+Bearish Engulfing With Tall Candles|Entity|IWO.US|19|0.42105263157894735|81
+Bearish Engulfing With Tall Candles|Entity|GAM.US|19|0.42105263157894735|280
+Bearish Engulfing With Tall Candles|Sector|Consumer Cyclical|712|0.4199438202247191|39
+Bearish Engulfing With Tall Candles|Industry|Security & Protection Services|31|0.41935483870967744|59
+Bearish Engulfing With Tall Candles|Entity|ATRC.US|12|0.4166666666666667|15
+Bearish Engulfing With Tall Candles|Entity|ROG.US|12|0.4166666666666667|32
+Bearish Engulfing With Tall Candles|Entity|ABCB.US|12|0.4166666666666667|37
+Bearish Engulfing With Tall Candles|Entity|FR.US|12|0.4166666666666667|38
+Bearish Engulfing With Tall Candles|Entity|MIDD.US|12|0.4166666666666667|39
+Bearish Engulfing With Tall Candles|Entity|TD.US|12|0.4166666666666667|39
+Bearish Engulfing With Tall Candles|Entity|ALB.US|12|0.4166666666666667|41
+Bearish Engulfing With Tall Candles|Entity|FMX.US|12|0.4166666666666667|61
+Bearish Engulfing With Tall Candles|Entity|HD.US|12|0.4166666666666667|62
+Bearish Engulfing With Tall Candles|Entity|FMC.US|12|0.4166666666666667|66
+Bearish Engulfing With Tall Candles|Entity|IXC.US|12|0.4166666666666667|66
+Bearish Engulfing With Tall Candles|Entity|RBCAA.US|12|0.4166666666666667|71
+Bearish Engulfing With Tall Candles|Entity|ROP.US|12|0.4166666666666667|84
+Bearish Engulfing With Tall Candles|Entity|EVX.US|12|0.4166666666666667|129
+Bearish Engulfing With Tall Candles|Entity|GPC.US|12|0.4166666666666667|130
+Bearish Engulfing With Tall Candles|Entity|IXG.US|12|0.4166666666666667|138
+Bearish Engulfing With Tall Candles|Entity|KXI.US|12|0.4166666666666667|152
+Bearish Engulfing With Tall Candles|Entity|RSPU.US|17|0.4117647058823529|91
+Bearish Engulfing With Tall Candles|Entity|QQQ.US|17|0.4117647058823529|113
+Bearish Engulfing With Tall Candles|Entity|SPHQ.US|17|0.4117647058823529|167
+Bearish Engulfing With Tall Candles|Industry|REIT - Mortgage|44|0.4090909090909091|118
+Bearish Engulfing With Tall Candles|Industry|Auto & Truck Dealerships|42|0.40476190476190477|28
+Bearish Engulfing With Tall Candles|Industry|Specialty Retail|72|0.4027777777777778|65
+Bearish Engulfing With Tall Candles|Industry|Aerospace & Defense|102|0.4019607843137255|36
+Bearish Engulfing With Tall Candles|Entity|MTH.US|10|0.4|5
+Bearish Engulfing With Tall Candles|Entity|EXAS.US|10|0.4|13
+Bearish Engulfing With Tall Candles|Industry|Residential Construction|40|0.4|19
+Bearish Engulfing With Tall Candles|Entity|DBE.US|10|0.4|24
+Bearish Engulfing With Tall Candles|Entity|UNFI.US|10|0.4|26
+Bearish Engulfing With Tall Candles|Entity|TECL.US|15|0.4|27
+Bearish Engulfing With Tall Candles|Entity|CNS.US|10|0.4|28
+Bearish Engulfing With Tall Candles|Entity|STX.US|10|0.4|29
+Bearish Engulfing With Tall Candles|Entity|QDEL.US|10|0.4|30
+Bearish Engulfing With Tall Candles|Entity|HIBB.US|10|0.4|32
+Bearish Engulfing With Tall Candles|Entity|NSIT.US|15|0.4|33
+Bearish Engulfing With Tall Candles|Entity|PBE.US|10|0.4|33
+Bearish Engulfing With Tall Candles|Entity|BX.US|10|0.4|33
+Bearish Engulfing With Tall Candles|Entity|CACC.US|10|0.4|36
+Bearish Engulfing With Tall Candles|Entity|CUBE.US|10|0.4|44
+Bearish Engulfing With Tall Candles|Entity|GL.US|10|0.4|47
+Bearish Engulfing With Tall Candles|Entity|IHF.US|10|0.4|48
+Bearish Engulfing With Tall Candles|Entity|BMRC.US|10|0.4|51
+Bearish Engulfing With Tall Candles|Entity|CHE.US|10|0.4|53
+Bearish Engulfing With Tall Candles|Entity|ARE.US|15|0.4|56
+Bearish Engulfing With Tall Candles|Entity|STC.US|10|0.4|57
+Bearish Engulfing With Tall Candles|Entity|BMO.US|10|0.4|57
+Bearish Engulfing With Tall Candles|Entity|UFPT.US|10|0.4|58
+Bearish Engulfing With Tall Candles|Entity|IJR.US|15|0.4|58
+Bearish Engulfing With Tall Candles|Entity|EPAC.US|10|0.4|58
+Bearish Engulfing With Tall Candles|Entity|ISCG.US|20|0.4|60
+Bearish Engulfing With Tall Candles|Entity|WHG.US|10|0.4|61
+Bearish Engulfing With Tall Candles|Entity|CBU.US|10|0.4|61
+Bearish Engulfing With Tall Candles|Entity|GIL.US|10|0.4|65
+Bearish Engulfing With Tall Candles|Entity|YORW.US|15|0.4|65
+Bearish Engulfing With Tall Candles|Entity|CCL.US|10|0.4|66
+Bearish Engulfing With Tall Candles|Entity|FTXL.US|10|0.4|67
+Bearish Engulfing With Tall Candles|Entity|TXN.US|10|0.4|68
+Bearish Engulfing With Tall Candles|Entity|MOG-A.US|10|0.4|74
+Bearish Engulfing With Tall Candles|Entity|PNR.US|10|0.4|78
+Bearish Engulfing With Tall Candles|Entity|LMT.US|10|0.4|87
+Bearish Engulfing With Tall Candles|Entity|XTN.US|10|0.4|89
+Bearish Engulfing With Tall Candles|Entity|CRAI.US|10|0.4|107
+Bearish Engulfing With Tall Candles|Entity|RWK.US|15|0.4|117
+Bearish Engulfing With Tall Candles|Entity|SUSA.US|20|0.4|129
+Bearish Engulfing With Tall Candles|Entity|VUSE.US|10|0.4|143
+Bearish Engulfing With Tall Candles|Entity|REZ.US|10|0.4|145
+Bearish Engulfing With Tall Candles|Entity|RTM.US|15|0.4|167
+Bearish Engulfing With Tall Candles|Entity|IGF.US|10|0.4|192
+Bearish Engulfing With Tall Candles|Entity|PZT.US|10|0.4|344
+Bearish Engulfing With Tall Candles|Industry|Industrial Distribution|53|0.39622641509433965|45
+Bearish Engulfing With Tall Candles|Industry|Consulting Services|71|0.39436619718309857|68
+Bearish Engulfing With Tall Candles|Sector|Utilities|260|0.3923076923076923|103
+Bearish Engulfing With Tall Candles|Industry|Oil & Gas Midstream|46|0.391304347826087|45
+Bearish Engulfing With Tall Candles|Entity|IMCB.US|23|0.391304347826087|106
+Bearish Engulfing With Tall Candles|Entity|JKG.US|23|0.391304347826087|106
+Bearish Engulfing With Tall Candles|Industry|Building Products & Equipment|41|0.3902439024390244|56
+Bearish Engulfing With Tall Candles|Entity|UPW.US|18|0.3888888888888889|31
+Bearish Engulfing With Tall Candles|Entity|IXN.US|18|0.3888888888888889|123
+Bearish Engulfing With Tall Candles|Industry|Auto Parts|57|0.38596491228070173|61
+Bearish Engulfing With Tall Candles|Entity|MNRO.US|13|0.38461538461538464|43
+Bearish Engulfing With Tall Candles|Entity|STZ.US|13|0.38461538461538464|47
+Bearish Engulfing With Tall Candles|Entity|OKE.US|13|0.38461538461538464|50
+Bearish Engulfing With Tall Candles|Entity|AMG.US|13|0.38461538461538464|58
+Bearish Engulfing With Tall Candles|Entity|OMI.US|13|0.38461538461538464|65
+Bearish Engulfing With Tall Candles|Entity|EFX.US|13|0.38461538461538464|67
+Bearish Engulfing With Tall Candles|Entity|THFF.US|13|0.38461538461538464|68
+Bearish Engulfing With Tall Candles|Entity|SNPS.US|13|0.38461538461538464|72
+Bearish Engulfing With Tall Candles|Entity|MSI.US|13|0.38461538461538464|74
+Bearish Engulfing With Tall Candles|Entity|ADC.US|13|0.38461538461538464|92
+Bearish Engulfing With Tall Candles|Entity|RZG.US|13|0.38461538461538464|92
+Bearish Engulfing With Tall Candles|Entity|PDP.US|13|0.38461538461538464|98
+Bearish Engulfing With Tall Candles|Entity|XAR.US|13|0.38461538461538464|110
+Bearish Engulfing With Tall Candles|Entity|ODC.US|13|0.38461538461538464|135
+Bearish Engulfing With Tall Candles|Sector|Communication Services|190|0.38421052631578945|39
+Bearish Engulfing With Tall Candles|Industry|Agricultural Inputs|21|0.38095238095238093|47
+Bearish Engulfing With Tall Candles|Industry|Resorts & Casinos|29|0.3793103448275862|21
+Bearish Engulfing With Tall Candles|Industry|REIT - Industrial|53|0.37735849056603776|54
+Bearish Engulfing With Tall Candles|Entity|IWP.US|16|0.375|74
+Bearish Engulfing With Tall Candles|Industry|Insurance - Reinsurance|16|0.375|76
+Bearish Engulfing With Tall Candles|Entity|RZV.US|16|0.375|143
+Bearish Engulfing With Tall Candles|Entity|XLV.US|16|0.375|144
+Bearish Engulfing With Tall Candles|Entity|IAK.US|16|0.375|191
+Bearish Engulfing With Tall Candles|Entity|PBJ.US|16|0.375|255
+Bearish Engulfing With Tall Candles|Entity|IGM.US|27|0.37037037037037035|112
+Bearish Engulfing With Tall Candles|Entity|WSO.US|19|0.3684210526315789|117
+Bearish Engulfing With Tall Candles|Entity|MDY.US|30|0.36666666666666664|126
+Bearish Engulfing With Tall Candles|Industry|Restaurants|71|0.36619718309859156|45
+Bearish Engulfing With Tall Candles|Industry|Furnishings, Fixtures & Appliances|41|0.36585365853658536|16
+Bearish Engulfing With Tall Candles|Industry|Medical Instruments & Supplies|96|0.3645833333333333|35
+Bearish Engulfing With Tall Candles|Entity|ULH.US|11|0.36363636363636365|12
+Bearish Engulfing With Tall Candles|Entity|AGQ.US|11|0.36363636363636365|12
+Bearish Engulfing With Tall Candles|Entity|MDT.US|11|0.36363636363636365|22
+Bearish Engulfing With Tall Candles|Entity|IDGT.US|11|0.36363636363636365|24
+Bearish Engulfing With Tall Candles|Entity|CAR.US|11|0.36363636363636365|26
+Bearish Engulfing With Tall Candles|Entity|WRB.US|11|0.36363636363636365|31
+Bearish Engulfing With Tall Candles|Entity|BIB.US|11|0.36363636363636365|32
+Bearish Engulfing With Tall Candles|Entity|EWD.US|11|0.36363636363636365|32
+Bearish Engulfing With Tall Candles|Entity|SHEN.US|11|0.36363636363636365|44
+Bearish Engulfing With Tall Candles|Industry|Travel Services|22|0.36363636363636365|46
+Bearish Engulfing With Tall Candles|Entity|LLY.US|11|0.36363636363636365|51
+Bearish Engulfing With Tall Candles|Entity|FORR.US|11|0.36363636363636365|53
+Bearish Engulfing With Tall Candles|Entity|REGN.US|11|0.36363636363636365|54
+Bearish Engulfing With Tall Candles|Entity|VIV.US|11|0.36363636363636365|57
+Bearish Engulfing With Tall Candles|Entity|AAPL.US|11|0.36363636363636365|58
+Bearish Engulfing With Tall Candles|Entity|SIGI.US|11|0.36363636363636365|60
+Bearish Engulfing With Tall Candles|Entity|LANC.US|11|0.36363636363636365|66
+Bearish Engulfing With Tall Candles|Entity|BCO.US|11|0.36363636363636365|66
+Bearish Engulfing With Tall Candles|Entity|KEX.US|11|0.36363636363636365|68
+Bearish Engulfing With Tall Candles|Entity|AIT.US|11|0.36363636363636365|75
+Bearish Engulfing With Tall Candles|Entity|XTL.US|11|0.36363636363636365|86
+Bearish Engulfing With Tall Candles|Entity|FXL.US|11|0.36363636363636365|86
+Bearish Engulfing With Tall Candles|Industry|Utilities - Regulated Gas|33|0.36363636363636365|95
+Bearish Engulfing With Tall Candles|Entity|BKH.US|11|0.36363636363636365|118
+Bearish Engulfing With Tall Candles|Entity|CATH.US|11|0.36363636363636365|125
+Bearish Engulfing With Tall Candles|Entity|IHE.US|11|0.36363636363636365|125
+Bearish Engulfing With Tall Candles|Entity|FNK.US|11|0.36363636363636365|148
+Bearish Engulfing With Tall Candles|Entity|RPV.US|11|0.36363636363636365|150
+Bearish Engulfing With Tall Candles|Entity|GCC.US|11|0.36363636363636365|161
+Bearish Engulfing With Tall Candles|Entity|PSCD.US|11|0.36363636363636365|183
+Bearish Engulfing With Tall Candles|Entity|QDEF.US|11|0.36363636363636365|281
+Bearish Engulfing With Tall Candles|Entity|RPG.US|11|0.36363636363636365|282
+Bearish Engulfing With Tall Candles|Industry|Insurance - Diversified|53|0.3584905660377358|68
+Bearish Engulfing With Tall Candles|Entity|HEES.US|14|0.35714285714285715|17
+Bearish Engulfing With Tall Candles|Entity|HUM.US|14|0.35714285714285715|40
+Bearish Engulfing With Tall Candles|Industry|Home Improvement Retail|14|0.35714285714285715|62
+Bearish Engulfing With Tall Candles|Entity|EWC.US|14|0.35714285714285715|76
+Bearish Engulfing With Tall Candles|Entity|IYC.US|14|0.35714285714285715|94
+Bearish Engulfing With Tall Candles|Entity|IVE.US|14|0.35714285714285715|108
+Bearish Engulfing With Tall Candles|Entity|MDYG.US|14|0.35714285714285715|119
+Bearish Engulfing With Tall Candles|Entity|EES.US|14|0.35714285714285715|150
+Bearish Engulfing With Tall Candles|Entity|FIW.US|14|0.35714285714285715|157
+Bearish Engulfing With Tall Candles|Entity|PSCF.US|14|0.35714285714285715|172
+Bearish Engulfing With Tall Candles|Entity|IWR.US|14|0.35714285714285715|183
+Bearish Engulfing With Tall Candles|Entity|QLD.US|17|0.35294117647058826|34
+Bearish Engulfing With Tall Candles|Entity|CACI.US|17|0.35294117647058826|52
+Bearish Engulfing With Tall Candles|Entity|PSR.US|17|0.35294117647058826|54
+Bearish Engulfing With Tall Candles|Entity|AKR.US|17|0.35294117647058826|74
+Bearish Engulfing With Tall Candles|Entity|VTI.US|17|0.35294117647058826|153
+Bearish Engulfing With Tall Candles|Industry|Food Distribution|20|0.35|13
+Bearish Engulfing With Tall Candles|Industry|Software - Application|163|0.3496932515337423|23
+Bearish Engulfing With Tall Candles|Industry|REIT - Specialty|43|0.3488372093023256|38
+Bearish Engulfing With Tall Candles|Industry|Lodging|23|0.34782608695652173|34
+Bearish Engulfing With Tall Candles|Industry|Railroads|23|0.34782608695652173|64
+Bearish Engulfing With Tall Candles|Industry|Diagnostics & Research|81|0.345679012345679|37
+Bearish Engulfing With Tall Candles|Entity|TPL.US|12|0.3333333333333333|18
+Bearish Engulfing With Tall Candles|Entity|WTS.US|12|0.3333333333333333|23
+Bearish Engulfing With Tall Candles|Entity|IMAX.US|15|0.3333333333333333|24
+Bearish Engulfing With Tall Candles|Entity|EWZ.US|12|0.3333333333333333|24
+Bearish Engulfing With Tall Candles|Industry|Rental & Leasing Services|51|0.3333333333333333|28
+Bearish Engulfing With Tall Candles|Entity|BCPC.US|15|0.3333333333333333|35
+Bearish Engulfing With Tall Candles|Entity|TFX.US|15|0.3333333333333333|36
+Bearish Engulfing With Tall Candles|Entity|CRVL.US|15|0.3333333333333333|38
+Bearish Engulfing With Tall Candles|Entity|JJSF.US|12|0.3333333333333333|39
+Bearish Engulfing With Tall Candles|Entity|COLB.US|12|0.3333333333333333|42
+Bearish Engulfing With Tall Candles|Entity|XMMO.US|12|0.3333333333333333|43
+Bearish Engulfing With Tall Candles|Entity|KOF.US|12|0.3333333333333333|44
+Bearish Engulfing With Tall Candles|Industry|Building Materials|12|0.3333333333333333|45
+Bearish Engulfing With Tall Candles|Entity|PLD.US|15|0.3333333333333333|47
+Bearish Engulfing With Tall Candles|Entity|FBNC.US|12|0.3333333333333333|48
+Bearish Engulfing With Tall Candles|Industry|Telecom Services|54|0.3333333333333333|53
+Bearish Engulfing With Tall Candles|Entity|BMI.US|15|0.3333333333333333|55
+Bearish Engulfing With Tall Candles|Entity|NS.US|12|0.3333333333333333|58
+Bearish Engulfing With Tall Candles|Entity|STN.US|12|0.3333333333333333|58
+Bearish Engulfing With Tall Candles|Entity|BF-A.US|12|0.3333333333333333|79
+Bearish Engulfing With Tall Candles|Entity|IYR.US|12|0.3333333333333333|81
+Bearish Engulfing With Tall Candles|Entity|JKF.US|12|0.3333333333333333|85
+Bearish Engulfing With Tall Candles|Entity|ILCV.US|12|0.3333333333333333|85
+Bearish Engulfing With Tall Candles|Industry|Utilities - Renewable|18|0.3333333333333333|92
+Bearish Engulfing With Tall Candles|Entity|IWY.US|15|0.3333333333333333|100
+Bearish Engulfing With Tall Candles|Entity|RXI.US|12|0.3333333333333333|101
+Bearish Engulfing With Tall Candles|Industry|Utilities - Regulated Electric|141|0.3333333333333333|107
+Bearish Engulfing With Tall Candles|Entity|FDL.US|12|0.3333333333333333|112
+Bearish Engulfing With Tall Candles|Entity|QQEW.US|18|0.3333333333333333|117
+Bearish Engulfing With Tall Candles|Entity|VHT.US|12|0.3333333333333333|122
+Bearish Engulfing With Tall Candles|Entity|IVW.US|18|0.3333333333333333|122
+Bearish Engulfing With Tall Candles|Entity|PSL.US|12|0.3333333333333333|124
+Bearish Engulfing With Tall Candles|Entity|IXJ.US|15|0.3333333333333333|202
+Bearish Engulfing With Tall Candles|Entity|DTD.US|15|0.3333333333333333|222
+Bearish Engulfing With Tall Candles|Entity|DLN.US|12|0.3333333333333333|247
+Bearish Engulfing With Tall Candles|Entity|SMLV.US|12|0.3333333333333333|312
+Bearish Engulfing With Tall Candles|Entity|IYW.US|25|0.32|96
+Bearish Engulfing With Tall Candles|Industry|REIT - Healthcare Facilities|25|0.32|97
+Bearish Engulfing With Tall Candles|Entity|IVV.US|22|0.3181818181818182|188
+Bearish Engulfing With Tall Candles|Entity|SSO.US|19|0.3157894736842105|44
+Bearish Engulfing With Tall Candles|Entity|PTF.US|19|0.3157894736842105|70
+Bearish Engulfing With Tall Candles|Entity|VTWG.US|16|0.3125|40
+Bearish Engulfing With Tall Candles|Entity|WINA.US|16|0.3125|56
+Bearish Engulfing With Tall Candles|Entity|ACGL.US|16|0.3125|102
+Bearish Engulfing With Tall Candles|Entity|IWB.US|16|0.3125|161
+Bearish Engulfing With Tall Candles|Entity|VXF.US|16|0.3125|184
+Bearish Engulfing With Tall Candles|Entity|WDFC.US|13|0.3076923076923077|16
+Bearish Engulfing With Tall Candles|Entity|BPT.US|13|0.3076923076923077|26
+Bearish Engulfing With Tall Candles|Entity|IDXX.US|13|0.3076923076923077|28
+Bearish Engulfing With Tall Candles|Entity|FCNCA.US|13|0.3076923076923077|37
+Bearish Engulfing With Tall Candles|Entity|IJT.US|13|0.3076923076923077|51
+Bearish Engulfing With Tall Candles|Entity|RXL.US|13|0.3076923076923077|52
+Bearish Engulfing With Tall Candles|Entity|FPX.US|13|0.3076923076923077|55
+Bearish Engulfing With Tall Candles|Entity|VO.US|13|0.3076923076923077|64
+Bearish Engulfing With Tall Candles|Entity|RYH.US|13|0.3076923076923077|107
+Bearish Engulfing With Tall Candles|Entity|VBK.US|13|0.3076923076923077|107
+Bearish Engulfing With Tall Candles|Entity|SASR.US|13|0.3076923076923077|121
+Bearish Engulfing With Tall Candles|Entity|IYG.US|13|0.3076923076923077|124
+Bearish Engulfing With Tall Candles|Entity|PSCC.US|13|0.3076923076923077|132
+Bearish Engulfing With Tall Candles|Entity|IJS.US|13|0.3076923076923077|150
+Bearish Engulfing With Tall Candles|Entity|RWL.US|13|0.3076923076923077|180
+Bearish Engulfing With Tall Candles|Entity|IYM.US|23|0.30434782608695654|81
+Bearish Engulfing With Tall Candles|Entity|OTTR.US|10|0.3|12
+Bearish Engulfing With Tall Candles|Entity|NVDA.US|10|0.3|12
+Bearish Engulfing With Tall Candles|Entity|JAN.US|10|0.3|14
+Bearish Engulfing With Tall Candles|Entity|WRK.US|10|0.3|18
+Bearish Engulfing With Tall Candles|Entity|MED.US|10|0.3|21
+Bearish Engulfing With Tall Candles|Entity|HLIO.US|10|0.3|27
+Bearish Engulfing With Tall Candles|Entity|NNN.US|10|0.3|31
+Bearish Engulfing With Tall Candles|Entity|AMGN.US|10|0.3|35
+Bearish Engulfing With Tall Candles|Entity|RBA.US|10|0.3|38
+Bearish Engulfing With Tall Candles|Entity|MMSI.US|10|0.3|39
+Bearish Engulfing With Tall Candles|Entity|EAT.US|10|0.3|43
+Bearish Engulfing With Tall Candles|Entity|FUN.US|10|0.3|43
+Bearish Engulfing With Tall Candles|Entity|SPLG.US|10|0.3|43
+Bearish Engulfing With Tall Candles|Entity|HMN.US|10|0.3|44
+Bearish Engulfing With Tall Candles|Entity|CCI.US|10|0.3|46
+Bearish Engulfing With Tall Candles|Entity|HSII.US|10|0.3|46
+Bearish Engulfing With Tall Candles|Entity|DHR.US|10|0.3|46
+Bearish Engulfing With Tall Candles|Entity|ETR.US|10|0.3|57
+Bearish Engulfing With Tall Candles|Entity|BANC.US|10|0.3|57
+Bearish Engulfing With Tall Candles|Entity|AB.US|10|0.3|58
+Bearish Engulfing With Tall Candles|Entity|EBS.US|10|0.3|59
+Bearish Engulfing With Tall Candles|Entity|MRK.US|10|0.3|59
+Bearish Engulfing With Tall Candles|Entity|PRDO.US|10|0.3|65
+Bearish Engulfing With Tall Candles|Entity|GRPM.US|10|0.3|89
+Bearish Engulfing With Tall Candles|Entity|FYT.US|10|0.3|102
+Bearish Engulfing With Tall Candles|Entity|UTL.US|10|0.3|109
+Bearish Engulfing With Tall Candles|Entity|FXD.US|10|0.3|134
+Bearish Engulfing With Tall Candles|Entity|XMVM.US|10|0.3|145
+Bearish Engulfing With Tall Candles|Entity|BCE.US|10|0.3|147
+Bearish Engulfing With Tall Candles|Entity|VONE.US|10|0.3|151
+Bearish Engulfing With Tall Candles|Entity|JKI.US|20|0.3|161
+Bearish Engulfing With Tall Candles|Entity|IMCV.US|20|0.3|161
+Bearish Engulfing With Tall Candles|Entity|VEGI.US|10|0.3|176
+Bearish Engulfing With Tall Candles|Entity|PUTW.US|10|0.3|345
+Bearish Engulfing With Tall Candles|Entity|GAL.US|10|0.3|423
+Bearish Engulfing With Tall Candles|Entity|MUNI.US|10|0.3|1783
+Bearish Engulfing With Tall Candles|Entity|HEI-A.US|17|0.29411764705882354|38
+Bearish Engulfing With Tall Candles|Industry|Oil & Gas Refining & Marketing|34|0.29411764705882354|40
+Bearish Engulfing With Tall Candles|Industry|Gambling|14|0.2857142857142857|46
+Bearish Engulfing With Tall Candles|Entity|ORLY.US|14|0.2857142857142857|62
+Bearish Engulfing With Tall Candles|Entity|ELS.US|14|0.2857142857142857|75
+Bearish Engulfing With Tall Candles|Entity|SPGP.US|14|0.2857142857142857|117
+Bearish Engulfing With Tall Candles|Entity|PUI.US|14|0.2857142857142857|136
+Bearish Engulfing With Tall Candles|Entity|DBP.US|14|0.2857142857142857|226
+Bearish Engulfing With Tall Candles|Entity|FDN.US|18|0.2777777777777778|58
+Bearish Engulfing With Tall Candles|Entity|SMH.US|18|0.2777777777777778|64
+Bearish Engulfing With Tall Candles|Entity|HOLX.US|11|0.2727272727272727|21
+Bearish Engulfing With Tall Candles|Entity|APOG.US|11|0.2727272727272727|23
+Bearish Engulfing With Tall Candles|Entity|AZPN.US|11|0.2727272727272727|33
+Bearish Engulfing With Tall Candles|Entity|VALU.US|11|0.2727272727272727|35
+Bearish Engulfing With Tall Candles|Entity|DOV.US|11|0.2727272727272727|44
+Bearish Engulfing With Tall Candles|Entity|XME.US|11|0.2727272727272727|58
+Bearish Engulfing With Tall Candles|Entity|FYX.US|11|0.2727272727272727|59
+Bearish Engulfing With Tall Candles|Entity|NTRS.US|11|0.2727272727272727|60
+Bearish Engulfing With Tall Candles|Entity|HAS.US|11|0.2727272727272727|68
+Bearish Engulfing With Tall Candles|Entity|KIE.US|11|0.2727272727272727|88
+Bearish Engulfing With Tall Candles|Entity|FXU.US|11|0.2727272727272727|88
+Bearish Engulfing With Tall Candles|Entity|FE.US|11|0.2727272727272727|96
+Bearish Engulfing With Tall Candles|Entity|PNW.US|11|0.2727272727272727|97
+Bearish Engulfing With Tall Candles|Entity|SDY.US|11|0.2727272727272727|112
+Bearish Engulfing With Tall Candles|Entity|XSVM.US|11|0.2727272727272727|120
+Bearish Engulfing With Tall Candles|Entity|VOT.US|11|0.2727272727272727|121
+Bearish Engulfing With Tall Candles|Entity|WEC.US|11|0.2727272727272727|138
+Bearish Engulfing With Tall Candles|Entity|RSP.US|11|0.2727272727272727|153
+Bearish Engulfing With Tall Candles|Entity|JKJ.US|11|0.2727272727272727|184
+Bearish Engulfing With Tall Candles|Entity|ISCB.US|11|0.2727272727272727|184
+Bearish Engulfing With Tall Candles|Industry|Insurance Brokers|48|0.2708333333333333|66
+Bearish Engulfing With Tall Candles|Entity|SPYG.US|15|0.26666666666666666|52
+Bearish Engulfing With Tall Candles|Industry|Consumer Electronics|15|0.26666666666666666|58
+Bearish Engulfing With Tall Candles|Entity|XLI.US|15|0.26666666666666666|89
+Bearish Engulfing With Tall Candles|Entity|RTH.US|15|0.26666666666666666|95
+Bearish Engulfing With Tall Candles|Entity|UHT.US|15|0.26666666666666666|128
+Bearish Engulfing With Tall Candles|Entity|IWM.US|15|0.26666666666666666|160
+Bearish Engulfing With Tall Candles|Entity|IYF.US|15|0.26666666666666666|184
+Bearish Engulfing With Tall Candles|Entity|QQXT.US|15|0.26666666666666666|207
+Bearish Engulfing With Tall Candles|Entity|GSBC.US|19|0.2631578947368421|37
+Bearish Engulfing With Tall Candles|Entity|IWC.US|19|0.2631578947368421|75
+Bearish Engulfing With Tall Candles|Entity|XNTK.US|19|0.2631578947368421|80
+Bearish Engulfing With Tall Candles|Entity|VOOG.US|19|0.2631578947368421|121
+Bearish Engulfing With Tall Candles|Entity|RWR.US|19|0.2631578947368421|128
+Bearish Engulfing With Tall Candles|Industry|Financial Data & Stock Exchanges|23|0.2608695652173913|46
+Bearish Engulfing With Tall Candles|Entity|ONEQ.US|27|0.25925925925925924|101
+Bearish Engulfing With Tall Candles|Industry|Internet Content & Information|36|0.25|11
+Bearish Engulfing With Tall Candles|Entity|PNQI.US|16|0.25|22
+Bearish Engulfing With Tall Candles|Entity|VRNT.US|12|0.25|31
+Bearish Engulfing With Tall Candles|Entity|PTH.US|12|0.25|42
+Bearish Engulfing With Tall Candles|Entity|CP.US|12|0.25|44
+Bearish Engulfing With Tall Candles|Entity|WTM.US|12|0.25|47
+Bearish Engulfing With Tall Candles|Entity|VLO.US|12|0.25|60
+Bearish Engulfing With Tall Candles|Entity|VONG.US|12|0.25|77
+Bearish Engulfing With Tall Candles|Entity|ESGR.US|12|0.25|84
+Bearish Engulfing With Tall Candles|Entity|CZA.US|12|0.25|90
+Bearish Engulfing With Tall Candles|Entity|SBR.US|12|0.25|113
+Bearish Engulfing With Tall Candles|Entity|PSCH.US|12|0.25|117
+Bearish Engulfing With Tall Candles|Entity|VOX.US|16|0.25|126
+Bearish Engulfing With Tall Candles|Entity|FNLC.US|12|0.25|137
+Bearish Engulfing With Tall Candles|Entity|SPY.US|28|0.25|140
+Bearish Engulfing With Tall Candles|Entity|VOO.US|12|0.25|203
+Bearish Engulfing With Tall Candles|Entity|DTE.US|12|0.25|231
+Bearish Engulfing With Tall Candles|Industry|Leisure|33|0.24242424242424243|49
+Bearish Engulfing With Tall Candles|Entity|ILCG.US|25|0.24|95
+Bearish Engulfing With Tall Candles|Entity|JKE.US|25|0.24|95
+Bearish Engulfing With Tall Candles|Entity|SPTM.US|25|0.24|307
+Bearish Engulfing With Tall Candles|Entity|IHI.US|17|0.23529411764705882|133
+Bearish Engulfing With Tall Candles|Entity|LII.US|13|0.23076923076923078|48
+Bearish Engulfing With Tall Candles|Entity|GGME.US|13|0.23076923076923078|76
+Bearish Engulfing With Tall Candles|Entity|DWAS.US|13|0.23076923076923078|84
+Bearish Engulfing With Tall Candles|Entity|KBWP.US|13|0.23076923076923078|86
+Bearish Engulfing With Tall Candles|Entity|IYE.US|13|0.23076923076923078|86
+Bearish Engulfing With Tall Candles|Entity|VPU.US|13|0.23076923076923078|100
+Bearish Engulfing With Tall Candles|Entity|VTHR.US|13|0.23076923076923078|186
+Bearish Engulfing With Tall Candles|Entity|QQQE.US|13|0.23076923076923078|231
+Bearish Engulfing With Tall Candles|Industry|Staffing & Employment Services|36|0.2222222222222222|40
+Bearish Engulfing With Tall Candles|Entity|QTEC.US|14|0.21428571428571427|45
+Bearish Engulfing With Tall Candles|Entity|JKD.US|14|0.21428571428571427|161
+Bearish Engulfing With Tall Candles|Entity|ILCB.US|14|0.21428571428571427|161
+Bearish Engulfing With Tall Candles|Entity|SLYG.US|14|0.21428571428571427|195
+Bearish Engulfing With Tall Candles|Industry|Advertising Agencies|19|0.21052631578947367|50
+Bearish Engulfing With Tall Candles|Entity|IWV.US|19|0.21052631578947367|156
+Bearish Engulfing With Tall Candles|Entity|MOH.US|10|0.2|8
+Bearish Engulfing With Tall Candles|Entity|THRM.US|10|0.2|13
+Bearish Engulfing With Tall Candles|Entity|BYD.US|10|0.2|18
+Bearish Engulfing With Tall Candles|Entity|TQQQ.US|10|0.2|20
+Bearish Engulfing With Tall Candles|Entity|MPWR.US|10|0.2|20
+Bearish Engulfing With Tall Candles|Entity|NOW.US|10|0.2|20
+Bearish Engulfing With Tall Candles|Entity|KELYA.US|10|0.2|24
+Bearish Engulfing With Tall Candles|Entity|HAE.US|10|0.2|24
+Bearish Engulfing With Tall Candles|Entity|RHS.US|10|0.2|26
+Bearish Engulfing With Tall Candles|Entity|TSCO.US|10|0.2|30
+Bearish Engulfing With Tall Candles|Entity|CTAS.US|10|0.2|34
+Bearish Engulfing With Tall Candles|Entity|MYRG.US|10|0.2|36
+Bearish Engulfing With Tall Candles|Entity|BKE.US|10|0.2|40
+Bearish Engulfing With Tall Candles|Entity|LMAT.US|10|0.2|44
+Bearish Engulfing With Tall Candles|Entity|NJR.US|15|0.2|51
+Bearish Engulfing With Tall Candles|Entity|SYK.US|10|0.2|54
+Bearish Engulfing With Tall Candles|Entity|WNC.US|10|0.2|54
+Bearish Engulfing With Tall Candles|Entity|KWR.US|10|0.2|60
+Bearish Engulfing With Tall Candles|Entity|CW.US|10|0.2|60
+Bearish Engulfing With Tall Candles|Entity|MHO.US|10|0.2|72
+Bearish Engulfing With Tall Candles|Entity|PSMT.US|10|0.2|76
+Bearish Engulfing With Tall Candles|Entity|DUK.US|10|0.2|88
+Bearish Engulfing With Tall Candles|Entity|IMCG.US|15|0.2|94
+Bearish Engulfing With Tall Candles|Entity|URTH.US|10|0.2|101
+Bearish Engulfing With Tall Candles|Entity|FBT.US|10|0.2|112
+Bearish Engulfing With Tall Candles|Entity|EXI.US|10|0.2|126
+Bearish Engulfing With Tall Candles|Entity|RSPD.US|10|0.2|142
+Bearish Engulfing With Tall Candles|Entity|ITOT.US|15|0.2|155
+Bearish Engulfing With Tall Candles|Entity|IAU.US|10|0.2|160
+Bearish Engulfing With Tall Candles|Entity|TLT.US|10|0.2|172
+Bearish Engulfing With Tall Candles|Entity|FXH.US|10|0.2|187
+Bearish Engulfing With Tall Candles|Entity|QLTA.US|10|0.2|642
+Bearish Engulfing With Tall Candles|Entity|IDU.US|21|0.19047619047619047|131
+Bearish Engulfing With Tall Candles|Entity|UPRO.US|16|0.1875|31
+Bearish Engulfing With Tall Candles|Entity|FXG.US|11|0.18181818181818182|51
+Bearish Engulfing With Tall Candles|Entity|IBB.US|11|0.18181818181818182|53
+Bearish Engulfing With Tall Candles|Entity|FCN.US|11|0.18181818181818182|54
+Bearish Engulfing With Tall Candles|Entity|UDOW.US|11|0.18181818181818182|54
+Bearish Engulfing With Tall Candles|Entity|IWL.US|11|0.18181818181818182|82
+Bearish Engulfing With Tall Candles|Entity|IAT.US|11|0.18181818181818182|114
+Bearish Engulfing With Tall Candles|Entity|RFG.US|11|0.18181818181818182|172
+Bearish Engulfing With Tall Candles|Entity|GVIP.US|11|0.18181818181818182|219
+Bearish Engulfing With Tall Candles|Entity|PWV.US|11|0.18181818181818182|250
+Bearish Engulfing With Tall Candles|Entity|VB.US|11|0.18181818181818182|295
+Bearish Engulfing With Tall Candles|Entity|STBA.US|17|0.17647058823529413|109
+Bearish Engulfing With Tall Candles|Entity|NXST.US|12|0.16666666666666666|14
+Bearish Engulfing With Tall Candles|Entity|UCC.US|12|0.16666666666666666|45
+Bearish Engulfing With Tall Candles|Entity|VDC.US|12|0.16666666666666666|82
+Bearish Engulfing With Tall Candles|Entity|ENB.US|12|0.16666666666666666|130
+Bearish Engulfing With Tall Candles|Entity|BALL.US|13|0.15384615384615385|54
+Bearish Engulfing With Tall Candles|Entity|VCR.US|13|0.15384615384615385|77
+Bearish Engulfing With Tall Candles|Entity|MGK.US|13|0.15384615384615385|157
+Bearish Engulfing With Tall Candles|Entity|MCD.US|13|0.15384615384615385|311
+Bearish Engulfing With Tall Candles|Entity|IWX.US|13|0.15384615384615385|415
+Bearish Engulfing With Tall Candles|Entity|OEF.US|20|0.15|133
+Bearish Engulfing With Tall Candles|Entity|BBSI.US|14|0.14285714285714285|8
+Bearish Engulfing With Tall Candles|Entity|XLP.US|14|0.14285714285714285|60
+Bearish Engulfing With Tall Candles|Entity|IUSG.US|14|0.14285714285714285|80
+Bearish Engulfing With Tall Candles|Entity|VV.US|14|0.14285714285714285|110
+Bearish Engulfing With Tall Candles|Entity|EGP.US|15|0.13333333333333333|28
+Bearish Engulfing With Tall Candles|Entity|XLG.US|15|0.13333333333333333|66
+Bearish Engulfing With Tall Candles|Entity|FXZ.US|15|0.13333333333333333|247
+Bearish Engulfing With Tall Candles|Entity|PWB.US|16|0.125|130
+Bearish Engulfing With Tall Candles|Industry|Conglomerates|17|0.11764705882352941|105
+Bearish Engulfing With Tall Candles|Entity|KNCT.US|10|0.1|13
+Bearish Engulfing With Tall Candles|Entity|CHKP.US|10|0.1|42
+Bearish Engulfing With Tall Candles|Entity|AEP.US|10|0.1|115
+Bearish Engulfing With Tall Candles|Entity|VTV.US|10|0.1|189
+Bearish Engulfing With Tall Candles|Entity|APH.US|11|0.09090909090909091|28
+Bearish Engulfing With Tall Candles|Entity|CLX.US|11|0.09090909090909091|49
+Bearish Engulfing With Tall Candles|Entity|LRGE.US|12|0.08333333333333333|21
+Bearish Engulfing With Tall Candles|Entity|IYH.US|12|0.08333333333333333|42
+Bearish Engulfing With Tall Candles|Entity|SAFT.US|12|0.08333333333333333|155
+Bearish Engulfing With Tall Candles|Entity|IYY.US|13|0.07692307692307693|37
+Bearish Engulfing With Tall Candles|Entity|IWF.US|13|0.07692307692307693|49
+Bearish Engulfing With Tall Candles|Entity|RSPS.US|14|0.07142857142857142|21

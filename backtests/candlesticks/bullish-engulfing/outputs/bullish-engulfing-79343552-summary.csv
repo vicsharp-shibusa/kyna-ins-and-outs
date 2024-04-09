@@ -1,0 +1,152 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bullish Engulfing|Industry|Medical Distribution|11|1|65
+Bullish Engulfing|Industry|Financial Data & Stock Exchanges|10|1|68
+Bullish Engulfing|Industry|Chemicals|11|0.8181818181818182|27
+Bullish Engulfing|Entity|BF-B.US|10|0.8|129
+Bullish Engulfing|Industry|Credit Services|25|0.76|22
+Bullish Engulfing|Industry|Specialty Business Services|19|0.7368421052631579|50
+Bullish Engulfing|Industry|Banks - Diversified|19|0.7368421052631579|106
+Bullish Engulfing|Entity|TIMB.US|11|0.7272727272727273|27
+Bullish Engulfing|Industry|Security & Protection Services|22|0.7272727272727273|70
+Bullish Engulfing|Entity|UHT.US|11|0.7272727272727273|192
+Bullish Engulfing|Industry|Trucking|10|0.7|15
+Bullish Engulfing|Entity|VHI.US|10|0.7|17
+Bullish Engulfing|Industry|Waste Management|10|0.7|34
+Bullish Engulfing|Entity|IPAR.US|10|0.7|37
+Bullish Engulfing|Industry|Semiconductor Equipment & Materials|16|0.6875|12
+Bullish Engulfing|Industry|Packaged Foods|48|0.6875|54
+Bullish Engulfing|Industry|Packaging & Containers|22|0.6818181818181818|48
+Bullish Engulfing|Industry|Insurance - Specialty|22|0.6818181818181818|74
+Bullish Engulfing|Industry|Apparel Retail|47|0.6808510638297872|29
+Bullish Engulfing|Entity|MNRO.US|12|0.6666666666666666|30
+Bullish Engulfing|Industry|Insurance - Property & Casualty|33|0.6666666666666666|54
+Bullish Engulfing|Industry|Utilities - Regulated Water|27|0.6666666666666666|57
+Bullish Engulfing|Industry|Electronic Gaming & Multimedia|17|0.6470588235294118|11
+Bullish Engulfing|Industry|Solar|14|0.6428571428571429|8
+Bullish Engulfing|Industry|Lodging|14|0.6428571428571429|23
+Bullish Engulfing|Industry|REIT - Office|36|0.6388888888888888|41
+Bullish Engulfing|Entity|OCN.US|11|0.6363636363636364|13
+Bullish Engulfing|Industry|REIT - Hotel & Motel|11|0.6363636363636364|79
+Bullish Engulfing|Industry|Beverages - Wineries & Distilleries|22|0.6363636363636364|151
+Bullish Engulfing|Industry|Restaurants|49|0.6326530612244898|33
+Bullish Engulfing|Industry|Oil & Gas Refining & Marketing|19|0.631578947368421|25
+Bullish Engulfing|Industry|Scientific & Technical Instruments|27|0.6296296296296297|28
+Bullish Engulfing|Industry|Capital Markets|16|0.625|11
+Bullish Engulfing|Industry|Aerospace & Defense|64|0.625|32
+Bullish Engulfing|Industry|Utilities - Regulated Electric|64|0.625|93
+Bullish Engulfing|Industry|Specialty Retail|37|0.6216216216216216|29
+Bullish Engulfing|Industry|Industrial Distribution|21|0.6190476190476191|20
+Bullish Engulfing|Industry|Oil & Gas Midstream|21|0.6190476190476191|55
+Bullish Engulfing|Industry|REIT - Specialty|18|0.6111111111111112|32
+Bullish Engulfing|Industry|Auto & Truck Dealerships|23|0.6086956521739131|16
+Bullish Engulfing|Industry|Household & Personal Products|23|0.6086956521739131|57
+Bullish Engulfing|Sector|Utilities|122|0.6065573770491803|84
+Bullish Engulfing|Industry|Communication Equipment|43|0.6046511627906976|18
+Bullish Engulfing|Entity|UEIC.US|10|0.6|25
+Bullish Engulfing|Industry|Farm Products|20|0.6|44
+Bullish Engulfing|Entity|TOL.US|10|0.6|49
+Bullish Engulfing|Entity|SEF.US|10|0.6|116
+Bullish Engulfing|Industry|Specialty Industrial Machinery|78|0.5897435897435898|37
+Bullish Engulfing|Industry|Asset Management|90|0.5888888888888889|58
+Bullish Engulfing|Industry|Electrical Equipment & Parts|34|0.5882352941176471|22
+Bullish Engulfing|Industry|Building Products & Equipment|17|0.5882352941176471|25
+Bullish Engulfing|Industry|Health Information Services|17|0.5882352941176471|29
+Bullish Engulfing|Industry|Engineering & Construction|46|0.5869565217391305|29
+Bullish Engulfing|Industry|Telecom Services|29|0.5862068965517241|21
+Bullish Engulfing|Industry|Footwear & Accessories|12|0.5833333333333334|9
+Bullish Engulfing|Industry|Airlines|12|0.5833333333333334|27
+Bullish Engulfing|Industry|Drug Manufacturers - General|26|0.5769230769230769|45
+Bullish Engulfing|Sector|Consumer Defensive|203|0.5763546798029556|60
+Bullish Engulfing|Industry|Entertainment|33|0.5757575757575758|21
+Bullish Engulfing|Sector|Financial Services|654|0.5749235474006116|61
+Bullish Engulfing|Industry|Electronics & Computer Distribution|14|0.5714285714285714|31
+Bullish Engulfing|Industry|Residential Construction|23|0.5652173913043478|10
+Bullish Engulfing|Industry|REIT - Residential|23|0.5652173913043478|109
+Bullish Engulfing|Industry|REIT - Industrial|16|0.5625|49
+Bullish Engulfing|Industry|Medical Instruments & Supplies|57|0.5614035087719298|40
+Bullish Engulfing|Sector|Industrials|519|0.5606936416184971|31
+Bullish Engulfing|Industry|Medical Devices|79|0.5569620253164557|23
+Bullish Engulfing|Industry|Beverages - Non-Alcoholic|27|0.5555555555555556|62
+Bullish Engulfing|Sector|Communication Services|143|0.5524475524475524|16
+Bullish Engulfing|Industry|Paper & Paper Products|11|0.5454545454545454|15
+Bullish Engulfing|Industry|Banks - Regional|369|0.5392953929539296|58
+Bullish Engulfing|Industry|Diagnostics & Research|52|0.5384615384615384|16
+Bullish Engulfing|Industry|Oil & Gas Integrated|13|0.5384615384615384|51
+Bullish Engulfing|Industry|Electronic Components|30|0.5333333333333333|27
+Bullish Engulfing|Industry|Information Technology Services|47|0.5319148936170213|41
+Bullish Engulfing|Sector|Consumer Cyclical|423|0.5295508274231678|29
+Bullish Engulfing|Industry|REIT - Retail|34|0.5294117647058824|56
+Bullish Engulfing|Sector|Technology|455|0.5274725274725275|20
+Bullish Engulfing|Sector|Real Estate|205|0.526829268292683|54
+Bullish Engulfing|Industry|Education & Training Services|19|0.5263157894736842|26
+Bullish Engulfing|Industry|Software - Infrastructure|78|0.5256410256410257|17
+Bullish Engulfing|Industry|Semiconductors|40|0.525|16
+Bullish Engulfing|Industry|Advertising Agencies|21|0.5238095238095238|11
+Bullish Engulfing|Overall|All|11808|0.5221036585365854|59
+Bullish Engulfing|Industry|Specialty Chemicals|41|0.5121951219512195|32
+Bullish Engulfing|Sector|Healthcare|749|0.507343124165554|18
+Bullish Engulfing|Sector|Basic Materials|123|0.5040650406504065|24
+Bullish Engulfing|Sector|Energy|149|0.5033557046979866|32
+Bullish Engulfing|Entity|SOXS.US|10|0.5|6
+Bullish Engulfing|Entity|PLPC.US|10|0.5|15
+Bullish Engulfing|Industry|Auto Manufacturers|20|0.5|18
+Bullish Engulfing|Industry|Recreational Vehicles|12|0.5|22
+Bullish Engulfing|Industry|Oil & Gas Equipment & Services|38|0.5|30
+Bullish Engulfing|Industry|Railroads|12|0.5|34
+Bullish Engulfing|Industry|Utilities - Renewable|10|0.5|34
+Bullish Engulfing|Entity|PNM.US|10|0.5|51
+Bullish Engulfing|Industry|Consulting Services|35|0.4857142857142857|35
+Bullish Engulfing|Industry|Insurance Brokers|27|0.48148148148148145|121
+Bullish Engulfing|Industry|Biotechnology|381|0.48031496062992124|8
+Bullish Engulfing|Industry|Internet Content & Information|38|0.47368421052631576|13
+Bullish Engulfing|Industry|Medical Care Facilities|38|0.47368421052631576|35
+Bullish Engulfing|Industry|Rental & Leasing Services|15|0.4666666666666667|7
+Bullish Engulfing|Industry|Integrated Freight & Logistics|15|0.4666666666666667|20
+Bullish Engulfing|Industry|Gold|28|0.4642857142857143|16
+Bullish Engulfing|Entity|QID.US|13|0.46153846153846156|34
+Bullish Engulfing|Entity|SDS.US|13|0.46153846153846156|37
+Bullish Engulfing|Industry|Farm & Heavy Construction Machinery|37|0.4594594594594595|20
+Bullish Engulfing|Entity|BCH.US|11|0.45454545454545453|50
+Bullish Engulfing|Industry|Insurance - Diversified|22|0.45454545454545453|133
+Bullish Engulfing|Industry|Software - Application|138|0.4492753623188406|14
+Bullish Engulfing|Industry|Oil & Gas E&P|43|0.4418604651162791|18
+Bullish Engulfing|Entity|SIJ.US|16|0.4375|47
+Bullish Engulfing|Industry|Personal Services|16|0.4375|87
+Bullish Engulfing|Industry|Furnishings, Fixtures & Appliances|39|0.4358974358974359|25
+Bullish Engulfing|Industry|Drug Manufacturers - Specialty & Generic|72|0.4305555555555556|10
+Bullish Engulfing|Industry|Conglomerates|14|0.42857142857142855|24
+Bullish Engulfing|Industry|Leisure|19|0.42105263157894735|40
+Bullish Engulfing|Industry|Metal Fabrication|12|0.4166666666666667|10
+Bullish Engulfing|Entity|TEO.US|12|0.4166666666666667|10
+Bullish Engulfing|Industry|REIT - Mortgage|12|0.4166666666666667|39
+Bullish Engulfing|Industry|Staffing & Employment Services|10|0.4|11
+Bullish Engulfing|Industry|Discount Stores|15|0.4|17
+Bullish Engulfing|Entity|EQT.US|10|0.4|18
+Bullish Engulfing|Entity|PARAA.US|10|0.4|21
+Bullish Engulfing|Entity|NYT.US|10|0.4|53
+Bullish Engulfing|Entity|FL.US|10|0.4|74
+Bullish Engulfing|Entity|TWM.US|13|0.38461538461538464|15
+Bullish Engulfing|Industry|Real Estate Services|26|0.38461538461538464|17
+Bullish Engulfing|Entity|SQQQ.US|13|0.38461538461538464|18
+Bullish Engulfing|Entity|SKF.US|13|0.38461538461538464|21
+Bullish Engulfing|Industry|Pollution & Treatment Controls|13|0.38461538461538464|25
+Bullish Engulfing|Entity|MBIO.US|11|0.36363636363636365|6
+Bullish Engulfing|Entity|OPY.US|11|0.36363636363636365|40
+Bullish Engulfing|Industry|Marine Shipping|15|0.3333333333333333|4
+Bullish Engulfing|Industry|Auto Parts|23|0.30434782608695654|31
+Bullish Engulfing|Entity|IDCC.US|10|0.3|5
+Bullish Engulfing|Entity|ROG.US|10|0.3|9
+Bullish Engulfing|Entity|STRT.US|10|0.3|49
+Bullish Engulfing|Entity|RWM.US|10|0.3|118
+Bullish Engulfing|Sector|Financials|10|0.3|186
+Bullish Engulfing|Industry|Real Estate - Development|11|0.2727272727272727|11
+Bullish Engulfing|Industry|Internet Retail|24|0.25|7
+Bullish Engulfing|Entity|SBB.US|12|0.25|47
+Bullish Engulfing|Entity|SPXS.US|13|0.23076923076923078|10
+Bullish Engulfing|Entity|PSQ.US|13|0.23076923076923078|32
+Bullish Engulfing|Entity|DXD.US|13|0.23076923076923078|54
+Bullish Engulfing|Entity|SH.US|13|0.23076923076923078|193
+Bullish Engulfing|Entity|SDD.US|14|0.21428571428571427|47
+Bullish Engulfing|Entity|REW.US|10|0.2|34
+Bullish Engulfing|Entity|DOG.US|10|0.2|114
+Bullish Engulfing|Entity|SPXU.US|11|0.18181818181818182|11
