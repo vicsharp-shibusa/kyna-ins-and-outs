@@ -1,0 +1,395 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Belthold|Entity|SPMB.US|12|1|1275
+Bearish Belthold|Entity|REK.US|14|0.9285714285714286|62
+Bearish Belthold|Entity|VMBS.US|11|0.9090909090909091|3513
+Bearish Belthold|Entity|SBB.US|13|0.8461538461538461|95
+Bearish Belthold|Entity|MZZ.US|12|0.8333333333333334|18
+Bearish Belthold|Entity|SZK.US|10|0.8|24
+Bearish Belthold|Entity|AKO-A.US|10|0.8|46
+Bearish Belthold|Entity|AJG.US|10|0.8|51
+Bearish Belthold|Entity|GBLI.US|10|0.8|102
+Bearish Belthold|Entity|PSK.US|10|0.8|298
+Bearish Belthold|Entity|BSV.US|10|0.8|377
+Bearish Belthold|Entity|MUB.US|10|0.8|703
+Bearish Belthold|Entity|AGG.US|15|0.8|1750
+Bearish Belthold|Entity|USL.US|13|0.7692307692307693|25
+Bearish Belthold|Entity|YCL.US|11|0.7272727272727273|119
+Bearish Belthold|Entity|GLDI.US|14|0.7142857142857143|211
+Bearish Belthold|Entity|SAH.US|10|0.7|14
+Bearish Belthold|Entity|INDB.US|10|0.7|26
+Bearish Belthold|Entity|PHI.US|10|0.7|27
+Bearish Belthold|Entity|HEI.US|10|0.7|50
+Bearish Belthold|Entity|SEF.US|10|0.7|114
+Bearish Belthold|Entity|DMLP.US|16|0.6875|39
+Bearish Belthold|Entity|IBM.US|22|0.6818181818181818|126
+Bearish Belthold|Entity|PARAA.US|12|0.6666666666666666|31
+Bearish Belthold|Entity|FSS.US|12|0.6666666666666666|50
+Bearish Belthold|Entity|APA.US|15|0.6666666666666666|54
+Bearish Belthold|Entity|TDS.US|12|0.6666666666666666|75
+Bearish Belthold|Entity|BIV.US|14|0.6428571428571429|547
+Bearish Belthold|Entity|TVE.US|14|0.6428571428571429|711
+Bearish Belthold|Industry|Beverages - Non-Alcoholic|47|0.6382978723404256|51
+Bearish Belthold|Entity|SIJ.US|11|0.6363636363636364|15
+Bearish Belthold|Entity|RGR.US|11|0.6363636363636364|19
+Bearish Belthold|Entity|STRT.US|11|0.6363636363636364|27
+Bearish Belthold|Entity|SEE.US|11|0.6363636363636364|28
+Bearish Belthold|Entity|STRS.US|11|0.6363636363636364|33
+Bearish Belthold|Entity|LNN.US|11|0.6363636363636364|40
+Bearish Belthold|Entity|TAP.US|11|0.6363636363636364|48
+Bearish Belthold|Entity|WEC.US|11|0.6363636363636364|92
+Bearish Belthold|Entity|SJM.US|11|0.6363636363636364|96
+Bearish Belthold|Entity|USIG.US|11|0.6363636363636364|799
+Bearish Belthold|Entity|ASA.US|19|0.631578947368421|24
+Bearish Belthold|Entity|DE.US|19|0.631578947368421|65
+Bearish Belthold|Industry|REIT - Specialty|16|0.625|28
+Bearish Belthold|Entity|LLY.US|24|0.625|34
+Bearish Belthold|Industry|Electronic Gaming & Multimedia|13|0.6153846153846154|17
+Bearish Belthold|Entity|NS.US|13|0.6153846153846154|88
+Bearish Belthold|Entity|NYT.US|18|0.6111111111111112|45
+Bearish Belthold|Entity|WPC.US|10|0.6|42
+Bearish Belthold|Entity|WTS.US|10|0.6|57
+Bearish Belthold|Entity|SCL.US|10|0.6|74
+Bearish Belthold|Entity|BKH.US|10|0.6|138
+Bearish Belthold|Entity|SCHZ.US|10|0.6|2412
+Bearish Belthold|Industry|Software - Application|72|0.5972222222222222|19
+Bearish Belthold|Entity|SPAB.US|22|0.5909090909090909|1565
+Bearish Belthold|Industry|Pollution & Treatment Controls|17|0.5882352941176471|42
+Bearish Belthold|Entity|AKO-B.US|17|0.5882352941176471|64
+Bearish Belthold|Entity|LMT.US|17|0.5882352941176471|70
+Bearish Belthold|Industry|Footwear & Accessories|12|0.5833333333333334|23
+Bearish Belthold|Entity|NWPX.US|12|0.5833333333333334|41
+Bearish Belthold|Entity|SLB.US|12|0.5833333333333334|59
+Bearish Belthold|Entity|MYY.US|12|0.5833333333333334|65
+Bearish Belthold|Entity|AEP.US|12|0.5833333333333334|105
+Bearish Belthold|Industry|Asset Management|164|0.573170731707317|75
+Bearish Belthold|Entity|ETN.US|14|0.5714285714285714|74
+Bearish Belthold|Industry|Furnishings, Fixtures & Appliances|30|0.5666666666666667|28
+Bearish Belthold|Industry|Oil & Gas Drilling|23|0.5652173913043478|28
+Bearish Belthold|Industry|Aluminum|48|0.5625|64
+Bearish Belthold|Entity|AA.US|43|0.5581395348837209|71
+Bearish Belthold|Entity|NOC.US|18|0.5555555555555556|44
+Bearish Belthold|Industry|REIT - Office|40|0.55|80
+Bearish Belthold|Entity|PZT.US|20|0.55|625
+Bearish Belthold|Entity|SNEX.US|11|0.5454545454545454|9
+Bearish Belthold|Entity|MARPS.US|11|0.5454545454545454|10
+Bearish Belthold|Entity|LEE.US|11|0.5454545454545454|18
+Bearish Belthold|Entity|NEM.US|11|0.5454545454545454|22
+Bearish Belthold|Entity|UFPT.US|11|0.5454545454545454|26
+Bearish Belthold|Industry|Trucking|11|0.5454545454545454|27
+Bearish Belthold|Entity|HP.US|22|0.5454545454545454|30
+Bearish Belthold|Industry|Financial Data & Stock Exchanges|11|0.5454545454545454|38
+Bearish Belthold|Entity|EFU.US|11|0.5454545454545454|43
+Bearish Belthold|Entity|WSO.US|11|0.5454545454545454|46
+Bearish Belthold|Industry|Healthcare Plans|33|0.5454545454545454|47
+Bearish Belthold|Entity|HRB.US|11|0.5454545454545454|55
+Bearish Belthold|Entity|KMT.US|11|0.5454545454545454|56
+Bearish Belthold|Entity|XLP.US|11|0.5454545454545454|69
+Bearish Belthold|Industry|Oil & Gas E&P|116|0.5431034482758621|33
+Bearish Belthold|Entity|RXD.US|13|0.5384615384615384|32
+Bearish Belthold|Entity|TLK.US|13|0.5384615384615384|37
+Bearish Belthold|Entity|GT.US|13|0.5384615384615384|40
+Bearish Belthold|Entity|RRX.US|13|0.5384615384615384|45
+Bearish Belthold|Entity|BK.US|13|0.5384615384615384|46
+Bearish Belthold|Entity|TVC.US|13|0.5384615384615384|493
+Bearish Belthold|Entity|WGO.US|15|0.5333333333333333|15
+Bearish Belthold|Entity|SDD.US|15|0.5333333333333333|17
+Bearish Belthold|Entity|SDP.US|15|0.5333333333333333|29
+Bearish Belthold|Entity|HES.US|30|0.5333333333333333|71
+Bearish Belthold|Industry|Medical Distribution|17|0.5294117647058824|29
+Bearish Belthold|Industry|Banks - Diversified|34|0.5294117647058824|43
+Bearish Belthold|Industry|Rental & Leasing Services|17|0.5294117647058824|67
+Bearish Belthold|Entity|CNP.US|19|0.5263157894736842|44
+Bearish Belthold|Entity|CI.US|19|0.5263157894736842|49
+Bearish Belthold|Entity|DD.US|19|0.5263157894736842|59
+Bearish Belthold|Industry|Oil & Gas Refining & Marketing|23|0.5217391304347826|24
+Bearish Belthold|Industry|Farm & Heavy Construction Machinery|71|0.5211267605633803|44
+Bearish Belthold|Industry|Drug Manufacturers - Specialty & Generic|58|0.5172413793103449|14
+Bearish Belthold|Industry|Real Estate Services|29|0.5172413793103449|32
+Bearish Belthold|Entity|DIS.US|33|0.5151515151515151|46
+Bearish Belthold|Industry|Engineering & Construction|37|0.5135135135135135|24
+Bearish Belthold|Entity|SCC.US|12|0.5|5
+Bearish Belthold|Industry|Resorts & Casinos|14|0.5|12
+Bearish Belthold|Industry|Medical Devices|80|0.5|18
+Bearish Belthold|Industry|Capital Markets|16|0.5|24
+Bearish Belthold|Entity|BIS.US|10|0.5|25
+Bearish Belthold|Industry|Electrical Equipment & Parts|12|0.5|26
+Bearish Belthold|Entity|KOF.US|10|0.5|27
+Bearish Belthold|Entity|EXP.US|12|0.5|27
+Bearish Belthold|Industry|Insurance - Reinsurance|12|0.5|28
+Bearish Belthold|Entity|DWSH.US|10|0.5|33
+Bearish Belthold|Industry|Building Materials|14|0.5|38
+Bearish Belthold|Entity|WNC.US|12|0.5|40
+Bearish Belthold|Industry|Industrial Distribution|28|0.5|42
+Bearish Belthold|Entity|EPD.US|12|0.5|43
+Bearish Belthold|Entity|COKE.US|14|0.5|44
+Bearish Belthold|Entity|EL.US|12|0.5|45
+Bearish Belthold|Entity|LKFN.US|12|0.5|48
+Bearish Belthold|Entity|MKC.US|10|0.5|48
+Bearish Belthold|Entity|MDT.US|12|0.5|56
+Bearish Belthold|Entity|AIT.US|10|0.5|58
+Bearish Belthold|Entity|NRIM.US|10|0.5|65
+Bearish Belthold|Entity|PGC.US|12|0.5|65
+Bearish Belthold|Entity|UNP.US|14|0.5|67
+Bearish Belthold|Entity|UTMD.US|10|0.5|91
+Bearish Belthold|Entity|TR.US|16|0.5|94
+Bearish Belthold|Entity|ESS.US|16|0.5|109
+Bearish Belthold|Entity|SUI.US|10|0.5|143
+Bearish Belthold|Entity|SPIP.US|12|0.5|264
+Bearish Belthold|Entity|SPBO.US|16|0.5|564
+Bearish Belthold|Entity|IMTB.US|10|0.5|1022
+Bearish Belthold|Entity|TDTF.US|12|0.5|2206
+Bearish Belthold|Industry|Oil & Gas Integrated|61|0.4918032786885246|76
+Bearish Belthold|Industry|Diagnostics & Research|39|0.48717948717948717|24
+Bearish Belthold|Industry|Auto Parts|31|0.4838709677419355|31
+Bearish Belthold|Industry|REIT - Mortgage|29|0.4827586206896552|74
+Bearish Belthold|Sector|Energy|350|0.48|36
+Bearish Belthold|Industry|Airlines|23|0.4782608695652174|18
+Bearish Belthold|Entity|R.US|23|0.4782608695652174|39
+Bearish Belthold|Sector|Healthcare|518|0.4768339768339768|26
+Bearish Belthold|Industry|Auto & Truck Dealerships|21|0.47619047619047616|24
+Bearish Belthold|Entity|LUV.US|21|0.47619047619047616|33
+Bearish Belthold|Entity|CVX.US|21|0.47619047619047616|103
+Bearish Belthold|Industry|Restaurants|61|0.47540983606557374|45
+Bearish Belthold|Industry|Insurance - Property & Casualty|61|0.47540983606557374|72
+Bearish Belthold|Industry|Communication Equipment|36|0.4722222222222222|22
+Bearish Belthold|Entity|LHX.US|17|0.47058823529411764|40
+Bearish Belthold|Entity|BDX.US|17|0.47058823529411764|45
+Bearish Belthold|Industry|Oil & Gas Midstream|64|0.46875|22
+Bearish Belthold|Industry|Biotechnology|103|0.46601941747572817|9
+Bearish Belthold|Industry|Information Technology Services|80|0.4625|64
+Bearish Belthold|Industry|Farm Products|26|0.46153846153846156|32
+Bearish Belthold|Industry|Entertainment|52|0.46153846153846156|39
+Bearish Belthold|Entity|YPF.US|13|0.46153846153846156|40
+Bearish Belthold|Entity|BF-B.US|13|0.46153846153846156|44
+Bearish Belthold|Entity|PPG.US|13|0.46153846153846156|66
+Bearish Belthold|Entity|BLV.US|13|0.46153846153846156|445
+Bearish Belthold|Industry|Apparel Retail|59|0.4576271186440678|30
+Bearish Belthold|Entity|TXN.US|22|0.45454545454545453|19
+Bearish Belthold|Entity|SMN.US|11|0.45454545454545453|23
+Bearish Belthold|Industry|Recreational Vehicles|11|0.45454545454545453|25
+Bearish Belthold|Industry|Credit Services|44|0.45454545454545453|35
+Bearish Belthold|Entity|IGT.US|11|0.45454545454545453|48
+Bearish Belthold|Entity|BHV.US|11|0.45454545454545453|82
+Bearish Belthold|Entity|WST.US|11|0.45454545454545453|94
+Bearish Belthold|Entity|WABC.US|11|0.45454545454545453|112
+Bearish Belthold|Entity|VGIT.US|11|0.45454545454545453|3343
+Bearish Belthold|Industry|Specialty Industrial Machinery|124|0.45161290322580644|47
+Bearish Belthold|Industry|Medical Care Facilities|51|0.45098039215686275|28
+Bearish Belthold|Industry|Drug Manufacturers - General|51|0.45098039215686275|33
+Bearish Belthold|Overall|All|14046|0.45023494233233663|129
+Bearish Belthold|Entity|JNJ.US|29|0.4482758620689655|74
+Bearish Belthold|Sector|Industrials|714|0.4481792717086835|39
+Bearish Belthold|Sector|Consumer Cyclical|458|0.44759825327510916|34
+Bearish Belthold|Industry|Consulting Services|38|0.4473684210526316|27
+Bearish Belthold|Industry|Gold|38|0.4473684210526316|47
+Bearish Belthold|Sector|Communication Services|112|0.44642857142857145|39
+Bearish Belthold|Entity|BA.US|36|0.4444444444444444|55
+Bearish Belthold|Industry|Insurance Brokers|45|0.4444444444444444|64
+Bearish Belthold|Industry|Telecom Services|25|0.44|62
+Bearish Belthold|Entity|MRK.US|16|0.4375|106
+Bearish Belthold|Sector|Financials|16|0.4375|216
+Bearish Belthold|Entity|BP.US|23|0.43478260869565216|47
+Bearish Belthold|Entity|RTX.US|23|0.43478260869565216|62
+Bearish Belthold|Industry|Specialty Retail|44|0.4318181818181818|31
+Bearish Belthold|Sector|Technology|380|0.43157894736842106|34
+Bearish Belthold|Sector|Basic Materials|270|0.42962962962962964|55
+Bearish Belthold|Industry|Residential Construction|28|0.42857142857142855|20
+Bearish Belthold|Industry|Semiconductor Equipment & Materials|14|0.42857142857142855|23
+Bearish Belthold|Industry|Leisure|21|0.42857142857142855|38
+Bearish Belthold|Entity|BMY.US|21|0.42857142857142855|49
+Bearish Belthold|Industry|Railroads|21|0.42857142857142855|58
+Bearish Belthold|Entity|RVNU.US|14|0.42857142857142855|134
+Bearish Belthold|Entity|USDU.US|14|0.42857142857142855|437
+Bearish Belthold|Industry|Medical Instruments & Supplies|82|0.4268292682926829|38
+Bearish Belthold|Sector|Consumer Defensive|322|0.4254658385093168|51
+Bearish Belthold|Sector|Real Estate|312|0.4230769230769231|63
+Bearish Belthold|Entity|GIS.US|26|0.4230769230769231|65
+Bearish Belthold|Industry|Utilities - Regulated Gas|26|0.4230769230769231|95
+Bearish Belthold|Industry|Personal Services|19|0.42105263157894735|59
+Bearish Belthold|Sector|Financial Services|976|0.41905737704918034|67
+Bearish Belthold|Entity|SONY.US|12|0.4166666666666667|20
+Bearish Belthold|Entity|FCN.US|12|0.4166666666666667|26
+Bearish Belthold|Entity|ENB.US|12|0.4166666666666667|38
+Bearish Belthold|Entity|CRT.US|12|0.4166666666666667|39
+Bearish Belthold|Entity|CLX.US|12|0.4166666666666667|40
+Bearish Belthold|Entity|K.US|12|0.4166666666666667|41
+Bearish Belthold|Entity|XRX.US|12|0.4166666666666667|48
+Bearish Belthold|Entity|VTR.US|12|0.4166666666666667|55
+Bearish Belthold|Entity|SBR.US|12|0.4166666666666667|72
+Bearish Belthold|Industry|Aerospace & Defense|121|0.4132231404958678|42
+Bearish Belthold|Entity|DBE.US|17|0.4117647058823529|181
+Bearish Belthold|Entity|SPTL.US|17|0.4117647058823529|269
+Bearish Belthold|Industry|Metal Fabrication|22|0.4090909090909091|31
+Bearish Belthold|Industry|Specialty Business Services|22|0.4090909090909091|33
+Bearish Belthold|Entity|MSI.US|22|0.4090909090909091|41
+Bearish Belthold|Industry|Household & Personal Products|66|0.4090909090909091|50
+Bearish Belthold|Entity|SYY.US|22|0.4090909090909091|89
+Bearish Belthold|Entity|CAT.US|27|0.4074074074074074|49
+Bearish Belthold|Entity|GIFI.US|10|0.4|9
+Bearish Belthold|Entity|CRMT.US|10|0.4|14
+Bearish Belthold|Entity|DHI.US|10|0.4|16
+Bearish Belthold|Entity|HAL.US|25|0.4|22
+Bearish Belthold|Entity|KSS.US|10|0.4|26
+Bearish Belthold|Industry|Waste Management|10|0.4|27
+Bearish Belthold|Entity|HAE.US|10|0.4|30
+Bearish Belthold|Industry|Integrated Freight & Logistics|40|0.4|32
+Bearish Belthold|Entity|MAT.US|10|0.4|34
+Bearish Belthold|Entity|THO.US|10|0.4|36
+Bearish Belthold|Entity|ESLT.US|10|0.4|38
+Bearish Belthold|Entity|SM.US|10|0.4|39
+Bearish Belthold|Industry|REIT - Hotel & Motel|10|0.4|45
+Bearish Belthold|Entity|TJX.US|10|0.4|46
+Bearish Belthold|Entity|MNRO.US|10|0.4|46
+Bearish Belthold|Entity|DOC.US|15|0.4|49
+Bearish Belthold|Entity|UGI.US|15|0.4|54
+Bearish Belthold|Entity|YORW.US|10|0.4|64
+Bearish Belthold|Entity|WFC.US|15|0.4|66
+Bearish Belthold|Entity|TFX.US|10|0.4|66
+Bearish Belthold|Entity|EDV.US|10|0.4|67
+Bearish Belthold|Entity|WELL.US|10|0.4|76
+Bearish Belthold|Industry|Insurance - Life|20|0.4|79
+Bearish Belthold|Entity|CADE.US|10|0.4|126
+Bearish Belthold|Industry|Utilities - Regulated Electric|168|0.39880952380952384|84
+Bearish Belthold|Industry|Gambling|18|0.3888888888888889|53
+Bearish Belthold|Entity|APD.US|18|0.3888888888888889|75
+Bearish Belthold|Entity|DTE.US|18|0.3888888888888889|146
+Bearish Belthold|Sector|Utilities|265|0.3886792452830189|77
+Bearish Belthold|Industry|Beverages - Wineries & Distilleries|31|0.3870967741935484|63
+Bearish Belthold|Entity|GTY.US|13|0.38461538461538464|31
+Bearish Belthold|Industry|Agricultural Inputs|26|0.38461538461538464|46
+Bearish Belthold|Entity|WHR.US|13|0.38461538461538464|46
+Bearish Belthold|Industry|Utilities - Diversified|26|0.38461538461538464|62
+Bearish Belthold|Entity|LNC.US|13|0.38461538461538464|64
+Bearish Belthold|Industry|Investment Banking & Investment Services|13|0.38461538461538464|282
+Bearish Belthold|Industry|Building Products & Equipment|21|0.38095238095238093|44
+Bearish Belthold|Industry|Education & Training Services|29|0.3793103448275862|24
+Bearish Belthold|Entity|AVT.US|16|0.375|25
+Bearish Belthold|Industry|Security & Protection Services|16|0.375|37
+Bearish Belthold|Entity|DUK.US|16|0.375|63
+Bearish Belthold|Industry|Specialty Chemicals|116|0.3706896551724138|60
+Bearish Belthold|Entity|GD.US|19|0.3684210526315789|55
+Bearish Belthold|Industry|Packaged Foods|68|0.36764705882352944|60
+Bearish Belthold|Industry|Software - Infrastructure|41|0.36585365853658536|37
+Bearish Belthold|Entity|BELFA.US|11|0.36363636363636365|6
+Bearish Belthold|Entity|BFS.US|11|0.36363636363636365|44
+Bearish Belthold|Entity|VALU.US|11|0.36363636363636365|49
+Bearish Belthold|Industry|Packaging & Containers|22|0.36363636363636365|57
+Bearish Belthold|Entity|BALL.US|11|0.36363636363636365|80
+Bearish Belthold|Entity|KBWP.US|11|0.36363636363636365|101
+Bearish Belthold|Entity|ZION.US|11|0.36363636363636365|132
+Bearish Belthold|Industry|Electronics & Computer Distribution|28|0.35714285714285715|22
+Bearish Belthold|Entity|HAS.US|14|0.35714285714285715|35
+Bearish Belthold|Entity|ALX.US|14|0.35714285714285715|47
+Bearish Belthold|Entity|NFG.US|14|0.35714285714285715|55
+Bearish Belthold|Entity|STC.US|14|0.35714285714285715|59
+Bearish Belthold|Entity|BF-A.US|17|0.35294117647058826|81
+Bearish Belthold|Industry|REIT - Healthcare Facilities|20|0.35|45
+Bearish Belthold|Entity|AON.US|20|0.35|97
+Bearish Belthold|Industry|Banks - Regional|509|0.3477406679764244|72
+Bearish Belthold|Industry|Oil & Gas Equipment & Services|49|0.3469387755102041|15
+Bearish Belthold|Industry|REIT - Residential|61|0.3442622950819672|92
+Bearish Belthold|Entity|KO.US|35|0.34285714285714286|62
+Bearish Belthold|Industry|Semiconductors|38|0.34210526315789475|30
+Bearish Belthold|Industry|Utilities - Regulated Water|38|0.34210526315789475|33
+Bearish Belthold|Entity|WSM.US|12|0.3333333333333333|10
+Bearish Belthold|Industry|Grocery Stores|12|0.3333333333333333|18
+Bearish Belthold|Industry|Electronic Components|30|0.3333333333333333|29
+Bearish Belthold|Entity|SSP.US|12|0.3333333333333333|31
+Bearish Belthold|Entity|USB.US|12|0.3333333333333333|36
+Bearish Belthold|Entity|BAP.US|12|0.3333333333333333|37
+Bearish Belthold|Industry|Staffing & Employment Services|27|0.3333333333333333|37
+Bearish Belthold|Entity|FDX.US|18|0.3333333333333333|38
+Bearish Belthold|Entity|WINA.US|18|0.3333333333333333|42
+Bearish Belthold|Entity|CL.US|24|0.3333333333333333|42
+Bearish Belthold|Entity|AME.US|12|0.3333333333333333|43
+Bearish Belthold|Entity|WTRG.US|12|0.3333333333333333|62
+Bearish Belthold|Entity|ALE.US|15|0.3333333333333333|65
+Bearish Belthold|Entity|D.US|15|0.3333333333333333|86
+Bearish Belthold|Entity|EFZ.US|15|0.3333333333333333|140
+Bearish Belthold|Entity|MUNI.US|15|0.3333333333333333|1046
+Bearish Belthold|Industry|Insurance - Diversified|35|0.3142857142857143|48
+Bearish Belthold|Industry|REIT - Retail|67|0.31343283582089554|39
+Bearish Belthold|Entity|AWR.US|16|0.3125|31
+Bearish Belthold|Industry|Insurance - Specialty|16|0.3125|57
+Bearish Belthold|Entity|VZ.US|16|0.3125|101
+Bearish Belthold|Entity|GOVI.US|16|0.3125|683
+Bearish Belthold|Industry|Advertising Agencies|13|0.3076923076923077|40
+Bearish Belthold|Entity|EWV.US|13|0.3076923076923077|61
+Bearish Belthold|Industry|REIT - Industrial|23|0.30434782608695654|94
+Bearish Belthold|Entity|SAVA.US|10|0.3|4
+Bearish Belthold|Entity|TSM.US|10|0.3|11
+Bearish Belthold|Entity|BOKF.US|10|0.3|19
+Bearish Belthold|Entity|CPK.US|10|0.3|30
+Bearish Belthold|Entity|BBH.US|10|0.3|48
+Bearish Belthold|Industry|Conglomerates|10|0.3|56
+Bearish Belthold|Entity|AEE.US|10|0.3|57
+Bearish Belthold|Entity|EMTY.US|10|0.3|58
+Bearish Belthold|Entity|GIL.US|10|0.3|58
+Bearish Belthold|Entity|CTBI.US|10|0.3|64
+Bearish Belthold|Entity|FMC.US|20|0.3|67
+Bearish Belthold|Entity|UHT.US|10|0.3|73
+Bearish Belthold|Entity|FBT.US|10|0.3|80
+Bearish Belthold|Entity|NWLI.US|10|0.3|98
+Bearish Belthold|Entity|IGIB.US|10|0.3|330
+Bearish Belthold|Entity|NYF.US|10|0.3|559
+Bearish Belthold|Entity|TIPZ.US|10|0.3|595
+Bearish Belthold|Entity|MCD.US|34|0.29411764705882354|37
+Bearish Belthold|Entity|TXT.US|17|0.29411764705882354|51
+Bearish Belthold|Industry|Home Improvement Retail|14|0.2857142857142857|14
+Bearish Belthold|Industry|Apparel Manufacturing|14|0.2857142857142857|47
+Bearish Belthold|Entity|UST.US|14|0.2857142857142857|224
+Bearish Belthold|Entity|GBF.US|14|0.2857142857142857|1179
+Bearish Belthold|Entity|IFF.US|18|0.2777777777777778|95
+Bearish Belthold|Entity|SPTI.US|18|0.2777777777777778|2343
+Bearish Belthold|Entity|FLTB.US|11|0.2727272727272727|15
+Bearish Belthold|Entity|IMKTA.US|11|0.2727272727272727|17
+Bearish Belthold|Entity|WEYS.US|11|0.2727272727272727|25
+Bearish Belthold|Entity|AZO.US|11|0.2727272727272727|36
+Bearish Belthold|Entity|ABT.US|11|0.2727272727272727|40
+Bearish Belthold|Entity|JOE.US|11|0.2727272727272727|58
+Bearish Belthold|Entity|LANC.US|11|0.2727272727272727|59
+Bearish Belthold|Entity|ELME.US|11|0.2727272727272727|72
+Bearish Belthold|Entity|TRP.US|11|0.2727272727272727|74
+Bearish Belthold|Entity|NJR.US|11|0.2727272727272727|90
+Bearish Belthold|Entity|PWZ.US|11|0.2727272727272727|118
+Bearish Belthold|Entity|AIG.US|15|0.26666666666666666|44
+Bearish Belthold|Industry|Scientific & Technical Instruments|30|0.26666666666666666|50
+Bearish Belthold|Entity|ADP.US|15|0.26666666666666666|50
+Bearish Belthold|Entity|BTAL.US|15|0.26666666666666666|67
+Bearish Belthold|Entity|TLH.US|15|0.26666666666666666|756
+Bearish Belthold|Entity|VCIT.US|15|0.26666666666666666|769
+Bearish Belthold|Entity|BPT.US|12|0.25|3
+Bearish Belthold|Entity|HD.US|12|0.25|17
+Bearish Belthold|Entity|WMB.US|16|0.25|29
+Bearish Belthold|Entity|ADC.US|12|0.25|40
+Bearish Belthold|Entity|PG.US|16|0.25|58
+Bearish Belthold|Entity|ED.US|12|0.25|78
+Bearish Belthold|Entity|MSFT.US|12|0.25|102
+Bearish Belthold|Entity|MNA.US|12|0.25|323
+Bearish Belthold|Entity|KEX.US|13|0.23076923076923078|19
+Bearish Belthold|Entity|BCPC.US|13|0.23076923076923078|45
+Bearish Belthold|Entity|WTM.US|13|0.23076923076923078|55
+Bearish Belthold|Entity|PCH.US|13|0.23076923076923078|108
+Bearish Belthold|Entity|VCLT.US|13|0.23076923076923078|440
+Bearish Belthold|Entity|MMM.US|19|0.21052631578947367|96
+Bearish Belthold|Entity|CACC.US|10|0.2|13
+Bearish Belthold|Entity|ANIK.US|10|0.2|16
+Bearish Belthold|Entity|YCS.US|10|0.2|27
+Bearish Belthold|Entity|TKR.US|10|0.2|46
+Bearish Belthold|Entity|FRT.US|11|0.18181818181818182|27
+Bearish Belthold|Entity|UBSI.US|11|0.18181818181818182|58
+Bearish Belthold|Entity|CSL.US|11|0.18181818181818182|82
+Bearish Belthold|Entity|GSBC.US|11|0.18181818181818182|140
+Bearish Belthold|Entity|REZ.US|11|0.18181818181818182|142
+Bearish Belthold|Entity|O.US|12|0.16666666666666666|78
+Bearish Belthold|Entity|IEI.US|12|0.16666666666666666|2556
+Bearish Belthold|Entity|PGR.US|14|0.14285714285714285|26
+Bearish Belthold|Industry|Discount Stores|14|0.14285714285714285|28
+Bearish Belthold|Entity|AGZ.US|14|0.14285714285714285|802
+Bearish Belthold|Entity|TRV.US|10|0.1|24
+Bearish Belthold|Entity|EQR.US|10|0.1|41
+Bearish Belthold|Entity|UNH.US|10|0.1|71
+Bearish Belthold|Entity|NSC.US|15|0.06666666666666667|89
+Bearish Belthold|Entity|SUB.US|10|0|0
+Bearish Belthold|Entity|SHY.US|10|0|0
+Bearish Belthold|Entity|MARB.US|10|0|0

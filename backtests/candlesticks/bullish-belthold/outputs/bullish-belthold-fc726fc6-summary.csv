@@ -1,0 +1,436 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bullish Belthold|Entity|BMY.US|11|0.9090909090909091|76
+Bullish Belthold|Entity|OTTR.US|11|0.9090909090909091|234
+Bullish Belthold|Entity|LTPZ.US|10|0.9|315
+Bullish Belthold|Entity|AA.US|22|0.8636363636363636|29
+Bullish Belthold|Entity|UTMD.US|13|0.8461538461538461|50
+Bullish Belthold|Entity|CVX.US|12|0.8333333333333334|68
+Bullish Belthold|Entity|KO.US|11|0.8181818181818182|126
+Bullish Belthold|Industry|Aluminum|27|0.8148148148148148|30
+Bullish Belthold|Entity|SPTI.US|16|0.8125|1372
+Bullish Belthold|Entity|NOC.US|10|0.8|37
+Bullish Belthold|Entity|LUV.US|10|0.8|39
+Bullish Belthold|Entity|RTX.US|10|0.8|44
+Bullish Belthold|Entity|NKE.US|10|0.8|49
+Bullish Belthold|Entity|CALM.US|10|0.8|61
+Bullish Belthold|Entity|SAM.US|10|0.8|77
+Bullish Belthold|Entity|RDOG.US|10|0.8|332
+Bullish Belthold|Industry|Integrated Freight & Logistics|39|0.7948717948717948|45
+Bullish Belthold|Industry|Insurance - Life|14|0.7857142857142857|90
+Bullish Belthold|Entity|SONY.US|18|0.7777777777777778|33
+Bullish Belthold|Entity|TVC.US|13|0.7692307692307693|505
+Bullish Belthold|Entity|TDTF.US|13|0.7692307692307693|1574
+Bullish Belthold|Entity|MCD.US|17|0.7647058823529411|21
+Bullish Belthold|Entity|MTEX.US|16|0.75|25
+Bullish Belthold|Industry|Electronics & Computer Distribution|16|0.75|26
+Bullish Belthold|Entity|MCY.US|12|0.75|29
+Bullish Belthold|Entity|GEF-B.US|12|0.75|46
+Bullish Belthold|Entity|BHV.US|12|0.75|112
+Bullish Belthold|Entity|SPTL.US|12|0.75|273
+Bullish Belthold|Entity|APD.US|15|0.7333333333333333|49
+Bullish Belthold|Entity|SGA.US|11|0.7272727272727273|54
+Bullish Belthold|Entity|UL.US|11|0.7272727272727273|93
+Bullish Belthold|Entity|K.US|11|0.7272727272727273|99
+Bullish Belthold|Entity|AEP.US|11|0.7272727272727273|116
+Bullish Belthold|Entity|TIPZ.US|11|0.7272727272727273|761
+Bullish Belthold|Entity|FDX.US|14|0.7142857142857143|46
+Bullish Belthold|Entity|CAT.US|17|0.7058823529411765|29
+Bullish Belthold|Industry|Discount Stores|17|0.7058823529411765|31
+Bullish Belthold|Entity|BIS.US|17|0.7058823529411765|46
+Bullish Belthold|Industry|Medical Distribution|17|0.7058823529411765|57
+Bullish Belthold|Industry|Security & Protection Services|17|0.7058823529411765|58
+Bullish Belthold|Entity|AGX.US|10|0.7|14
+Bullish Belthold|Entity|AVT.US|10|0.7|19
+Bullish Belthold|Entity|BIG.US|10|0.7|21
+Bullish Belthold|Entity|OII.US|10|0.7|24
+Bullish Belthold|Entity|HEI.US|10|0.7|26
+Bullish Belthold|Entity|CADE.US|10|0.7|46
+Bullish Belthold|Industry|Staffing & Employment Services|20|0.7|51
+Bullish Belthold|Entity|VZ.US|10|0.7|59
+Bullish Belthold|Entity|IHE.US|10|0.7|143
+Bullish Belthold|Entity|DIS.US|13|0.6923076923076923|29
+Bullish Belthold|Entity|CRMT.US|13|0.6923076923076923|43
+Bullish Belthold|Entity|WTM.US|13|0.6923076923076923|150
+Bullish Belthold|Entity|WTMF.US|13|0.6923076923076923|431
+Bullish Belthold|Industry|Pollution & Treatment Controls|16|0.6875|28
+Bullish Belthold|Industry|Real Estate Services|34|0.6764705882352942|30
+Bullish Belthold|Industry|Software - Infrastructure|49|0.673469387755102|34
+Bullish Belthold|Industry|Specialty Chemicals|76|0.6710526315789473|61
+Bullish Belthold|Industry|Trucking|12|0.6666666666666666|16
+Bullish Belthold|Industry|Gold|36|0.6666666666666666|20
+Bullish Belthold|Entity|KELYA.US|12|0.6666666666666666|68
+Bullish Belthold|Entity|OCFC.US|12|0.6666666666666666|76
+Bullish Belthold|Entity|GD.US|12|0.6666666666666666|95
+Bullish Belthold|Industry|Utilities - Regulated Water|33|0.6666666666666666|126
+Bullish Belthold|Entity|BTAL.US|18|0.6666666666666666|248
+Bullish Belthold|Industry|Farm Products|38|0.6578947368421053|54
+Bullish Belthold|Industry|Advertising Agencies|32|0.65625|46
+Bullish Belthold|Industry|Drug Manufacturers - General|32|0.65625|67
+Bullish Belthold|Industry|Agricultural Inputs|23|0.6521739130434783|43
+Bullish Belthold|Industry|Utilities - Regulated Gas|23|0.6521739130434783|107
+Bullish Belthold|Industry|Recreational Vehicles|17|0.6470588235294118|49
+Bullish Belthold|Entity|TLK.US|14|0.6428571428571429|37
+Bullish Belthold|Entity|CNA.US|14|0.6428571428571429|67
+Bullish Belthold|Sector|Basic Materials|215|0.6372093023255814|41
+Bullish Belthold|Entity|PKOH.US|11|0.6363636363636364|13
+Bullish Belthold|Entity|SEED.US|11|0.6363636363636364|13
+Bullish Belthold|Entity|LNN.US|11|0.6363636363636364|20
+Bullish Belthold|Entity|DYNT.US|11|0.6363636363636364|32
+Bullish Belthold|Entity|PEBO.US|11|0.6363636363636364|92
+Bullish Belthold|Industry|Entertainment|41|0.6341463414634146|24
+Bullish Belthold|Entity|KZIA.US|19|0.631578947368421|25
+Bullish Belthold|Industry|REIT - Healthcare Facilities|19|0.631578947368421|52
+Bullish Belthold|Industry|Industrial Distribution|32|0.625|30
+Bullish Belthold|Entity|HES.US|16|0.625|47
+Bullish Belthold|Entity|QUIK.US|13|0.6153846153846154|20
+Bullish Belthold|Entity|LGND.US|13|0.6153846153846154|29
+Bullish Belthold|Entity|VHI.US|13|0.6153846153846154|38
+Bullish Belthold|Industry|Food Distribution|13|0.6153846153846154|42
+Bullish Belthold|Industry|Lodging|13|0.6153846153846154|55
+Bullish Belthold|Entity|ONB.US|13|0.6153846153846154|63
+Bullish Belthold|Entity|GXG.US|13|0.6153846153846154|65
+Bullish Belthold|Entity|PG.US|13|0.6153846153846154|82
+Bullish Belthold|Entity|CPB.US|13|0.6153846153846154|83
+Bullish Belthold|Entity|ARTNA.US|13|0.6153846153846154|217
+Bullish Belthold|Industry|Packaging & Containers|31|0.6129032258064516|51
+Bullish Belthold|Industry|Insurance - Property & Casualty|49|0.6122448979591837|57
+Bullish Belthold|Entity|MMLP.US|23|0.6086956521739131|36
+Bullish Belthold|Industry|Engineering & Construction|58|0.603448275862069|25
+Bullish Belthold|Entity|CRK.US|10|0.6|8
+Bullish Belthold|Entity|SMP.US|10|0.6|34
+Bullish Belthold|Entity|SKF.US|10|0.6|38
+Bullish Belthold|Entity|SLB.US|10|0.6|42
+Bullish Belthold|Entity|TNP.US|10|0.6|42
+Bullish Belthold|Entity|SSD.US|10|0.6|51
+Bullish Belthold|Entity|EPAC.US|10|0.6|51
+Bullish Belthold|Entity|HAS.US|10|0.6|51
+Bullish Belthold|Entity|DOC.US|10|0.6|59
+Bullish Belthold|Industry|Grocery Stores|10|0.6|59
+Bullish Belthold|Entity|WMK.US|10|0.6|62
+Bullish Belthold|Entity|DHIL.US|10|0.6|63
+Bullish Belthold|Entity|JOUT.US|10|0.6|64
+Bullish Belthold|Entity|RCKY.US|10|0.6|65
+Bullish Belthold|Entity|SKY.US|10|0.6|67
+Bullish Belthold|Entity|NBTB.US|10|0.6|79
+Bullish Belthold|Entity|BF-B.US|10|0.6|83
+Bullish Belthold|Entity|OPOF.US|10|0.6|92
+Bullish Belthold|Industry|Insurance - Diversified|15|0.6|134
+Bullish Belthold|Entity|JXI.US|10|0.6|188
+Bullish Belthold|Entity|TLH.US|10|0.6|278
+Bullish Belthold|Entity|FXF.US|10|0.6|556
+Bullish Belthold|Industry|Furnishings, Fixtures & Appliances|47|0.5957446808510638|35
+Bullish Belthold|Industry|Marine Shipping|32|0.59375|20
+Bullish Belthold|Entity|DBP.US|17|0.5882352941176471|261
+Bullish Belthold|Entity|USM.US|12|0.5833333333333334|20
+Bullish Belthold|Entity|FC.US|12|0.5833333333333334|20
+Bullish Belthold|Entity|DUG.US|12|0.5833333333333334|28
+Bullish Belthold|Industry|Specialty Industrial Machinery|127|0.5826771653543307|41
+Bullish Belthold|Industry|Healthcare Plans|31|0.5806451612903226|24
+Bullish Belthold|Industry|Household & Personal Products|31|0.5806451612903226|53
+Bullish Belthold|Industry|Rental & Leasing Services|19|0.5789473684210527|28
+Bullish Belthold|Industry|Personal Services|19|0.5789473684210527|40
+Bullish Belthold|Entity|MRK.US|19|0.5789473684210527|65
+Bullish Belthold|Industry|Auto & Truck Dealerships|26|0.5769230769230769|38
+Bullish Belthold|Industry|Semiconductor Equipment & Materials|14|0.5714285714285714|14
+Bullish Belthold|Industry|Oil & Gas Drilling|14|0.5714285714285714|24
+Bullish Belthold|Entity|TCI.US|14|0.5714285714285714|28
+Bullish Belthold|Industry|Leisure|28|0.5714285714285714|41
+Bullish Belthold|Entity|PGC.US|14|0.5714285714285714|49
+Bullish Belthold|Industry|Specialty Business Services|35|0.5714285714285714|55
+Bullish Belthold|Entity|PNM.US|14|0.5714285714285714|62
+Bullish Belthold|Entity|JNJ.US|14|0.5714285714285714|74
+Bullish Belthold|Industry|Apparel Retail|65|0.5692307692307692|30
+Bullish Belthold|Sector|Industrials|766|0.5678851174934726|38
+Bullish Belthold|Industry|Oil & Gas Integrated|37|0.5675675675675675|79
+Bullish Belthold|Industry|Beverages - Wineries & Distilleries|23|0.5652173913043478|97
+Bullish Belthold|Industry|Specialty Retail|39|0.5641025641025641|46
+Bullish Belthold|Entity|ODC.US|16|0.5625|28
+Bullish Belthold|Industry|Packaged Foods|64|0.5625|65
+Bullish Belthold|Entity|LEE.US|16|0.5625|71
+Bullish Belthold|Industry|Medical Care Facilities|57|0.5614035087719298|22
+Bullish Belthold|Entity|EPV.US|25|0.56|60
+Bullish Belthold|Sector|Consumer Cyclical|482|0.558091286307054|40
+Bullish Belthold|Industry|Software - Application|97|0.5567010309278351|25
+Bullish Belthold|Entity|NPK.US|18|0.5555555555555556|110
+Bullish Belthold|Sector|Consumer Defensive|289|0.5536332179930796|56
+Bullish Belthold|Industry|Medical Instruments & Supplies|85|0.5529411764705883|37
+Bullish Belthold|Industry|Drug Manufacturers - Specialty & Generic|91|0.5494505494505495|17
+Bullish Belthold|Industry|Auto Parts|31|0.5483870967741935|42
+Bullish Belthold|Entity|USNA.US|11|0.5454545454545454|21
+Bullish Belthold|Entity|CAG.US|11|0.5454545454545454|27
+Bullish Belthold|Industry|Scientific & Technical Instruments|33|0.5454545454545454|29
+Bullish Belthold|Entity|OCC.US|11|0.5454545454545454|30
+Bullish Belthold|Entity|NVMI.US|11|0.5454545454545454|31
+Bullish Belthold|Industry|Restaurants|55|0.5454545454545454|46
+Bullish Belthold|Industry|Textile Manufacturing|11|0.5454545454545454|50
+Bullish Belthold|Entity|AIN.US|11|0.5454545454545454|50
+Bullish Belthold|Entity|ATRI.US|11|0.5454545454545454|50
+Bullish Belthold|Industry|Oil & Gas Refining & Marketing|22|0.5454545454545454|51
+Bullish Belthold|Industry|Banks - Diversified|33|0.5454545454545454|52
+Bullish Belthold|Entity|LLY.US|11|0.5454545454545454|53
+Bullish Belthold|Entity|FISI.US|11|0.5454545454545454|57
+Bullish Belthold|Entity|BIO.US|11|0.5454545454545454|67
+Bullish Belthold|Entity|LMT.US|11|0.5454545454545454|67
+Bullish Belthold|Entity|FFBC.US|11|0.5454545454545454|71
+Bullish Belthold|Sector|Utilities|187|0.5454545454545454|108
+Bullish Belthold|Entity|BP.US|11|0.5454545454545454|140
+Bullish Belthold|Entity|GOVI.US|11|0.5454545454545454|565
+Bullish Belthold|Entity|VGIT.US|11|0.5454545454545454|1606
+Bullish Belthold|Industry|Utilities - Regulated Electric|94|0.5425531914893617|99
+Bullish Belthold|Industry|Consulting Services|37|0.5405405405405406|30
+Bullish Belthold|Entity|PHM.US|13|0.5384615384615384|12
+Bullish Belthold|Entity|WEYS.US|13|0.5384615384615384|34
+Bullish Belthold|Sector|Technology|434|0.5368663594470046|29
+Bullish Belthold|Industry|Insurance - Specialty|28|0.5357142857142857|49
+Bullish Belthold|Entity|CGA.US|15|0.5333333333333333|19
+Bullish Belthold|Entity|HHS.US|15|0.5333333333333333|41
+Bullish Belthold|Industry|REIT - Specialty|15|0.5333333333333333|82
+Bullish Belthold|Entity|BKH.US|15|0.5333333333333333|94
+Bullish Belthold|Entity|GBF.US|19|0.5263157894736842|928
+Bullish Belthold|Industry|Oil & Gas Midstream|63|0.5238095238095238|63
+Bullish Belthold|Industry|Electrical Equipment & Parts|21|0.5238095238095238|67
+Bullish Belthold|Industry|Conglomerates|23|0.5217391304347826|32
+Bullish Belthold|Entity|SMN.US|23|0.5217391304347826|50
+Bullish Belthold|Industry|Information Technology Services|77|0.5194805194805194|47
+Bullish Belthold|Sector|Healthcare|784|0.514030612244898|25
+Bullish Belthold|Industry|Aerospace & Defense|113|0.5132743362831859|40
+Bullish Belthold|Industry|REIT - Office|45|0.5111111111111111|65
+Bullish Belthold|Sector|Energy|268|0.503731343283582|46
+Bullish Belthold|Entity|ATHE.US|10|0.5|7
+Bullish Belthold|Industry|Waste Management|12|0.5|8
+Bullish Belthold|Entity|NTZ.US|16|0.5|10
+Bullish Belthold|Entity|TRIB.US|10|0.5|11
+Bullish Belthold|Industry|Biotechnology|296|0.5|12
+Bullish Belthold|Entity|STRT.US|12|0.5|13
+Bullish Belthold|Entity|VALU.US|10|0.5|14
+Bullish Belthold|Industry|REIT - Hotel & Motel|14|0.5|21
+Bullish Belthold|Entity|SMDD.US|20|0.5|25
+Bullish Belthold|Entity|UCTT.US|10|0.5|27
+Bullish Belthold|Entity|KOF.US|12|0.5|27
+Bullish Belthold|Entity|LHC-UN.US|12|0.5|32
+Bullish Belthold|Entity|EEV.US|18|0.5|33
+Bullish Belthold|Industry|Railroads|18|0.5|34
+Bullish Belthold|Entity|LUMN.US|10|0.5|34
+Bullish Belthold|Entity|WMB.US|10|0.5|37
+Bullish Belthold|Entity|NYT.US|10|0.5|39
+Bullish Belthold|Entity|TGNA.US|10|0.5|41
+Bullish Belthold|Entity|INDB.US|10|0.5|52
+Bullish Belthold|Entity|UBT.US|10|0.5|55
+Bullish Belthold|Entity|EWK.US|10|0.5|55
+Bullish Belthold|Entity|EMTY.US|18|0.5|58
+Bullish Belthold|Entity|MOD.US|10|0.5|60
+Bullish Belthold|Entity|BUSE.US|10|0.5|83
+Bullish Belthold|Entity|OPY.US|12|0.5|84
+Bullish Belthold|Entity|UNL.US|26|0.5|85
+Bullish Belthold|Entity|DE.US|12|0.5|86
+Bullish Belthold|Entity|HDGE.US|24|0.5|97
+Bullish Belthold|Entity|JHI.US|18|0.5|120
+Bullish Belthold|Entity|USCI.US|12|0.5|204
+Bullish Belthold|Sector|Communication Services|185|0.4972972972972973|49
+Bullish Belthold|Industry|Asset Management|172|0.4883720930232558|126
+Bullish Belthold|Sector|Financial Services|1045|0.4880382775119617|69
+Bullish Belthold|Industry|Telecom Services|41|0.4878048780487805|128
+Bullish Belthold|Industry|Oil & Gas E&P|76|0.4868421052631579|28
+Bullish Belthold|Industry|REIT - Residential|31|0.4838709677419355|126
+Bullish Belthold|Industry|Diagnostics & Research|58|0.4827586206896552|23
+Bullish Belthold|Industry|Banks - Regional|601|0.47920133111480867|58
+Bullish Belthold|Entity|BPT.US|23|0.4782608695652174|25
+Bullish Belthold|Industry|Building Products & Equipment|23|0.4782608695652174|54
+Bullish Belthold|Industry|Oil & Gas Equipment & Services|44|0.4772727272727273|28
+Bullish Belthold|Industry|Residential Construction|21|0.47619047619047616|19
+Bullish Belthold|Industry|Farm & Heavy Construction Machinery|63|0.47619047619047616|39
+Bullish Belthold|Entity|IBM.US|21|0.47619047619047616|83
+Bullish Belthold|Entity|BA.US|19|0.47368421052631576|17
+Bullish Belthold|Entity|ASA.US|19|0.47368421052631576|29
+Bullish Belthold|Overall|All|16662|0.47095186652262633|99
+Bullish Belthold|Industry|Utilities - Diversified|17|0.47058823529411764|137
+Bullish Belthold|Entity|SIJ.US|32|0.46875|46
+Bullish Belthold|Entity|CI.US|15|0.4666666666666667|19
+Bullish Belthold|Industry|Airlines|15|0.4666666666666667|35
+Bullish Belthold|Entity|MYY.US|43|0.46511627906976744|153
+Bullish Belthold|Industry|Semiconductors|52|0.46153846153846156|22
+Bullish Belthold|Entity|WRK.US|13|0.46153846153846156|30
+Bullish Belthold|Entity|ECNS.US|13|0.46153846153846156|69
+Bullish Belthold|Entity|YCL.US|24|0.4583333333333333|168
+Bullish Belthold|Entity|USEG.US|11|0.45454545454545453|18
+Bullish Belthold|Entity|LPX.US|11|0.45454545454545453|25
+Bullish Belthold|Entity|INFIQ.US|11|0.45454545454545453|26
+Bullish Belthold|Entity|PPBI.US|11|0.45454545454545453|29
+Bullish Belthold|Entity|ATI.US|11|0.45454545454545453|39
+Bullish Belthold|Entity|EPU.US|11|0.45454545454545453|86
+Bullish Belthold|Entity|CRVL.US|11|0.45454545454545453|89
+Bullish Belthold|Entity|BBH.US|11|0.45454545454545453|102
+Bullish Belthold|Entity|KBND.US|11|0.45454545454545453|586
+Bullish Belthold|Entity|REK.US|42|0.4523809523809524|78
+Bullish Belthold|Entity|SDD.US|27|0.4444444444444444|37
+Bullish Belthold|Industry|Medical Devices|98|0.4387755102040816|37
+Bullish Belthold|Entity|LHX.US|16|0.4375|42
+Bullish Belthold|Entity|ALX.US|16|0.4375|45
+Bullish Belthold|Entity|WDS.US|16|0.4375|62
+Bullish Belthold|Industry|Education & Training Services|39|0.4358974358974359|11
+Bullish Belthold|Sector|Real Estate|310|0.4290322580645161|68
+Bullish Belthold|Entity|BYFC.US|14|0.42857142857142855|22
+Bullish Belthold|Entity|SPDN.US|21|0.42857142857142855|79
+Bullish Belthold|Entity|EUM.US|21|0.42857142857142855|131
+Bullish Belthold|Entity|EFZ.US|33|0.42424242424242425|234
+Bullish Belthold|Industry|Communication Equipment|45|0.4222222222222222|27
+Bullish Belthold|Industry|Electronic Components|38|0.42105263157894735|25
+Bullish Belthold|Industry|Capital Markets|24|0.4166666666666667|20
+Bullish Belthold|Entity|CMCT.US|12|0.4166666666666667|23
+Bullish Belthold|Entity|ESLT.US|12|0.4166666666666667|29
+Bullish Belthold|Industry|Credit Services|48|0.4166666666666667|31
+Bullish Belthold|Entity|SPB.US|12|0.4166666666666667|39
+Bullish Belthold|Entity|DWSH.US|12|0.4166666666666667|61
+Bullish Belthold|Entity|RBCAA.US|12|0.4166666666666667|62
+Bullish Belthold|Entity|MTR.US|12|0.4166666666666667|64
+Bullish Belthold|Entity|TR.US|12|0.4166666666666667|74
+Bullish Belthold|Entity|MZZ.US|29|0.41379310344827586|35
+Bullish Belthold|Entity|KT.US|17|0.4117647058823529|49
+Bullish Belthold|Entity|UST.US|17|0.4117647058823529|274
+Bullish Belthold|Industry|Beverages - Non-Alcoholic|32|0.40625|91
+Bullish Belthold|Entity|IDCC.US|10|0.4|7
+Bullish Belthold|Entity|LDWY.US|10|0.4|12
+Bullish Belthold|Entity|MHO.US|10|0.4|12
+Bullish Belthold|Entity|MSI.US|10|0.4|17
+Bullish Belthold|Entity|LIQT.US|10|0.4|18
+Bullish Belthold|Entity|CUTR.US|10|0.4|19
+Bullish Belthold|Entity|EDZ.US|10|0.4|20
+Bullish Belthold|Entity|PHI.US|10|0.4|25
+Bullish Belthold|Entity|MLP.US|10|0.4|30
+Bullish Belthold|Entity|FL.US|10|0.4|34
+Bullish Belthold|Industry|Metal Fabrication|20|0.4|36
+Bullish Belthold|Entity|UFPI.US|10|0.4|45
+Bullish Belthold|Entity|ALCO.US|10|0.4|50
+Bullish Belthold|Entity|FTRI.US|10|0.4|52
+Bullish Belthold|Entity|DUK.US|10|0.4|52
+Bullish Belthold|Entity|SCX.US|10|0.4|62
+Bullish Belthold|Industry|Paper & Paper Products|15|0.4|65
+Bullish Belthold|Entity|EFU.US|15|0.4|65
+Bullish Belthold|Entity|HAL.US|10|0.4|74
+Bullish Belthold|Entity|WHG.US|10|0.4|75
+Bullish Belthold|Entity|SLVO.US|15|0.4|98
+Bullish Belthold|Entity|HSBC.US|10|0.4|98
+Bullish Belthold|Entity|ULE.US|10|0.4|222
+Bullish Belthold|Entity|TVE.US|10|0.4|414
+Bullish Belthold|Entity|GNMA.US|20|0.4|1270
+Bullish Belthold|Entity|AGZ.US|15|0.4|1976
+Bullish Belthold|Entity|EWV.US|38|0.39473684210526316|46
+Bullish Belthold|Entity|LEXX.US|13|0.38461538461538464|4
+Bullish Belthold|Entity|MARPS.US|13|0.38461538461538464|9
+Bullish Belthold|Industry|Chemicals|13|0.38461538461538464|21
+Bullish Belthold|Entity|MVO.US|13|0.38461538461538464|28
+Bullish Belthold|Entity|BSET.US|13|0.38461538461538464|35
+Bullish Belthold|Entity|PLPC.US|13|0.38461538461538464|51
+Bullish Belthold|Entity|TYO.US|13|0.38461538461538464|164
+Bullish Belthold|Entity|DBB.US|13|0.38461538461538464|172
+Bullish Belthold|Entity|SJB.US|39|0.38461538461538464|275
+Bullish Belthold|Industry|Electronic Gaming & Multimedia|34|0.38235294117647056|8
+Bullish Belthold|Industry|Insurance Brokers|34|0.38235294117647056|56
+Bullish Belthold|Industry|Mortgage Finance|16|0.375|72
+Bullish Belthold|Entity|DOG.US|16|0.375|112
+Bullish Belthold|Entity|SDP.US|35|0.37142857142857144|54
+Bullish Belthold|Entity|RWM.US|19|0.3684210526315789|87
+Bullish Belthold|Entity|GRVY.US|11|0.36363636363636365|6
+Bullish Belthold|Entity|CPE.US|11|0.36363636363636365|10
+Bullish Belthold|Entity|SNDA.US|11|0.36363636363636365|12
+Bullish Belthold|Entity|LXRX.US|11|0.36363636363636365|18
+Bullish Belthold|Entity|TSAT.US|11|0.36363636363636365|34
+Bullish Belthold|Entity|R.US|11|0.36363636363636365|59
+Bullish Belthold|Entity|PXJ.US|11|0.36363636363636365|63
+Bullish Belthold|Entity|EDV.US|11|0.36363636363636365|139
+Bullish Belthold|Entity|SOR.US|11|0.36363636363636365|192
+Bullish Belthold|Entity|SPAB.US|11|0.36363636363636365|396
+Bullish Belthold|Entity|AWH.US|14|0.35714285714285715|5
+Bullish Belthold|Entity|REW.US|28|0.35714285714285715|48
+Bullish Belthold|Entity|PCH.US|14|0.35714285714285715|86
+Bullish Belthold|Sector|Financials|14|0.35714285714285715|104
+Bullish Belthold|Entity|VBND.US|14|0.35714285714285715|331
+Bullish Belthold|Entity|RXD.US|31|0.3548387096774194|41
+Bullish Belthold|Entity|YXI.US|23|0.34782608695652173|76
+Bullish Belthold|Industry|Internet Content & Information|27|0.3333333333333333|29
+Bullish Belthold|Entity|TRC.US|12|0.3333333333333333|34
+Bullish Belthold|Entity|PSQ.US|18|0.3333333333333333|39
+Bullish Belthold|Entity|ATLO.US|12|0.3333333333333333|53
+Bullish Belthold|Industry|REIT - Retail|54|0.3333333333333333|68
+Bullish Belthold|Industry|Utilities - Renewable|15|0.3333333333333333|78
+Bullish Belthold|Entity|TKR.US|12|0.3333333333333333|87
+Bullish Belthold|Entity|GLT.US|12|0.3333333333333333|88
+Bullish Belthold|Sector|Other|15|0.3333333333333333|128
+Bullish Belthold|Industry|Other|15|0.3333333333333333|128
+Bullish Belthold|Industry|REIT - Industrial|22|0.3181818181818182|104
+Bullish Belthold|Entity|CNCR.US|16|0.3125|27
+Bullish Belthold|Industry|Resorts & Casinos|16|0.3125|30
+Bullish Belthold|Entity|SEF.US|46|0.30434782608695654|141
+Bullish Belthold|Industry|Publishing|10|0.3|11
+Bullish Belthold|Entity|DALN.US|10|0.3|11
+Bullish Belthold|Entity|PKX.US|10|0.3|17
+Bullish Belthold|Entity|ATLC.US|10|0.3|32
+Bullish Belthold|Entity|KFS.US|10|0.3|36
+Bullish Belthold|Entity|REMX.US|10|0.3|50
+Bullish Belthold|Entity|DX.US|10|0.3|62
+Bullish Belthold|Entity|PXI.US|10|0.3|63
+Bullish Belthold|Entity|STBA.US|10|0.3|79
+Bullish Belthold|Entity|SDEM.US|10|0.3|211
+Bullish Belthold|Entity|NYF.US|10|0.3|802
+Bullish Belthold|Entity|ONCY.US|11|0.2727272727272727|3
+Bullish Belthold|Entity|WF.US|11|0.2727272727272727|61
+Bullish Belthold|Entity|LTC.US|11|0.2727272727272727|75
+Bullish Belthold|Entity|PCG.US|11|0.2727272727272727|93
+Bullish Belthold|Entity|EWL.US|11|0.2727272727272727|198
+Bullish Belthold|Entity|UVSP.US|11|0.2727272727272727|272
+Bullish Belthold|Industry|REIT - Mortgage|52|0.2692307692307692|98
+Bullish Belthold|Entity|SOYB.US|15|0.26666666666666666|33
+Bullish Belthold|Entity|SBB.US|30|0.26666666666666666|70
+Bullish Belthold|Entity|RLY.US|15|0.26666666666666666|98
+Bullish Belthold|Entity|SCC.US|24|0.25|49
+Bullish Belthold|Entity|CORN.US|20|0.25|98
+Bullish Belthold|Entity|CNP.US|12|0.25|130
+Bullish Belthold|Entity|GCC.US|12|0.25|186
+Bullish Belthold|Entity|TBX.US|12|0.25|709
+Bullish Belthold|Entity|SZK.US|43|0.23255813953488372|50
+Bullish Belthold|Entity|URA.US|13|0.23076923076923078|50
+Bullish Belthold|Entity|CNXT.US|13|0.23076923076923078|134
+Bullish Belthold|Entity|PST.US|13|0.23076923076923078|201
+Bullish Belthold|Entity|GIGM.US|10|0.2|2
+Bullish Belthold|Entity|SBET.US|10|0.2|4
+Bullish Belthold|Entity|LIVE.US|10|0.2|11
+Bullish Belthold|Entity|FENG.US|10|0.2|18
+Bullish Belthold|Entity|FXP.US|10|0.2|23
+Bullish Belthold|Entity|FID.US|10|0.2|28
+Bullish Belthold|Entity|YANG.US|10|0.2|28
+Bullish Belthold|Entity|FBRT.US|10|0.2|101
+Bullish Belthold|Entity|VLT.US|10|0.2|353
+Bullish Belthold|Entity|FXB.US|16|0.1875|191
+Bullish Belthold|Entity|UTSI.US|11|0.18181818181818182|30
+Bullish Belthold|Entity|SDOW.US|11|0.18181818181818182|31
+Bullish Belthold|Entity|NKSH.US|11|0.18181818181818182|33
+Bullish Belthold|Entity|FXY.US|11|0.18181818181818182|94
+Bullish Belthold|Entity|FXA.US|11|0.18181818181818182|190
+Bullish Belthold|Entity|SH.US|12|0.16666666666666666|56
+Bullish Belthold|Entity|DXD.US|12|0.16666666666666666|58
+Bullish Belthold|Entity|MBSD.US|12|0.16666666666666666|852
+Bullish Belthold|Entity|GECC.US|13|0.15384615384615385|26
+Bullish Belthold|Entity|PROV.US|13|0.15384615384615385|69
+Bullish Belthold|Entity|WIP.US|13|0.15384615384615385|148
+Bullish Belthold|Entity|BNDC.US|13|0.15384615384615385|308
+Bullish Belthold|Entity|PARAA.US|15|0.13333333333333333|212
+Bullish Belthold|Entity|SEVN.US|10|0.1|15
+Bullish Belthold|Industry|Health Information Services|10|0.1|156
+Bullish Belthold|Entity|CEW.US|10|0.1|573
+Bullish Belthold|Industry|REIT - Diversified|11|0.09090909090909091|30
+Bullish Belthold|Entity|BWZ.US|11|0.09090909090909091|337
+Bullish Belthold|Entity|MNA.US|11|0.09090909090909091|556
+Bullish Belthold|Entity|GLDI.US|22|0.09090909090909091|620
+Bullish Belthold|Entity|UDN.US|23|0.08695652173913043|294
+Bullish Belthold|Entity|QAT.US|14|0.07142857142857142|41
+Bullish Belthold|Entity|IBD.US|14|0.07142857142857142|139
+Bullish Belthold|Entity|ISHG.US|17|0.058823529411764705|821
+Bullish Belthold|Entity|IGSB.US|15|0|0
+Bullish Belthold|Entity|STPZ.US|12|0|0
+Bullish Belthold|Entity|LDUR.US|11|0|0
+Bullish Belthold|Entity|SPMB.US|12|0|0
+Bullish Belthold|Entity|FLTB.US|10|0|0
+Bullish Belthold|Entity|STIP.US|12|0|0
+Bullish Belthold|Entity|SPCX.US|14|0|0
+Bullish Belthold|Entity|VMBS.US|18|0|0
+Bullish Belthold|Entity|SHY.US|10|0|0
