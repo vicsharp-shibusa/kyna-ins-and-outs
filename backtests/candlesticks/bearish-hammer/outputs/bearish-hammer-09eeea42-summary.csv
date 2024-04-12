@@ -1,0 +1,461 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Hammer|Entity|SPSB.US|10|1|2483
+Bearish Hammer|Entity|VMBS.US|14|1|2954
+Bearish Hammer|Entity|BKR.US|10|0.9|22
+Bearish Hammer|Entity|BND.US|10|0.9|1603
+Bearish Hammer|Entity|OBLG.US|16|0.875|12
+Bearish Hammer|Entity|VLT.US|14|0.8571428571428571|209
+Bearish Hammer|Entity|SSG.US|12|0.8333333333333334|6
+Bearish Hammer|Entity|WLFC.US|12|0.8333333333333334|24
+Bearish Hammer|Entity|UMBF.US|12|0.8333333333333334|80
+Bearish Hammer|Entity|CINF.US|12|0.8333333333333334|86
+Bearish Hammer|Entity|SHM.US|11|0.8181818181818182|2691
+Bearish Hammer|Industry|Other|16|0.8125|297
+Bearish Hammer|Sector|Other|16|0.8125|297
+Bearish Hammer|Entity|SLB.US|10|0.8|58
+Bearish Hammer|Entity|NYF.US|20|0.8|1065
+Bearish Hammer|Entity|GURE.US|13|0.7692307692307693|20
+Bearish Hammer|Entity|MLP.US|13|0.7692307692307693|32
+Bearish Hammer|Entity|HYMB.US|13|0.7692307692307693|516
+Bearish Hammer|Entity|TVC.US|26|0.7692307692307693|614
+Bearish Hammer|Industry|Insurance - Reinsurance|12|0.75|47
+Bearish Hammer|Entity|EFOI.US|11|0.7272727272727273|14
+Bearish Hammer|Entity|NAT.US|11|0.7272727272727273|15
+Bearish Hammer|Entity|DX.US|11|0.7272727272727273|24
+Bearish Hammer|Entity|EOG.US|11|0.7272727272727273|33
+Bearish Hammer|Entity|MYY.US|11|0.7272727272727273|68
+Bearish Hammer|Entity|MTR.US|11|0.7272727272727273|84
+Bearish Hammer|Entity|BCE.US|11|0.7272727272727273|138
+Bearish Hammer|Entity|LNT.US|11|0.7272727272727273|160
+Bearish Hammer|Industry|Chemicals|18|0.7222222222222222|21
+Bearish Hammer|Entity|AVT.US|18|0.7222222222222222|35
+Bearish Hammer|Entity|LSTA.US|10|0.7|4
+Bearish Hammer|Entity|APTO.US|10|0.7|6
+Bearish Hammer|Industry|Trucking|10|0.7|22
+Bearish Hammer|Entity|RICK.US|10|0.7|31
+Bearish Hammer|Entity|MNRO.US|10|0.7|44
+Bearish Hammer|Entity|PCH.US|10|0.7|48
+Bearish Hammer|Entity|DMLP.US|10|0.7|49
+Bearish Hammer|Entity|TCBK.US|10|0.7|62
+Bearish Hammer|Entity|BTI.US|10|0.7|66
+Bearish Hammer|Entity|SCC.US|13|0.6923076923076923|18
+Bearish Hammer|Entity|FLXS.US|13|0.6923076923076923|42
+Bearish Hammer|Entity|AEE.US|13|0.6923076923076923|57
+Bearish Hammer|Entity|SBB.US|13|0.6923076923076923|87
+Bearish Hammer|Industry|Metal Fabrication|16|0.6875|23
+Bearish Hammer|Industry|Electronics & Computer Distribution|25|0.68|39
+Bearish Hammer|Entity|CRT.US|12|0.6666666666666666|12
+Bearish Hammer|Entity|GTBP.US|54|0.6666666666666666|16
+Bearish Hammer|Entity|JAN.US|12|0.6666666666666666|21
+Bearish Hammer|Entity|SZK.US|12|0.6666666666666666|26
+Bearish Hammer|Industry|Auto & Truck Dealerships|15|0.6666666666666666|30
+Bearish Hammer|Industry|Advertising Agencies|15|0.6666666666666666|35
+Bearish Hammer|Entity|PNW.US|15|0.6666666666666666|56
+Bearish Hammer|Industry|Insurance - Property & Casualty|51|0.6666666666666666|69
+Bearish Hammer|Entity|WSBC.US|15|0.6666666666666666|85
+Bearish Hammer|Sector|Financials|18|0.6666666666666666|264
+Bearish Hammer|Entity|DD.US|20|0.65|44
+Bearish Hammer|Industry|Utilities - Diversified|37|0.6486486486486487|111
+Bearish Hammer|Industry|REIT - Mortgage|54|0.6481481481481481|66
+Bearish Hammer|Industry|Residential Construction|28|0.6428571428571429|21
+Bearish Hammer|Industry|Food Distribution|14|0.6428571428571429|33
+Bearish Hammer|Entity|CCBG.US|14|0.6428571428571429|33
+Bearish Hammer|Entity|HES.US|14|0.6428571428571429|55
+Bearish Hammer|Entity|GHI.US|14|0.6428571428571429|131
+Bearish Hammer|Industry|Oil & Gas Equipment & Services|47|0.6382978723404256|15
+Bearish Hammer|Entity|ICAD.US|11|0.6363636363636364|10
+Bearish Hammer|Entity|SIJ.US|11|0.6363636363636364|17
+Bearish Hammer|Entity|ANSS.US|11|0.6363636363636364|49
+Bearish Hammer|Industry|Tobacco|11|0.6363636363636364|66
+Bearish Hammer|Entity|PEG.US|11|0.6363636363636364|80
+Bearish Hammer|Entity|ALE.US|22|0.6363636363636364|164
+Bearish Hammer|Entity|DOMH.US|35|0.6285714285714286|15
+Bearish Hammer|Industry|Gold|43|0.627906976744186|28
+Bearish Hammer|Entity|CLDX.US|16|0.625|10
+Bearish Hammer|Entity|ERNA.US|16|0.625|12
+Bearish Hammer|Industry|Furnishings, Fixtures & Appliances|53|0.6226415094339622|27
+Bearish Hammer|Industry|Telecom Services|29|0.6206896551724138|96
+Bearish Hammer|Entity|PCG.US|21|0.6190476190476191|114
+Bearish Hammer|Entity|NOC.US|13|0.6153846153846154|18
+Bearish Hammer|Entity|DORM.US|13|0.6153846153846154|22
+Bearish Hammer|Industry|Travel Services|13|0.6153846153846154|46
+Bearish Hammer|Entity|ADC.US|13|0.6153846153846154|46
+Bearish Hammer|Entity|SKT.US|13|0.6153846153846154|47
+Bearish Hammer|Entity|AGG.US|13|0.6153846153846154|1701
+Bearish Hammer|Entity|ABEO.US|31|0.6129032258064516|10
+Bearish Hammer|Industry|Drug Manufacturers - Specialty & Generic|67|0.6119402985074627|13
+Bearish Hammer|Entity|SNBR.US|10|0.6|6
+Bearish Hammer|Entity|TREE.US|10|0.6|6
+Bearish Hammer|Entity|DRD.US|10|0.6|9
+Bearish Hammer|Industry|Resorts & Casinos|15|0.6|19
+Bearish Hammer|Industry|Airlines|20|0.6|21
+Bearish Hammer|Entity|CAMP.US|10|0.6|22
+Bearish Hammer|Entity|FIX.US|10|0.6|27
+Bearish Hammer|Entity|SUP.US|10|0.6|34
+Bearish Hammer|Entity|MMLP.US|10|0.6|36
+Bearish Hammer|Entity|LUV.US|20|0.6|38
+Bearish Hammer|Entity|FFIC.US|15|0.6|38
+Bearish Hammer|Entity|CMCT.US|10|0.6|40
+Bearish Hammer|Entity|KAMN.US|10|0.6|42
+Bearish Hammer|Entity|UEIC.US|10|0.6|42
+Bearish Hammer|Entity|STE.US|10|0.6|43
+Bearish Hammer|Entity|FCNCA.US|10|0.6|45
+Bearish Hammer|Entity|AIG.US|15|0.6|45
+Bearish Hammer|Entity|TRST.US|15|0.6|50
+Bearish Hammer|Entity|LHX.US|10|0.6|57
+Bearish Hammer|Entity|ABM.US|10|0.6|73
+Bearish Hammer|Entity|USRT.US|10|0.6|78
+Bearish Hammer|Entity|AVB.US|10|0.6|98
+Bearish Hammer|Industry|Mortgage Finance|15|0.6|131
+Bearish Hammer|Industry|Investment Banking & Investment Services|15|0.6|247
+Bearish Hammer|Entity|NHI.US|10|0.6|323
+Bearish Hammer|Industry|Restaurants|59|0.5932203389830508|41
+Bearish Hammer|Industry|Communication Equipment|44|0.5909090909090909|18
+Bearish Hammer|Entity|RTX.US|22|0.5909090909090909|50
+Bearish Hammer|Entity|ARTNA.US|17|0.5882352941176471|102
+Bearish Hammer|Entity|AEP.US|34|0.5882352941176471|141
+Bearish Hammer|Entity|CFR.US|12|0.5833333333333334|25
+Bearish Hammer|Entity|SSL.US|12|0.5833333333333334|26
+Bearish Hammer|Entity|WASH.US|12|0.5833333333333334|34
+Bearish Hammer|Entity|ALX.US|12|0.5833333333333334|44
+Bearish Hammer|Industry|Industrial Distribution|24|0.5833333333333334|56
+Bearish Hammer|Entity|BXP.US|12|0.5833333333333334|57
+Bearish Hammer|Entity|ELS.US|12|0.5833333333333334|101
+Bearish Hammer|Entity|NKSH.US|12|0.5833333333333334|142
+Bearish Hammer|Entity|JHI.US|12|0.5833333333333334|285
+Bearish Hammer|Industry|Biotechnology|384|0.5807291666666666|11
+Bearish Hammer|Entity|HAL.US|19|0.5789473684210527|18
+Bearish Hammer|Industry|Oil & Gas E&P|102|0.5784313725490197|33
+Bearish Hammer|Industry|Internet Content & Information|14|0.5714285714285714|12
+Bearish Hammer|Entity|FDX.US|21|0.5714285714285714|33
+Bearish Hammer|Entity|LNC.US|14|0.5714285714285714|54
+Bearish Hammer|Entity|NRIM.US|14|0.5714285714285714|58
+Bearish Hammer|Entity|COKE.US|14|0.5714285714285714|74
+Bearish Hammer|Entity|CMF.US|14|0.5714285714285714|364
+Bearish Hammer|Industry|Engineering & Construction|64|0.5625|22
+Bearish Hammer|Entity|BA.US|25|0.56|43
+Bearish Hammer|Entity|VLY.US|18|0.5555555555555556|45
+Bearish Hammer|Industry|Medical Devices|103|0.5533980582524272|20
+Bearish Hammer|Entity|PG.US|29|0.5517241379310345|89
+Bearish Hammer|Entity|WFRD.US|40|0.55|29
+Bearish Hammer|Entity|GD.US|20|0.55|45
+Bearish Hammer|Entity|BMY.US|20|0.55|54
+Bearish Hammer|Entity|GT.US|20|0.55|83
+Bearish Hammer|Industry|Information Technology Services|102|0.5490196078431373|28
+Bearish Hammer|Entity|MKTX.US|11|0.5454545454545454|7
+Bearish Hammer|Industry|Marine Shipping|22|0.5454545454545454|17
+Bearish Hammer|Entity|NBTB.US|11|0.5454545454545454|18
+Bearish Hammer|Entity|RBCAA.US|11|0.5454545454545454|19
+Bearish Hammer|Entity|UFCS.US|11|0.5454545454545454|21
+Bearish Hammer|Entity|WAFD.US|11|0.5454545454545454|31
+Bearish Hammer|Entity|LEG.US|11|0.5454545454545454|40
+Bearish Hammer|Entity|E.US|11|0.5454545454545454|47
+Bearish Hammer|Entity|MBWM.US|11|0.5454545454545454|54
+Bearish Hammer|Entity|SONY.US|22|0.5454545454545454|60
+Bearish Hammer|Entity|NYT.US|33|0.5454545454545454|60
+Bearish Hammer|Entity|IDU.US|11|0.5454545454545454|65
+Bearish Hammer|Entity|PSA.US|11|0.5454545454545454|77
+Bearish Hammer|Entity|HQH.US|11|0.5454545454545454|113
+Bearish Hammer|Entity|DTE.US|11|0.5454545454545454|137
+Bearish Hammer|Entity|AON.US|13|0.5384615384615384|39
+Bearish Hammer|Entity|ELME.US|13|0.5384615384615384|40
+Bearish Hammer|Entity|CMA.US|13|0.5384615384615384|47
+Bearish Hammer|Entity|LANC.US|13|0.5384615384615384|52
+Bearish Hammer|Entity|CAH.US|13|0.5384615384615384|61
+Bearish Hammer|Entity|AXP.US|13|0.5384615384615384|64
+Bearish Hammer|Entity|BNDX.US|13|0.5384615384615384|1602
+Bearish Hammer|Entity|FBRT.US|15|0.5333333333333333|24
+Bearish Hammer|Entity|APD.US|15|0.5333333333333333|43
+Bearish Hammer|Entity|TAP.US|15|0.5333333333333333|59
+Bearish Hammer|Entity|ED.US|30|0.5333333333333333|80
+Bearish Hammer|Sector|Communication Services|130|0.5307692307692308|51
+Bearish Hammer|Industry|REIT - Office|66|0.5303030303030303|56
+Bearish Hammer|Entity|MBOT.US|17|0.5294117647058824|11
+Bearish Hammer|Industry|Security & Protection Services|19|0.5263157894736842|21
+Bearish Hammer|Industry|REIT - Diversified|19|0.5263157894736842|118
+Bearish Hammer|Sector|Healthcare|892|0.5246636771300448|23
+Bearish Hammer|Industry|Packaged Foods|61|0.5245901639344263|38
+Bearish Hammer|Industry|Discount Stores|23|0.5217391304347826|52
+Bearish Hammer|Entity|WDFC.US|29|0.5172413793103449|83
+Bearish Hammer|Entity|CNP.US|29|0.5172413793103449|93
+Bearish Hammer|Industry|Drug Manufacturers - General|60|0.5166666666666667|46
+Bearish Hammer|Industry|Specialty Business Services|37|0.5135135135135135|48
+Bearish Hammer|Sector|Real Estate|394|0.5126903553299492|65
+Bearish Hammer|Sector|Technology|461|0.5119305856832972|25
+Bearish Hammer|Industry|Farm & Heavy Construction Machinery|88|0.5113636363636364|56
+Bearish Hammer|Industry|Software - Infrastructure|67|0.5074626865671642|26
+Bearish Hammer|Industry|Asset Management|144|0.5069444444444444|85
+Bearish Hammer|Sector|Basic Materials|277|0.5054151624548736|43
+Bearish Hammer|Sector|Consumer Cyclical|535|0.5046728971962616|34
+Bearish Hammer|Industry|Semiconductor Equipment & Materials|12|0.5|8
+Bearish Hammer|Industry|Auto Manufacturers|10|0.5|8
+Bearish Hammer|Entity|RGEN.US|12|0.5|10
+Bearish Hammer|Entity|AMWD.US|12|0.5|11
+Bearish Hammer|Entity|THMO.US|16|0.5|12
+Bearish Hammer|Entity|SDD.US|10|0.5|20
+Bearish Hammer|Entity|FELE.US|10|0.5|21
+Bearish Hammer|Entity|BWA.US|10|0.5|21
+Bearish Hammer|Industry|Consulting Services|48|0.5|23
+Bearish Hammer|Entity|SMBC.US|10|0.5|23
+Bearish Hammer|Entity|MMSI.US|10|0.5|28
+Bearish Hammer|Industry|Pollution & Treatment Controls|12|0.5|28
+Bearish Hammer|Entity|BSET.US|10|0.5|28
+Bearish Hammer|Entity|SSD.US|10|0.5|28
+Bearish Hammer|Industry|Railroads|18|0.5|30
+Bearish Hammer|Entity|HEI.US|10|0.5|31
+Bearish Hammer|Entity|ASA.US|10|0.5|34
+Bearish Hammer|Industry|Capital Markets|16|0.5|34
+Bearish Hammer|Industry|REIT - Healthcare Facilities|18|0.5|37
+Bearish Hammer|Entity|RWT.US|12|0.5|38
+Bearish Hammer|Industry|Banks - Diversified|40|0.5|40
+Bearish Hammer|Industry|Recreational Vehicles|12|0.5|40
+Bearish Hammer|Entity|BK.US|18|0.5|43
+Bearish Hammer|Industry|Auto Parts|54|0.5|46
+Bearish Hammer|Entity|OXM.US|10|0.5|49
+Bearish Hammer|Industry|Insurance - Diversified|54|0.5|50
+Bearish Hammer|Industry|Building Products & Equipment|22|0.5|51
+Bearish Hammer|Entity|HNI.US|12|0.5|52
+Bearish Hammer|Industry|Business Equipment & Supplies|12|0.5|52
+Bearish Hammer|Industry|Farm Products|32|0.5|57
+Bearish Hammer|Entity|CW.US|14|0.5|60
+Bearish Hammer|Entity|GOOD.US|10|0.5|60
+Bearish Hammer|Entity|CAT.US|26|0.5|69
+Bearish Hammer|Industry|Aluminum|26|0.5|71
+Bearish Hammer|Entity|FE.US|10|0.5|72
+Bearish Hammer|Entity|AA.US|24|0.5|75
+Bearish Hammer|Industry|REIT - Residential|78|0.5|80
+Bearish Hammer|Entity|WFC.US|20|0.5|83
+Bearish Hammer|Entity|TR.US|10|0.5|85
+Bearish Hammer|Entity|SH.US|12|0.5|113
+Bearish Hammer|Entity|SPAB.US|14|0.5|1870
+Bearish Hammer|Sector|Energy|338|0.4940828402366864|33
+Bearish Hammer|Industry|REIT - Retail|68|0.4852941176470588|55
+Bearish Hammer|Sector|Industrials|800|0.485|37
+Bearish Hammer|Industry|Integrated Freight & Logistics|60|0.48333333333333334|31
+Bearish Hammer|Industry|Oil & Gas Refining & Marketing|29|0.4827586206896552|22
+Bearish Hammer|Entity|NFG.US|29|0.4827586206896552|102
+Bearish Hammer|Overall|All|15504|0.48213364293085653|121
+Bearish Hammer|Industry|Semiconductors|27|0.48148148148148145|35
+Bearish Hammer|Industry|Software - Application|106|0.4811320754716981|19
+Bearish Hammer|Industry|Utilities - Regulated Water|48|0.4791666666666667|62
+Bearish Hammer|Entity|NEON.US|21|0.47619047619047616|6
+Bearish Hammer|Industry|Aerospace & Defense|122|0.47540983606557374|41
+Bearish Hammer|Industry|Home Improvement Retail|19|0.47368421052631576|23
+Bearish Hammer|Industry|Utilities - Regulated Electric|237|0.47257383966244726|92
+Bearish Hammer|Sector|Financial Services|1178|0.47198641765704585|59
+Bearish Hammer|Sector|Utilities|390|0.4717948717948718|88
+Bearish Hammer|Entity|MKC.US|17|0.47058823529411764|56
+Bearish Hammer|Industry|Packaging & Containers|32|0.46875|39
+Bearish Hammer|Entity|CRVL.US|15|0.4666666666666667|32
+Bearish Hammer|Entity|WSFS.US|15|0.4666666666666667|33
+Bearish Hammer|Entity|ATO.US|15|0.4666666666666667|41
+Bearish Hammer|Industry|Scientific & Technical Instruments|28|0.4642857142857143|34
+Bearish Hammer|Entity|POWL.US|13|0.46153846153846156|13
+Bearish Hammer|Entity|NSC.US|13|0.46153846153846156|35
+Bearish Hammer|Industry|Oil & Gas Midstream|65|0.46153846153846156|43
+Bearish Hammer|Entity|LLY.US|26|0.46153846153846156|44
+Bearish Hammer|Entity|IYR.US|13|0.46153846153846156|60
+Bearish Hammer|Industry|Medical Distribution|26|0.46153846153846156|63
+Bearish Hammer|Entity|NWN.US|13|0.46153846153846156|64
+Bearish Hammer|Entity|EQR.US|13|0.46153846153846156|96
+Bearish Hammer|Entity|NNN.US|13|0.46153846153846156|102
+Bearish Hammer|Entity|HE.US|13|0.46153846153846156|107
+Bearish Hammer|Sector|Consumer Defensive|334|0.46107784431137727|46
+Bearish Hammer|Industry|Entertainment|59|0.4576271186440678|44
+Bearish Hammer|Industry|Banks - Regional|671|0.45752608047690013|55
+Bearish Hammer|Entity|REW.US|11|0.45454545454545453|4
+Bearish Hammer|Entity|ASGN.US|11|0.45454545454545453|7
+Bearish Hammer|Industry|Electronic Gaming & Multimedia|11|0.45454545454545453|9
+Bearish Hammer|Entity|AEM.US|11|0.45454545454545453|15
+Bearish Hammer|Entity|ATGE.US|11|0.45454545454545453|27
+Bearish Hammer|Industry|Oil & Gas Drilling|11|0.45454545454545453|30
+Bearish Hammer|Entity|NATH.US|11|0.45454545454545453|31
+Bearish Hammer|Industry|Real Estate Services|22|0.45454545454545453|31
+Bearish Hammer|Entity|WMK.US|11|0.45454545454545453|67
+Bearish Hammer|Entity|XEL.US|11|0.45454545454545453|139
+Bearish Hammer|Industry|Specialty Retail|53|0.4528301886792453|43
+Bearish Hammer|Industry|Diagnostics & Research|62|0.45161290322580644|27
+Bearish Hammer|Industry|REIT - Specialty|31|0.45161290322580644|54
+Bearish Hammer|Entity|MSI.US|20|0.45|25
+Bearish Hammer|Entity|DIS.US|38|0.4473684210526316|59
+Bearish Hammer|Industry|Education & Training Services|25|0.44|21
+Bearish Hammer|Entity|MCRI.US|16|0.4375|9
+Bearish Hammer|Entity|ABT.US|16|0.4375|44
+Bearish Hammer|Entity|CI.US|16|0.4375|57
+Bearish Hammer|Entity|PWZ.US|16|0.4375|437
+Bearish Hammer|Industry|Specialty Chemicals|115|0.43478260869565216|48
+Bearish Hammer|Industry|Insurance - Specialty|23|0.43478260869565216|50
+Bearish Hammer|Industry|Medical Care Facilities|53|0.4339622641509434|21
+Bearish Hammer|Entity|DE.US|30|0.43333333333333335|68
+Bearish Hammer|Entity|SLNG.US|14|0.42857142857142855|8
+Bearish Hammer|Entity|SRCE.US|14|0.42857142857142855|24
+Bearish Hammer|Industry|Electronic Components|35|0.42857142857142855|29
+Bearish Hammer|Entity|XRX.US|14|0.42857142857142855|36
+Bearish Hammer|Entity|CHRW.US|14|0.42857142857142855|40
+Bearish Hammer|Entity|HSY.US|14|0.42857142857142855|48
+Bearish Hammer|Industry|Confectioners|14|0.42857142857142855|48
+Bearish Hammer|Industry|Building Materials|14|0.42857142857142855|48
+Bearish Hammer|Entity|TVE.US|21|0.42857142857142855|648
+Bearish Hammer|Entity|VCSH.US|14|0.42857142857142855|1768
+Bearish Hammer|Industry|Beverages - Non-Alcoholic|47|0.425531914893617|60
+Bearish Hammer|Industry|Specialty Industrial Machinery|114|0.42105263157894735|41
+Bearish Hammer|Industry|Internet Retail|12|0.4166666666666667|7
+Bearish Hammer|Industry|Waste Management|12|0.4166666666666667|15
+Bearish Hammer|Entity|ATRI.US|12|0.4166666666666667|26
+Bearish Hammer|Entity|CLX.US|12|0.4166666666666667|52
+Bearish Hammer|Industry|REIT - Hotel & Motel|12|0.4166666666666667|63
+Bearish Hammer|Entity|MCY.US|12|0.4166666666666667|66
+Bearish Hammer|Entity|TFC.US|12|0.4166666666666667|66
+Bearish Hammer|Industry|Leisure|34|0.4117647058823529|44
+Bearish Hammer|Entity|LKFN.US|17|0.4117647058823529|57
+Bearish Hammer|Entity|GIS.US|17|0.4117647058823529|77
+Bearish Hammer|Entity|TFI.US|17|0.4117647058823529|1505
+Bearish Hammer|Industry|Apparel Retail|61|0.4098360655737705|29
+Bearish Hammer|Industry|Credit Services|59|0.4067796610169492|36
+Bearish Hammer|Entity|KMPR.US|10|0.4|12
+Bearish Hammer|Entity|POOL.US|10|0.4|15
+Bearish Hammer|Entity|MLAB.US|10|0.4|15
+Bearish Hammer|Industry|Footwear & Accessories|10|0.4|18
+Bearish Hammer|Entity|ASTE.US|15|0.4|25
+Bearish Hammer|Entity|BCPC.US|10|0.4|28
+Bearish Hammer|Entity|HD.US|15|0.4|28
+Bearish Hammer|Entity|XOMA.US|10|0.4|29
+Bearish Hammer|Entity|CAG.US|10|0.4|36
+Bearish Hammer|Entity|EVRG.US|10|0.4|41
+Bearish Hammer|Entity|JKHY.US|10|0.4|52
+Bearish Hammer|Entity|MATV.US|10|0.4|53
+Bearish Hammer|Industry|Healthcare Plans|40|0.4|56
+Bearish Hammer|Entity|NPK.US|10|0.4|58
+Bearish Hammer|Entity|HMN.US|10|0.4|68
+Bearish Hammer|Entity|KMB.US|10|0.4|70
+Bearish Hammer|Entity|REG.US|10|0.4|125
+Bearish Hammer|Entity|MFA.US|10|0.4|129
+Bearish Hammer|Entity|EWA.US|10|0.4|134
+Bearish Hammer|Entity|USAU.US|28|0.39285714285714285|17
+Bearish Hammer|Entity|IBM.US|23|0.391304347826087|57
+Bearish Hammer|Entity|AJG.US|18|0.3888888888888889|66
+Bearish Hammer|Entity|USIG.US|18|0.3888888888888889|1832
+Bearish Hammer|Entity|DBE.US|13|0.38461538461538464|39
+Bearish Hammer|Industry|Insurance Brokers|65|0.38461538461538464|46
+Bearish Hammer|Entity|CADE.US|13|0.38461538461538464|61
+Bearish Hammer|Industry|REIT - Industrial|21|0.38095238095238093|77
+Bearish Hammer|Entity|KO.US|58|0.3793103448275862|102
+Bearish Hammer|Entity|CACC.US|16|0.375|25
+Bearish Hammer|Industry|Electrical Equipment & Parts|16|0.375|31
+Bearish Hammer|Entity|PPG.US|16|0.375|34
+Bearish Hammer|Entity|IFF.US|16|0.375|135
+Bearish Hammer|Industry|Oil & Gas Integrated|67|0.373134328358209|53
+Bearish Hammer|Industry|Household & Personal Products|67|0.373134328358209|58
+Bearish Hammer|Industry|Beverages - Wineries & Distilleries|27|0.37037037037037035|30
+Bearish Hammer|Industry|Insurance - Life|19|0.3684210526315789|81
+Bearish Hammer|Entity|UNP.US|19|0.3684210526315789|94
+Bearish Hammer|Entity|ALTO.US|11|0.36363636363636365|6
+Bearish Hammer|Entity|RGR.US|11|0.36363636363636365|25
+Bearish Hammer|Entity|VMC.US|11|0.36363636363636365|28
+Bearish Hammer|Entity|EPD.US|11|0.36363636363636365|34
+Bearish Hammer|Entity|TXT.US|11|0.36363636363636365|42
+Bearish Hammer|Entity|PXD.US|11|0.36363636363636365|46
+Bearish Hammer|Entity|AKO-A.US|11|0.36363636363636365|52
+Bearish Hammer|Entity|UL.US|11|0.36363636363636365|115
+Bearish Hammer|Entity|IAU.US|11|0.36363636363636365|118
+Bearish Hammer|Entity|MUB.US|11|0.36363636363636365|537
+Bearish Hammer|Entity|CL.US|25|0.36|65
+Bearish Hammer|Entity|SPNS.US|14|0.35714285714285715|7
+Bearish Hammer|Entity|WMB.US|14|0.35714285714285715|54
+Bearish Hammer|Industry|Conglomerates|14|0.35714285714285715|55
+Bearish Hammer|Entity|GSBC.US|17|0.35294117647058826|18
+Bearish Hammer|Entity|CCEP.US|17|0.35294117647058826|33
+Bearish Hammer|Entity|BPT.US|17|0.35294117647058826|55
+Bearish Hammer|Entity|FMB.US|17|0.35294117647058826|612
+Bearish Hammer|Entity|LMT.US|20|0.35|41
+Bearish Hammer|Entity|MRK.US|29|0.3448275862068966|52
+Bearish Hammer|Entity|PHM.US|15|0.3333333333333333|20
+Bearish Hammer|Entity|MCD.US|15|0.3333333333333333|22
+Bearish Hammer|Entity|BIO.US|12|0.3333333333333333|22
+Bearish Hammer|Entity|AMGN.US|15|0.3333333333333333|25
+Bearish Hammer|Entity|BDX.US|18|0.3333333333333333|42
+Bearish Hammer|Entity|VLGEA.US|18|0.3333333333333333|44
+Bearish Hammer|Industry|Utilities - Regulated Gas|51|0.3333333333333333|49
+Bearish Hammer|Entity|DOC.US|12|0.3333333333333333|55
+Bearish Hammer|Entity|HAS.US|12|0.3333333333333333|57
+Bearish Hammer|Entity|JNJ.US|27|0.3333333333333333|58
+Bearish Hammer|Entity|BANF.US|18|0.3333333333333333|76
+Bearish Hammer|Entity|EWD.US|12|0.3333333333333333|97
+Bearish Hammer|Entity|FRT.US|15|0.3333333333333333|101
+Bearish Hammer|Entity|MMM.US|21|0.3333333333333333|134
+Bearish Hammer|Entity|NEE.US|12|0.3333333333333333|148
+Bearish Hammer|Entity|CCNE.US|12|0.3333333333333333|164
+Bearish Hammer|Entity|MGEE.US|15|0.3333333333333333|175
+Bearish Hammer|Entity|BLV.US|12|0.3333333333333333|262
+Bearish Hammer|Entity|VGLT.US|12|0.3333333333333333|308
+Bearish Hammer|Industry|Medical Instruments & Supplies|83|0.3253012048192771|26
+Bearish Hammer|Industry|Staffing & Employment Services|31|0.3225806451612903|36
+Bearish Hammer|Entity|DUK.US|19|0.3157894736842105|113
+Bearish Hammer|Entity|BP.US|16|0.3125|19
+Bearish Hammer|Entity|MTB.US|16|0.3125|72
+Bearish Hammer|Entity|BKE.US|13|0.3076923076923077|8
+Bearish Hammer|Entity|VZ.US|13|0.3076923076923077|66
+Bearish Hammer|Entity|BHLB.US|10|0.3|6
+Bearish Hammer|Entity|PPBI.US|10|0.3|7
+Bearish Hammer|Entity|IDN.US|10|0.3|9
+Bearish Hammer|Entity|NWLI.US|10|0.3|27
+Bearish Hammer|Entity|VTR.US|10|0.3|30
+Bearish Hammer|Entity|SIGI.US|10|0.3|43
+Bearish Hammer|Entity|FFBC.US|10|0.3|51
+Bearish Hammer|Industry|Agricultural Inputs|30|0.3|70
+Bearish Hammer|Entity|COP.US|10|0.3|103
+Bearish Hammer|Entity|SUI.US|10|0.3|109
+Bearish Hammer|Entity|FMC.US|24|0.2916666666666667|89
+Bearish Hammer|Entity|MSEX.US|14|0.2857142857142857|10
+Bearish Hammer|Entity|OTTR.US|14|0.2857142857142857|80
+Bearish Hammer|Entity|WEC.US|14|0.2857142857142857|118
+Bearish Hammer|Entity|SPTL.US|14|0.2857142857142857|268
+Bearish Hammer|Entity|BKH.US|25|0.28|68
+Bearish Hammer|Entity|JOUT.US|11|0.2727272727272727|8
+Bearish Hammer|Entity|ABCB.US|11|0.2727272727272727|25
+Bearish Hammer|Entity|CPK.US|11|0.2727272727272727|28
+Bearish Hammer|Entity|STRS.US|11|0.2727272727272727|60
+Bearish Hammer|Entity|FNLC.US|11|0.2727272727272727|111
+Bearish Hammer|Entity|ILTB.US|11|0.2727272727272727|263
+Bearish Hammer|Entity|RVNU.US|11|0.2727272727272727|600
+Bearish Hammer|Industry|Rental & Leasing Services|19|0.2631578947368421|37
+Bearish Hammer|Industry|Gambling|19|0.2631578947368421|39
+Bearish Hammer|Entity|MUNI.US|19|0.2631578947368421|1382
+Bearish Hammer|Entity|CVX.US|23|0.2608695652173913|108
+Bearish Hammer|Entity|WINA.US|12|0.25|9
+Bearish Hammer|Entity|AUB.US|12|0.25|31
+Bearish Hammer|Entity|GTY.US|12|0.25|66
+Bearish Hammer|Entity|BRK-A.US|16|0.25|75
+Bearish Hammer|Entity|ACNB.US|12|0.25|97
+Bearish Hammer|Entity|KIM.US|12|0.25|153
+Bearish Hammer|Entity|ETN.US|17|0.23529411764705882|76
+Bearish Hammer|Entity|YORW.US|14|0.21428571428571427|56
+Bearish Hammer|Entity|GOVI.US|14|0.21428571428571427|188
+Bearish Hammer|Entity|ANF.US|10|0.2|32
+Bearish Hammer|Entity|D.US|15|0.2|46
+Bearish Hammer|Entity|BSV.US|15|0.2|286
+Bearish Hammer|Entity|UHT.US|11|0.18181818181818182|30
+Bearish Hammer|Entity|WTM.US|11|0.18181818181818182|68
+Bearish Hammer|Entity|O.US|11|0.18181818181818182|260
+Bearish Hammer|Entity|ADP.US|17|0.17647058823529413|46
+Bearish Hammer|Industry|Thermal Coal|12|0.16666666666666666|30
+Bearish Hammer|Entity|UTL.US|12|0.16666666666666666|290
+Bearish Hammer|Entity|RPM.US|13|0.15384615384615385|64
+Bearish Hammer|Entity|CHD.US|13|0.15384615384615385|80
+Bearish Hammer|Entity|ERIE.US|16|0.125|43
+Bearish Hammer|Entity|TRMK.US|17|0.11764705882352941|114
+Bearish Hammer|Entity|VHI.US|10|0.1|3
+Bearish Hammer|Entity|BF-B.US|10|0.1|6
+Bearish Hammer|Entity|TYD.US|10|0.1|218
+Bearish Hammer|Entity|SPTI.US|10|0.1|3793
+Bearish Hammer|Entity|AWR.US|11|0.09090909090909091|37
+Bearish Hammer|Entity|ARLP.US|11|0.09090909090909091|57
+Bearish Hammer|Entity|IEI.US|11|0.09090909090909091|2278
+Bearish Hammer|Entity|NTRS.US|12|0.08333333333333333|11
+Bearish Hammer|Entity|IEF.US|10|0|0
+Bearish Hammer|Entity|SMMU.US|15|0|0
+Bearish Hammer|Entity|SHV.US|14|0|0
+Bearish Hammer|Entity|BIL.US|14|0|0
+Bearish Hammer|Entity|TFLO.US|19|0|0
+Bearish Hammer|Entity|SHY.US|10|0|0
+Bearish Hammer|Entity|SUB.US|15|0|0

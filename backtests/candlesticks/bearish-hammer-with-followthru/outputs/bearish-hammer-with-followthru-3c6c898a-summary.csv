@@ -1,0 +1,970 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Hammer With FollowThru|Entity|PSK.US|12|1|165
+Bearish Hammer With FollowThru|Entity|O-P.US|13|0.9230769230769231|265
+Bearish Hammer With FollowThru|Entity|PREF.US|12|0.9166666666666666|314
+Bearish Hammer With FollowThru|Entity|EPP.US|11|0.9090909090909091|147
+Bearish Hammer With FollowThru|Entity|KBWD.US|11|0.9090909090909091|193
+Bearish Hammer With FollowThru|Entity|YYY.US|11|0.9090909090909091|309
+Bearish Hammer With FollowThru|Entity|VWOB.US|10|0.9|1359
+Bearish Hammer With FollowThru|Entity|SPMB.US|10|0.9|2113
+Bearish Hammer With FollowThru|Entity|PXE.US|15|0.8666666666666667|60
+Bearish Hammer With FollowThru|Entity|BSCO.US|14|0.8571428571428571|854
+Bearish Hammer With FollowThru|Entity|PCEF.US|13|0.8461538461538461|457
+Bearish Hammer With FollowThru|Entity|HYS.US|13|0.8461538461538461|1145
+Bearish Hammer With FollowThru|Entity|AXL.US|11|0.8181818181818182|14
+Bearish Hammer With FollowThru|Entity|FENY.US|11|0.8181818181818182|91
+Bearish Hammer With FollowThru|Entity|DVYA.US|11|0.8181818181818182|241
+Bearish Hammer With FollowThru|Entity|HYG.US|11|0.8181818181818182|333
+Bearish Hammer With FollowThru|Industry|Internet Retail|16|0.8125|22
+Bearish Hammer With FollowThru|Industry|Multiline Utilities|16|0.8125|327
+Bearish Hammer With FollowThru|Entity|GXG.US|10|0.8|64
+Bearish Hammer With FollowThru|Entity|FSTA.US|10|0.8|233
+Bearish Hammer With FollowThru|Entity|RZB.US|10|0.8|279
+Bearish Hammer With FollowThru|Entity|BWZ.US|10|0.8|632
+Bearish Hammer With FollowThru|Entity|LQDH.US|10|0.8|872
+Bearish Hammer With FollowThru|Entity|MSI.US|14|0.7857142857142857|40
+Bearish Hammer With FollowThru|Entity|TVC.US|14|0.7857142857142857|379
+Bearish Hammer With FollowThru|Entity|BIZD.US|17|0.7647058823529411|338
+Bearish Hammer With FollowThru|Entity|NOC.US|12|0.75|34
+Bearish Hammer With FollowThru|Entity|UPGD.US|12|0.75|85
+Bearish Hammer With FollowThru|Entity|QAT.US|12|0.75|88
+Bearish Hammer With FollowThru|Entity|QYLD.US|16|0.75|418
+Bearish Hammer With FollowThru|Entity|UPW.US|19|0.7368421052631579|26
+Bearish Hammer With FollowThru|Entity|CRT.US|15|0.7333333333333333|55
+Bearish Hammer With FollowThru|Entity|SIGI.US|15|0.7333333333333333|62
+Bearish Hammer With FollowThru|Entity|EWZ.US|11|0.7272727272727273|34
+Bearish Hammer With FollowThru|Entity|SUI.US|11|0.7272727272727273|110
+Bearish Hammer With FollowThru|Entity|SPDV.US|11|0.7272727272727273|190
+Bearish Hammer With FollowThru|Entity|SHM.US|11|0.7272727272727273|2506
+Bearish Hammer With FollowThru|Entity|VLT.US|14|0.7142857142857143|307
+Bearish Hammer With FollowThru|Entity|JNK.US|14|0.7142857142857143|592
+Bearish Hammer With FollowThru|Industry|Electronics & Computer Distribution|24|0.7083333333333334|34
+Bearish Hammer With FollowThru|Entity|BBP.US|17|0.7058823529411765|57
+Bearish Hammer With FollowThru|Entity|FID.US|17|0.7058823529411765|200
+Bearish Hammer With FollowThru|Entity|GEOS.US|10|0.7|8
+Bearish Hammer With FollowThru|Entity|OFIX.US|10|0.7|26
+Bearish Hammer With FollowThru|Entity|NATH.US|10|0.7|36
+Bearish Hammer With FollowThru|Entity|VSEC.US|10|0.7|38
+Bearish Hammer With FollowThru|Entity|ALX.US|10|0.7|48
+Bearish Hammer With FollowThru|Entity|SBB.US|10|0.7|63
+Bearish Hammer With FollowThru|Entity|UVSP.US|10|0.7|74
+Bearish Hammer With FollowThru|Entity|CPER.US|10|0.7|91
+Bearish Hammer With FollowThru|Entity|URTH.US|10|0.7|277
+Bearish Hammer With FollowThru|Entity|AVB.US|13|0.6923076923076923|78
+Bearish Hammer With FollowThru|Entity|BSET.US|16|0.6875|47
+Bearish Hammer With FollowThru|Entity|NKSH.US|19|0.6842105263157895|201
+Bearish Hammer With FollowThru|Entity|PWZ.US|19|0.6842105263157895|502
+Bearish Hammer With FollowThru|Entity|SKY.US|12|0.6666666666666666|21
+Bearish Hammer With FollowThru|Entity|AVT.US|15|0.6666666666666666|43
+Bearish Hammer With FollowThru|Entity|DD.US|12|0.6666666666666666|44
+Bearish Hammer With FollowThru|Entity|XTN.US|12|0.6666666666666666|99
+Bearish Hammer With FollowThru|Entity|VNQI.US|12|0.6666666666666666|132
+Bearish Hammer With FollowThru|Entity|ROOF.US|15|0.6666666666666666|176
+Bearish Hammer With FollowThru|Entity|FCEF.US|12|0.6666666666666666|235
+Bearish Hammer With FollowThru|Entity|GAL.US|12|0.6666666666666666|311
+Bearish Hammer With FollowThru|Entity|PZT.US|27|0.6666666666666666|333
+Bearish Hammer With FollowThru|Entity|TCI.US|14|0.6428571428571429|45
+Bearish Hammer With FollowThru|Entity|FJP.US|14|0.6428571428571429|88
+Bearish Hammer With FollowThru|Entity|CSR.US|14|0.6428571428571429|104
+Bearish Hammer With FollowThru|Entity|AIVI.US|14|0.6428571428571429|121
+Bearish Hammer With FollowThru|Entity|DGRW.US|14|0.6428571428571429|143
+Bearish Hammer With FollowThru|Entity|NTES.US|11|0.6363636363636364|28
+Bearish Hammer With FollowThru|Entity|SM.US|11|0.6363636363636364|32
+Bearish Hammer With FollowThru|Entity|EET.US|11|0.6363636363636364|43
+Bearish Hammer With FollowThru|Entity|XMMO.US|11|0.6363636363636364|126
+Bearish Hammer With FollowThru|Entity|BLW.US|11|0.6363636363636364|134
+Bearish Hammer With FollowThru|Entity|ROKT.US|11|0.6363636363636364|135
+Bearish Hammer With FollowThru|Entity|STBA.US|11|0.6363636363636364|180
+Bearish Hammer With FollowThru|Entity|VOOV.US|11|0.6363636363636364|198
+Bearish Hammer With FollowThru|Entity|SDY.US|11|0.6363636363636364|220
+Bearish Hammer With FollowThru|Entity|PUTW.US|11|0.6363636363636364|332
+Bearish Hammer With FollowThru|Entity|SJNK.US|11|0.6363636363636364|814
+Bearish Hammer With FollowThru|Entity|RTM.US|19|0.631578947368421|96
+Bearish Hammer With FollowThru|Entity|NYF.US|27|0.6296296296296297|977
+Bearish Hammer With FollowThru|Industry|Metal Fabrication|16|0.625|20
+Bearish Hammer With FollowThru|Entity|WLFC.US|16|0.625|34
+Bearish Hammer With FollowThru|Industry|Conglomerates|16|0.625|63
+Bearish Hammer With FollowThru|Entity|ASA.US|13|0.6153846153846154|29
+Bearish Hammer With FollowThru|Entity|DIS.US|13|0.6153846153846154|56
+Bearish Hammer With FollowThru|Industry|Paper & Paper Products|13|0.6153846153846154|60
+Bearish Hammer With FollowThru|Industry|Gambling|13|0.6153846153846154|90
+Bearish Hammer With FollowThru|Entity|ENFR.US|13|0.6153846153846154|103
+Bearish Hammer With FollowThru|Entity|CVY.US|13|0.6153846153846154|226
+Bearish Hammer With FollowThru|Entity|AOA.US|13|0.6153846153846154|270
+Bearish Hammer With FollowThru|Industry|Chemicals|18|0.6111111111111112|28
+Bearish Hammer With FollowThru|Entity|WSBC.US|18|0.6111111111111112|71
+Bearish Hammer With FollowThru|Entity|FBT.US|23|0.6086956521739131|63
+Bearish Hammer With FollowThru|Sector|Other|23|0.6086956521739131|474
+Bearish Hammer With FollowThru|Industry|Other|23|0.6086956521739131|474
+Bearish Hammer With FollowThru|Industry|Investment Banking & Investment Services|43|0.6046511627906976|322
+Bearish Hammer With FollowThru|Entity|ASGN.US|10|0.6|13
+Bearish Hammer With FollowThru|Entity|EFO.US|10|0.6|19
+Bearish Hammer With FollowThru|Entity|PNRG.US|10|0.6|21
+Bearish Hammer With FollowThru|Entity|MKTX.US|10|0.6|29
+Bearish Hammer With FollowThru|Entity|SSL.US|15|0.6|35
+Bearish Hammer With FollowThru|Entity|AB.US|10|0.6|36
+Bearish Hammer With FollowThru|Entity|LLY.US|15|0.6|52
+Bearish Hammer With FollowThru|Entity|WERN.US|10|0.6|56
+Bearish Hammer With FollowThru|Entity|HAS.US|10|0.6|62
+Bearish Hammer With FollowThru|Entity|BMI.US|10|0.6|63
+Bearish Hammer With FollowThru|Entity|CAG.US|10|0.6|64
+Bearish Hammer With FollowThru|Entity|ELME.US|15|0.6|69
+Bearish Hammer With FollowThru|Entity|ETN.US|10|0.6|71
+Bearish Hammer With FollowThru|Entity|UMBF.US|10|0.6|96
+Bearish Hammer With FollowThru|Entity|CWB.US|10|0.6|112
+Bearish Hammer With FollowThru|Entity|PWOD.US|15|0.6|125
+Bearish Hammer With FollowThru|Entity|FEX.US|10|0.6|133
+Bearish Hammer With FollowThru|Entity|CINF.US|15|0.6|226
+Bearish Hammer With FollowThru|Entity|VIOV.US|10|0.6|240
+Bearish Hammer With FollowThru|Entity|PICB.US|10|0.6|906
+Bearish Hammer With FollowThru|Entity|TFI.US|10|0.6|976
+Bearish Hammer With FollowThru|Sector|Financials|52|0.5961538461538461|337
+Bearish Hammer With FollowThru|Industry|Internet Content & Information|22|0.5909090909090909|39
+Bearish Hammer With FollowThru|Entity|NHI.US|17|0.5882352941176471|80
+Bearish Hammer With FollowThru|Entity|CL.US|17|0.5882352941176471|181
+Bearish Hammer With FollowThru|Entity|JHI.US|17|0.5882352941176471|185
+Bearish Hammer With FollowThru|Entity|GII.US|17|0.5882352941176471|214
+Bearish Hammer With FollowThru|Entity|PROV.US|12|0.5833333333333334|24
+Bearish Hammer With FollowThru|Entity|CVLG.US|12|0.5833333333333334|24
+Bearish Hammer With FollowThru|Entity|BHE.US|12|0.5833333333333334|42
+Bearish Hammer With FollowThru|Entity|SEE.US|12|0.5833333333333334|44
+Bearish Hammer With FollowThru|Entity|XHE.US|12|0.5833333333333334|45
+Bearish Hammer With FollowThru|Entity|RPM.US|12|0.5833333333333334|47
+Bearish Hammer With FollowThru|Entity|SCL.US|12|0.5833333333333334|64
+Bearish Hammer With FollowThru|Entity|ATO.US|12|0.5833333333333334|72
+Bearish Hammer With FollowThru|Entity|NLY.US|12|0.5833333333333334|90
+Bearish Hammer With FollowThru|Entity|EVX.US|12|0.5833333333333334|97
+Bearish Hammer With FollowThru|Entity|RSPD.US|12|0.5833333333333334|109
+Bearish Hammer With FollowThru|Entity|PNW.US|12|0.5833333333333334|110
+Bearish Hammer With FollowThru|Entity|SHE.US|12|0.5833333333333334|216
+Bearish Hammer With FollowThru|Entity|VEGI.US|12|0.5833333333333334|323
+Bearish Hammer With FollowThru|Industry|Electronic Gaming & Multimedia|19|0.5789473684210527|20
+Bearish Hammer With FollowThru|Entity|TRST.US|19|0.5789473684210527|89
+Bearish Hammer With FollowThru|Entity|SPMD.US|19|0.5789473684210527|93
+Bearish Hammer With FollowThru|Entity|RSPM.US|19|0.5789473684210527|98
+Bearish Hammer With FollowThru|Entity|KSS.US|14|0.5714285714285714|16
+Bearish Hammer With FollowThru|Entity|PHO.US|14|0.5714285714285714|54
+Bearish Hammer With FollowThru|Entity|CCBG.US|14|0.5714285714285714|65
+Bearish Hammer With FollowThru|Entity|BBH.US|14|0.5714285714285714|91
+Bearish Hammer With FollowThru|Entity|DNL.US|14|0.5714285714285714|134
+Bearish Hammer With FollowThru|Entity|XCEM.US|14|0.5714285714285714|140
+Bearish Hammer With FollowThru|Entity|ALE.US|14|0.5714285714285714|185
+Bearish Hammer With FollowThru|Industry|Security & Protection Services|23|0.5652173913043478|47
+Bearish Hammer With FollowThru|Entity|NPK.US|20|0.55|69
+Bearish Hammer With FollowThru|Entity|PSL.US|20|0.55|105
+Bearish Hammer With FollowThru|Entity|VMI.US|11|0.5454545454545454|18
+Bearish Hammer With FollowThru|Entity|PALL.US|11|0.5454545454545454|30
+Bearish Hammer With FollowThru|Entity|AGX.US|11|0.5454545454545454|31
+Bearish Hammer With FollowThru|Entity|WBS.US|11|0.5454545454545454|32
+Bearish Hammer With FollowThru|Entity|BELFB.US|11|0.5454545454545454|35
+Bearish Hammer With FollowThru|Entity|OZK.US|11|0.5454545454545454|36
+Bearish Hammer With FollowThru|Entity|SPGI.US|11|0.5454545454545454|40
+Bearish Hammer With FollowThru|Entity|SKT.US|11|0.5454545454545454|40
+Bearish Hammer With FollowThru|Entity|FRPH.US|11|0.5454545454545454|45
+Bearish Hammer With FollowThru|Entity|MRK.US|11|0.5454545454545454|56
+Bearish Hammer With FollowThru|Entity|CMCT.US|11|0.5454545454545454|67
+Bearish Hammer With FollowThru|Entity|BMRC.US|11|0.5454545454545454|73
+Bearish Hammer With FollowThru|Entity|WBA.US|11|0.5454545454545454|77
+Bearish Hammer With FollowThru|Entity|EWX.US|11|0.5454545454545454|114
+Bearish Hammer With FollowThru|Entity|PGR.US|11|0.5454545454545454|115
+Bearish Hammer With FollowThru|Entity|EQC.US|11|0.5454545454545454|121
+Bearish Hammer With FollowThru|Entity|FGD.US|11|0.5454545454545454|162
+Bearish Hammer With FollowThru|Entity|XRLV.US|11|0.5454545454545454|171
+Bearish Hammer With FollowThru|Entity|ROAM.US|11|0.5454545454545454|175
+Bearish Hammer With FollowThru|Entity|SMLV.US|11|0.5454545454545454|175
+Bearish Hammer With FollowThru|Entity|AOR.US|11|0.5454545454545454|216
+Bearish Hammer With FollowThru|Entity|UDIV.US|11|0.5454545454545454|396
+Bearish Hammer With FollowThru|Entity|AGG.US|11|0.5454545454545454|1373
+Bearish Hammer With FollowThru|Entity|WLY.US|13|0.5384615384615384|16
+Bearish Hammer With FollowThru|Entity|SBCF.US|13|0.5384615384615384|28
+Bearish Hammer With FollowThru|Entity|ETD.US|13|0.5384615384615384|32
+Bearish Hammer With FollowThru|Entity|XRX.US|13|0.5384615384615384|33
+Bearish Hammer With FollowThru|Entity|GEF.US|13|0.5384615384615384|44
+Bearish Hammer With FollowThru|Entity|BHLB.US|13|0.5384615384615384|57
+Bearish Hammer With FollowThru|Entity|SPH.US|13|0.5384615384615384|61
+Bearish Hammer With FollowThru|Entity|SASR.US|13|0.5384615384615384|65
+Bearish Hammer With FollowThru|Entity|FDTS.US|13|0.5384615384615384|117
+Bearish Hammer With FollowThru|Entity|DTRE.US|13|0.5384615384615384|211
+Bearish Hammer With FollowThru|Entity|JPUS.US|13|0.5384615384615384|267
+Bearish Hammer With FollowThru|Entity|EXPD.US|15|0.5333333333333333|16
+Bearish Hammer With FollowThru|Entity|IYE.US|15|0.5333333333333333|47
+Bearish Hammer With FollowThru|Entity|EWH.US|15|0.5333333333333333|69
+Bearish Hammer With FollowThru|Industry|REIT - Mortgage|60|0.5333333333333333|106
+Bearish Hammer With FollowThru|Entity|PSCM.US|15|0.5333333333333333|129
+Bearish Hammer With FollowThru|Entity|FIW.US|15|0.5333333333333333|141
+Bearish Hammer With FollowThru|Entity|AA.US|17|0.5294117647058824|40
+Bearish Hammer With FollowThru|Entity|AKO-A.US|17|0.5294117647058824|47
+Bearish Hammer With FollowThru|Entity|REZ.US|17|0.5294117647058824|113
+Bearish Hammer With FollowThru|Entity|ONEV.US|17|0.5294117647058824|221
+Bearish Hammer With FollowThru|Entity|EWG.US|19|0.5263157894736842|61
+Bearish Hammer With FollowThru|Entity|DORM.US|21|0.5238095238095238|25
+Bearish Hammer With FollowThru|Industry|Leisure|23|0.5217391304347826|66
+Bearish Hammer With FollowThru|Entity|BF-A.US|23|0.5217391304347826|122
+Bearish Hammer With FollowThru|Industry|Furnishings, Fixtures & Appliances|54|0.5185185185185185|44
+Bearish Hammer With FollowThru|Industry|Insurance - Life|27|0.5185185185185185|81
+Bearish Hammer With FollowThru|Industry|Apparel Retail|58|0.5172413793103449|25
+Bearish Hammer With FollowThru|Industry|Farm Products|41|0.5121951219512195|53
+Bearish Hammer With FollowThru|Industry|REIT - Residential|77|0.5064935064935064|78
+Bearish Hammer With FollowThru|Entity|NBR.US|10|0.5|8
+Bearish Hammer With FollowThru|Entity|USAP.US|10|0.5|13
+Bearish Hammer With FollowThru|Entity|SBIO.US|10|0.5|18
+Bearish Hammer With FollowThru|Industry|Trucking|14|0.5|24
+Bearish Hammer With FollowThru|Entity|CNS.US|10|0.5|24
+Bearish Hammer With FollowThru|Entity|BA.US|10|0.5|25
+Bearish Hammer With FollowThru|Entity|MTW.US|10|0.5|27
+Bearish Hammer With FollowThru|Entity|PXJ.US|12|0.5|30
+Bearish Hammer With FollowThru|Industry|Airlines|20|0.5|30
+Bearish Hammer With FollowThru|Entity|STRT.US|18|0.5|31
+Bearish Hammer With FollowThru|Entity|MTR.US|12|0.5|32
+Bearish Hammer With FollowThru|Entity|UNM.US|10|0.5|36
+Bearish Hammer With FollowThru|Entity|JKHY.US|10|0.5|37
+Bearish Hammer With FollowThru|Industry|Auto Manufacturers|10|0.5|40
+Bearish Hammer With FollowThru|Entity|FARM.US|12|0.5|40
+Bearish Hammer With FollowThru|Entity|CBT.US|10|0.5|42
+Bearish Hammer With FollowThru|Entity|MUR.US|12|0.5|44
+Bearish Hammer With FollowThru|Entity|HQL.US|14|0.5|44
+Bearish Hammer With FollowThru|Industry|Other Industrial Metals & Mining|14|0.5|44
+Bearish Hammer With FollowThru|Entity|PSCE.US|12|0.5|46
+Bearish Hammer With FollowThru|Entity|BBC.US|14|0.5|47
+Bearish Hammer With FollowThru|Entity|NYT.US|16|0.5|48
+Bearish Hammer With FollowThru|Industry|Discount Stores|24|0.5|48
+Bearish Hammer With FollowThru|Entity|AZZ.US|12|0.5|56
+Bearish Hammer With FollowThru|Entity|FTXL.US|12|0.5|58
+Bearish Hammer With FollowThru|Entity|CADE.US|10|0.5|61
+Bearish Hammer With FollowThru|Industry|REIT - Retail|56|0.5|62
+Bearish Hammer With FollowThru|Entity|DMLP.US|10|0.5|63
+Bearish Hammer With FollowThru|Entity|FXN.US|10|0.5|64
+Bearish Hammer With FollowThru|Industry|Advertising Agencies|20|0.5|64
+Bearish Hammer With FollowThru|Entity|UGA.US|14|0.5|66
+Bearish Hammer With FollowThru|Entity|CI.US|12|0.5|66
+Bearish Hammer With FollowThru|Entity|LKFN.US|12|0.5|67
+Bearish Hammer With FollowThru|Entity|WDS.US|12|0.5|68
+Bearish Hammer With FollowThru|Entity|BJK.US|14|0.5|69
+Bearish Hammer With FollowThru|Entity|FBRT.US|12|0.5|73
+Bearish Hammer With FollowThru|Entity|FLEE.US|10|0.5|73
+Bearish Hammer With FollowThru|Entity|EZJ.US|12|0.5|74
+Bearish Hammer With FollowThru|Entity|IYM.US|10|0.5|74
+Bearish Hammer With FollowThru|Entity|DX.US|14|0.5|80
+Bearish Hammer With FollowThru|Entity|IVV.US|10|0.5|81
+Bearish Hammer With FollowThru|Entity|PKB.US|16|0.5|81
+Bearish Hammer With FollowThru|Entity|ALCO.US|16|0.5|85
+Bearish Hammer With FollowThru|Entity|BIO.US|12|0.5|90
+Bearish Hammer With FollowThru|Entity|KYN.US|10|0.5|96
+Bearish Hammer With FollowThru|Entity|GABC.US|14|0.5|99
+Bearish Hammer With FollowThru|Entity|XPH.US|14|0.5|99
+Bearish Hammer With FollowThru|Entity|ENB.US|10|0.5|103
+Bearish Hammer With FollowThru|Entity|NXTG.US|12|0.5|104
+Bearish Hammer With FollowThru|Entity|PG.US|12|0.5|104
+Bearish Hammer With FollowThru|Entity|PEZ.US|22|0.5|106
+Bearish Hammer With FollowThru|Entity|AFK.US|12|0.5|108
+Bearish Hammer With FollowThru|Entity|INDY.US|10|0.5|112
+Bearish Hammer With FollowThru|Entity|TRMK.US|14|0.5|114
+Bearish Hammer With FollowThru|Entity|MORT.US|12|0.5|117
+Bearish Hammer With FollowThru|Entity|EEMO.US|18|0.5|120
+Bearish Hammer With FollowThru|Entity|GJS.US|12|0.5|132
+Bearish Hammer With FollowThru|Entity|RYLD.US|10|0.5|136
+Bearish Hammer With FollowThru|Entity|CARZ.US|10|0.5|137
+Bearish Hammer With FollowThru|Entity|KBWP.US|20|0.5|139
+Bearish Hammer With FollowThru|Entity|DAX.US|10|0.5|146
+Bearish Hammer With FollowThru|Entity|DGT.US|24|0.5|154
+Bearish Hammer With FollowThru|Entity|NRT.US|12|0.5|159
+Bearish Hammer With FollowThru|Entity|ILCV.US|18|0.5|168
+Bearish Hammer With FollowThru|Entity|ROUS.US|16|0.5|173
+Bearish Hammer With FollowThru|Entity|DJD.US|10|0.5|184
+Bearish Hammer With FollowThru|Entity|JPSE.US|10|0.5|185
+Bearish Hammer With FollowThru|Entity|AMNB.US|10|0.5|227
+Bearish Hammer With FollowThru|Entity|SDG.US|10|0.5|232
+Bearish Hammer With FollowThru|Entity|XYLD.US|16|0.5|300
+Bearish Hammer With FollowThru|Entity|TVE.US|10|0.5|563
+Bearish Hammer With FollowThru|Entity|FMB.US|10|0.5|1012
+Bearish Hammer With FollowThru|Entity|RAVI.US|10|0.5|1132
+Bearish Hammer With FollowThru|Industry|Medical Care Facilities|71|0.49295774647887325|43
+Bearish Hammer With FollowThru|Industry|Drug Manufacturers - Specialty & Generic|69|0.4927536231884058|23
+Bearish Hammer With FollowThru|Industry|Oil & Gas Midstream|49|0.4897959183673469|47
+Bearish Hammer With FollowThru|Industry|Telecom Services|43|0.4883720930232558|57
+Bearish Hammer With FollowThru|Industry|Gold|41|0.4878048780487805|32
+Bearish Hammer With FollowThru|Industry|Utilities - Diversified|37|0.4864864864864865|114
+Bearish Hammer With FollowThru|Industry|Auto Parts|66|0.48484848484848486|32
+Bearish Hammer With FollowThru|Industry|Industrial Distribution|31|0.4838709677419355|37
+Bearish Hammer With FollowThru|Entity|PBJ.US|27|0.48148148148148145|205
+Bearish Hammer With FollowThru|Industry|Electronic Components|69|0.4782608695652174|29
+Bearish Hammer With FollowThru|Industry|Beverages - Wineries & Distilleries|40|0.475|118
+Bearish Hammer With FollowThru|Sector|Communication Services|154|0.474025974025974|48
+Bearish Hammer With FollowThru|Entity|BELFA.US|19|0.47368421052631576|20
+Bearish Hammer With FollowThru|Entity|JKF.US|19|0.47368421052631576|168
+Bearish Hammer With FollowThru|Entity|RDOG.US|19|0.47368421052631576|169
+Bearish Hammer With FollowThru|Entity|PCY.US|19|0.47368421052631576|475
+Bearish Hammer With FollowThru|Industry|Biotechnology|197|0.4720812182741117|16
+Bearish Hammer With FollowThru|Entity|FUNC.US|17|0.47058823529411764|45
+Bearish Hammer With FollowThru|Entity|PFI.US|17|0.47058823529411764|154
+Bearish Hammer With FollowThru|Industry|Rental & Leasing Services|32|0.46875|73
+Bearish Hammer With FollowThru|Entity|WRLD.US|15|0.4666666666666667|23
+Bearish Hammer With FollowThru|Industry|Resorts & Casinos|15|0.4666666666666667|37
+Bearish Hammer With FollowThru|Entity|SLX.US|15|0.4666666666666667|40
+Bearish Hammer With FollowThru|Entity|LECO.US|15|0.4666666666666667|44
+Bearish Hammer With FollowThru|Entity|RZV.US|15|0.4666666666666667|49
+Bearish Hammer With FollowThru|Entity|BCH.US|15|0.4666666666666667|84
+Bearish Hammer With FollowThru|Entity|HAWX.US|15|0.4666666666666667|247
+Bearish Hammer With FollowThru|Entity|PBP.US|15|0.4666666666666667|349
+Bearish Hammer With FollowThru|Entity|LXRX.US|13|0.46153846153846156|19
+Bearish Hammer With FollowThru|Industry|Aluminum|26|0.46153846153846156|32
+Bearish Hammer With FollowThru|Entity|GD.US|13|0.46153846153846156|45
+Bearish Hammer With FollowThru|Entity|EWD.US|13|0.46153846153846156|52
+Bearish Hammer With FollowThru|Entity|ITIC.US|13|0.46153846153846156|54
+Bearish Hammer With FollowThru|Entity|YORW.US|13|0.46153846153846156|64
+Bearish Hammer With FollowThru|Entity|RYT.US|13|0.46153846153846156|100
+Bearish Hammer With FollowThru|Industry|Mortgage Finance|13|0.46153846153846156|122
+Bearish Hammer With FollowThru|Entity|CBU.US|13|0.46153846153846156|165
+Bearish Hammer With FollowThru|Entity|DDIV.US|13|0.46153846153846156|199
+Bearish Hammer With FollowThru|Entity|SPSM.US|13|0.46153846153846156|237
+Bearish Hammer With FollowThru|Industry|Medical Devices|109|0.45871559633027525|40
+Bearish Hammer With FollowThru|Sector|Basic Materials|295|0.4576271186440678|45
+Bearish Hammer With FollowThru|Entity|MIND.US|11|0.45454545454545453|16
+Bearish Hammer With FollowThru|Entity|COHR.US|11|0.45454545454545453|20
+Bearish Hammer With FollowThru|Entity|DSGX.US|11|0.45454545454545453|23
+Bearish Hammer With FollowThru|Entity|OXM.US|11|0.45454545454545453|25
+Bearish Hammer With FollowThru|Entity|MGA.US|11|0.45454545454545453|30
+Bearish Hammer With FollowThru|Entity|UYG.US|11|0.45454545454545453|30
+Bearish Hammer With FollowThru|Entity|KAI.US|11|0.45454545454545453|35
+Bearish Hammer With FollowThru|Entity|CNP.US|11|0.45454545454545453|38
+Bearish Hammer With FollowThru|Industry|Personal Services|11|0.45454545454545453|39
+Bearish Hammer With FollowThru|Entity|AUBN.US|11|0.45454545454545453|44
+Bearish Hammer With FollowThru|Entity|BMY.US|11|0.45454545454545453|47
+Bearish Hammer With FollowThru|Entity|USM.US|11|0.45454545454545453|47
+Bearish Hammer With FollowThru|Entity|NUE.US|11|0.45454545454545453|50
+Bearish Hammer With FollowThru|Entity|YXI.US|11|0.45454545454545453|59
+Bearish Hammer With FollowThru|Entity|WELL.US|11|0.45454545454545453|59
+Bearish Hammer With FollowThru|Entity|MGEE.US|11|0.45454545454545453|73
+Bearish Hammer With FollowThru|Entity|WFC.US|11|0.45454545454545453|80
+Bearish Hammer With FollowThru|Entity|ONEQ.US|33|0.45454545454545453|103
+Bearish Hammer With FollowThru|Entity|CUZ.US|11|0.45454545454545453|105
+Bearish Hammer With FollowThru|Entity|RFDI.US|11|0.45454545454545453|132
+Bearish Hammer With FollowThru|Entity|PTNQ.US|11|0.45454545454545453|139
+Bearish Hammer With FollowThru|Entity|EZM.US|11|0.45454545454545453|144
+Bearish Hammer With FollowThru|Entity|FPA.US|11|0.45454545454545453|163
+Bearish Hammer With FollowThru|Entity|FNLC.US|11|0.45454545454545453|169
+Bearish Hammer With FollowThru|Entity|CSML.US|11|0.45454545454545453|170
+Bearish Hammer With FollowThru|Entity|DALI.US|11|0.45454545454545453|191
+Bearish Hammer With FollowThru|Entity|SPVM.US|11|0.45454545454545453|208
+Bearish Hammer With FollowThru|Entity|ENJ.US|11|0.45454545454545453|296
+Bearish Hammer With FollowThru|Entity|NLR.US|11|0.45454545454545453|322
+Bearish Hammer With FollowThru|Entity|MUB.US|11|0.45454545454545453|454
+Bearish Hammer With FollowThru|Industry|Consulting Services|53|0.4528301886792453|40
+Bearish Hammer With FollowThru|Industry|Credit Services|62|0.45161290322580644|23
+Bearish Hammer With FollowThru|Industry|Engineering & Construction|80|0.45|38
+Bearish Hammer With FollowThru|Industry|Auto & Truck Dealerships|20|0.45|38
+Bearish Hammer With FollowThru|Entity|XLY.US|20|0.45|129
+Bearish Hammer With FollowThru|Sector|Real Estate|467|0.44967880085653106|76
+Bearish Hammer With FollowThru|Industry|REIT - Healthcare Facilities|29|0.4482758620689655|71
+Bearish Hammer With FollowThru|Industry|Specialty Chemicals|121|0.4462809917355372|58
+Bearish Hammer With FollowThru|Sector|Healthcare|730|0.4452054794520548|36
+Bearish Hammer With FollowThru|Entity|MBWM.US|18|0.4444444444444444|86
+Bearish Hammer With FollowThru|Entity|CWT.US|18|0.4444444444444444|92
+Bearish Hammer With FollowThru|Industry|Household & Personal Products|45|0.4444444444444444|108
+Bearish Hammer With FollowThru|Entity|PFM.US|18|0.4444444444444444|257
+Bearish Hammer With FollowThru|Industry|Oil & Gas Equipment & Services|52|0.4423076923076923|21
+Bearish Hammer With FollowThru|Industry|Packaged Foods|68|0.4411764705882353|37
+Bearish Hammer With FollowThru|Industry|Healthcare Plans|34|0.4411764705882353|53
+Bearish Hammer With FollowThru|Industry|REIT - Office|84|0.44047619047619047|95
+Bearish Hammer With FollowThru|Entity|CASY.US|16|0.4375|37
+Bearish Hammer With FollowThru|Entity|PARAA.US|16|0.4375|40
+Bearish Hammer With FollowThru|Industry|Oil & Gas E&P|112|0.4375|46
+Bearish Hammer With FollowThru|Entity|USRT.US|16|0.4375|116
+Bearish Hammer With FollowThru|Entity|FDM.US|16|0.4375|132
+Bearish Hammer With FollowThru|Entity|VOE.US|16|0.4375|141
+Bearish Hammer With FollowThru|Entity|VLY.US|16|0.4375|154
+Bearish Hammer With FollowThru|Entity|KCE.US|16|0.4375|169
+Bearish Hammer With FollowThru|Entity|FAB.US|16|0.4375|188
+Bearish Hammer With FollowThru|Entity|USIG.US|16|0.4375|1610
+Bearish Hammer With FollowThru|Sector|Consumer Cyclical|626|0.43450479233226835|42
+Bearish Hammer With FollowThru|Entity|SKM.US|14|0.42857142857142855|19
+Bearish Hammer With FollowThru|Entity|FC.US|14|0.42857142857142855|21
+Bearish Hammer With FollowThru|Entity|SF.US|14|0.42857142857142855|28
+Bearish Hammer With FollowThru|Industry|Real Estate Services|42|0.42857142857142855|32
+Bearish Hammer With FollowThru|Entity|IXJ.US|14|0.42857142857142855|73
+Bearish Hammer With FollowThru|Entity|NTRS.US|14|0.42857142857142855|82
+Bearish Hammer With FollowThru|Industry|Packaging & Containers|49|0.42857142857142855|82
+Bearish Hammer With FollowThru|Entity|UBSI.US|14|0.42857142857142855|83
+Bearish Hammer With FollowThru|Entity|SHRY.US|14|0.42857142857142855|102
+Bearish Hammer With FollowThru|Entity|IVES.US|14|0.42857142857142855|114
+Bearish Hammer With FollowThru|Entity|EQAL.US|14|0.42857142857142855|146
+Bearish Hammer With FollowThru|Entity|VLU.US|14|0.42857142857142855|159
+Bearish Hammer With FollowThru|Entity|SMOG.US|14|0.42857142857142855|167
+Bearish Hammer With FollowThru|Entity|DEW.US|14|0.42857142857142855|216
+Bearish Hammer With FollowThru|Entity|HDG.US|14|0.42857142857142855|537
+Bearish Hammer With FollowThru|Sector|Consumer Defensive|344|0.4273255813953488|64
+Bearish Hammer With FollowThru|Sector|Technology|561|0.42602495543672014|31
+Bearish Hammer With FollowThru|Industry|Communication Equipment|59|0.423728813559322|22
+Bearish Hammer With FollowThru|Industry|Waste Management|19|0.42105263157894735|28
+Bearish Hammer With FollowThru|Industry|Medical Distribution|19|0.42105263157894735|31
+Bearish Hammer With FollowThru|Industry|Marine Shipping|19|0.42105263157894735|33
+Bearish Hammer With FollowThru|Entity|RXL.US|19|0.42105263157894735|63
+Bearish Hammer With FollowThru|Entity|ILF.US|19|0.42105263157894735|83
+Bearish Hammer With FollowThru|Entity|FRME.US|19|0.42105263157894735|101
+Bearish Hammer With FollowThru|Entity|IWX.US|19|0.42105263157894735|180
+Bearish Hammer With FollowThru|Entity|BMVP.US|19|0.42105263157894735|202
+Bearish Hammer With FollowThru|Entity|O.US|19|0.42105263157894735|229
+Bearish Hammer With FollowThru|Industry|Asset Management|286|0.4195804195804196|135
+Bearish Hammer With FollowThru|Sector|Energy|310|0.41935483870967744|45
+Bearish Hammer With FollowThru|Industry|Insurance - Specialty|31|0.41935483870967744|58
+Bearish Hammer With FollowThru|Industry|REIT - Specialty|43|0.4186046511627907|64
+Bearish Hammer With FollowThru|Industry|Software - Application|122|0.4180327868852459|28
+Bearish Hammer With FollowThru|Overall|All|26184|0.41708677054689886|145
+Bearish Hammer With FollowThru|Entity|CACC.US|12|0.4166666666666667|13
+Bearish Hammer With FollowThru|Entity|KFRC.US|12|0.4166666666666667|13
+Bearish Hammer With FollowThru|Entity|PPBI.US|12|0.4166666666666667|19
+Bearish Hammer With FollowThru|Entity|OMAB.US|12|0.4166666666666667|20
+Bearish Hammer With FollowThru|Industry|Integrated Freight & Logistics|48|0.4166666666666667|31
+Bearish Hammer With FollowThru|Entity|TOWN.US|12|0.4166666666666667|32
+Bearish Hammer With FollowThru|Entity|COLB.US|12|0.4166666666666667|41
+Bearish Hammer With FollowThru|Industry|Financial Data & Stock Exchanges|12|0.4166666666666667|44
+Bearish Hammer With FollowThru|Entity|TYG.US|12|0.4166666666666667|53
+Bearish Hammer With FollowThru|Entity|EXPO.US|12|0.4166666666666667|58
+Bearish Hammer With FollowThru|Entity|RNMC.US|12|0.4166666666666667|60
+Bearish Hammer With FollowThru|Entity|BPT.US|12|0.4166666666666667|61
+Bearish Hammer With FollowThru|Entity|FXL.US|12|0.4166666666666667|69
+Bearish Hammer With FollowThru|Entity|IDU.US|12|0.4166666666666667|89
+Bearish Hammer With FollowThru|Entity|TAP.US|12|0.4166666666666667|92
+Bearish Hammer With FollowThru|Entity|IDX.US|12|0.4166666666666667|117
+Bearish Hammer With FollowThru|Entity|RDVY.US|12|0.4166666666666667|119
+Bearish Hammer With FollowThru|Entity|MCY.US|12|0.4166666666666667|135
+Bearish Hammer With FollowThru|Entity|FRI.US|12|0.4166666666666667|142
+Bearish Hammer With FollowThru|Entity|RWK.US|12|0.4166666666666667|145
+Bearish Hammer With FollowThru|Entity|DSI.US|24|0.4166666666666667|149
+Bearish Hammer With FollowThru|Entity|QUS.US|12|0.4166666666666667|161
+Bearish Hammer With FollowThru|Entity|ATLO.US|12|0.4166666666666667|208
+Bearish Hammer With FollowThru|Sector|Industrials|845|0.41420118343195267|40
+Bearish Hammer With FollowThru|Entity|RCKY.US|17|0.4117647058823529|33
+Bearish Hammer With FollowThru|Industry|Insurance Brokers|51|0.4117647058823529|40
+Bearish Hammer With FollowThru|Entity|PUI.US|17|0.4117647058823529|63
+Bearish Hammer With FollowThru|Entity|RTX.US|17|0.4117647058823529|68
+Bearish Hammer With FollowThru|Entity|BANF.US|17|0.4117647058823529|94
+Bearish Hammer With FollowThru|Entity|GVIP.US|17|0.4117647058823529|205
+Bearish Hammer With FollowThru|Entity|EOT.US|17|0.4117647058823529|361
+Bearish Hammer With FollowThru|Industry|Aerospace & Defense|105|0.4095238095238095|32
+Bearish Hammer With FollowThru|Industry|Agricultural Inputs|22|0.4090909090909091|32
+Bearish Hammer With FollowThru|Industry|Scientific & Technical Instruments|44|0.4090909090909091|39
+Bearish Hammer With FollowThru|Entity|KO.US|22|0.4090909090909091|110
+Bearish Hammer With FollowThru|Entity|CMF.US|22|0.4090909090909091|554
+Bearish Hammer With FollowThru|Sector|Utilities|306|0.4084967320261438|120
+Bearish Hammer With FollowThru|Industry|Semiconductor Equipment & Materials|27|0.4074074074074074|26
+Bearish Hammer With FollowThru|Industry|Information Technology Services|82|0.4024390243902439|39
+Bearish Hammer With FollowThru|Entity|SHBI.US|10|0.4|9
+Bearish Hammer With FollowThru|Entity|TECL.US|10|0.4|10
+Bearish Hammer With FollowThru|Entity|DHI.US|10|0.4|16
+Bearish Hammer With FollowThru|Entity|NTSX.US|10|0.4|19
+Bearish Hammer With FollowThru|Entity|STZ.US|10|0.4|26
+Bearish Hammer With FollowThru|Entity|NSP.US|10|0.4|27
+Bearish Hammer With FollowThru|Entity|RXD.US|10|0.4|28
+Bearish Hammer With FollowThru|Entity|OIH.US|10|0.4|30
+Bearish Hammer With FollowThru|Entity|MARPS.US|20|0.4|31
+Bearish Hammer With FollowThru|Entity|PFFR.US|10|0.4|32
+Bearish Hammer With FollowThru|Entity|EFX.US|10|0.4|34
+Bearish Hammer With FollowThru|Entity|FWRD.US|10|0.4|34
+Bearish Hammer With FollowThru|Entity|PHM.US|10|0.4|35
+Bearish Hammer With FollowThru|Entity|UHAL.US|10|0.4|38
+Bearish Hammer With FollowThru|Entity|RBCAA.US|10|0.4|39
+Bearish Hammer With FollowThru|Entity|AMG.US|10|0.4|40
+Bearish Hammer With FollowThru|Entity|IYW.US|10|0.4|40
+Bearish Hammer With FollowThru|Entity|BRC.US|10|0.4|40
+Bearish Hammer With FollowThru|Entity|CRVL.US|20|0.4|48
+Bearish Hammer With FollowThru|Industry|Restaurants|70|0.4|48
+Bearish Hammer With FollowThru|Entity|DBE.US|10|0.4|49
+Bearish Hammer With FollowThru|Entity|CFR.US|10|0.4|50
+Bearish Hammer With FollowThru|Entity|D.US|10|0.4|54
+Bearish Hammer With FollowThru|Entity|NBTB.US|15|0.4|55
+Bearish Hammer With FollowThru|Entity|NWL.US|10|0.4|56
+Bearish Hammer With FollowThru|Entity|XSD.US|10|0.4|60
+Bearish Hammer With FollowThru|Entity|JPXN.US|20|0.4|61
+Bearish Hammer With FollowThru|Entity|GBCI.US|15|0.4|66
+Bearish Hammer With FollowThru|Entity|INCO.US|10|0.4|72
+Bearish Hammer With FollowThru|Entity|BGR.US|10|0.4|72
+Bearish Hammer With FollowThru|Entity|FGM.US|10|0.4|73
+Bearish Hammer With FollowThru|Entity|DLR.US|10|0.4|75
+Bearish Hammer With FollowThru|Entity|EWP.US|10|0.4|84
+Bearish Hammer With FollowThru|Entity|SYY.US|10|0.4|88
+Bearish Hammer With FollowThru|Entity|HQH.US|10|0.4|92
+Bearish Hammer With FollowThru|Entity|EME.US|10|0.4|96
+Bearish Hammer With FollowThru|Entity|AADR.US|10|0.4|100
+Bearish Hammer With FollowThru|Entity|ISCB.US|25|0.4|103
+Bearish Hammer With FollowThru|Entity|JKJ.US|25|0.4|103
+Bearish Hammer With FollowThru|Entity|SCJ.US|10|0.4|114
+Bearish Hammer With FollowThru|Entity|BCE.US|10|0.4|114
+Bearish Hammer With FollowThru|Entity|FEUZ.US|10|0.4|115
+Bearish Hammer With FollowThru|Entity|BFOR.US|10|0.4|122
+Bearish Hammer With FollowThru|Entity|GRPM.US|20|0.4|127
+Bearish Hammer With FollowThru|Entity|GRID.US|15|0.4|131
+Bearish Hammer With FollowThru|Entity|MMM.US|10|0.4|140
+Bearish Hammer With FollowThru|Entity|BXP.US|10|0.4|146
+Bearish Hammer With FollowThru|Entity|BHV.US|10|0.4|149
+Bearish Hammer With FollowThru|Entity|SDOG.US|10|0.4|161
+Bearish Hammer With FollowThru|Entity|FNX.US|10|0.4|168
+Bearish Hammer With FollowThru|Entity|GEF-B.US|10|0.4|175
+Bearish Hammer With FollowThru|Entity|ARCC.US|10|0.4|182
+Bearish Hammer With FollowThru|Entity|VTHR.US|30|0.4|193
+Bearish Hammer With FollowThru|Entity|QDEF.US|15|0.4|194
+Bearish Hammer With FollowThru|Entity|VIOO.US|15|0.4|208
+Bearish Hammer With FollowThru|Entity|RGI.US|10|0.4|210
+Bearish Hammer With FollowThru|Entity|DGRO.US|10|0.4|214
+Bearish Hammer With FollowThru|Entity|HSMV.US|10|0.4|238
+Bearish Hammer With FollowThru|Entity|IAK.US|15|0.4|243
+Bearish Hammer With FollowThru|Entity|FLRG.US|10|0.4|244
+Bearish Hammer With FollowThru|Entity|RWL.US|10|0.4|267
+Bearish Hammer With FollowThru|Entity|LVHD.US|15|0.4|322
+Bearish Hammer With FollowThru|Industry|Specialty Industrial Machinery|138|0.39855072463768115|39
+Bearish Hammer With FollowThru|Industry|Drug Manufacturers - General|53|0.39622641509433965|36
+Bearish Hammer With FollowThru|Sector|Financial Services|1609|0.3958980733374767|90
+Bearish Hammer With FollowThru|Industry|Banks - Regional|899|0.39154616240266965|83
+Bearish Hammer With FollowThru|Entity|ITOT.US|23|0.391304347826087|148
+Bearish Hammer With FollowThru|Entity|EWL.US|18|0.3888888888888889|57
+Bearish Hammer With FollowThru|Entity|CRH.US|18|0.3888888888888889|60
+Bearish Hammer With FollowThru|Entity|EWI.US|18|0.3888888888888889|81
+Bearish Hammer With FollowThru|Entity|BRK-A.US|18|0.3888888888888889|139
+Bearish Hammer With FollowThru|Entity|EQL.US|18|0.3888888888888889|217
+Bearish Hammer With FollowThru|Entity|ISCV.US|18|0.3888888888888889|240
+Bearish Hammer With FollowThru|Entity|POWA.US|31|0.3870967741935484|168
+Bearish Hammer With FollowThru|Industry|Utilities - Regulated Electric|135|0.3851851851851852|86
+Bearish Hammer With FollowThru|Entity|BSRR.US|13|0.38461538461538464|26
+Bearish Hammer With FollowThru|Industry|Lodging|13|0.38461538461538464|40
+Bearish Hammer With FollowThru|Entity|RWT.US|13|0.38461538461538464|40
+Bearish Hammer With FollowThru|Entity|L.US|13|0.38461538461538464|44
+Bearish Hammer With FollowThru|Entity|SEVN.US|13|0.38461538461538464|53
+Bearish Hammer With FollowThru|Entity|FNY.US|13|0.38461538461538464|69
+Bearish Hammer With FollowThru|Entity|FELE.US|13|0.38461538461538464|72
+Bearish Hammer With FollowThru|Entity|UTMD.US|13|0.38461538461538464|90
+Bearish Hammer With FollowThru|Entity|BF-B.US|13|0.38461538461538464|94
+Bearish Hammer With FollowThru|Entity|OGE.US|13|0.38461538461538464|99
+Bearish Hammer With FollowThru|Entity|EWK.US|26|0.38461538461538464|100
+Bearish Hammer With FollowThru|Entity|BDX.US|13|0.38461538461538464|102
+Bearish Hammer With FollowThru|Entity|MKL.US|13|0.38461538461538464|104
+Bearish Hammer With FollowThru|Entity|IXP.US|13|0.38461538461538464|106
+Bearish Hammer With FollowThru|Entity|NFG.US|13|0.38461538461538464|111
+Bearish Hammer With FollowThru|Entity|MDY.US|13|0.38461538461538464|196
+Bearish Hammer With FollowThru|Entity|AOM.US|13|0.38461538461538464|573
+Bearish Hammer With FollowThru|Entity|RVNU.US|13|0.38461538461538464|821
+Bearish Hammer With FollowThru|Entity|VCSH.US|13|0.38461538461538464|1812
+Bearish Hammer With FollowThru|Industry|Medical Instruments & Supplies|97|0.38144329896907214|51
+Bearish Hammer With FollowThru|Entity|EWW.US|21|0.38095238095238093|44
+Bearish Hammer With FollowThru|Entity|PTH.US|21|0.38095238095238093|56
+Bearish Hammer With FollowThru|Entity|RFG.US|21|0.38095238095238093|77
+Bearish Hammer With FollowThru|Entity|EWA.US|21|0.38095238095238093|89
+Bearish Hammer With FollowThru|Entity|SPYV.US|21|0.38095238095238093|104
+Bearish Hammer With FollowThru|Entity|MDYG.US|21|0.38095238095238093|108
+Bearish Hammer With FollowThru|Industry|Software - Infrastructure|71|0.38028169014084506|30
+Bearish Hammer With FollowThru|Entity|MLAB.US|16|0.375|20
+Bearish Hammer With FollowThru|Industry|REIT - Hotel & Motel|16|0.375|84
+Bearish Hammer With FollowThru|Entity|RSPF.US|16|0.375|110
+Bearish Hammer With FollowThru|Entity|TOK.US|24|0.375|172
+Bearish Hammer With FollowThru|Entity|IDHQ.US|16|0.375|249
+Bearish Hammer With FollowThru|Entity|PBE.US|27|0.37037037037037035|63
+Bearish Hammer With FollowThru|Industry|Insurance - Property & Casualty|73|0.3698630136986301|119
+Bearish Hammer With FollowThru|Entity|ICAD.US|19|0.3684210526315789|6
+Bearish Hammer With FollowThru|Industry|Residential Construction|38|0.3684210526315789|19
+Bearish Hammer With FollowThru|Entity|IDGT.US|19|0.3684210526315789|72
+Bearish Hammer With FollowThru|Entity|HMNF.US|19|0.3684210526315789|114
+Bearish Hammer With FollowThru|Entity|IYY.US|19|0.3684210526315789|122
+Bearish Hammer With FollowThru|Entity|QQXT.US|19|0.3684210526315789|136
+Bearish Hammer With FollowThru|Entity|XMHQ.US|19|0.3684210526315789|193
+Bearish Hammer With FollowThru|Entity|DTD.US|19|0.3684210526315789|219
+Bearish Hammer With FollowThru|Industry|Specialty Retail|68|0.36764705882352944|38
+Bearish Hammer With FollowThru|Industry|Entertainment|49|0.3673469387755102|54
+Bearish Hammer With FollowThru|Entity|SHEN.US|11|0.36363636363636365|12
+Bearish Hammer With FollowThru|Entity|NVEC.US|11|0.36363636363636365|16
+Bearish Hammer With FollowThru|Entity|HTLF.US|11|0.36363636363636365|20
+Bearish Hammer With FollowThru|Industry|Beverages - Brewers|11|0.36363636363636365|26
+Bearish Hammer With FollowThru|Entity|SRDX.US|11|0.36363636363636365|30
+Bearish Hammer With FollowThru|Entity|AFG.US|11|0.36363636363636365|32
+Bearish Hammer With FollowThru|Entity|VTI.US|11|0.36363636363636365|32
+Bearish Hammer With FollowThru|Entity|XTL.US|11|0.36363636363636365|34
+Bearish Hammer With FollowThru|Entity|XBI.US|11|0.36363636363636365|35
+Bearish Hammer With FollowThru|Entity|BRF.US|11|0.36363636363636365|36
+Bearish Hammer With FollowThru|Industry|Oil & Gas Integrated|44|0.36363636363636365|50
+Bearish Hammer With FollowThru|Entity|XSW.US|11|0.36363636363636365|71
+Bearish Hammer With FollowThru|Entity|FR.US|11|0.36363636363636365|76
+Bearish Hammer With FollowThru|Entity|LIT.US|11|0.36363636363636365|76
+Bearish Hammer With FollowThru|Entity|ASB.US|11|0.36363636363636365|85
+Bearish Hammer With FollowThru|Entity|LANC.US|11|0.36363636363636365|92
+Bearish Hammer With FollowThru|Entity|FTRI.US|11|0.36363636363636365|94
+Bearish Hammer With FollowThru|Entity|FRAF.US|11|0.36363636363636365|159
+Bearish Hammer With FollowThru|Entity|DIVO.US|11|0.36363636363636365|162
+Bearish Hammer With FollowThru|Entity|FXD.US|11|0.36363636363636365|180
+Bearish Hammer With FollowThru|Entity|TRND.US|11|0.36363636363636365|203
+Bearish Hammer With FollowThru|Entity|PYT.US|11|0.36363636363636365|326
+Bearish Hammer With FollowThru|Industry|Semiconductors|47|0.3617021276595745|17
+Bearish Hammer With FollowThru|Industry|Beverages - Non-Alcoholic|53|0.3584905660377358|68
+Bearish Hammer With FollowThru|Entity|SANM.US|14|0.35714285714285715|14
+Bearish Hammer With FollowThru|Entity|ESGR.US|14|0.35714285714285715|16
+Bearish Hammer With FollowThru|Entity|CWST.US|14|0.35714285714285715|40
+Bearish Hammer With FollowThru|Entity|CZNC.US|14|0.35714285714285715|46
+Bearish Hammer With FollowThru|Entity|FMC.US|14|0.35714285714285715|49
+Bearish Hammer With FollowThru|Entity|E.US|14|0.35714285714285715|51
+Bearish Hammer With FollowThru|Entity|VGT.US|14|0.35714285714285715|55
+Bearish Hammer With FollowThru|Entity|MCD.US|14|0.35714285714285715|140
+Bearish Hammer With FollowThru|Entity|DVY.US|14|0.35714285714285715|159
+Bearish Hammer With FollowThru|Entity|JKD.US|14|0.35714285714285715|220
+Bearish Hammer With FollowThru|Entity|ILCB.US|14|0.35714285714285715|220
+Bearish Hammer With FollowThru|Entity|VOX.US|14|0.35714285714285715|324
+Bearish Hammer With FollowThru|Industry|Footwear & Accessories|17|0.35294117647058826|10
+Bearish Hammer With FollowThru|Industry|Education & Training Services|17|0.35294117647058826|33
+Bearish Hammer With FollowThru|Entity|AVY.US|17|0.35294117647058826|69
+Bearish Hammer With FollowThru|Industry|Home Improvement Retail|20|0.35|28
+Bearish Hammer With FollowThru|Entity|RWR.US|20|0.35|71
+Bearish Hammer With FollowThru|Entity|IWP.US|20|0.35|88
+Bearish Hammer With FollowThru|Industry|Banks - Diversified|63|0.3492063492063492|99
+Bearish Hammer With FollowThru|Industry|REIT - Industrial|46|0.34782608695652173|69
+Bearish Hammer With FollowThru|Entity|SPYG.US|23|0.34782608695652173|118
+Bearish Hammer With FollowThru|Entity|FTDS.US|23|0.34782608695652173|197
+Bearish Hammer With FollowThru|Industry|Diagnostics & Research|72|0.3472222222222222|33
+Bearish Hammer With FollowThru|Industry|Oil & Gas Refining & Marketing|26|0.34615384615384615|104
+Bearish Hammer With FollowThru|Industry|Specialty Business Services|41|0.34146341463414637|64
+Bearish Hammer With FollowThru|Industry|Farm & Heavy Construction Machinery|56|0.3392857142857143|61
+Bearish Hammer With FollowThru|Industry|Utilities - Regulated Water|56|0.3392857142857143|75
+Bearish Hammer With FollowThru|Entity|ADI.US|12|0.3333333333333333|14
+Bearish Hammer With FollowThru|Entity|BIB.US|12|0.3333333333333333|18
+Bearish Hammer With FollowThru|Industry|Grocery Stores|12|0.3333333333333333|18
+Bearish Hammer With FollowThru|Industry|Electrical Equipment & Parts|30|0.3333333333333333|20
+Bearish Hammer With FollowThru|Entity|ODFL.US|12|0.3333333333333333|30
+Bearish Hammer With FollowThru|Entity|UFCS.US|12|0.3333333333333333|30
+Bearish Hammer With FollowThru|Entity|BCPC.US|15|0.3333333333333333|31
+Bearish Hammer With FollowThru|Entity|CIVB.US|12|0.3333333333333333|35
+Bearish Hammer With FollowThru|Entity|AMGN.US|12|0.3333333333333333|38
+Bearish Hammer With FollowThru|Entity|BANR.US|12|0.3333333333333333|42
+Bearish Hammer With FollowThru|Entity|WTBA.US|15|0.3333333333333333|44
+Bearish Hammer With FollowThru|Entity|HAFC.US|12|0.3333333333333333|46
+Bearish Hammer With FollowThru|Entity|HMN.US|12|0.3333333333333333|51
+Bearish Hammer With FollowThru|Entity|IMAX.US|15|0.3333333333333333|56
+Bearish Hammer With FollowThru|Entity|VALU.US|12|0.3333333333333333|56
+Bearish Hammer With FollowThru|Entity|EG.US|12|0.3333333333333333|57
+Bearish Hammer With FollowThru|Entity|QABA.US|15|0.3333333333333333|60
+Bearish Hammer With FollowThru|Industry|Insurance - Reinsurance|15|0.3333333333333333|64
+Bearish Hammer With FollowThru|Entity|IVOG.US|12|0.3333333333333333|66
+Bearish Hammer With FollowThru|Entity|IJT.US|12|0.3333333333333333|66
+Bearish Hammer With FollowThru|Entity|VPU.US|12|0.3333333333333333|72
+Bearish Hammer With FollowThru|Entity|IYK.US|12|0.3333333333333333|77
+Bearish Hammer With FollowThru|Entity|SWX.US|12|0.3333333333333333|79
+Bearish Hammer With FollowThru|Entity|VIG.US|12|0.3333333333333333|84
+Bearish Hammer With FollowThru|Entity|XSVM.US|15|0.3333333333333333|85
+Bearish Hammer With FollowThru|Entity|PYZ.US|12|0.3333333333333333|85
+Bearish Hammer With FollowThru|Entity|EWC.US|12|0.3333333333333333|91
+Bearish Hammer With FollowThru|Entity|FXH.US|15|0.3333333333333333|92
+Bearish Hammer With FollowThru|Entity|HLAL.US|15|0.3333333333333333|94
+Bearish Hammer With FollowThru|Entity|RSPU.US|18|0.3333333333333333|103
+Bearish Hammer With FollowThru|Entity|J.US|15|0.3333333333333333|110
+Bearish Hammer With FollowThru|Entity|SCHB.US|15|0.3333333333333333|112
+Bearish Hammer With FollowThru|Entity|VO.US|21|0.3333333333333333|112
+Bearish Hammer With FollowThru|Entity|FSZ.US|12|0.3333333333333333|112
+Bearish Hammer With FollowThru|Entity|FVAL.US|12|0.3333333333333333|115
+Bearish Hammer With FollowThru|Entity|CZA.US|18|0.3333333333333333|136
+Bearish Hammer With FollowThru|Entity|PSCD.US|15|0.3333333333333333|149
+Bearish Hammer With FollowThru|Entity|XMVM.US|21|0.3333333333333333|159
+Bearish Hammer With FollowThru|Entity|SNA.US|12|0.3333333333333333|168
+Bearish Hammer With FollowThru|Entity|MDYV.US|12|0.3333333333333333|203
+Bearish Hammer With FollowThru|Entity|XLG.US|18|0.3333333333333333|206
+Bearish Hammer With FollowThru|Entity|KRMA.US|12|0.3333333333333333|226
+Bearish Hammer With FollowThru|Entity|QDF.US|12|0.3333333333333333|254
+Bearish Hammer With FollowThru|Entity|SOR.US|12|0.3333333333333333|270
+Bearish Hammer With FollowThru|Industry|Building Materials|28|0.32142857142857145|54
+Bearish Hammer With FollowThru|Industry|Railroads|28|0.32142857142857145|55
+Bearish Hammer With FollowThru|Industry|Insurance - Diversified|53|0.32075471698113206|106
+Bearish Hammer With FollowThru|Entity|VHT.US|22|0.3181818181818182|108
+Bearish Hammer With FollowThru|Entity|IWS.US|22|0.3181818181818182|168
+Bearish Hammer With FollowThru|Entity|DHIL.US|19|0.3157894736842105|69
+Bearish Hammer With FollowThru|Entity|EWQ.US|19|0.3157894736842105|74
+Bearish Hammer With FollowThru|Entity|CAC.US|19|0.3157894736842105|76
+Bearish Hammer With FollowThru|Entity|HZO.US|16|0.3125|34
+Bearish Hammer With FollowThru|Entity|EWN.US|16|0.3125|39
+Bearish Hammer With FollowThru|Entity|QTEC.US|16|0.3125|86
+Bearish Hammer With FollowThru|Entity|CATY.US|16|0.3125|97
+Bearish Hammer With FollowThru|Entity|CACG.US|16|0.3125|111
+Bearish Hammer With FollowThru|Entity|IEUS.US|16|0.3125|153
+Bearish Hammer With FollowThru|Industry|Utilities - Regulated Gas|42|0.30952380952380953|64
+Bearish Hammer With FollowThru|Industry|Travel Services|13|0.3076923076923077|35
+Bearish Hammer With FollowThru|Entity|USLM.US|13|0.3076923076923077|36
+Bearish Hammer With FollowThru|Industry|Building Products & Equipment|26|0.3076923076923077|40
+Bearish Hammer With FollowThru|Entity|IWV.US|13|0.3076923076923077|44
+Bearish Hammer With FollowThru|Entity|XLK.US|13|0.3076923076923077|46
+Bearish Hammer With FollowThru|Entity|USPH.US|13|0.3076923076923077|52
+Bearish Hammer With FollowThru|Entity|ESLT.US|13|0.3076923076923077|54
+Bearish Hammer With FollowThru|Entity|DE.US|13|0.3076923076923077|74
+Bearish Hammer With FollowThru|Entity|EBLU.US|13|0.3076923076923077|88
+Bearish Hammer With FollowThru|Entity|EWO.US|13|0.3076923076923077|89
+Bearish Hammer With FollowThru|Industry|Utilities - Renewable|13|0.3076923076923077|90
+Bearish Hammer With FollowThru|Entity|CDP.US|13|0.3076923076923077|110
+Bearish Hammer With FollowThru|Entity|ONB.US|13|0.3076923076923077|132
+Bearish Hammer With FollowThru|Entity|SPEU.US|13|0.3076923076923077|161
+Bearish Hammer With FollowThru|Entity|MGV.US|13|0.3076923076923077|170
+Bearish Hammer With FollowThru|Entity|IYG.US|13|0.3076923076923077|173
+Bearish Hammer With FollowThru|Entity|VAW.US|13|0.3076923076923077|199
+Bearish Hammer With FollowThru|Entity|FVD.US|13|0.3076923076923077|204
+Bearish Hammer With FollowThru|Entity|CSD.US|13|0.3076923076923077|235
+Bearish Hammer With FollowThru|Entity|VTV.US|13|0.3076923076923077|278
+Bearish Hammer With FollowThru|Entity|IBB.US|23|0.30434782608695654|34
+Bearish Hammer With FollowThru|Entity|XNTK.US|23|0.30434782608695654|44
+Bearish Hammer With FollowThru|Entity|ROCK.US|10|0.3|17
+Bearish Hammer With FollowThru|Entity|CASH.US|10|0.3|21
+Bearish Hammer With FollowThru|Entity|FCBC.US|10|0.3|24
+Bearish Hammer With FollowThru|Entity|MHK.US|10|0.3|24
+Bearish Hammer With FollowThru|Entity|PLPC.US|10|0.3|28
+Bearish Hammer With FollowThru|Entity|QTUM.US|10|0.3|34
+Bearish Hammer With FollowThru|Entity|INTG.US|10|0.3|36
+Bearish Hammer With FollowThru|Entity|OLN.US|10|0.3|37
+Bearish Hammer With FollowThru|Entity|XITK.US|10|0.3|38
+Bearish Hammer With FollowThru|Entity|PLUS.US|10|0.3|41
+Bearish Hammer With FollowThru|Entity|TDW.US|10|0.3|42
+Bearish Hammer With FollowThru|Entity|MDC.US|10|0.3|44
+Bearish Hammer With FollowThru|Entity|JSMD.US|10|0.3|46
+Bearish Hammer With FollowThru|Entity|STRS.US|10|0.3|58
+Bearish Hammer With FollowThru|Entity|AWR.US|10|0.3|60
+Bearish Hammer With FollowThru|Entity|QGRO.US|10|0.3|61
+Bearish Hammer With FollowThru|Entity|MTB.US|10|0.3|62
+Bearish Hammer With FollowThru|Entity|CNA.US|10|0.3|77
+Bearish Hammer With FollowThru|Entity|PEBO.US|10|0.3|79
+Bearish Hammer With FollowThru|Entity|ADC.US|10|0.3|83
+Bearish Hammer With FollowThru|Entity|PEJ.US|20|0.3|85
+Bearish Hammer With FollowThru|Entity|VBK.US|10|0.3|91
+Bearish Hammer With FollowThru|Entity|VOT.US|10|0.3|102
+Bearish Hammer With FollowThru|Entity|AUSF.US|10|0.3|108
+Bearish Hammer With FollowThru|Entity|IWB.US|10|0.3|116
+Bearish Hammer With FollowThru|Entity|SPYD.US|10|0.3|121
+Bearish Hammer With FollowThru|Entity|KW.US|10|0.3|149
+Bearish Hammer With FollowThru|Entity|OMC.US|10|0.3|153
+Bearish Hammer With FollowThru|Entity|FYC.US|10|0.3|159
+Bearish Hammer With FollowThru|Entity|SLGN.US|10|0.3|160
+Bearish Hammer With FollowThru|Entity|FXO.US|10|0.3|175
+Bearish Hammer With FollowThru|Entity|IVOV.US|10|0.3|180
+Bearish Hammer With FollowThru|Entity|JKE.US|20|0.3|204
+Bearish Hammer With FollowThru|Entity|ILCG.US|20|0.3|204
+Bearish Hammer With FollowThru|Entity|MFUS.US|10|0.3|252
+Bearish Hammer With FollowThru|Entity|RINF.US|10|0.3|359
+Bearish Hammer With FollowThru|Entity|PSCI.US|17|0.29411764705882354|43
+Bearish Hammer With FollowThru|Entity|IYR.US|17|0.29411764705882354|79
+Bearish Hammer With FollowThru|Entity|JKK.US|17|0.29411764705882354|90
+Bearish Hammer With FollowThru|Entity|FCOM.US|17|0.29411764705882354|95
+Bearish Hammer With FollowThru|Entity|ISCG.US|17|0.29411764705882354|104
+Bearish Hammer With FollowThru|Entity|CATH.US|17|0.29411764705882354|105
+Bearish Hammer With FollowThru|Industry|Capital Markets|24|0.2916666666666667|11
+Bearish Hammer With FollowThru|Entity|SIZE.US|24|0.2916666666666667|113
+Bearish Hammer With FollowThru|Entity|BCD.US|14|0.2857142857142857|66
+Bearish Hammer With FollowThru|Entity|PPA.US|14|0.2857142857142857|67
+Bearish Hammer With FollowThru|Entity|ARKR.US|14|0.2857142857142857|79
+Bearish Hammer With FollowThru|Entity|VONG.US|14|0.2857142857142857|125
+Bearish Hammer With FollowThru|Entity|RHS.US|14|0.2857142857142857|128
+Bearish Hammer With FollowThru|Entity|SCHG.US|14|0.2857142857142857|139
+Bearish Hammer With FollowThru|Entity|ECL.US|14|0.2857142857142857|165
+Bearish Hammer With FollowThru|Entity|VXF.US|14|0.2857142857142857|173
+Bearish Hammer With FollowThru|Entity|PID.US|14|0.2857142857142857|206
+Bearish Hammer With FollowThru|Entity|GOVI.US|14|0.2857142857142857|208
+Bearish Hammer With FollowThru|Entity|WTV.US|14|0.2857142857142857|255
+Bearish Hammer With FollowThru|Entity|PSCH.US|25|0.28|103
+Bearish Hammer With FollowThru|Industry|Food Distribution|18|0.2777777777777778|42
+Bearish Hammer With FollowThru|Industry|Apparel Manufacturing|18|0.2777777777777778|68
+Bearish Hammer With FollowThru|Entity|FTCS.US|18|0.2777777777777778|73
+Bearish Hammer With FollowThru|Industry|Pollution & Treatment Controls|11|0.2727272727272727|8
+Bearish Hammer With FollowThru|Entity|LFUS.US|11|0.2727272727272727|17
+Bearish Hammer With FollowThru|Entity|IMKTA.US|11|0.2727272727272727|24
+Bearish Hammer With FollowThru|Entity|JJSF.US|11|0.2727272727272727|26
+Bearish Hammer With FollowThru|Entity|HP.US|11|0.2727272727272727|30
+Bearish Hammer With FollowThru|Industry|Oil & Gas Drilling|11|0.2727272727272727|30
+Bearish Hammer With FollowThru|Entity|PTF.US|22|0.2727272727272727|33
+Bearish Hammer With FollowThru|Entity|NNN.US|11|0.2727272727272727|38
+Bearish Hammer With FollowThru|Entity|PRA.US|11|0.2727272727272727|43
+Bearish Hammer With FollowThru|Entity|EIRL.US|11|0.2727272727272727|61
+Bearish Hammer With FollowThru|Entity|AKO-B.US|11|0.2727272727272727|67
+Bearish Hammer With FollowThru|Entity|TNC.US|11|0.2727272727272727|78
+Bearish Hammer With FollowThru|Entity|XLI.US|11|0.2727272727272727|89
+Bearish Hammer With FollowThru|Entity|DHS.US|11|0.2727272727272727|100
+Bearish Hammer With FollowThru|Entity|IUSV.US|11|0.2727272727272727|103
+Bearish Hammer With FollowThru|Entity|CTAS.US|11|0.2727272727272727|105
+Bearish Hammer With FollowThru|Entity|TYD.US|11|0.2727272727272727|116
+Bearish Hammer With FollowThru|Entity|EPU.US|11|0.2727272727272727|127
+Bearish Hammer With FollowThru|Entity|BUSE.US|11|0.2727272727272727|130
+Bearish Hammer With FollowThru|Entity|IVOO.US|11|0.2727272727272727|146
+Bearish Hammer With FollowThru|Entity|VBR.US|11|0.2727272727272727|363
+Bearish Hammer With FollowThru|Entity|IXG.US|11|0.2727272727272727|396
+Bearish Hammer With FollowThru|Entity|UCC.US|26|0.2692307692307692|41
+Bearish Hammer With FollowThru|Entity|AVNT.US|15|0.26666666666666666|27
+Bearish Hammer With FollowThru|Entity|BKH.US|15|0.26666666666666666|38
+Bearish Hammer With FollowThru|Entity|SSD.US|15|0.26666666666666666|46
+Bearish Hammer With FollowThru|Entity|ARKW.US|15|0.26666666666666666|58
+Bearish Hammer With FollowThru|Entity|XLV.US|15|0.26666666666666666|67
+Bearish Hammer With FollowThru|Entity|JOE.US|15|0.26666666666666666|70
+Bearish Hammer With FollowThru|Entity|RFV.US|15|0.26666666666666666|79
+Bearish Hammer With FollowThru|Entity|ARTNA.US|15|0.26666666666666666|105
+Bearish Hammer With FollowThru|Entity|FDL.US|15|0.26666666666666666|132
+Bearish Hammer With FollowThru|Entity|IWF.US|15|0.26666666666666666|178
+Bearish Hammer With FollowThru|Entity|FTA.US|15|0.26666666666666666|198
+Bearish Hammer With FollowThru|Entity|IUSG.US|19|0.2631578947368421|140
+Bearish Hammer With FollowThru|Industry|Thermal Coal|12|0.25|13
+Bearish Hammer With FollowThru|Entity|IT.US|12|0.25|16
+Bearish Hammer With FollowThru|Entity|THFF.US|12|0.25|22
+Bearish Hammer With FollowThru|Entity|LGND.US|12|0.25|24
+Bearish Hammer With FollowThru|Entity|UPV.US|12|0.25|25
+Bearish Hammer With FollowThru|Entity|ERIE.US|12|0.25|33
+Bearish Hammer With FollowThru|Entity|ATRI.US|20|0.25|43
+Bearish Hammer With FollowThru|Entity|MSEX.US|16|0.25|46
+Bearish Hammer With FollowThru|Entity|APD.US|12|0.25|47
+Bearish Hammer With FollowThru|Entity|DOC.US|12|0.25|56
+Bearish Hammer With FollowThru|Entity|SLYG.US|24|0.25|64
+Bearish Hammer With FollowThru|Entity|CNI.US|12|0.25|64
+Bearish Hammer With FollowThru|Entity|UFPI.US|12|0.25|66
+Bearish Hammer With FollowThru|Entity|CSL.US|12|0.25|78
+Bearish Hammer With FollowThru|Industry|Recreational Vehicles|16|0.25|78
+Bearish Hammer With FollowThru|Entity|IYC.US|20|0.25|81
+Bearish Hammer With FollowThru|Entity|NRIM.US|16|0.25|103
+Bearish Hammer With FollowThru|Entity|EQWL.US|24|0.25|106
+Bearish Hammer With FollowThru|Entity|JKI.US|20|0.25|107
+Bearish Hammer With FollowThru|Entity|GGME.US|12|0.25|123
+Bearish Hammer With FollowThru|Entity|COKE.US|16|0.25|125
+Bearish Hammer With FollowThru|Entity|IJH.US|12|0.25|134
+Bearish Hammer With FollowThru|Entity|ED.US|12|0.25|151
+Bearish Hammer With FollowThru|Entity|ACNB.US|12|0.25|155
+Bearish Hammer With FollowThru|Entity|VOOG.US|20|0.25|200
+Bearish Hammer With FollowThru|Entity|RDIV.US|12|0.25|208
+Bearish Hammer With FollowThru|Entity|MMTM.US|12|0.25|287
+Bearish Hammer With FollowThru|Entity|GAM.US|12|0.25|366
+Bearish Hammer With FollowThru|Industry|Staffing & Employment Services|25|0.24|42
+Bearish Hammer With FollowThru|Entity|QQEW.US|21|0.23809523809523808|163
+Bearish Hammer With FollowThru|Entity|MUNI.US|21|0.23809523809523808|1251
+Bearish Hammer With FollowThru|Entity|PSCC.US|17|0.23529411764705882|41
+Bearish Hammer With FollowThru|Entity|SLYV.US|17|0.23529411764705882|41
+Bearish Hammer With FollowThru|Entity|SPLG.US|17|0.23529411764705882|84
+Bearish Hammer With FollowThru|Entity|OTTR.US|13|0.23076923076923078|21
+Bearish Hammer With FollowThru|Entity|CURE.US|13|0.23076923076923078|26
+Bearish Hammer With FollowThru|Entity|MATW.US|13|0.23076923076923078|27
+Bearish Hammer With FollowThru|Entity|ROP.US|13|0.23076923076923078|34
+Bearish Hammer With FollowThru|Entity|AMED.US|13|0.23076923076923078|44
+Bearish Hammer With FollowThru|Entity|HD.US|13|0.23076923076923078|46
+Bearish Hammer With FollowThru|Entity|IGM.US|26|0.23076923076923078|48
+Bearish Hammer With FollowThru|Entity|WASH.US|13|0.23076923076923078|51
+Bearish Hammer With FollowThru|Entity|LHX.US|13|0.23076923076923078|52
+Bearish Hammer With FollowThru|Entity|CW.US|13|0.23076923076923078|78
+Bearish Hammer With FollowThru|Entity|VTWG.US|13|0.23076923076923078|82
+Bearish Hammer With FollowThru|Entity|CNXT.US|13|0.23076923076923078|88
+Bearish Hammer With FollowThru|Entity|FAD.US|13|0.23076923076923078|124
+Bearish Hammer With FollowThru|Entity|UNP.US|13|0.23076923076923078|131
+Bearish Hammer With FollowThru|Entity|KNCT.US|13|0.23076923076923078|177
+Bearish Hammer With FollowThru|Entity|FDMO.US|13|0.23076923076923078|211
+Bearish Hammer With FollowThru|Entity|WDFC.US|23|0.21739130434782608|34
+Bearish Hammer With FollowThru|Entity|IMCG.US|23|0.21739130434782608|99
+Bearish Hammer With FollowThru|Entity|SJW.US|14|0.21428571428571427|39
+Bearish Hammer With FollowThru|Entity|PXI.US|14|0.21428571428571427|42
+Bearish Hammer With FollowThru|Entity|SPY.US|14|0.21428571428571427|45
+Bearish Hammer With FollowThru|Entity|NWN.US|14|0.21428571428571427|54
+Bearish Hammer With FollowThru|Entity|RPV.US|14|0.21428571428571427|140
+Bearish Hammer With FollowThru|Entity|RSPS.US|14|0.21428571428571427|167
+Bearish Hammer With FollowThru|Entity|ASEA.US|14|0.21428571428571427|296
+Bearish Hammer With FollowThru|Entity|RYH.US|19|0.21052631578947367|91
+Bearish Hammer With FollowThru|Entity|IMCV.US|19|0.21052631578947367|108
+Bearish Hammer With FollowThru|Entity|FTLS.US|19|0.21052631578947367|128
+Bearish Hammer With FollowThru|Entity|ILMN.US|10|0.2|2
+Bearish Hammer With FollowThru|Entity|FBP.US|10|0.2|18
+Bearish Hammer With FollowThru|Entity|FICO.US|15|0.2|19
+Bearish Hammer With FollowThru|Entity|HUBB.US|10|0.2|20
+Bearish Hammer With FollowThru|Entity|CVCO.US|10|0.2|23
+Bearish Hammer With FollowThru|Entity|SBR.US|10|0.2|24
+Bearish Hammer With FollowThru|Entity|KMT.US|10|0.2|28
+Bearish Hammer With FollowThru|Entity|EXP.US|10|0.2|32
+Bearish Hammer With FollowThru|Entity|IHF.US|10|0.2|37
+Bearish Hammer With FollowThru|Entity|COO.US|10|0.2|46
+Bearish Hammer With FollowThru|Entity|EWBC.US|10|0.2|48
+Bearish Hammer With FollowThru|Entity|SRCE.US|10|0.2|48
+Bearish Hammer With FollowThru|Entity|IWL.US|20|0.2|57
+Bearish Hammer With FollowThru|Entity|SVC.US|10|0.2|64
+Bearish Hammer With FollowThru|Entity|WLYB.US|10|0.2|65
+Bearish Hammer With FollowThru|Entity|PNQI.US|15|0.2|70
+Bearish Hammer With FollowThru|Entity|SPHQ.US|15|0.2|82
+Bearish Hammer With FollowThru|Entity|XSMO.US|15|0.2|83
+Bearish Hammer With FollowThru|Entity|WTM.US|10|0.2|88
+Bearish Hammer With FollowThru|Entity|CGW.US|10|0.2|90
+Bearish Hammer With FollowThru|Entity|MSFT.US|10|0.2|93
+Bearish Hammer With FollowThru|Entity|QQQ.US|10|0.2|123
+Bearish Hammer With FollowThru|Entity|XLP.US|10|0.2|128
+Bearish Hammer With FollowThru|Entity|FXG.US|10|0.2|129
+Bearish Hammer With FollowThru|Entity|DEUS.US|10|0.2|186
+Bearish Hammer With FollowThru|Entity|TIPZ.US|10|0.2|260
+Bearish Hammer With FollowThru|Entity|EUSA.US|15|0.2|288
+Bearish Hammer With FollowThru|Entity|SPTM.US|21|0.19047619047619047|88
+Bearish Hammer With FollowThru|Entity|SMBC.US|16|0.1875|34
+Bearish Hammer With FollowThru|Entity|PATK.US|11|0.18181818181818182|16
+Bearish Hammer With FollowThru|Entity|ARLP.US|11|0.18181818181818182|16
+Bearish Hammer With FollowThru|Entity|FFIC.US|11|0.18181818181818182|26
+Bearish Hammer With FollowThru|Entity|FDX.US|11|0.18181818181818182|30
+Bearish Hammer With FollowThru|Entity|WIRE.US|11|0.18181818181818182|32
+Bearish Hammer With FollowThru|Entity|PBR-A.US|11|0.18181818181818182|34
+Bearish Hammer With FollowThru|Entity|MEOH.US|11|0.18181818181818182|42
+Bearish Hammer With FollowThru|Entity|MOD.US|11|0.18181818181818182|48
+Bearish Hammer With FollowThru|Entity|ADP.US|11|0.18181818181818182|48
+Bearish Hammer With FollowThru|Entity|MCK.US|11|0.18181818181818182|54
+Bearish Hammer With FollowThru|Entity|CRBN.US|11|0.18181818181818182|70
+Bearish Hammer With FollowThru|Entity|VIS.US|11|0.18181818181818182|94
+Bearish Hammer With FollowThru|Entity|SCHK.US|11|0.18181818181818182|110
+Bearish Hammer With FollowThru|Entity|JMOM.US|11|0.18181818181818182|114
+Bearish Hammer With FollowThru|Entity|FXZ.US|11|0.18181818181818182|116
+Bearish Hammer With FollowThru|Entity|QCLN.US|11|0.18181818181818182|150
+Bearish Hammer With FollowThru|Entity|IJJ.US|11|0.18181818181818182|303
+Bearish Hammer With FollowThru|Entity|ISRA.US|11|0.18181818181818182|370
+Bearish Hammer With FollowThru|Entity|FXF.US|11|0.18181818181818182|1001
+Bearish Hammer With FollowThru|Entity|MGC.US|17|0.17647058823529413|31
+Bearish Hammer With FollowThru|Entity|CAT.US|17|0.17647058823529413|64
+Bearish Hammer With FollowThru|Entity|QQQE.US|17|0.17647058823529413|122
+Bearish Hammer With FollowThru|Entity|PWV.US|17|0.17647058823529413|157
+Bearish Hammer With FollowThru|Entity|UTL.US|12|0.16666666666666666|14
+Bearish Hammer With FollowThru|Entity|CQQQ.US|18|0.16666666666666666|47
+Bearish Hammer With FollowThru|Entity|FQAL.US|18|0.16666666666666666|78
+Bearish Hammer With FollowThru|Entity|FTC.US|12|0.16666666666666666|104
+Bearish Hammer With FollowThru|Entity|EXI.US|12|0.16666666666666666|113
+Bearish Hammer With FollowThru|Entity|ETHO.US|12|0.16666666666666666|146
+Bearish Hammer With FollowThru|Entity|IMCB.US|24|0.16666666666666666|202
+Bearish Hammer With FollowThru|Entity|JKG.US|24|0.16666666666666666|202
+Bearish Hammer With FollowThru|Entity|IAI.US|19|0.15789473684210525|142
+Bearish Hammer With FollowThru|Entity|MLP.US|13|0.15384615384615385|20
+Bearish Hammer With FollowThru|Entity|SUSA.US|26|0.15384615384615385|66
+Bearish Hammer With FollowThru|Entity|EES.US|13|0.15384615384615385|78
+Bearish Hammer With FollowThru|Entity|VIOG.US|13|0.15384615384615385|119
+Bearish Hammer With FollowThru|Entity|IWY.US|13|0.15384615384615385|153
+Bearish Hammer With FollowThru|Entity|VV.US|13|0.15384615384615385|155
+Bearish Hammer With FollowThru|Entity|RPG.US|14|0.14285714285714285|68
+Bearish Hammer With FollowThru|Entity|NFTY.US|14|0.14285714285714285|82
+Bearish Hammer With FollowThru|Entity|CWS.US|14|0.14285714285714285|145
+Bearish Hammer With FollowThru|Entity|PRN.US|21|0.14285714285714285|209
+Bearish Hammer With FollowThru|Entity|IWR.US|14|0.14285714285714285|212
+Bearish Hammer With FollowThru|Entity|RFFC.US|14|0.14285714285714285|234
+Bearish Hammer With FollowThru|Entity|CPK.US|15|0.13333333333333333|88
+Bearish Hammer With FollowThru|Entity|VUG.US|15|0.13333333333333333|110
+Bearish Hammer With FollowThru|Entity|IYH.US|15|0.13333333333333333|178
+Bearish Hammer With FollowThru|Entity|WINA.US|16|0.125|20
+Bearish Hammer With FollowThru|Entity|PWB.US|24|0.125|54
+Bearish Hammer With FollowThru|Entity|VONE.US|16|0.125|91
+Bearish Hammer With FollowThru|Entity|RTH.US|17|0.11764705882352941|29
+Bearish Hammer With FollowThru|Entity|EPS.US|17|0.11764705882352941|100
+Bearish Hammer With FollowThru|Entity|GSBC.US|19|0.10526315789473684|45
+Bearish Hammer With FollowThru|Entity|INDB.US|10|0.1|8
+Bearish Hammer With FollowThru|Entity|FINX.US|10|0.1|11
+Bearish Hammer With FollowThru|Entity|WF.US|10|0.1|13
+Bearish Hammer With FollowThru|Entity|SURE.US|20|0.1|170
+Bearish Hammer With FollowThru|Entity|GURU.US|10|0.1|338
+Bearish Hammer With FollowThru|Entity|WOOD.US|11|0.09090909090909091|3
+Bearish Hammer With FollowThru|Entity|JHML.US|11|0.09090909090909091|30
+Bearish Hammer With FollowThru|Entity|SPGM.US|11|0.09090909090909091|36
+Bearish Hammer With FollowThru|Entity|PDP.US|11|0.09090909090909091|52
+Bearish Hammer With FollowThru|Entity|VDC.US|11|0.09090909090909091|70
+Bearish Hammer With FollowThru|Entity|SMLF.US|11|0.09090909090909091|88
+Bearish Hammer With FollowThru|Entity|ECNS.US|12|0.08333333333333333|10
+Bearish Hammer With FollowThru|Entity|WSFS.US|12|0.08333333333333333|11
+Bearish Hammer With FollowThru|Entity|VB.US|12|0.08333333333333333|27
+Bearish Hammer With FollowThru|Entity|AEP.US|12|0.08333333333333333|369
+Bearish Hammer With FollowThru|Entity|XAR.US|13|0.07692307692307693|8
+Bearish Hammer With FollowThru|Entity|OEF.US|13|0.07692307692307693|31
+Bearish Hammer With FollowThru|Entity|RZG.US|14|0.07142857142857142|88
+Bearish Hammer With FollowThru|Entity|IHE.US|15|0.06666666666666667|35
+Bearish Hammer With FollowThru|Entity|FPX.US|25|0.04|68
+Bearish Hammer With FollowThru|Entity|SMMU.US|10|0|0
+Bearish Hammer With FollowThru|Entity|WTS.US|10|0|0
+Bearish Hammer With FollowThru|Entity|KIE.US|10|0|0
+Bearish Hammer With FollowThru|Entity|CDNS.US|11|0|0
+Bearish Hammer With FollowThru|Entity|SPYX.US|13|0|0
+Bearish Hammer With FollowThru|Entity|BIL.US|17|0|0
+Bearish Hammer With FollowThru|Entity|PJP.US|11|0|0
+Bearish Hammer With FollowThru|Entity|SHV.US|10|0|0
+Bearish Hammer With FollowThru|Entity|TFLO.US|16|0|0
+Bearish Hammer With FollowThru|Entity|VGSH.US|13|0|0
