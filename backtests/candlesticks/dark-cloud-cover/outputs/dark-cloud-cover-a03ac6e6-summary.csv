@@ -1,0 +1,885 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Dark Cloud Cover|Entity|CBRL.US|10|0.9|51
+Dark Cloud Cover|Entity|IYM.US|10|0.9|80
+Dark Cloud Cover|Entity|KBWD.US|10|0.9|245
+Dark Cloud Cover|Entity|DOV.US|11|0.8181818181818182|54
+Dark Cloud Cover|Entity|FBRT.US|11|0.8181818181818182|61
+Dark Cloud Cover|Entity|KELYA.US|10|0.8|18
+Dark Cloud Cover|Entity|WPM.US|10|0.8|29
+Dark Cloud Cover|Entity|RTM.US|10|0.8|187
+Dark Cloud Cover|Entity|RSPM.US|10|0.8|187
+Dark Cloud Cover|Entity|MGK.US|12|0.75|73
+Dark Cloud Cover|Entity|FHN.US|12|0.75|82
+Dark Cloud Cover|Entity|VFH.US|12|0.75|159
+Dark Cloud Cover|Entity|VTR.US|15|0.7333333333333333|55
+Dark Cloud Cover|Entity|RMBS.US|11|0.7272727272727273|11
+Dark Cloud Cover|Entity|MYGN.US|11|0.7272727272727273|15
+Dark Cloud Cover|Entity|SR.US|11|0.7272727272727273|80
+Dark Cloud Cover|Entity|SNV.US|11|0.7272727272727273|83
+Dark Cloud Cover|Entity|FNCL.US|11|0.7272727272727273|122
+Dark Cloud Cover|Entity|PZT.US|11|0.7272727272727273|693
+Dark Cloud Cover|Entity|MTH.US|10|0.7|24
+Dark Cloud Cover|Entity|HAIN.US|10|0.7|24
+Dark Cloud Cover|Entity|ESE.US|10|0.7|38
+Dark Cloud Cover|Entity|BDC.US|10|0.7|40
+Dark Cloud Cover|Entity|UYG.US|10|0.7|43
+Dark Cloud Cover|Entity|EFX.US|10|0.7|44
+Dark Cloud Cover|Entity|MOV.US|10|0.7|47
+Dark Cloud Cover|Entity|SLAB.US|10|0.7|51
+Dark Cloud Cover|Entity|AZZ.US|10|0.7|54
+Dark Cloud Cover|Entity|AZPN.US|10|0.7|61
+Dark Cloud Cover|Entity|EMIF.US|10|0.7|143
+Dark Cloud Cover|Entity|QABA.US|10|0.7|150
+Dark Cloud Cover|Entity|PGF.US|10|0.7|802
+Dark Cloud Cover|Entity|SVC.US|13|0.6923076923076923|72
+Dark Cloud Cover|Entity|ALK.US|12|0.6666666666666666|35
+Dark Cloud Cover|Entity|WM.US|12|0.6666666666666666|96
+Dark Cloud Cover|Entity|ANF.US|14|0.6428571428571429|18
+Dark Cloud Cover|Entity|CNX.US|14|0.6428571428571429|23
+Dark Cloud Cover|Industry|Trucking|14|0.6428571428571429|31
+Dark Cloud Cover|Industry|Agricultural Inputs|14|0.6428571428571429|40
+Dark Cloud Cover|Entity|XSW.US|14|0.6428571428571429|61
+Dark Cloud Cover|Entity|EWC.US|14|0.6428571428571429|97
+Dark Cloud Cover|Entity|DRQ.US|11|0.6363636363636364|30
+Dark Cloud Cover|Entity|MS.US|11|0.6363636363636364|71
+Dark Cloud Cover|Entity|FRI.US|11|0.6363636363636364|73
+Dark Cloud Cover|Entity|CHCO.US|11|0.6363636363636364|107
+Dark Cloud Cover|Entity|BOH.US|11|0.6363636363636364|111
+Dark Cloud Cover|Entity|BUSE.US|11|0.6363636363636364|123
+Dark Cloud Cover|Entity|FSTA.US|11|0.6363636363636364|189
+Dark Cloud Cover|Entity|RDOG.US|11|0.6363636363636364|206
+Dark Cloud Cover|Entity|CWB.US|11|0.6363636363636364|310
+Dark Cloud Cover|Industry|REIT - Mortgage|54|0.6296296296296297|132
+Dark Cloud Cover|Entity|FCX.US|16|0.625|26
+Dark Cloud Cover|Industry|Copper|16|0.625|26
+Dark Cloud Cover|Entity|VAW.US|16|0.625|108
+Dark Cloud Cover|Entity|AEM.US|13|0.6153846153846154|28
+Dark Cloud Cover|Entity|SBR.US|13|0.6153846153846154|39
+Dark Cloud Cover|Entity|HWC.US|13|0.6153846153846154|46
+Dark Cloud Cover|Entity|UPW.US|13|0.6153846153846154|52
+Dark Cloud Cover|Entity|RSPF.US|13|0.6153846153846154|79
+Dark Cloud Cover|Entity|RWR.US|13|0.6153846153846154|136
+Dark Cloud Cover|Entity|VIAV.US|18|0.6111111111111112|28
+Dark Cloud Cover|Entity|LGND.US|10|0.6|16
+Dark Cloud Cover|Entity|PRIM.US|10|0.6|22
+Dark Cloud Cover|Entity|AMZN.US|10|0.6|24
+Dark Cloud Cover|Entity|TISI.US|10|0.6|24
+Dark Cloud Cover|Entity|UPRO.US|10|0.6|25
+Dark Cloud Cover|Entity|MTW.US|10|0.6|26
+Dark Cloud Cover|Entity|VMI.US|10|0.6|27
+Dark Cloud Cover|Entity|APOG.US|10|0.6|28
+Dark Cloud Cover|Entity|VSAT.US|10|0.6|28
+Dark Cloud Cover|Entity|RIO.US|10|0.6|31
+Dark Cloud Cover|Entity|MED.US|10|0.6|33
+Dark Cloud Cover|Entity|SCL.US|10|0.6|34
+Dark Cloud Cover|Industry|Recreational Vehicles|15|0.6|36
+Dark Cloud Cover|Entity|CACI.US|10|0.6|43
+Dark Cloud Cover|Entity|TPR.US|10|0.6|44
+Dark Cloud Cover|Entity|TDS.US|15|0.6|48
+Dark Cloud Cover|Entity|URE.US|10|0.6|54
+Dark Cloud Cover|Entity|WTBA.US|10|0.6|56
+Dark Cloud Cover|Entity|MCHP.US|10|0.6|59
+Dark Cloud Cover|Entity|HRB.US|15|0.6|60
+Dark Cloud Cover|Entity|PEZ.US|15|0.6|90
+Dark Cloud Cover|Entity|BALL.US|10|0.6|92
+Dark Cloud Cover|Entity|XMVM.US|10|0.6|111
+Dark Cloud Cover|Entity|MTB.US|10|0.6|122
+Dark Cloud Cover|Entity|CBSH.US|10|0.6|124
+Dark Cloud Cover|Entity|FITB.US|10|0.6|126
+Dark Cloud Cover|Entity|TPYP.US|10|0.6|145
+Dark Cloud Cover|Entity|XMLV.US|10|0.6|146
+Dark Cloud Cover|Entity|OMC.US|10|0.6|147
+Dark Cloud Cover|Entity|NLY.US|10|0.6|183
+Dark Cloud Cover|Entity|RWK.US|15|0.6|192
+Dark Cloud Cover|Entity|DEI.US|10|0.6|207
+Dark Cloud Cover|Entity|URTH.US|10|0.6|230
+Dark Cloud Cover|Entity|MOS.US|12|0.5833333333333334|22
+Dark Cloud Cover|Entity|AYI.US|12|0.5833333333333334|27
+Dark Cloud Cover|Entity|EMN.US|12|0.5833333333333334|35
+Dark Cloud Cover|Entity|CRS.US|12|0.5833333333333334|40
+Dark Cloud Cover|Entity|AOS.US|12|0.5833333333333334|50
+Dark Cloud Cover|Entity|SCHL.US|12|0.5833333333333334|56
+Dark Cloud Cover|Entity|EXC.US|12|0.5833333333333334|64
+Dark Cloud Cover|Entity|VNQ.US|12|0.5833333333333334|64
+Dark Cloud Cover|Entity|SIGI.US|12|0.5833333333333334|76
+Dark Cloud Cover|Entity|SMG.US|12|0.5833333333333334|86
+Dark Cloud Cover|Entity|DUK.US|12|0.5833333333333334|100
+Dark Cloud Cover|Entity|CUZ.US|12|0.5833333333333334|133
+Dark Cloud Cover|Entity|USRT.US|12|0.5833333333333334|194
+Dark Cloud Cover|Entity|AMD.US|14|0.5714285714285714|13
+Dark Cloud Cover|Entity|CALM.US|14|0.5714285714285714|27
+Dark Cloud Cover|Entity|ASA.US|14|0.5714285714285714|34
+Dark Cloud Cover|Entity|WY.US|14|0.5714285714285714|56
+Dark Cloud Cover|Entity|FIW.US|14|0.5714285714285714|65
+Dark Cloud Cover|Entity|WABC.US|14|0.5714285714285714|107
+Dark Cloud Cover|Entity|FPX.US|14|0.5714285714285714|119
+Dark Cloud Cover|Industry|REIT - Office|85|0.5647058823529412|100
+Dark Cloud Cover|Entity|IJT.US|16|0.5625|132
+Dark Cloud Cover|Industry|Rental & Leasing Services|43|0.5581395348837209|56
+Dark Cloud Cover|Entity|XLV.US|18|0.5555555555555556|114
+Dark Cloud Cover|Entity|IYF.US|18|0.5555555555555556|177
+Dark Cloud Cover|Industry|Auto & Truck Dealerships|29|0.5517241379310345|23
+Dark Cloud Cover|Entity|ILF.US|20|0.55|48
+Dark Cloud Cover|Industry|Biotechnology|186|0.5483870967741935|11
+Dark Cloud Cover|Entity|LRCX.US|11|0.5454545454545454|10
+Dark Cloud Cover|Entity|KBH.US|11|0.5454545454545454|10
+Dark Cloud Cover|Entity|KMX.US|11|0.5454545454545454|15
+Dark Cloud Cover|Entity|PBR.US|11|0.5454545454545454|18
+Dark Cloud Cover|Entity|EPAC.US|11|0.5454545454545454|21
+Dark Cloud Cover|Entity|BHP.US|11|0.5454545454545454|22
+Dark Cloud Cover|Entity|HP.US|11|0.5454545454545454|22
+Dark Cloud Cover|Entity|FCG.US|11|0.5454545454545454|24
+Dark Cloud Cover|Entity|RIG.US|11|0.5454545454545454|31
+Dark Cloud Cover|Entity|CNMD.US|11|0.5454545454545454|32
+Dark Cloud Cover|Entity|OXM.US|11|0.5454545454545454|41
+Dark Cloud Cover|Industry|Resorts & Casinos|22|0.5454545454545454|41
+Dark Cloud Cover|Entity|QLD.US|11|0.5454545454545454|41
+Dark Cloud Cover|Entity|KMPR.US|11|0.5454545454545454|46
+Dark Cloud Cover|Entity|WTRG.US|11|0.5454545454545454|49
+Dark Cloud Cover|Entity|PKB.US|11|0.5454545454545454|55
+Dark Cloud Cover|Entity|LHX.US|11|0.5454545454545454|57
+Dark Cloud Cover|Entity|DE.US|11|0.5454545454545454|62
+Dark Cloud Cover|Entity|LBTYA.US|11|0.5454545454545454|71
+Dark Cloud Cover|Entity|EEM.US|11|0.5454545454545454|72
+Dark Cloud Cover|Entity|ADI.US|11|0.5454545454545454|85
+Dark Cloud Cover|Entity|BFOR.US|11|0.5454545454545454|99
+Dark Cloud Cover|Entity|ED.US|11|0.5454545454545454|106
+Dark Cloud Cover|Entity|HIW.US|11|0.5454545454545454|106
+Dark Cloud Cover|Entity|EVRG.US|11|0.5454545454545454|107
+Dark Cloud Cover|Entity|CCK.US|11|0.5454545454545454|108
+Dark Cloud Cover|Entity|PYZ.US|11|0.5454545454545454|123
+Dark Cloud Cover|Entity|ZION.US|11|0.5454545454545454|125
+Dark Cloud Cover|Entity|HAP.US|11|0.5454545454545454|187
+Dark Cloud Cover|Entity|IXG.US|11|0.5454545454545454|217
+Dark Cloud Cover|Entity|MSI.US|13|0.5384615384615384|38
+Dark Cloud Cover|Entity|EXPO.US|13|0.5384615384615384|39
+Dark Cloud Cover|Entity|LSTR.US|13|0.5384615384615384|44
+Dark Cloud Cover|Entity|BX.US|13|0.5384615384615384|47
+Dark Cloud Cover|Industry|Utilities - Renewable|13|0.5384615384615384|81
+Dark Cloud Cover|Entity|IWN.US|13|0.5384615384615384|84
+Dark Cloud Cover|Entity|FAD.US|13|0.5384615384615384|93
+Dark Cloud Cover|Entity|DVY.US|13|0.5384615384615384|170
+Dark Cloud Cover|Entity|FDM.US|13|0.5384615384615384|272
+Dark Cloud Cover|Industry|Building Products & Equipment|43|0.5348837209302325|35
+Dark Cloud Cover|Entity|DOC.US|15|0.5333333333333333|36
+Dark Cloud Cover|Entity|MGA.US|15|0.5333333333333333|57
+Dark Cloud Cover|Industry|Restaurants|74|0.527027027027027|41
+Dark Cloud Cover|Industry|Other Industrial Metals & Mining|19|0.5263157894736842|23
+Dark Cloud Cover|Industry|Consulting Services|46|0.5217391304347826|42
+Dark Cloud Cover|Industry|Electrical Equipment & Parts|49|0.5102040816326531|30
+Dark Cloud Cover|Industry|Gold|63|0.5079365079365079|27
+Dark Cloud Cover|Industry|Drug Manufacturers - General|65|0.5076923076923077|62
+Dark Cloud Cover|Entity|PDS.US|10|0.5|16
+Dark Cloud Cover|Entity|ISRG.US|10|0.5|17
+Dark Cloud Cover|Entity|APO.US|10|0.5|17
+Dark Cloud Cover|Entity|WGO.US|12|0.5|20
+Dark Cloud Cover|Entity|MOG-A.US|14|0.5|21
+Dark Cloud Cover|Entity|PRAA.US|12|0.5|22
+Dark Cloud Cover|Entity|ACHC.US|10|0.5|25
+Dark Cloud Cover|Industry|Communication Equipment|66|0.5|28
+Dark Cloud Cover|Entity|PANW.US|10|0.5|28
+Dark Cloud Cover|Entity|KFRC.US|10|0.5|30
+Dark Cloud Cover|Industry|Oil & Gas Equipment & Services|46|0.5|30
+Dark Cloud Cover|Entity|CEVA.US|10|0.5|31
+Dark Cloud Cover|Entity|DLTR.US|14|0.5|35
+Dark Cloud Cover|Entity|VFC.US|10|0.5|35
+Dark Cloud Cover|Entity|ITEQ.US|12|0.5|36
+Dark Cloud Cover|Entity|GXG.US|10|0.5|37
+Dark Cloud Cover|Industry|Internet Retail|34|0.5|38
+Dark Cloud Cover|Entity|FLS.US|10|0.5|39
+Dark Cloud Cover|Industry|Metal Fabrication|24|0.5|40
+Dark Cloud Cover|Entity|UWM.US|14|0.5|42
+Dark Cloud Cover|Entity|RY.US|12|0.5|44
+Dark Cloud Cover|Entity|ORLY.US|10|0.5|44
+Dark Cloud Cover|Entity|AAPL.US|26|0.5|44
+Dark Cloud Cover|Entity|MAT.US|12|0.5|45
+Dark Cloud Cover|Entity|CW.US|16|0.5|46
+Dark Cloud Cover|Entity|XBI.US|12|0.5|46
+Dark Cloud Cover|Entity|FBP.US|10|0.5|58
+Dark Cloud Cover|Entity|WKC.US|16|0.5|58
+Dark Cloud Cover|Entity|WDFC.US|12|0.5|59
+Dark Cloud Cover|Entity|AMGN.US|14|0.5|60
+Dark Cloud Cover|Entity|DCI.US|10|0.5|62
+Dark Cloud Cover|Entity|CBU.US|14|0.5|65
+Dark Cloud Cover|Industry|Personal Services|22|0.5|65
+Dark Cloud Cover|Entity|AGR.US|10|0.5|72
+Dark Cloud Cover|Entity|FRT.US|12|0.5|76
+Dark Cloud Cover|Entity|POR.US|12|0.5|76
+Dark Cloud Cover|Entity|AVB.US|10|0.5|79
+Dark Cloud Cover|Entity|IBB.US|14|0.5|86
+Dark Cloud Cover|Entity|KBWP.US|12|0.5|88
+Dark Cloud Cover|Entity|BLK.US|12|0.5|90
+Dark Cloud Cover|Entity|SEIC.US|10|0.5|92
+Dark Cloud Cover|Entity|WHG.US|10|0.5|93
+Dark Cloud Cover|Entity|OLP.US|16|0.5|94
+Dark Cloud Cover|Entity|HE.US|10|0.5|96
+Dark Cloud Cover|Entity|AME.US|10|0.5|98
+Dark Cloud Cover|Entity|OKE.US|14|0.5|104
+Dark Cloud Cover|Entity|VUG.US|16|0.5|105
+Dark Cloud Cover|Entity|HIG.US|10|0.5|115
+Dark Cloud Cover|Industry|REIT - Diversified|12|0.5|120
+Dark Cloud Cover|Entity|IEX.US|16|0.5|123
+Dark Cloud Cover|Entity|WMK.US|10|0.5|130
+Dark Cloud Cover|Entity|SMOG.US|10|0.5|132
+Dark Cloud Cover|Entity|SPGM.US|10|0.5|160
+Dark Cloud Cover|Entity|WDIV.US|10|0.5|167
+Dark Cloud Cover|Entity|VBR.US|12|0.5|241
+Dark Cloud Cover|Entity|EXI.US|12|0.5|266
+Dark Cloud Cover|Entity|SOR.US|10|0.5|298
+Dark Cloud Cover|Industry|Banks - Regional|613|0.4926590538336052|76
+Dark Cloud Cover|Industry|Farm Products|49|0.4897959183673469|50
+Dark Cloud Cover|Industry|Discount Stores|47|0.48936170212765956|53
+Dark Cloud Cover|Industry|Beverages - Wineries & Distilleries|41|0.4878048780487805|111
+Dark Cloud Cover|Industry|Chemicals|31|0.4838709677419355|22
+Dark Cloud Cover|Industry|Auto Parts|60|0.48333333333333334|38
+Dark Cloud Cover|Industry|Specialty Industrial Machinery|207|0.4830917874396135|58
+Dark Cloud Cover|Industry|Specialty Business Services|54|0.48148148148148145|65
+Dark Cloud Cover|Industry|Drug Manufacturers - Specialty & Generic|75|0.48|12
+Dark Cloud Cover|Industry|Marine Shipping|23|0.4782608695652174|12
+Dark Cloud Cover|Industry|Electronic Components|44|0.4772727272727273|39
+Dark Cloud Cover|Industry|Furnishings, Fixtures & Appliances|40|0.475|36
+Dark Cloud Cover|Industry|Packaging & Containers|53|0.4716981132075472|71
+Dark Cloud Cover|Entity|OXY.US|17|0.47058823529411764|35
+Dark Cloud Cover|Entity|BANF.US|17|0.47058823529411764|45
+Dark Cloud Cover|Entity|RNR.US|17|0.47058823529411764|50
+Dark Cloud Cover|Entity|FDN.US|17|0.47058823529411764|54
+Dark Cloud Cover|Entity|PXI.US|17|0.47058823529411764|56
+Dark Cloud Cover|Industry|Beverages - Brewers|17|0.47058823529411764|71
+Dark Cloud Cover|Industry|Telecom Services|51|0.47058823529411764|107
+Dark Cloud Cover|Entity|IYR.US|17|0.47058823529411764|140
+Dark Cloud Cover|Industry|Apparel Retail|94|0.46808510638297873|30
+Dark Cloud Cover|Entity|ADBE.US|15|0.4666666666666667|42
+Dark Cloud Cover|Entity|KIM.US|15|0.4666666666666667|50
+Dark Cloud Cover|Entity|FXL.US|15|0.4666666666666667|65
+Dark Cloud Cover|Entity|BF-A.US|15|0.4666666666666667|72
+Dark Cloud Cover|Industry|Security & Protection Services|30|0.4666666666666667|77
+Dark Cloud Cover|Entity|DSI.US|15|0.4666666666666667|211
+Dark Cloud Cover|Industry|Utilities - Regulated Electric|178|0.46629213483146065|92
+Dark Cloud Cover|Industry|Medical Instruments & Supplies|86|0.46511627906976744|42
+Dark Cloud Cover|Industry|Consumer Electronics|28|0.4642857142857143|44
+Dark Cloud Cover|Sector|Consumer Cyclical|759|0.463768115942029|42
+Dark Cloud Cover|Entity|SM.US|13|0.46153846153846156|14
+Dark Cloud Cover|Entity|GT.US|13|0.46153846153846156|34
+Dark Cloud Cover|Entity|PARAA.US|13|0.46153846153846156|36
+Dark Cloud Cover|Entity|PLXS.US|13|0.46153846153846156|37
+Dark Cloud Cover|Entity|POOL.US|13|0.46153846153846156|38
+Dark Cloud Cover|Entity|IFF.US|13|0.46153846153846156|53
+Dark Cloud Cover|Entity|XOP.US|13|0.46153846153846156|58
+Dark Cloud Cover|Entity|MTX.US|13|0.46153846153846156|67
+Dark Cloud Cover|Entity|NEU.US|13|0.46153846153846156|71
+Dark Cloud Cover|Entity|PEBO.US|13|0.46153846153846156|79
+Dark Cloud Cover|Entity|FTC.US|13|0.46153846153846156|85
+Dark Cloud Cover|Entity|FUN.US|13|0.46153846153846156|86
+Dark Cloud Cover|Entity|PDCO.US|13|0.46153846153846156|91
+Dark Cloud Cover|Entity|SCHG.US|13|0.46153846153846156|95
+Dark Cloud Cover|Entity|VRE.US|13|0.46153846153846156|102
+Dark Cloud Cover|Entity|EG.US|13|0.46153846153846156|121
+Dark Cloud Cover|Entity|ISCB.US|13|0.46153846153846156|127
+Dark Cloud Cover|Entity|JKJ.US|13|0.46153846153846156|127
+Dark Cloud Cover|Entity|IWC.US|13|0.46153846153846156|128
+Dark Cloud Cover|Entity|AJG.US|13|0.46153846153846156|166
+Dark Cloud Cover|Entity|DLN.US|13|0.46153846153846156|180
+Dark Cloud Cover|Entity|FYX.US|13|0.46153846153846156|184
+Dark Cloud Cover|Entity|PSL.US|13|0.46153846153846156|229
+Dark Cloud Cover|Entity|VOOV.US|13|0.46153846153846156|241
+Dark Cloud Cover|Industry|Railroads|24|0.4583333333333333|34
+Dark Cloud Cover|Sector|Basic Materials|312|0.4583333333333333|40
+Dark Cloud Cover|Industry|Capital Markets|35|0.45714285714285713|34
+Dark Cloud Cover|Industry|Software - Application|162|0.4567901234567901|33
+Dark Cloud Cover|Entity|FL.US|11|0.45454545454545453|19
+Dark Cloud Cover|Industry|Footwear & Accessories|22|0.45454545454545453|20
+Dark Cloud Cover|Industry|Advertising Agencies|22|0.45454545454545453|21
+Dark Cloud Cover|Entity|CIGI.US|11|0.45454545454545453|22
+Dark Cloud Cover|Entity|BBWI.US|11|0.45454545454545453|23
+Dark Cloud Cover|Entity|CAKE.US|11|0.45454545454545453|27
+Dark Cloud Cover|Entity|HOLX.US|11|0.45454545454545453|30
+Dark Cloud Cover|Entity|CCOI.US|11|0.45454545454545453|31
+Dark Cloud Cover|Entity|MATX.US|11|0.45454545454545453|32
+Dark Cloud Cover|Entity|LUV.US|11|0.45454545454545453|32
+Dark Cloud Cover|Entity|ATGE.US|11|0.45454545454545453|33
+Dark Cloud Cover|Entity|MDC.US|11|0.45454545454545453|36
+Dark Cloud Cover|Entity|BYD.US|11|0.45454545454545453|37
+Dark Cloud Cover|Entity|SWKS.US|11|0.45454545454545453|37
+Dark Cloud Cover|Entity|WSO.US|11|0.45454545454545453|38
+Dark Cloud Cover|Industry|Mortgage Finance|11|0.45454545454545453|38
+Dark Cloud Cover|Entity|UNH.US|11|0.45454545454545453|41
+Dark Cloud Cover|Entity|USLM.US|11|0.45454545454545453|42
+Dark Cloud Cover|Entity|IP.US|11|0.45454545454545453|53
+Dark Cloud Cover|Entity|MAS.US|11|0.45454545454545453|53
+Dark Cloud Cover|Entity|HII.US|11|0.45454545454545453|61
+Dark Cloud Cover|Entity|BCO.US|11|0.45454545454545453|64
+Dark Cloud Cover|Entity|XSMO.US|11|0.45454545454545453|80
+Dark Cloud Cover|Entity|ENB.US|11|0.45454545454545453|81
+Dark Cloud Cover|Entity|LAMR.US|11|0.45454545454545453|82
+Dark Cloud Cover|Entity|IEV.US|11|0.45454545454545453|84
+Dark Cloud Cover|Entity|RLI.US|11|0.45454545454545453|97
+Dark Cloud Cover|Entity|SNA.US|11|0.45454545454545453|109
+Dark Cloud Cover|Entity|IWY.US|11|0.45454545454545453|114
+Dark Cloud Cover|Entity|AMJ.US|11|0.45454545454545453|124
+Dark Cloud Cover|Entity|UTMD.US|11|0.45454545454545453|127
+Dark Cloud Cover|Entity|FDLO.US|11|0.45454545454545453|134
+Dark Cloud Cover|Entity|FNX.US|11|0.45454545454545453|171
+Dark Cloud Cover|Entity|DBC.US|11|0.45454545454545453|178
+Dark Cloud Cover|Sector|Healthcare|794|0.44710327455919396|28
+Dark Cloud Cover|Industry|Oil & Gas Refining & Marketing|36|0.4444444444444444|19
+Dark Cloud Cover|Industry|Engineering & Construction|81|0.4444444444444444|34
+Dark Cloud Cover|Entity|ARW.US|18|0.4444444444444444|59
+Dark Cloud Cover|Industry|Insurance - Reinsurance|18|0.4444444444444444|98
+Dark Cloud Cover|Entity|RFG.US|18|0.4444444444444444|114
+Dark Cloud Cover|Entity|VBK.US|18|0.4444444444444444|140
+Dark Cloud Cover|Sector|Financial Services|1331|0.44402704733283244|84
+Dark Cloud Cover|Industry|Asset Management|239|0.4435146443514644|112
+Dark Cloud Cover|Industry|Specialty Chemicals|120|0.44166666666666665|57
+Dark Cloud Cover|Industry|Lodging|25|0.44|38
+Dark Cloud Cover|Entity|COST.US|16|0.4375|88
+Dark Cloud Cover|Entity|IYG.US|16|0.4375|142
+Dark Cloud Cover|Sector|Industrials|1072|0.435634328358209|46
+Dark Cloud Cover|Sector|Consumer Defensive|396|0.43434343434343436|59
+Dark Cloud Cover|Industry|Oil & Gas Midstream|60|0.43333333333333335|50
+Dark Cloud Cover|Entity|GOLD.US|14|0.42857142857142855|17
+Dark Cloud Cover|Industry|Oil & Gas Drilling|14|0.42857142857142855|22
+Dark Cloud Cover|Entity|FAS.US|14|0.42857142857142855|22
+Dark Cloud Cover|Entity|PNFP.US|14|0.42857142857142855|24
+Dark Cloud Cover|Industry|Education & Training Services|35|0.42857142857142855|25
+Dark Cloud Cover|Entity|RRX.US|14|0.42857142857142855|29
+Dark Cloud Cover|Industry|Farm & Heavy Construction Machinery|56|0.42857142857142855|35
+Dark Cloud Cover|Entity|XMMO.US|14|0.42857142857142855|62
+Dark Cloud Cover|Entity|HD.US|14|0.42857142857142855|67
+Dark Cloud Cover|Entity|HTLF.US|14|0.42857142857142855|89
+Dark Cloud Cover|Entity|UDR.US|14|0.42857142857142855|98
+Dark Cloud Cover|Entity|CL.US|14|0.42857142857142855|105
+Dark Cloud Cover|Entity|EWW.US|14|0.42857142857142855|105
+Dark Cloud Cover|Entity|XLB.US|14|0.42857142857142855|110
+Dark Cloud Cover|Entity|MCD.US|14|0.42857142857142855|112
+Dark Cloud Cover|Entity|JKI.US|14|0.42857142857142855|121
+Dark Cloud Cover|Industry|Medical Devices|138|0.427536231884058|26
+Dark Cloud Cover|Industry|Packaged Foods|68|0.4264705882352941|38
+Dark Cloud Cover|Sector|Technology|734|0.4250681198910082|40
+Dark Cloud Cover|Industry|Beverages - Non-Alcoholic|33|0.42424242424242425|84
+Dark Cloud Cover|Sector|Real Estate|491|0.42362525458248473|94
+Dark Cloud Cover|Sector|Energy|397|0.42317380352644834|37
+Dark Cloud Cover|Overall|All|23003|0.4228144155110203|105
+Dark Cloud Cover|Entity|BF-B.US|19|0.42105263157894735|68
+Dark Cloud Cover|Entity|FXG.US|19|0.42105263157894735|196
+Dark Cloud Cover|Industry|Information Technology Services|100|0.42|52
+Dark Cloud Cover|Industry|Electronics & Computer Distribution|31|0.41935483870967744|49
+Dark Cloud Cover|Industry|REIT - Residential|62|0.41935483870967744|90
+Dark Cloud Cover|Industry|Semiconductors|74|0.4189189189189189|32
+Dark Cloud Cover|Industry|Airlines|43|0.4186046511627907|26
+Dark Cloud Cover|Industry|Oil & Gas Integrated|43|0.4186046511627907|67
+Dark Cloud Cover|Industry|Entertainment|55|0.41818181818181815|47
+Dark Cloud Cover|Entity|ERX.US|12|0.4166666666666667|8
+Dark Cloud Cover|Entity|LDWY.US|12|0.4166666666666667|9
+Dark Cloud Cover|Entity|NFLX.US|12|0.4166666666666667|13
+Dark Cloud Cover|Entity|URTY.US|12|0.4166666666666667|15
+Dark Cloud Cover|Entity|SF.US|12|0.4166666666666667|18
+Dark Cloud Cover|Entity|MHO.US|12|0.4166666666666667|24
+Dark Cloud Cover|Entity|EME.US|12|0.4166666666666667|26
+Dark Cloud Cover|Entity|EXPE.US|12|0.4166666666666667|26
+Dark Cloud Cover|Entity|AU.US|12|0.4166666666666667|39
+Dark Cloud Cover|Entity|TXN.US|12|0.4166666666666667|45
+Dark Cloud Cover|Entity|NYT.US|12|0.4166666666666667|46
+Dark Cloud Cover|Entity|CVCO.US|12|0.4166666666666667|49
+Dark Cloud Cover|Entity|LMT.US|12|0.4166666666666667|51
+Dark Cloud Cover|Entity|CHKP.US|12|0.4166666666666667|53
+Dark Cloud Cover|Entity|IOSP.US|12|0.4166666666666667|54
+Dark Cloud Cover|Entity|SSP.US|12|0.4166666666666667|59
+Dark Cloud Cover|Entity|IDXX.US|12|0.4166666666666667|60
+Dark Cloud Cover|Entity|FEX.US|12|0.4166666666666667|63
+Dark Cloud Cover|Entity|GIS.US|12|0.4166666666666667|71
+Dark Cloud Cover|Entity|ICE.US|12|0.4166666666666667|72
+Dark Cloud Cover|Entity|KCE.US|12|0.4166666666666667|80
+Dark Cloud Cover|Entity|AMG.US|12|0.4166666666666667|84
+Dark Cloud Cover|Entity|VB.US|12|0.4166666666666667|91
+Dark Cloud Cover|Entity|WASH.US|12|0.4166666666666667|92
+Dark Cloud Cover|Entity|IPO.US|12|0.4166666666666667|96
+Dark Cloud Cover|Entity|GSBC.US|12|0.4166666666666667|106
+Dark Cloud Cover|Entity|RPV.US|12|0.4166666666666667|122
+Dark Cloud Cover|Entity|IJR.US|12|0.4166666666666667|126
+Dark Cloud Cover|Entity|RWL.US|12|0.4166666666666667|138
+Dark Cloud Cover|Entity|MDYG.US|24|0.4166666666666667|140
+Dark Cloud Cover|Entity|GSG.US|12|0.4166666666666667|164
+Dark Cloud Cover|Entity|FTCS.US|12|0.4166666666666667|176
+Dark Cloud Cover|Entity|PEG.US|12|0.4166666666666667|202
+Dark Cloud Cover|Entity|GRPM.US|12|0.4166666666666667|214
+Dark Cloud Cover|Entity|VONV.US|12|0.4166666666666667|256
+Dark Cloud Cover|Entity|EPS.US|12|0.4166666666666667|269
+Dark Cloud Cover|Sector|Financials|12|0.4166666666666667|396
+Dark Cloud Cover|Industry|Specialty Retail|77|0.4155844155844156|55
+Dark Cloud Cover|Sector|Utilities|312|0.41346153846153844|88
+Dark Cloud Cover|Sector|Communication Services|199|0.4120603015075377|54
+Dark Cloud Cover|Industry|Thermal Coal|17|0.4117647058823529|37
+Dark Cloud Cover|Entity|PXE.US|17|0.4117647058823529|39
+Dark Cloud Cover|Entity|D.US|17|0.4117647058823529|61
+Dark Cloud Cover|Industry|REIT - Hotel & Motel|17|0.4117647058823529|63
+Dark Cloud Cover|Entity|QTEC.US|17|0.4117647058823529|87
+Dark Cloud Cover|Entity|KIE.US|22|0.4090909090909091|206
+Dark Cloud Cover|Industry|Oil & Gas E&P|177|0.4067796610169492|32
+Dark Cloud Cover|Industry|REIT - Retail|59|0.4067796610169492|113
+Dark Cloud Cover|Industry|Software - Infrastructure|111|0.40540540540540543|56
+Dark Cloud Cover|Industry|Insurance Brokers|42|0.40476190476190477|90
+Dark Cloud Cover|Entity|EDU.US|10|0.4|12
+Dark Cloud Cover|Entity|QRVO.US|10|0.4|14
+Dark Cloud Cover|Entity|NOV.US|15|0.4|14
+Dark Cloud Cover|Entity|RBA.US|10|0.4|22
+Dark Cloud Cover|Entity|WLFC.US|10|0.4|23
+Dark Cloud Cover|Entity|RGLD.US|10|0.4|24
+Dark Cloud Cover|Entity|AIR.US|10|0.4|25
+Dark Cloud Cover|Industry|Electronic Gaming & Multimedia|20|0.4|26
+Dark Cloud Cover|Entity|DCO.US|10|0.4|30
+Dark Cloud Cover|Entity|MLCO.US|10|0.4|30
+Dark Cloud Cover|Entity|M.US|10|0.4|30
+Dark Cloud Cover|Entity|AVGO.US|10|0.4|30
+Dark Cloud Cover|Entity|LH.US|10|0.4|31
+Dark Cloud Cover|Entity|TROW.US|10|0.4|31
+Dark Cloud Cover|Entity|CE.US|10|0.4|32
+Dark Cloud Cover|Entity|TER.US|10|0.4|34
+Dark Cloud Cover|Entity|GVA.US|10|0.4|34
+Dark Cloud Cover|Entity|MPWR.US|10|0.4|35
+Dark Cloud Cover|Entity|DMLP.US|10|0.4|37
+Dark Cloud Cover|Entity|HIBB.US|10|0.4|40
+Dark Cloud Cover|Entity|MATV.US|10|0.4|40
+Dark Cloud Cover|Entity|SMH.US|10|0.4|42
+Dark Cloud Cover|Entity|A.US|10|0.4|44
+Dark Cloud Cover|Entity|RSPG.US|15|0.4|49
+Dark Cloud Cover|Entity|BKH.US|10|0.4|51
+Dark Cloud Cover|Entity|NSP.US|10|0.4|52
+Dark Cloud Cover|Entity|ALL.US|10|0.4|59
+Dark Cloud Cover|Entity|IDGT.US|20|0.4|62
+Dark Cloud Cover|Entity|FAF.US|10|0.4|65
+Dark Cloud Cover|Entity|FHI.US|10|0.4|65
+Dark Cloud Cover|Entity|VNO.US|10|0.4|71
+Dark Cloud Cover|Entity|FDX.US|10|0.4|72
+Dark Cloud Cover|Entity|ADSK.US|10|0.4|75
+Dark Cloud Cover|Entity|EPU.US|10|0.4|78
+Dark Cloud Cover|Entity|WELL.US|15|0.4|82
+Dark Cloud Cover|Entity|SSO.US|10|0.4|84
+Dark Cloud Cover|Entity|YUM.US|10|0.4|88
+Dark Cloud Cover|Entity|FNY.US|10|0.4|89
+Dark Cloud Cover|Industry|Banks - Diversified|60|0.4|93
+Dark Cloud Cover|Entity|FDIS.US|10|0.4|94
+Dark Cloud Cover|Entity|FXZ.US|10|0.4|111
+Dark Cloud Cover|Entity|AMT.US|10|0.4|140
+Dark Cloud Cover|Entity|EIX.US|10|0.4|186
+Dark Cloud Cover|Entity|EUSA.US|10|0.4|198
+Dark Cloud Cover|Entity|DBE.US|10|0.4|208
+Dark Cloud Cover|Entity|AIVL.US|10|0.4|284
+Dark Cloud Cover|Industry|Credit Services|66|0.3939393939393939|34
+Dark Cloud Cover|Industry|Household & Personal Products|64|0.390625|70
+Dark Cloud Cover|Industry|Scientific & Technical Instruments|54|0.3888888888888889|43
+Dark Cloud Cover|Industry|Travel Services|36|0.3888888888888889|56
+Dark Cloud Cover|Entity|APA.US|18|0.3888888888888889|73
+Dark Cloud Cover|Industry|Home Improvement Retail|18|0.3888888888888889|82
+Dark Cloud Cover|Entity|IWF.US|18|0.3888888888888889|96
+Dark Cloud Cover|Industry|Leisure|31|0.3870967741935484|78
+Dark Cloud Cover|Entity|BCPC.US|13|0.38461538461538464|24
+Dark Cloud Cover|Entity|EOG.US|13|0.38461538461538464|26
+Dark Cloud Cover|Entity|APH.US|13|0.38461538461538464|34
+Dark Cloud Cover|Entity|FMX.US|13|0.38461538461538464|57
+Dark Cloud Cover|Entity|TXT.US|13|0.38461538461538464|57
+Dark Cloud Cover|Entity|AEP.US|13|0.38461538461538464|68
+Dark Cloud Cover|Industry|Utilities - Diversified|39|0.38461538461538464|77
+Dark Cloud Cover|Entity|FCNCA.US|13|0.38461538461538464|86
+Dark Cloud Cover|Entity|TYG.US|13|0.38461538461538464|89
+Dark Cloud Cover|Entity|CM.US|13|0.38461538461538464|101
+Dark Cloud Cover|Entity|IMCV.US|13|0.38461538461538464|103
+Dark Cloud Cover|Entity|TJX.US|13|0.38461538461538464|108
+Dark Cloud Cover|Entity|IWM.US|13|0.38461538461538464|120
+Dark Cloud Cover|Entity|WFC.US|13|0.38461538461538464|132
+Dark Cloud Cover|Entity|IVV.US|13|0.38461538461538464|196
+Dark Cloud Cover|Entity|PFM.US|13|0.38461538461538464|224
+Dark Cloud Cover|Industry|Insurance - Specialty|45|0.37777777777777777|82
+Dark Cloud Cover|Industry|Residential Construction|48|0.375|27
+Dark Cloud Cover|Entity|CSCO.US|16|0.375|37
+Dark Cloud Cover|Entity|AWR.US|16|0.375|48
+Dark Cloud Cover|Entity|MSA.US|16|0.375|48
+Dark Cloud Cover|Entity|HUBB.US|16|0.375|49
+Dark Cloud Cover|Entity|PTF.US|24|0.375|53
+Dark Cloud Cover|Entity|PGJ.US|16|0.375|54
+Dark Cloud Cover|Entity|GWW.US|16|0.375|72
+Dark Cloud Cover|Entity|XLF.US|16|0.375|127
+Dark Cloud Cover|Industry|Diagnostics & Research|81|0.37037037037037035|37
+Dark Cloud Cover|Industry|Financial Data & Stock Exchanges|27|0.37037037037037035|77
+Dark Cloud Cover|Entity|SCCO.US|19|0.3684210526315789|37
+Dark Cloud Cover|Entity|HEI.US|19|0.3684210526315789|41
+Dark Cloud Cover|Entity|VGT.US|19|0.3684210526315789|77
+Dark Cloud Cover|Entity|SSYS.US|11|0.36363636363636365|8
+Dark Cloud Cover|Entity|CPE.US|11|0.36363636363636365|13
+Dark Cloud Cover|Entity|LEN.US|11|0.36363636363636365|16
+Dark Cloud Cover|Entity|CNQ.US|11|0.36363636363636365|21
+Dark Cloud Cover|Entity|TEX.US|11|0.36363636363636365|22
+Dark Cloud Cover|Entity|SMP.US|11|0.36363636363636365|34
+Dark Cloud Cover|Entity|WEYS.US|11|0.36363636363636365|36
+Dark Cloud Cover|Entity|TYL.US|11|0.36363636363636365|45
+Dark Cloud Cover|Entity|GILD.US|11|0.36363636363636365|47
+Dark Cloud Cover|Entity|IWO.US|11|0.36363636363636365|48
+Dark Cloud Cover|Entity|TNL.US|11|0.36363636363636365|48
+Dark Cloud Cover|Entity|EA.US|11|0.36363636363636365|50
+Dark Cloud Cover|Entity|TR.US|11|0.36363636363636365|53
+Dark Cloud Cover|Entity|HELE.US|11|0.36363636363636365|57
+Dark Cloud Cover|Entity|SQM.US|11|0.36363636363636365|59
+Dark Cloud Cover|Entity|PCAR.US|11|0.36363636363636365|64
+Dark Cloud Cover|Entity|PEJ.US|11|0.36363636363636365|71
+Dark Cloud Cover|Entity|GPN.US|11|0.36363636363636365|72
+Dark Cloud Cover|Entity|JKF.US|11|0.36363636363636365|92
+Dark Cloud Cover|Entity|ILCV.US|11|0.36363636363636365|92
+Dark Cloud Cover|Entity|CB.US|11|0.36363636363636365|99
+Dark Cloud Cover|Entity|RGA.US|11|0.36363636363636365|102
+Dark Cloud Cover|Entity|KMB.US|11|0.36363636363636365|108
+Dark Cloud Cover|Entity|IJH.US|11|0.36363636363636365|124
+Dark Cloud Cover|Entity|IVOG.US|11|0.36363636363636365|137
+Dark Cloud Cover|Entity|VLY.US|11|0.36363636363636365|139
+Dark Cloud Cover|Entity|POWA.US|11|0.36363636363636365|175
+Dark Cloud Cover|Entity|AKR.US|11|0.36363636363636365|190
+Dark Cloud Cover|Entity|SCHM.US|11|0.36363636363636365|191
+Dark Cloud Cover|Entity|VV.US|11|0.36363636363636365|194
+Dark Cloud Cover|Entity|GAM.US|11|0.36363636363636365|310
+Dark Cloud Cover|Industry|Insurance - Life|25|0.36|31
+Dark Cloud Cover|Entity|VOT.US|25|0.36|123
+Dark Cloud Cover|Entity|X.US|14|0.35714285714285715|19
+Dark Cloud Cover|Entity|ARLP.US|14|0.35714285714285715|50
+Dark Cloud Cover|Entity|PNQI.US|14|0.35714285714285715|50
+Dark Cloud Cover|Entity|AIG.US|14|0.35714285714285715|52
+Dark Cloud Cover|Entity|KNCT.US|14|0.35714285714285715|54
+Dark Cloud Cover|Entity|VHT.US|14|0.35714285714285715|66
+Dark Cloud Cover|Entity|NUE.US|14|0.35714285714285715|67
+Dark Cloud Cover|Entity|YORW.US|14|0.35714285714285715|69
+Dark Cloud Cover|Entity|IHI.US|14|0.35714285714285715|79
+Dark Cloud Cover|Entity|SYY.US|14|0.35714285714285715|87
+Dark Cloud Cover|Entity|CVX.US|14|0.35714285714285715|121
+Dark Cloud Cover|Entity|VTWO.US|14|0.35714285714285715|142
+Dark Cloud Cover|Industry|Medical Care Facilities|79|0.35443037974683544|40
+Dark Cloud Cover|Industry|Waste Management|17|0.35294117647058826|27
+Dark Cloud Cover|Entity|ITOT.US|17|0.35294117647058826|223
+Dark Cloud Cover|Industry|REIT - Healthcare Facilities|23|0.34782608695652173|36
+Dark Cloud Cover|Industry|REIT - Specialty|49|0.3469387755102041|85
+Dark Cloud Cover|Industry|Insurance - Diversified|70|0.34285714285714286|158
+Dark Cloud Cover|Industry|Integrated Freight & Logistics|44|0.3409090909090909|53
+Dark Cloud Cover|Industry|Internet Content & Information|47|0.3404255319148936|22
+Dark Cloud Cover|Industry|Insurance - Property & Casualty|80|0.3375|84
+Dark Cloud Cover|Entity|SNBR.US|12|0.3333333333333333|8
+Dark Cloud Cover|Entity|PAAS.US|12|0.3333333333333333|11
+Dark Cloud Cover|Industry|Gambling|18|0.3333333333333333|14
+Dark Cloud Cover|Entity|TNA.US|12|0.3333333333333333|18
+Dark Cloud Cover|Entity|DINO.US|12|0.3333333333333333|23
+Dark Cloud Cover|Entity|TD.US|12|0.3333333333333333|32
+Dark Cloud Cover|Entity|MCK.US|15|0.3333333333333333|36
+Dark Cloud Cover|Entity|PTH.US|21|0.3333333333333333|39
+Dark Cloud Cover|Entity|AVY.US|12|0.3333333333333333|44
+Dark Cloud Cover|Entity|SPGI.US|12|0.3333333333333333|48
+Dark Cloud Cover|Entity|XLU.US|12|0.3333333333333333|49
+Dark Cloud Cover|Entity|ASML.US|12|0.3333333333333333|54
+Dark Cloud Cover|Entity|TEVA.US|12|0.3333333333333333|59
+Dark Cloud Cover|Entity|PAYX.US|12|0.3333333333333333|60
+Dark Cloud Cover|Entity|MDT.US|15|0.3333333333333333|69
+Dark Cloud Cover|Entity|NOC.US|15|0.3333333333333333|70
+Dark Cloud Cover|Entity|SLB.US|12|0.3333333333333333|78
+Dark Cloud Cover|Entity|SJW.US|15|0.3333333333333333|83
+Dark Cloud Cover|Entity|RHS.US|12|0.3333333333333333|84
+Dark Cloud Cover|Industry|Building Materials|18|0.3333333333333333|87
+Dark Cloud Cover|Entity|VONG.US|18|0.3333333333333333|91
+Dark Cloud Cover|Entity|CHD.US|12|0.3333333333333333|95
+Dark Cloud Cover|Entity|GGME.US|12|0.3333333333333333|95
+Dark Cloud Cover|Entity|RPG.US|18|0.3333333333333333|105
+Dark Cloud Cover|Entity|SLYV.US|12|0.3333333333333333|111
+Dark Cloud Cover|Entity|COKE.US|12|0.3333333333333333|114
+Dark Cloud Cover|Entity|JKE.US|12|0.3333333333333333|116
+Dark Cloud Cover|Entity|IYH.US|18|0.3333333333333333|121
+Dark Cloud Cover|Entity|IUSG.US|15|0.3333333333333333|124
+Dark Cloud Cover|Entity|EGP.US|18|0.3333333333333333|126
+Dark Cloud Cover|Entity|ITW.US|18|0.3333333333333333|140
+Dark Cloud Cover|Entity|PRF.US|15|0.3333333333333333|140
+Dark Cloud Cover|Entity|BRK-B.US|15|0.3333333333333333|144
+Dark Cloud Cover|Entity|XNTK.US|12|0.3333333333333333|146
+Dark Cloud Cover|Entity|QQQE.US|15|0.3333333333333333|170
+Dark Cloud Cover|Entity|XAR.US|15|0.3333333333333333|176
+Dark Cloud Cover|Entity|DEEP.US|12|0.3333333333333333|184
+Dark Cloud Cover|Entity|IYY.US|15|0.3333333333333333|185
+Dark Cloud Cover|Entity|PSCI.US|12|0.3333333333333333|185
+Dark Cloud Cover|Entity|ACGL.US|12|0.3333333333333333|218
+Dark Cloud Cover|Entity|IJJ.US|12|0.3333333333333333|218
+Dark Cloud Cover|Entity|JNJ.US|12|0.3333333333333333|221
+Dark Cloud Cover|Entity|BRK-A.US|18|0.3333333333333333|268
+Dark Cloud Cover|Entity|IEF.US|12|0.3333333333333333|664
+Dark Cloud Cover|Industry|Aerospace & Defense|142|0.33098591549295775|38
+Dark Cloud Cover|Entity|TMO.US|16|0.3125|71
+Dark Cloud Cover|Entity|PBE.US|16|0.3125|86
+Dark Cloud Cover|Entity|SPHQ.US|16|0.3125|106
+Dark Cloud Cover|Entity|XLK.US|16|0.3125|161
+Dark Cloud Cover|Industry|Healthcare Plans|55|0.3090909090909091|33
+Dark Cloud Cover|Industry|Industrial Distribution|55|0.3090909090909091|43
+Dark Cloud Cover|Entity|PBR-A.US|13|0.3076923076923077|36
+Dark Cloud Cover|Entity|L.US|13|0.3076923076923077|40
+Dark Cloud Cover|Entity|RF.US|13|0.3076923076923077|48
+Dark Cloud Cover|Entity|RS.US|13|0.3076923076923077|58
+Dark Cloud Cover|Entity|HAL.US|13|0.3076923076923077|59
+Dark Cloud Cover|Entity|COP.US|13|0.3076923076923077|74
+Dark Cloud Cover|Entity|ETN.US|13|0.3076923076923077|78
+Dark Cloud Cover|Entity|DX.US|13|0.3076923076923077|80
+Dark Cloud Cover|Entity|TDY.US|13|0.3076923076923077|100
+Dark Cloud Cover|Entity|RZG.US|13|0.3076923076923077|105
+Dark Cloud Cover|Entity|PDP.US|13|0.3076923076923077|112
+Dark Cloud Cover|Entity|ILCG.US|13|0.3076923076923077|116
+Dark Cloud Cover|Entity|IDU.US|13|0.3076923076923077|128
+Dark Cloud Cover|Entity|AZO.US|13|0.3076923076923077|135
+Dark Cloud Cover|Entity|PLD.US|13|0.3076923076923077|140
+Dark Cloud Cover|Entity|STZ.US|13|0.3076923076923077|153
+Dark Cloud Cover|Entity|IXN.US|13|0.3076923076923077|158
+Dark Cloud Cover|Entity|PHO.US|13|0.3076923076923077|188
+Dark Cloud Cover|Entity|BMVP.US|13|0.3076923076923077|204
+Dark Cloud Cover|Entity|IOO.US|13|0.3076923076923077|263
+Dark Cloud Cover|Entity|EZM.US|13|0.3076923076923077|321
+Dark Cloud Cover|Entity|VECO.US|10|0.3|8
+Dark Cloud Cover|Entity|CVS.US|10|0.3|8
+Dark Cloud Cover|Entity|VRNS.US|10|0.3|11
+Dark Cloud Cover|Entity|NBIX.US|10|0.3|12
+Dark Cloud Cover|Entity|LNN.US|10|0.3|17
+Dark Cloud Cover|Entity|ALGT.US|10|0.3|20
+Dark Cloud Cover|Entity|CMCO.US|10|0.3|20
+Dark Cloud Cover|Entity|NPO.US|10|0.3|21
+Dark Cloud Cover|Entity|BRKR.US|10|0.3|23
+Dark Cloud Cover|Entity|AA.US|10|0.3|26
+Dark Cloud Cover|Entity|STM.US|10|0.3|28
+Dark Cloud Cover|Entity|ESLT.US|10|0.3|31
+Dark Cloud Cover|Entity|WTS.US|10|0.3|31
+Dark Cloud Cover|Entity|SLX.US|10|0.3|33
+Dark Cloud Cover|Entity|INGR.US|10|0.3|34
+Dark Cloud Cover|Entity|EXPD.US|10|0.3|35
+Dark Cloud Cover|Entity|SPB.US|10|0.3|36
+Dark Cloud Cover|Entity|IVZ.US|10|0.3|40
+Dark Cloud Cover|Entity|AMWD.US|10|0.3|40
+Dark Cloud Cover|Entity|IAC.US|10|0.3|40
+Dark Cloud Cover|Entity|BAX.US|10|0.3|41
+Dark Cloud Cover|Entity|PLUS.US|10|0.3|51
+Dark Cloud Cover|Entity|XME.US|10|0.3|55
+Dark Cloud Cover|Entity|JACK.US|10|0.3|55
+Dark Cloud Cover|Entity|XLE.US|20|0.3|55
+Dark Cloud Cover|Entity|EXP.US|10|0.3|57
+Dark Cloud Cover|Entity|CMS.US|10|0.3|60
+Dark Cloud Cover|Entity|ROST.US|10|0.3|70
+Dark Cloud Cover|Industry|Utilities - Regulated Water|40|0.3|72
+Dark Cloud Cover|Entity|HMN.US|10|0.3|73
+Dark Cloud Cover|Entity|FVD.US|10|0.3|74
+Dark Cloud Cover|Entity|AON.US|10|0.3|74
+Dark Cloud Cover|Entity|VXF.US|10|0.3|89
+Dark Cloud Cover|Entity|NNN.US|10|0.3|96
+Dark Cloud Cover|Entity|VOOG.US|10|0.3|99
+Dark Cloud Cover|Entity|PNM.US|10|0.3|104
+Dark Cloud Cover|Entity|NS.US|10|0.3|118
+Dark Cloud Cover|Entity|PFI.US|10|0.3|125
+Dark Cloud Cover|Entity|ONB.US|10|0.3|127
+Dark Cloud Cover|Entity|FDMO.US|10|0.3|136
+Dark Cloud Cover|Entity|BMO.US|10|0.3|136
+Dark Cloud Cover|Entity|NWN.US|10|0.3|143
+Dark Cloud Cover|Entity|MSEX.US|10|0.3|156
+Dark Cloud Cover|Entity|RSP.US|10|0.3|175
+Dark Cloud Cover|Entity|IWD.US|10|0.3|182
+Dark Cloud Cover|Entity|DHS.US|10|0.3|214
+Dark Cloud Cover|Entity|TOK.US|10|0.3|256
+Dark Cloud Cover|Industry|REIT - Industrial|64|0.296875|94
+Dark Cloud Cover|Industry|Conglomerates|27|0.2962962962962963|73
+Dark Cloud Cover|Industry|Staffing & Employment Services|27|0.2962962962962963|82
+Dark Cloud Cover|Entity|HUM.US|17|0.29411764705882354|29
+Dark Cloud Cover|Entity|XSD.US|17|0.29411764705882354|50
+Dark Cloud Cover|Entity|RXL.US|17|0.29411764705882354|50
+Dark Cloud Cover|Entity|MU.US|21|0.2857142857142857|16
+Dark Cloud Cover|Industry|Semiconductor Equipment & Materials|42|0.2857142857142857|41
+Dark Cloud Cover|Entity|BKNG.US|14|0.2857142857142857|57
+Dark Cloud Cover|Entity|MAA.US|14|0.2857142857142857|67
+Dark Cloud Cover|Industry|Real Estate Services|57|0.2807017543859649|28
+Dark Cloud Cover|Entity|IWP.US|18|0.2777777777777778|108
+Dark Cloud Cover|Entity|IYC.US|18|0.2777777777777778|127
+Dark Cloud Cover|Entity|ISCG.US|18|0.2777777777777778|144
+Dark Cloud Cover|Entity|JKK.US|18|0.2777777777777778|144
+Dark Cloud Cover|Entity|PJP.US|18|0.2777777777777778|183
+Dark Cloud Cover|Entity|RRC.US|11|0.2727272727272727|11
+Dark Cloud Cover|Entity|EW.US|11|0.2727272727272727|18
+Dark Cloud Cover|Entity|CCI.US|11|0.2727272727272727|20
+Dark Cloud Cover|Entity|NRP.US|11|0.2727272727272727|24
+Dark Cloud Cover|Entity|DVN.US|11|0.2727272727272727|26
+Dark Cloud Cover|Entity|URBN.US|11|0.2727272727272727|29
+Dark Cloud Cover|Entity|TRP.US|11|0.2727272727272727|30
+Dark Cloud Cover|Entity|FCFS.US|11|0.2727272727272727|32
+Dark Cloud Cover|Entity|WIRE.US|11|0.2727272727272727|40
+Dark Cloud Cover|Entity|AES.US|11|0.2727272727272727|41
+Dark Cloud Cover|Entity|MCO.US|11|0.2727272727272727|57
+Dark Cloud Cover|Entity|RTX.US|11|0.2727272727272727|61
+Dark Cloud Cover|Entity|ADM.US|11|0.2727272727272727|64
+Dark Cloud Cover|Entity|MATW.US|11|0.2727272727272727|68
+Dark Cloud Cover|Entity|UNF.US|11|0.2727272727272727|75
+Dark Cloud Cover|Entity|EQT.US|11|0.2727272727272727|77
+Dark Cloud Cover|Entity|PWB.US|11|0.2727272727272727|79
+Dark Cloud Cover|Entity|JJSF.US|11|0.2727272727272727|80
+Dark Cloud Cover|Entity|XLP.US|11|0.2727272727272727|81
+Dark Cloud Cover|Entity|MAC.US|11|0.2727272727272727|86
+Dark Cloud Cover|Entity|JBL.US|11|0.2727272727272727|88
+Dark Cloud Cover|Entity|REZ.US|11|0.2727272727272727|90
+Dark Cloud Cover|Entity|VTWG.US|11|0.2727272727272727|133
+Dark Cloud Cover|Entity|CWT.US|11|0.2727272727272727|169
+Dark Cloud Cover|Entity|SCHX.US|11|0.2727272727272727|210
+Dark Cloud Cover|Entity|IWB.US|11|0.2727272727272727|234
+Dark Cloud Cover|Entity|VTHR.US|11|0.2727272727272727|278
+Dark Cloud Cover|Entity|AOA.US|11|0.2727272727272727|336
+Dark Cloud Cover|Industry|Utilities - Regulated Gas|41|0.2682926829268293|78
+Dark Cloud Cover|Industry|Solar|15|0.26666666666666666|18
+Dark Cloud Cover|Industry|Aluminum|15|0.26666666666666666|21
+Dark Cloud Cover|Entity|WST.US|15|0.26666666666666666|32
+Dark Cloud Cover|Entity|MGC.US|15|0.26666666666666666|150
+Dark Cloud Cover|Entity|JKHY.US|19|0.2631578947368421|37
+Dark Cloud Cover|Entity|VDC.US|19|0.2631578947368421|113
+Dark Cloud Cover|Entity|VTV.US|19|0.2631578947368421|200
+Dark Cloud Cover|Entity|MGPI.US|12|0.25|3
+Dark Cloud Cover|Entity|AMED.US|12|0.25|13
+Dark Cloud Cover|Entity|DXPE.US|12|0.25|13
+Dark Cloud Cover|Entity|FXN.US|12|0.25|34
+Dark Cloud Cover|Entity|ABT.US|16|0.25|38
+Dark Cloud Cover|Entity|FTEC.US|12|0.25|39
+Dark Cloud Cover|Entity|UVV.US|12|0.25|41
+Dark Cloud Cover|Entity|QCOM.US|12|0.25|42
+Dark Cloud Cover|Entity|WINA.US|12|0.25|57
+Dark Cloud Cover|Entity|AMAT.US|12|0.25|59
+Dark Cloud Cover|Entity|INTU.US|12|0.25|74
+Dark Cloud Cover|Entity|ANSS.US|12|0.25|78
+Dark Cloud Cover|Entity|ASH.US|16|0.25|81
+Dark Cloud Cover|Entity|CI.US|12|0.25|83
+Dark Cloud Cover|Entity|AVA.US|12|0.25|84
+Dark Cloud Cover|Entity|XEL.US|12|0.25|88
+Dark Cloud Cover|Entity|RSPS.US|12|0.25|92
+Dark Cloud Cover|Entity|VOX.US|12|0.25|108
+Dark Cloud Cover|Entity|WTM.US|12|0.25|109
+Dark Cloud Cover|Entity|ATO.US|16|0.25|110
+Dark Cloud Cover|Entity|HON.US|12|0.25|110
+Dark Cloud Cover|Entity|MDY.US|12|0.25|113
+Dark Cloud Cover|Entity|IHF.US|12|0.25|115
+Dark Cloud Cover|Entity|IYW.US|16|0.25|135
+Dark Cloud Cover|Entity|QQEW.US|12|0.25|139
+Dark Cloud Cover|Entity|MRK.US|12|0.25|142
+Dark Cloud Cover|Entity|SPTM.US|12|0.25|171
+Dark Cloud Cover|Entity|SYK.US|12|0.25|195
+Dark Cloud Cover|Entity|EQL.US|12|0.25|236
+Dark Cloud Cover|Entity|PPA.US|21|0.23809523809523808|118
+Dark Cloud Cover|Entity|IJK.US|21|0.23809523809523808|153
+Dark Cloud Cover|Entity|CBRE.US|17|0.23529411764705882|46
+Dark Cloud Cover|Entity|IGM.US|17|0.23529411764705882|52
+Dark Cloud Cover|Entity|ORCL.US|13|0.23076923076923078|23
+Dark Cloud Cover|Entity|PTC.US|13|0.23076923076923078|28
+Dark Cloud Cover|Entity|NSC.US|13|0.23076923076923078|34
+Dark Cloud Cover|Entity|AAP.US|13|0.23076923076923078|34
+Dark Cloud Cover|Entity|OZK.US|13|0.23076923076923078|37
+Dark Cloud Cover|Entity|CNP.US|13|0.23076923076923078|39
+Dark Cloud Cover|Industry|Food Distribution|13|0.23076923076923078|41
+Dark Cloud Cover|Entity|VPU.US|13|0.23076923076923078|68
+Dark Cloud Cover|Entity|CINF.US|13|0.23076923076923078|71
+Dark Cloud Cover|Entity|LOW.US|13|0.23076923076923078|81
+Dark Cloud Cover|Entity|SUSA.US|13|0.23076923076923078|133
+Dark Cloud Cover|Entity|IMCG.US|13|0.23076923076923078|153
+Dark Cloud Cover|Entity|IYK.US|13|0.23076923076923078|209
+Dark Cloud Cover|Entity|QCLN.US|18|0.2222222222222222|42
+Dark Cloud Cover|Entity|SPYG.US|18|0.2222222222222222|159
+Dark Cloud Cover|Entity|DIOD.US|14|0.21428571428571427|13
+Dark Cloud Cover|Entity|DHR.US|14|0.21428571428571427|14
+Dark Cloud Cover|Entity|PSR.US|14|0.21428571428571427|59
+Dark Cloud Cover|Entity|QQQ.US|14|0.21428571428571427|60
+Dark Cloud Cover|Entity|ROP.US|14|0.21428571428571427|88
+Dark Cloud Cover|Entity|BBH.US|14|0.21428571428571427|93
+Dark Cloud Cover|Entity|IJS.US|14|0.21428571428571427|173
+Dark Cloud Cover|Entity|ILCB.US|14|0.21428571428571427|207
+Dark Cloud Cover|Entity|JKD.US|14|0.21428571428571427|207
+Dark Cloud Cover|Entity|HLIO.US|10|0.2|10
+Dark Cloud Cover|Entity|MSFT.US|15|0.2|18
+Dark Cloud Cover|Entity|UGI.US|10|0.2|26
+Dark Cloud Cover|Entity|PRI.US|10|0.2|26
+Dark Cloud Cover|Entity|SUI.US|10|0.2|26
+Dark Cloud Cover|Entity|LLY.US|10|0.2|30
+Dark Cloud Cover|Entity|VDE.US|15|0.2|36
+Dark Cloud Cover|Entity|DEUS.US|10|0.2|48
+Dark Cloud Cover|Entity|CFA.US|10|0.2|50
+Dark Cloud Cover|Entity|ELS.US|10|0.2|53
+Dark Cloud Cover|Entity|PSCH.US|10|0.2|54
+Dark Cloud Cover|Entity|MKL.US|10|0.2|65
+Dark Cloud Cover|Entity|SPGP.US|15|0.2|69
+Dark Cloud Cover|Entity|XLG.US|15|0.2|71
+Dark Cloud Cover|Entity|GRMN.US|10|0.2|72
+Dark Cloud Cover|Entity|IT.US|10|0.2|72
+Dark Cloud Cover|Entity|XLI.US|10|0.2|74
+Dark Cloud Cover|Entity|MMM.US|10|0.2|75
+Dark Cloud Cover|Entity|ONEQ.US|10|0.2|80
+Dark Cloud Cover|Entity|UNP.US|10|0.2|80
+Dark Cloud Cover|Entity|PG.US|10|0.2|104
+Dark Cloud Cover|Entity|PPH.US|10|0.2|104
+Dark Cloud Cover|Entity|IAI.US|10|0.2|120
+Dark Cloud Cover|Entity|RWJ.US|10|0.2|130
+Dark Cloud Cover|Entity|RYH.US|10|0.2|136
+Dark Cloud Cover|Entity|ADP.US|15|0.2|158
+Dark Cloud Cover|Entity|SLYG.US|20|0.2|165
+Dark Cloud Cover|Entity|NEE.US|10|0.2|169
+Dark Cloud Cover|Entity|OEF.US|15|0.2|169
+Dark Cloud Cover|Entity|SPY.US|15|0.2|197
+Dark Cloud Cover|Entity|SPLG.US|10|0.2|216
+Dark Cloud Cover|Entity|PBJ.US|10|0.2|219
+Dark Cloud Cover|Entity|RFV.US|10|0.2|259
+Dark Cloud Cover|Entity|IHE.US|15|0.2|399
+Dark Cloud Cover|Entity|TECL.US|16|0.1875|14
+Dark Cloud Cover|Entity|TFX.US|16|0.1875|56
+Dark Cloud Cover|Entity|IPAR.US|11|0.18181818181818182|19
+Dark Cloud Cover|Entity|EL.US|11|0.18181818181818182|24
+Dark Cloud Cover|Entity|BPT.US|11|0.18181818181818182|24
+Dark Cloud Cover|Industry|Confectioners|11|0.18181818181818182|34
+Dark Cloud Cover|Entity|HSY.US|11|0.18181818181818182|34
+Dark Cloud Cover|Entity|DIS.US|11|0.18181818181818182|34
+Dark Cloud Cover|Entity|FXH.US|11|0.18181818181818182|113
+Dark Cloud Cover|Entity|ACN.US|11|0.18181818181818182|114
+Dark Cloud Cover|Entity|VIOG.US|11|0.18181818181818182|186
+Dark Cloud Cover|Entity|SOXX.US|17|0.17647058823529413|34
+Dark Cloud Cover|Entity|IYE.US|17|0.17647058823529413|36
+Dark Cloud Cover|Entity|NEM.US|12|0.16666666666666666|8
+Dark Cloud Cover|Entity|MA.US|12|0.16666666666666666|30
+Dark Cloud Cover|Entity|DIA.US|12|0.16666666666666666|39
+Dark Cloud Cover|Industry|Apparel Manufacturing|12|0.16666666666666666|46
+Dark Cloud Cover|Entity|ODFL.US|12|0.16666666666666666|48
+Dark Cloud Cover|Industry|Medical Distribution|18|0.16666666666666666|51
+Dark Cloud Cover|Entity|EWD.US|12|0.16666666666666666|56
+Dark Cloud Cover|Entity|PSA.US|12|0.16666666666666666|66
+Dark Cloud Cover|Entity|ECL.US|12|0.16666666666666666|84
+Dark Cloud Cover|Entity|XRT.US|12|0.16666666666666666|98
+Dark Cloud Cover|Entity|IWR.US|12|0.16666666666666666|220
+Dark Cloud Cover|Entity|IWL.US|13|0.15384615384615385|14
+Dark Cloud Cover|Entity|CSGP.US|13|0.15384615384615385|16
+Dark Cloud Cover|Entity|VTI.US|13|0.15384615384615385|216
+Dark Cloud Cover|Entity|VO.US|13|0.15384615384615385|236
+Dark Cloud Cover|Entity|PAA.US|13|0.15384615384615385|250
+Dark Cloud Cover|Entity|FBT.US|22|0.13636363636363635|54
+Dark Cloud Cover|Entity|INTC.US|15|0.13333333333333333|123
+Dark Cloud Cover|Entity|SKYY.US|16|0.125|26
+Dark Cloud Cover|Entity|FI.US|16|0.125|135
+Dark Cloud Cover|Entity|XLY.US|17|0.11764705882352941|33
+Dark Cloud Cover|Entity|RGEN.US|17|0.11764705882352941|49
+Dark Cloud Cover|Entity|VRTX.US|10|0.1|6
+Dark Cloud Cover|Entity|SHW.US|10|0.1|32
+Dark Cloud Cover|Entity|QQXT.US|10|0.1|46
+Dark Cloud Cover|Entity|IBUY.US|10|0.1|69
+Dark Cloud Cover|Entity|BMI.US|10|0.1|77
+Dark Cloud Cover|Entity|LIN.US|10|0.1|82
+Dark Cloud Cover|Entity|AOR.US|10|0.1|359
+Dark Cloud Cover|Entity|ARKW.US|11|0.09090909090909091|2
+Dark Cloud Cover|Entity|EXR.US|11|0.09090909090909091|28
+Dark Cloud Cover|Entity|KMT.US|11|0.09090909090909091|48
+Dark Cloud Cover|Entity|PWV.US|11|0.09090909090909091|194
+Dark Cloud Cover|Entity|SPLV.US|11|0.09090909090909091|299
+Dark Cloud Cover|Entity|VCR.US|12|0.08333333333333333|16
+Dark Cloud Cover|Entity|NFG.US|12|0.08333333333333333|20
+Dark Cloud Cover|Entity|EWP.US|12|0.08333333333333333|21
+Dark Cloud Cover|Entity|VLO.US|12|0.08333333333333333|82
+Dark Cloud Cover|Entity|PNW.US|12|0.08333333333333333|115
+Dark Cloud Cover|Entity|PKW.US|12|0.08333333333333333|195
+Dark Cloud Cover|Entity|CPK.US|13|0.07692307692307693|146
+Dark Cloud Cover|Entity|IVW.US|13|0.07692307692307693|195
+Dark Cloud Cover|Entity|FXD.US|14|0.07142857142857142|126
+Dark Cloud Cover|Entity|IMCB.US|10|0|0
+Dark Cloud Cover|Entity|JKG.US|10|0|0
+Dark Cloud Cover|Entity|JPM.US|10|0|0
+Dark Cloud Cover|Entity|RYT.US|12|0|0
+Dark Cloud Cover|Entity|GD.US|12|0|0
+Dark Cloud Cover|Entity|PRA.US|12|0|0
+Dark Cloud Cover|Entity|RTH.US|15|0|0
+Dark Cloud Cover|Entity|EWN.US|10|0|0
