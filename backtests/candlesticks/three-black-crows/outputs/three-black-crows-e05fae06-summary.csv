@@ -1,0 +1,699 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Three Black Crows|Entity|DY.US|10|0.9|17
+Three Black Crows|Entity|ECPG.US|10|0.9|39
+Three Black Crows|Entity|WHR.US|13|0.8461538461538461|48
+Three Black Crows|Entity|WLY.US|13|0.8461538461538461|65
+Three Black Crows|Entity|SU.US|10|0.8|48
+Three Black Crows|Entity|BHLB.US|10|0.8|71
+Three Black Crows|Industry|Mortgage Finance|18|0.7777777777777778|73
+Three Black Crows|Industry|Auto Manufacturers|13|0.7692307692307693|56
+Three Black Crows|Entity|BFS.US|13|0.7692307692307693|88
+Three Black Crows|Entity|CCL.US|12|0.75|61
+Three Black Crows|Entity|PWR.US|12|0.75|61
+Three Black Crows|Entity|PNW.US|12|0.75|177
+Three Black Crows|Entity|SEEL.US|11|0.7272727272727273|7
+Three Black Crows|Entity|TRS.US|11|0.7272727272727273|32
+Three Black Crows|Entity|XRX.US|11|0.7272727272727273|83
+Three Black Crows|Entity|BFH.US|11|0.7272727272727273|99
+Three Black Crows|Entity|BSX.US|11|0.7272727272727273|101
+Three Black Crows|Entity|LAMR.US|11|0.7272727272727273|103
+Three Black Crows|Entity|MHO.US|14|0.7142857142857143|40
+Three Black Crows|Entity|DXC.US|14|0.7142857142857143|56
+Three Black Crows|Entity|OLED.US|10|0.7|9
+Three Black Crows|Entity|PAC.US|10|0.7|20
+Three Black Crows|Entity|ARLP.US|10|0.7|25
+Three Black Crows|Entity|NBIX.US|10|0.7|27
+Three Black Crows|Entity|NUE.US|10|0.7|38
+Three Black Crows|Entity|GRC.US|10|0.7|45
+Three Black Crows|Entity|A.US|10|0.7|48
+Three Black Crows|Entity|NDSN.US|10|0.7|50
+Three Black Crows|Entity|DRI.US|10|0.7|65
+Three Black Crows|Entity|MSEX.US|10|0.7|67
+Three Black Crows|Entity|FHI.US|10|0.7|71
+Three Black Crows|Entity|COF.US|10|0.7|72
+Three Black Crows|Entity|RMBS.US|10|0.7|72
+Three Black Crows|Entity|XLP.US|10|0.7|91
+Three Black Crows|Entity|SEE.US|10|0.7|92
+Three Black Crows|Entity|SWKS.US|13|0.6923076923076923|22
+Three Black Crows|Entity|FR.US|13|0.6923076923076923|72
+Three Black Crows|Entity|UVV.US|19|0.6842105263157895|45
+Three Black Crows|Entity|VIAV.US|15|0.6666666666666666|18
+Three Black Crows|Entity|IRM.US|15|0.6666666666666666|21
+Three Black Crows|Industry|Thermal Coal|15|0.6666666666666666|23
+Three Black Crows|Entity|SRCE.US|12|0.6666666666666666|25
+Three Black Crows|Entity|DLTR.US|12|0.6666666666666666|29
+Three Black Crows|Entity|ILMN.US|15|0.6666666666666666|32
+Three Black Crows|Entity|TYG.US|12|0.6666666666666666|46
+Three Black Crows|Entity|WAT.US|15|0.6666666666666666|63
+Three Black Crows|Entity|LNN.US|12|0.6666666666666666|84
+Three Black Crows|Entity|LPTH.US|11|0.6363636363636364|5
+Three Black Crows|Entity|YPF.US|11|0.6363636363636364|16
+Three Black Crows|Entity|EHTH.US|11|0.6363636363636364|24
+Three Black Crows|Entity|CLMT.US|11|0.6363636363636364|26
+Three Black Crows|Entity|REGN.US|11|0.6363636363636364|29
+Three Black Crows|Entity|SM.US|11|0.6363636363636364|30
+Three Black Crows|Entity|SMTC.US|11|0.6363636363636364|32
+Three Black Crows|Entity|AXP.US|11|0.6363636363636364|39
+Three Black Crows|Entity|FUL.US|11|0.6363636363636364|41
+Three Black Crows|Entity|DCI.US|11|0.6363636363636364|46
+Three Black Crows|Entity|MMS.US|11|0.6363636363636364|48
+Three Black Crows|Entity|CDP.US|11|0.6363636363636364|79
+Three Black Crows|Entity|CMA.US|11|0.6363636363636364|81
+Three Black Crows|Entity|AMJ.US|11|0.6363636363636364|84
+Three Black Crows|Entity|ZION.US|11|0.6363636363636364|91
+Three Black Crows|Entity|ISRG.US|19|0.631578947368421|54
+Three Black Crows|Industry|REIT - Diversified|19|0.631578947368421|132
+Three Black Crows|Industry|REIT - Retail|62|0.6290322580645161|76
+Three Black Crows|Entity|BHC.US|13|0.6153846153846154|23
+Three Black Crows|Entity|TTEK.US|13|0.6153846153846154|25
+Three Black Crows|Entity|CRMT.US|13|0.6153846153846154|51
+Three Black Crows|Entity|EG.US|13|0.6153846153846154|124
+Three Black Crows|Industry|Insurance - Reinsurance|13|0.6153846153846154|124
+Three Black Crows|Industry|Oil & Gas Refining & Marketing|33|0.6060606060606061|51
+Three Black Crows|Industry|REIT - Office|68|0.6029411764705882|89
+Three Black Crows|Entity|NTWK.US|10|0.6|14
+Three Black Crows|Entity|KBH.US|10|0.6|14
+Three Black Crows|Entity|PEGA.US|10|0.6|24
+Three Black Crows|Entity|AIR.US|10|0.6|24
+Three Black Crows|Industry|Computer Hardware|10|0.6|30
+Three Black Crows|Entity|DAL.US|10|0.6|32
+Three Black Crows|Entity|WAFD.US|15|0.6|34
+Three Black Crows|Entity|BRKR.US|10|0.6|34
+Three Black Crows|Entity|DXPE.US|10|0.6|36
+Three Black Crows|Entity|KSS.US|10|0.6|39
+Three Black Crows|Entity|WCC.US|10|0.6|44
+Three Black Crows|Entity|ABCB.US|10|0.6|46
+Three Black Crows|Entity|COO.US|15|0.6|51
+Three Black Crows|Industry|REIT - Hotel & Motel|20|0.6|56
+Three Black Crows|Entity|SPXC.US|10|0.6|60
+Three Black Crows|Entity|PAYX.US|10|0.6|64
+Three Black Crows|Entity|AVA.US|10|0.6|70
+Three Black Crows|Entity|CINF.US|10|0.6|82
+Three Black Crows|Entity|VNO.US|10|0.6|84
+Three Black Crows|Industry|REIT - Mortgage|40|0.6|94
+Three Black Crows|Entity|MRK.US|10|0.6|99
+Three Black Crows|Entity|STZ.US|10|0.6|156
+Three Black Crows|Entity|CBSH.US|15|0.6|196
+Three Black Crows|Entity|BLW.US|10|0.6|426
+Three Black Crows|Industry|Food Distribution|17|0.5882352941176471|35
+Three Black Crows|Entity|EME.US|17|0.5882352941176471|48
+Three Black Crows|Entity|IMNN.US|12|0.5833333333333334|3
+Three Black Crows|Entity|PAM.US|12|0.5833333333333334|17
+Three Black Crows|Entity|QDEL.US|12|0.5833333333333334|18
+Three Black Crows|Entity|SAIA.US|12|0.5833333333333334|20
+Three Black Crows|Entity|RBA.US|12|0.5833333333333334|35
+Three Black Crows|Entity|ADI.US|12|0.5833333333333334|54
+Three Black Crows|Entity|IEP.US|12|0.5833333333333334|82
+Three Black Crows|Entity|RGA.US|12|0.5833333333333334|99
+Three Black Crows|Entity|L.US|12|0.5833333333333334|100
+Three Black Crows|Entity|SLGN.US|12|0.5833333333333334|122
+Three Black Crows|Entity|ISCV.US|12|0.5833333333333334|129
+Three Black Crows|Entity|IWM.US|12|0.5833333333333334|131
+Three Black Crows|Entity|MDC.US|14|0.5714285714285714|18
+Three Black Crows|Entity|EEFT.US|14|0.5714285714285714|24
+Three Black Crows|Entity|EPAC.US|14|0.5714285714285714|33
+Three Black Crows|Entity|AEP.US|14|0.5714285714285714|88
+Three Black Crows|Entity|FIW.US|14|0.5714285714285714|240
+Three Black Crows|Entity|MCHP.US|16|0.5625|26
+Three Black Crows|Industry|Business Equipment & Supplies|16|0.5625|41
+Three Black Crows|Entity|HNI.US|16|0.5625|41
+Three Black Crows|Entity|HEI.US|18|0.5555555555555556|58
+Three Black Crows|Entity|CYH.US|18|0.5555555555555556|92
+Three Black Crows|Industry|Beverages - Non-Alcoholic|29|0.5517241379310345|62
+Three Black Crows|Entity|FCEL.US|11|0.5454545454545454|8
+Three Black Crows|Entity|MTW.US|11|0.5454545454545454|11
+Three Black Crows|Entity|FSLR.US|11|0.5454545454545454|21
+Three Black Crows|Entity|NWPX.US|11|0.5454545454545454|25
+Three Black Crows|Entity|OZK.US|11|0.5454545454545454|28
+Three Black Crows|Entity|RYN.US|11|0.5454545454545454|29
+Three Black Crows|Entity|BWA.US|11|0.5454545454545454|30
+Three Black Crows|Entity|AMZN.US|11|0.5454545454545454|30
+Three Black Crows|Entity|WTS.US|11|0.5454545454545454|31
+Three Black Crows|Entity|BIDU.US|11|0.5454545454545454|41
+Three Black Crows|Entity|UHS.US|11|0.5454545454545454|41
+Three Black Crows|Entity|RNST.US|11|0.5454545454545454|42
+Three Black Crows|Entity|FRT.US|11|0.5454545454545454|45
+Three Black Crows|Entity|MIDD.US|11|0.5454545454545454|48
+Three Black Crows|Entity|REG.US|11|0.5454545454545454|98
+Three Black Crows|Industry|Auto Parts|59|0.5423728813559322|51
+Three Black Crows|Entity|RGLD.US|13|0.5384615384615384|21
+Three Black Crows|Entity|TEX.US|13|0.5384615384615384|29
+Three Black Crows|Entity|STC.US|13|0.5384615384615384|33
+Three Black Crows|Entity|IMAX.US|13|0.5384615384615384|47
+Three Black Crows|Entity|CW.US|13|0.5384615384615384|48
+Three Black Crows|Entity|CHKP.US|13|0.5384615384615384|51
+Three Black Crows|Entity|PKB.US|13|0.5384615384615384|76
+Three Black Crows|Entity|MCD.US|13|0.5384615384615384|85
+Three Black Crows|Entity|IJJ.US|13|0.5384615384615384|88
+Three Black Crows|Entity|ZD.US|15|0.5333333333333333|44
+Three Black Crows|Industry|Engineering & Construction|89|0.5280898876404494|31
+Three Black Crows|Industry|Recreational Vehicles|19|0.5263157894736842|64
+Three Black Crows|Industry|Utilities - Diversified|40|0.525|71
+Three Black Crows|Industry|Banks - Diversified|42|0.5238095238095238|81
+Three Black Crows|Industry|Solar|23|0.5217391304347826|15
+Three Black Crows|Industry|Drug Manufacturers - Specialty & Generic|94|0.5212765957446809|15
+Three Black Crows|Industry|Drug Manufacturers - General|73|0.5205479452054794|41
+Three Black Crows|Industry|Electronic Gaming & Multimedia|25|0.52|17
+Three Black Crows|Industry|Chemicals|27|0.5185185185185185|34
+Three Black Crows|Industry|Restaurants|86|0.5116279069767442|63
+Three Black Crows|Industry|Marine Shipping|24|0.5|8
+Three Black Crows|Entity|WRLD.US|12|0.5|10
+Three Black Crows|Entity|MANH.US|10|0.5|17
+Three Black Crows|Industry|Oil & Gas Drilling|10|0.5|17
+Three Black Crows|Industry|Internet Retail|32|0.5|22
+Three Black Crows|Entity|ATGE.US|12|0.5|24
+Three Black Crows|Entity|CACI.US|12|0.5|24
+Three Black Crows|Entity|MS.US|10|0.5|25
+Three Black Crows|Entity|ATRC.US|12|0.5|26
+Three Black Crows|Entity|FWRD.US|12|0.5|26
+Three Black Crows|Entity|DORM.US|12|0.5|26
+Three Black Crows|Entity|NVR.US|12|0.5|27
+Three Black Crows|Entity|MTH.US|10|0.5|29
+Three Black Crows|Entity|DAR.US|10|0.5|30
+Three Black Crows|Entity|FL.US|12|0.5|30
+Three Black Crows|Entity|MAS.US|12|0.5|31
+Three Black Crows|Industry|Metal Fabrication|26|0.5|32
+Three Black Crows|Entity|TBRG.US|10|0.5|32
+Three Black Crows|Entity|PZZA.US|14|0.5|34
+Three Black Crows|Entity|TARO.US|12|0.5|34
+Three Black Crows|Industry|Aluminum|12|0.5|34
+Three Black Crows|Entity|IART.US|14|0.5|36
+Three Black Crows|Entity|LRCX.US|12|0.5|37
+Three Black Crows|Entity|MD.US|10|0.5|38
+Three Black Crows|Entity|TGT.US|12|0.5|38
+Three Black Crows|Entity|MLM.US|10|0.5|40
+Three Black Crows|Entity|PRAA.US|14|0.5|41
+Three Black Crows|Entity|HRB.US|20|0.5|44
+Three Black Crows|Entity|ELV.US|10|0.5|45
+Three Black Crows|Entity|GILD.US|20|0.5|45
+Three Black Crows|Entity|QCOM.US|14|0.5|48
+Three Black Crows|Industry|Oil & Gas Midstream|52|0.5|49
+Three Black Crows|Entity|LKQ.US|12|0.5|51
+Three Black Crows|Entity|PBE.US|12|0.5|53
+Three Black Crows|Entity|BEN.US|10|0.5|53
+Three Black Crows|Entity|PFE.US|10|0.5|54
+Three Black Crows|Entity|FCN.US|12|0.5|56
+Three Black Crows|Entity|LFUS.US|10|0.5|58
+Three Black Crows|Entity|PHM.US|14|0.5|59
+Three Black Crows|Entity|CPA.US|10|0.5|61
+Three Black Crows|Entity|GEL.US|10|0.5|61
+Three Black Crows|Entity|PRA.US|10|0.5|62
+Three Black Crows|Entity|PXE.US|10|0.5|64
+Three Black Crows|Entity|PPL.US|12|0.5|68
+Three Black Crows|Entity|IFF.US|10|0.5|70
+Three Black Crows|Entity|HES.US|10|0.5|70
+Three Black Crows|Entity|SMH.US|10|0.5|83
+Three Black Crows|Entity|ALE.US|10|0.5|87
+Three Black Crows|Entity|CPT.US|10|0.5|92
+Three Black Crows|Entity|ORLY.US|10|0.5|96
+Three Black Crows|Entity|IWO.US|10|0.5|104
+Three Black Crows|Entity|IJT.US|14|0.5|107
+Three Black Crows|Entity|MMC.US|12|0.5|109
+Three Black Crows|Entity|QABA.US|10|0.5|121
+Three Black Crows|Entity|IYM.US|10|0.5|124
+Three Black Crows|Entity|VNQ.US|14|0.5|125
+Three Black Crows|Entity|JKI.US|10|0.5|143
+Three Black Crows|Entity|WFC.US|12|0.5|147
+Three Black Crows|Entity|FXZ.US|10|0.5|154
+Three Black Crows|Industry|Biotechnology|321|0.4984423676012461|12
+Three Black Crows|Industry|Auto & Truck Dealerships|49|0.4897959183673469|38
+Three Black Crows|Industry|Credit Services|94|0.48936170212765956|50
+Three Black Crows|Industry|Travel Services|37|0.4864864864864865|42
+Three Black Crows|Industry|Leisure|37|0.4864864864864865|47
+Three Black Crows|Industry|Utilities - Regulated Water|35|0.4857142857142857|85
+Three Black Crows|Industry|Industrial Distribution|60|0.48333333333333334|60
+Three Black Crows|Industry|Electrical Equipment & Parts|48|0.4791666666666667|27
+Three Black Crows|Industry|Trucking|21|0.47619047619047616|23
+Three Black Crows|Industry|Medical Devices|163|0.4723926380368098|33
+Three Black Crows|Entity|ENSG.US|17|0.47058823529411764|71
+Three Black Crows|Industry|Asset Management|250|0.468|123
+Three Black Crows|Entity|BIP.US|15|0.4666666666666667|35
+Three Black Crows|Entity|LANC.US|15|0.4666666666666667|70
+Three Black Crows|Entity|MMM.US|15|0.4666666666666667|117
+Three Black Crows|Sector|Healthcare|1082|0.46395563770794823|30
+Three Black Crows|Industry|Building Products & Equipment|41|0.4634146341463415|36
+Three Black Crows|Industry|Packaging & Containers|41|0.4634146341463415|53
+Three Black Crows|Entity|WIRE.US|13|0.46153846153846156|21
+Three Black Crows|Entity|ARCB.US|13|0.46153846153846156|22
+Three Black Crows|Entity|EA.US|13|0.46153846153846156|28
+Three Black Crows|Entity|SLB.US|13|0.46153846153846156|28
+Three Black Crows|Industry|Medical Instruments & Supplies|117|0.46153846153846156|44
+Three Black Crows|Entity|CSGP.US|13|0.46153846153846156|59
+Three Black Crows|Sector|Energy|333|0.4594594594594595|34
+Three Black Crows|Industry|Advertising Agencies|24|0.4583333333333333|36
+Three Black Crows|Sector|Real Estate|490|0.45714285714285713|79
+Three Black Crows|Industry|Banks - Regional|523|0.4569789674952199|73
+Three Black Crows|Entity|DHI.US|11|0.45454545454545453|17
+Three Black Crows|Entity|HAL.US|11|0.45454545454545453|17
+Three Black Crows|Entity|MCRI.US|11|0.45454545454545453|18
+Three Black Crows|Industry|Semiconductor Equipment & Materials|33|0.45454545454545453|22
+Three Black Crows|Entity|AMG.US|11|0.45454545454545453|25
+Three Black Crows|Entity|ALK.US|11|0.45454545454545453|28
+Three Black Crows|Entity|CATY.US|11|0.45454545454545453|29
+Three Black Crows|Entity|SIMO.US|11|0.45454545454545453|30
+Three Black Crows|Entity|PDCO.US|11|0.45454545454545453|33
+Three Black Crows|Entity|PTH.US|11|0.45454545454545453|33
+Three Black Crows|Entity|PAYC.US|11|0.45454545454545453|36
+Three Black Crows|Entity|CMTL.US|11|0.45454545454545453|39
+Three Black Crows|Industry|Farm Products|44|0.45454545454545453|40
+Three Black Crows|Entity|AMSF.US|11|0.45454545454545453|51
+Three Black Crows|Entity|WMB.US|11|0.45454545454545453|54
+Three Black Crows|Entity|XSD.US|11|0.45454545454545453|58
+Three Black Crows|Entity|JKK.US|11|0.45454545454545453|59
+Three Black Crows|Entity|ISCG.US|11|0.45454545454545453|59
+Three Black Crows|Entity|PCAR.US|11|0.45454545454545453|70
+Three Black Crows|Entity|FELE.US|11|0.45454545454545453|85
+Three Black Crows|Entity|RSPM.US|11|0.45454545454545453|90
+Three Black Crows|Entity|MBWM.US|11|0.45454545454545453|91
+Three Black Crows|Entity|BC.US|11|0.45454545454545453|97
+Three Black Crows|Entity|XLY.US|11|0.45454545454545453|99
+Three Black Crows|Entity|IJK.US|11|0.45454545454545453|117
+Three Black Crows|Entity|TECH.US|20|0.45|41
+Three Black Crows|Entity|BKH.US|20|0.45|61
+Three Black Crows|Industry|Insurance - Specialty|60|0.45|71
+Three Black Crows|Industry|Internet Content & Information|58|0.4482758620689655|42
+Three Black Crows|Industry|Discount Stores|38|0.4473684210526316|35
+Three Black Crows|Entity|FCFS.US|18|0.4444444444444444|35
+Three Black Crows|Industry|Capital Markets|36|0.4444444444444444|38
+Three Black Crows|Entity|HAS.US|18|0.4444444444444444|48
+Three Black Crows|Sector|Financial Services|1301|0.44427363566487316|81
+Three Black Crows|Industry|Utilities - Renewable|25|0.44|70
+Three Black Crows|Sector|Consumer Cyclical|825|0.4387878787878788|43
+Three Black Crows|Industry|Gold|32|0.4375|18
+Three Black Crows|Industry|Furnishings, Fixtures & Appliances|32|0.4375|31
+Three Black Crows|Entity|FLS.US|16|0.4375|31
+Three Black Crows|Entity|QRVO.US|16|0.4375|35
+Three Black Crows|Entity|CME.US|16|0.4375|68
+Three Black Crows|Industry|Utilities - Regulated Gas|39|0.4358974358974359|64
+Three Black Crows|Overall|All|19981|0.43546369050598066|91
+Three Black Crows|Industry|Education & Training Services|37|0.43243243243243246|47
+Three Black Crows|Entity|BZH.US|14|0.42857142857142855|21
+Three Black Crows|Industry|Airports & Air Services|14|0.42857142857142855|48
+Three Black Crows|Entity|ASR.US|14|0.42857142857142855|48
+Three Black Crows|Industry|Real Estate Services|56|0.42857142857142855|50
+Three Black Crows|Industry|Building Materials|14|0.42857142857142855|55
+Three Black Crows|Industry|Beverages - Brewers|14|0.42857142857142855|60
+Three Black Crows|Entity|FMX.US|14|0.42857142857142855|60
+Three Black Crows|Entity|AWR.US|14|0.42857142857142855|62
+Three Black Crows|Entity|PGR.US|21|0.42857142857142855|65
+Three Black Crows|Entity|CTSH.US|14|0.42857142857142855|80
+Three Black Crows|Entity|CTAS.US|14|0.42857142857142855|82
+Three Black Crows|Entity|RLI.US|14|0.42857142857142855|97
+Three Black Crows|Entity|RWR.US|21|0.42857142857142855|115
+Three Black Crows|Sector|Consumer Defensive|367|0.42779291553133514|56
+Three Black Crows|Industry|Specialty Retail|82|0.4268292682926829|32
+Three Black Crows|Industry|Diagnostics & Research|104|0.4230769230769231|36
+Three Black Crows|Sector|Communication Services|234|0.4230769230769231|52
+Three Black Crows|Industry|Communication Equipment|64|0.421875|31
+Three Black Crows|Industry|Telecom Services|64|0.421875|75
+Three Black Crows|Entity|DECK.US|19|0.42105263157894735|17
+Three Black Crows|Entity|GWW.US|19|0.42105263157894735|89
+Three Black Crows|Industry|Software - Application|202|0.4207920792079208|27
+Three Black Crows|Industry|Airlines|50|0.42|37
+Three Black Crows|Industry|Packaged Foods|81|0.41975308641975306|50
+Three Black Crows|Industry|Oil & Gas Equipment & Services|62|0.41935483870967744|23
+Three Black Crows|Industry|Oil & Gas E&P|129|0.4186046511627907|28
+Three Black Crows|Entity|SKX.US|12|0.4166666666666667|4
+Three Black Crows|Entity|LEN.US|12|0.4166666666666667|32
+Three Black Crows|Entity|EQIX.US|12|0.4166666666666667|35
+Three Black Crows|Entity|WNC.US|12|0.4166666666666667|36
+Three Black Crows|Industry|Aerospace & Defense|144|0.4166666666666667|40
+Three Black Crows|Entity|MAA.US|12|0.4166666666666667|61
+Three Black Crows|Entity|MNRO.US|12|0.4166666666666667|61
+Three Black Crows|Entity|ADM.US|12|0.4166666666666667|71
+Three Black Crows|Entity|LOW.US|12|0.4166666666666667|87
+Three Black Crows|Entity|RTM.US|12|0.4166666666666667|90
+Three Black Crows|Entity|IHI.US|12|0.4166666666666667|99
+Three Black Crows|Entity|FXR.US|12|0.4166666666666667|119
+Three Black Crows|Entity|SPGP.US|12|0.4166666666666667|127
+Three Black Crows|Entity|PJP.US|12|0.4166666666666667|196
+Three Black Crows|Industry|Footwear & Accessories|29|0.41379310344827586|17
+Three Black Crows|Entity|LCII.US|17|0.4117647058823529|50
+Three Black Crows|Sector|Basic Materials|253|0.41106719367588934|43
+Three Black Crows|Sector|Utilities|295|0.4101694915254237|89
+Three Black Crows|Industry|Electronics & Computer Distribution|22|0.4090909090909091|24
+Three Black Crows|Entity|SBAC.US|22|0.4090909090909091|48
+Three Black Crows|Industry|Scientific & Technical Instruments|54|0.4074074074074074|44
+Three Black Crows|Industry|Insurance - Life|37|0.40540540540540543|62
+Three Black Crows|Sector|Technology|806|0.4044665012406948|36
+Three Black Crows|Industry|REIT - Industrial|52|0.40384615384615385|58
+Three Black Crows|Sector|Industrials|1123|0.402493321460374|42
+Three Black Crows|Industry|Apparel Retail|82|0.4024390243902439|25
+Three Black Crows|Entity|UPBD.US|10|0.4|11
+Three Black Crows|Entity|HIBB.US|10|0.4|14
+Three Black Crows|Entity|GEOS.US|10|0.4|17
+Three Black Crows|Industry|Luxury Goods|10|0.4|19
+Three Black Crows|Entity|PKE.US|10|0.4|20
+Three Black Crows|Entity|ALGN.US|10|0.4|20
+Three Black Crows|Entity|EPC.US|10|0.4|28
+Three Black Crows|Entity|GCO.US|10|0.4|28
+Three Black Crows|Entity|TSCO.US|15|0.4|29
+Three Black Crows|Entity|XBI.US|10|0.4|30
+Three Black Crows|Entity|BKNG.US|15|0.4|30
+Three Black Crows|Entity|MGPI.US|10|0.4|32
+Three Black Crows|Entity|VSEC.US|10|0.4|32
+Three Black Crows|Entity|CNMD.US|10|0.4|32
+Three Black Crows|Industry|Lumber & Wood Production|10|0.4|34
+Three Black Crows|Entity|EVA.US|10|0.4|34
+Three Black Crows|Entity|EMN.US|10|0.4|40
+Three Black Crows|Entity|DMLP.US|10|0.4|40
+Three Black Crows|Industry|Oil & Gas Integrated|25|0.4|41
+Three Black Crows|Entity|HELE.US|10|0.4|42
+Three Black Crows|Entity|IAC.US|10|0.4|42
+Three Black Crows|Entity|MAT.US|10|0.4|42
+Three Black Crows|Entity|RY.US|10|0.4|43
+Three Black Crows|Entity|SNA.US|10|0.4|46
+Three Black Crows|Entity|CBT.US|10|0.4|48
+Three Black Crows|Industry|Personal Services|30|0.4|49
+Three Black Crows|Entity|INGR.US|10|0.4|50
+Three Black Crows|Entity|AAP.US|10|0.4|50
+Three Black Crows|Entity|KOF.US|15|0.4|53
+Three Black Crows|Entity|XLG.US|10|0.4|55
+Three Black Crows|Entity|VRSK.US|10|0.4|58
+Three Black Crows|Entity|MGA.US|10|0.4|59
+Three Black Crows|Entity|WY.US|10|0.4|62
+Three Black Crows|Entity|TDG.US|10|0.4|62
+Three Black Crows|Entity|WAB.US|15|0.4|64
+Three Black Crows|Entity|BIO.US|10|0.4|65
+Three Black Crows|Entity|MSTR.US|10|0.4|65
+Three Black Crows|Entity|HSIC.US|10|0.4|74
+Three Black Crows|Entity|AIG.US|10|0.4|78
+Three Black Crows|Entity|FTV.US|10|0.4|79
+Three Black Crows|Entity|KYN.US|10|0.4|82
+Three Black Crows|Entity|LH.US|10|0.4|84
+Three Black Crows|Entity|COLM.US|15|0.4|88
+Three Black Crows|Entity|FCNCA.US|10|0.4|92
+Three Black Crows|Entity|PEBO.US|15|0.4|93
+Three Black Crows|Entity|LUMN.US|10|0.4|100
+Three Black Crows|Entity|LYV.US|10|0.4|102
+Three Black Crows|Entity|ESS.US|10|0.4|111
+Three Black Crows|Entity|PRN.US|10|0.4|165
+Three Black Crows|Entity|IYK.US|10|0.4|205
+Three Black Crows|Entity|VOX.US|10|0.4|236
+Three Black Crows|Industry|Information Technology Services|123|0.3983739837398374|54
+Three Black Crows|Industry|Apparel Manufacturing|33|0.3939393939393939|62
+Three Black Crows|Industry|Medical Care Facilities|107|0.3925233644859813|57
+Three Black Crows|Industry|Conglomerates|23|0.391304347826087|67
+Three Black Crows|Industry|Specialty Chemicals|105|0.3904761904761905|54
+Three Black Crows|Entity|RGEN.US|18|0.3888888888888889|13
+Three Black Crows|Entity|INTU.US|18|0.3888888888888889|25
+Three Black Crows|Entity|GDEN.US|13|0.38461538461538464|26
+Three Black Crows|Entity|BIIB.US|13|0.38461538461538464|27
+Three Black Crows|Industry|Coking Coal|13|0.38461538461538464|27
+Three Black Crows|Entity|WTFC.US|13|0.38461538461538464|28
+Three Black Crows|Entity|NDAQ.US|13|0.38461538461538464|32
+Three Black Crows|Entity|TSN.US|13|0.38461538461538464|33
+Three Black Crows|Entity|MSI.US|13|0.38461538461538464|38
+Three Black Crows|Entity|ICUI.US|13|0.38461538461538464|42
+Three Black Crows|Entity|LSTR.US|13|0.38461538461538464|42
+Three Black Crows|Entity|SBUX.US|13|0.38461538461538464|45
+Three Black Crows|Entity|IDA.US|13|0.38461538461538464|49
+Three Black Crows|Entity|RJF.US|13|0.38461538461538464|54
+Three Black Crows|Entity|SO.US|13|0.38461538461538464|56
+Three Black Crows|Entity|SIGI.US|13|0.38461538461538464|61
+Three Black Crows|Entity|GL.US|13|0.38461538461538464|63
+Three Black Crows|Entity|JJSF.US|13|0.38461538461538464|72
+Three Black Crows|Entity|TROW.US|13|0.38461538461538464|98
+Three Black Crows|Entity|IBB.US|13|0.38461538461538464|123
+Three Black Crows|Entity|CFR.US|13|0.38461538461538464|175
+Three Black Crows|Industry|Semiconductors|47|0.3829787234042553|33
+Three Black Crows|Industry|Farm & Heavy Construction Machinery|47|0.3829787234042553|35
+Three Black Crows|Industry|Insurance - Property & Casualty|71|0.38028169014084506|78
+Three Black Crows|Industry|Consulting Services|50|0.38|56
+Three Black Crows|Entity|CALM.US|16|0.375|20
+Three Black Crows|Industry|Pollution & Treatment Controls|16|0.375|52
+Three Black Crows|Entity|MHK.US|16|0.375|68
+Three Black Crows|Entity|PSCH.US|16|0.375|72
+Three Black Crows|Industry|Software - Infrastructure|153|0.37254901960784315|43
+Three Black Crows|Industry|Insurance Brokers|49|0.3673469387755102|66
+Three Black Crows|Industry|Household & Personal Products|52|0.36538461538461536|97
+Three Black Crows|Entity|AGM.US|11|0.36363636363636365|14
+Three Black Crows|Entity|AAPL.US|11|0.36363636363636365|25
+Three Black Crows|Entity|PBR-A.US|11|0.36363636363636365|28
+Three Black Crows|Entity|PLUS.US|11|0.36363636363636365|28
+Three Black Crows|Entity|TPL.US|11|0.36363636363636365|30
+Three Black Crows|Entity|FFIV.US|11|0.36363636363636365|32
+Three Black Crows|Entity|OII.US|11|0.36363636363636365|33
+Three Black Crows|Industry|Security & Protection Services|22|0.36363636363636365|35
+Three Black Crows|Entity|EW.US|11|0.36363636363636365|36
+Three Black Crows|Entity|CDNS.US|11|0.36363636363636365|42
+Three Black Crows|Entity|NSC.US|11|0.36363636363636365|42
+Three Black Crows|Entity|XSMO.US|11|0.36363636363636365|44
+Three Black Crows|Entity|CBU.US|11|0.36363636363636365|46
+Three Black Crows|Entity|PCH.US|11|0.36363636363636365|49
+Three Black Crows|Entity|MTN.US|11|0.36363636363636365|58
+Three Black Crows|Entity|PTF.US|11|0.36363636363636365|58
+Three Black Crows|Entity|TXRH.US|11|0.36363636363636365|58
+Three Black Crows|Entity|XRAY.US|11|0.36363636363636365|59
+Three Black Crows|Entity|SEIC.US|11|0.36363636363636365|60
+Three Black Crows|Entity|SOXX.US|11|0.36363636363636365|62
+Three Black Crows|Entity|MDT.US|11|0.36363636363636365|69
+Three Black Crows|Entity|COR.US|11|0.36363636363636365|70
+Three Black Crows|Industry|Financial Data & Stock Exchanges|33|0.36363636363636365|74
+Three Black Crows|Entity|IGM.US|11|0.36363636363636365|74
+Three Black Crows|Entity|ATO.US|11|0.36363636363636365|76
+Three Black Crows|Entity|CBRE.US|11|0.36363636363636365|76
+Three Black Crows|Entity|GHC.US|11|0.36363636363636365|93
+Three Black Crows|Entity|VTR.US|11|0.36363636363636365|109
+Three Black Crows|Entity|BF-A.US|11|0.36363636363636365|120
+Three Black Crows|Entity|SCHH.US|11|0.36363636363636365|146
+Three Black Crows|Entity|DGRW.US|11|0.36363636363636365|242
+Three Black Crows|Entity|IJS.US|11|0.36363636363636365|248
+Three Black Crows|Industry|Healthcare Plans|47|0.3617021276595745|34
+Three Black Crows|Industry|Electronic Components|61|0.36065573770491804|36
+Three Black Crows|Industry|Entertainment|61|0.36065573770491804|63
+Three Black Crows|Entity|VRTX.US|14|0.35714285714285715|18
+Three Black Crows|Entity|CAKE.US|14|0.35714285714285715|22
+Three Black Crows|Entity|AZZ.US|14|0.35714285714285715|22
+Three Black Crows|Entity|TMO.US|14|0.35714285714285715|38
+Three Black Crows|Entity|FBT.US|14|0.35714285714285715|66
+Three Black Crows|Entity|ROST.US|14|0.35714285714285715|66
+Three Black Crows|Entity|LMT.US|14|0.35714285714285715|82
+Three Black Crows|Entity|SNBR.US|17|0.35294117647058826|24
+Three Black Crows|Industry|Integrated Freight & Logistics|51|0.35294117647058826|48
+Three Black Crows|Industry|Specialty Industrial Machinery|201|0.3383084577114428|51
+Three Black Crows|Entity|TRMB.US|12|0.3333333333333333|18
+Three Black Crows|Entity|ITRI.US|12|0.3333333333333333|23
+Three Black Crows|Entity|ICLR.US|12|0.3333333333333333|25
+Three Black Crows|Entity|PRGO.US|12|0.3333333333333333|28
+Three Black Crows|Entity|OCFC.US|12|0.3333333333333333|34
+Three Black Crows|Entity|WSM.US|12|0.3333333333333333|34
+Three Black Crows|Entity|BLK.US|15|0.3333333333333333|38
+Three Black Crows|Entity|GIL.US|15|0.3333333333333333|42
+Three Black Crows|Entity|IYR.US|15|0.3333333333333333|45
+Three Black Crows|Entity|COP.US|12|0.3333333333333333|46
+Three Black Crows|Entity|DE.US|12|0.3333333333333333|48
+Three Black Crows|Entity|IEX.US|15|0.3333333333333333|50
+Three Black Crows|Entity|GD.US|15|0.3333333333333333|53
+Three Black Crows|Entity|CWST.US|12|0.3333333333333333|54
+Three Black Crows|Entity|LTC.US|12|0.3333333333333333|54
+Three Black Crows|Industry|Specialty Business Services|60|0.3333333333333333|60
+Three Black Crows|Entity|VGT.US|12|0.3333333333333333|65
+Three Black Crows|Industry|Medical Distribution|36|0.3333333333333333|70
+Three Black Crows|Entity|TRV.US|15|0.3333333333333333|76
+Three Black Crows|Entity|TJX.US|12|0.3333333333333333|77
+Three Black Crows|Entity|R.US|12|0.3333333333333333|95
+Three Black Crows|Entity|SNEX.US|15|0.3333333333333333|100
+Three Black Crows|Entity|TT.US|12|0.3333333333333333|105
+Three Black Crows|Entity|ACGL.US|15|0.3333333333333333|112
+Three Black Crows|Entity|DTE.US|12|0.3333333333333333|132
+Three Black Crows|Entity|PBJ.US|12|0.3333333333333333|181
+Three Black Crows|Industry|Utilities - Regulated Electric|150|0.32666666666666666|93
+Three Black Crows|Industry|Rental & Leasing Services|40|0.325|52
+Three Black Crows|Industry|Resorts & Casinos|31|0.3225806451612903|29
+Three Black Crows|Industry|REIT - Healthcare Facilities|22|0.3181818181818182|113
+Three Black Crows|Entity|BIB.US|19|0.3157894736842105|20
+Three Black Crows|Industry|Railroads|19|0.3157894736842105|29
+Three Black Crows|Entity|NFLX.US|16|0.3125|17
+Three Black Crows|Entity|ADBE.US|16|0.3125|46
+Three Black Crows|Entity|NEE.US|16|0.3125|71
+Three Black Crows|Entity|UNH.US|13|0.3076923076923077|30
+Three Black Crows|Entity|SCHW.US|13|0.3076923076923077|34
+Three Black Crows|Entity|OSK.US|13|0.3076923076923077|35
+Three Black Crows|Entity|BHE.US|13|0.3076923076923077|37
+Three Black Crows|Entity|JACK.US|13|0.3076923076923077|63
+Three Black Crows|Entity|NKE.US|13|0.3076923076923077|76
+Three Black Crows|Entity|RNR.US|13|0.3076923076923077|88
+Three Black Crows|Industry|Lodging|23|0.30434782608695654|116
+Three Black Crows|Industry|Residential Construction|56|0.30357142857142855|23
+Three Black Crows|Industry|Staffing & Employment Services|33|0.30303030303030304|39
+Three Black Crows|Entity|EBIXQ.US|10|0.3|5
+Three Black Crows|Entity|EXPE.US|10|0.3|6
+Three Black Crows|Entity|NOG.US|10|0.3|12
+Three Black Crows|Entity|OMCL.US|10|0.3|19
+Three Black Crows|Entity|PTC.US|10|0.3|28
+Three Black Crows|Entity|VSAT.US|10|0.3|28
+Three Black Crows|Entity|TFX.US|10|0.3|40
+Three Black Crows|Entity|CIGI.US|10|0.3|42
+Three Black Crows|Entity|EHC.US|10|0.3|43
+Three Black Crows|Entity|CMG.US|10|0.3|43
+Three Black Crows|Entity|GPC.US|10|0.3|44
+Three Black Crows|Entity|CACC.US|10|0.3|45
+Three Black Crows|Entity|RHI.US|10|0.3|54
+Three Black Crows|Entity|BCPC.US|10|0.3|61
+Three Black Crows|Entity|PSCC.US|10|0.3|63
+Three Black Crows|Entity|XTN.US|10|0.3|76
+Three Black Crows|Entity|TRP.US|10|0.3|77
+Three Black Crows|Entity|SPG.US|20|0.3|87
+Three Black Crows|Entity|JKHY.US|10|0.3|109
+Three Black Crows|Entity|USRT.US|10|0.3|136
+Three Black Crows|Entity|O.US|10|0.3|144
+Three Black Crows|Entity|ABM.US|10|0.3|150
+Three Black Crows|Entity|KIE.US|10|0.3|215
+Three Black Crows|Entity|POWA.US|10|0.3|395
+Three Black Crows|Entity|USPH.US|17|0.29411764705882354|26
+Three Black Crows|Entity|APH.US|17|0.29411764705882354|40
+Three Black Crows|Industry|Consumer Electronics|14|0.2857142857142857|25
+Three Black Crows|Industry|Agricultural Inputs|21|0.2857142857142857|32
+Three Black Crows|Industry|Gambling|21|0.2857142857142857|35
+Three Black Crows|Industry|Waste Management|28|0.2857142857142857|56
+Three Black Crows|Entity|UNP.US|14|0.2857142857142857|58
+Three Black Crows|Entity|MSFT.US|14|0.2857142857142857|77
+Three Black Crows|Entity|CSGS.US|14|0.2857142857142857|80
+Three Black Crows|Entity|WELL.US|14|0.2857142857142857|81
+Three Black Crows|Industry|REIT - Residential|70|0.2857142857142857|89
+Three Black Crows|Entity|BBH.US|14|0.2857142857142857|134
+Three Black Crows|Industry|Beverages - Wineries & Distilleries|32|0.28125|92
+Three Black Crows|Industry|REIT - Specialty|68|0.27941176470588236|74
+Three Black Crows|Entity|ONEQ.US|18|0.2777777777777778|140
+Three Black Crows|Entity|EBIX.US|11|0.2727272727272727|5
+Three Black Crows|Entity|URBN.US|11|0.2727272727272727|12
+Three Black Crows|Entity|AVY.US|11|0.2727272727272727|13
+Three Black Crows|Entity|GRMN.US|11|0.2727272727272727|16
+Three Black Crows|Entity|RXL.US|11|0.2727272727272727|19
+Three Black Crows|Entity|JOE.US|11|0.2727272727272727|31
+Three Black Crows|Entity|CI.US|11|0.2727272727272727|37
+Three Black Crows|Entity|AFG.US|11|0.2727272727272727|39
+Three Black Crows|Entity|PKG.US|11|0.2727272727272727|43
+Three Black Crows|Entity|NPO.US|11|0.2727272727272727|54
+Three Black Crows|Entity|ABT.US|11|0.2727272727272727|56
+Three Black Crows|Entity|UEIC.US|11|0.2727272727272727|63
+Three Black Crows|Entity|ZBRA.US|11|0.2727272727272727|66
+Three Black Crows|Entity|VBR.US|11|0.2727272727272727|68
+Three Black Crows|Entity|LKFN.US|11|0.2727272727272727|70
+Three Black Crows|Entity|RS.US|11|0.2727272727272727|107
+Three Black Crows|Entity|WRB.US|11|0.2727272727272727|113
+Three Black Crows|Entity|IUSG.US|11|0.2727272727272727|195
+Three Black Crows|Entity|CLH.US|15|0.26666666666666666|58
+Three Black Crows|Entity|CAH.US|15|0.26666666666666666|64
+Three Black Crows|Entity|MDY.US|15|0.26666666666666666|97
+Three Black Crows|Entity|SSYS.US|12|0.25|7
+Three Black Crows|Entity|ZG.US|12|0.25|11
+Three Black Crows|Entity|RBC.US|12|0.25|27
+Three Black Crows|Entity|EXR.US|12|0.25|28
+Three Black Crows|Entity|OTEX.US|12|0.25|30
+Three Black Crows|Entity|SJW.US|12|0.25|37
+Three Black Crows|Entity|NOC.US|16|0.25|40
+Three Black Crows|Entity|ROP.US|12|0.25|44
+Three Black Crows|Entity|FICO.US|12|0.25|49
+Three Black Crows|Entity|EQT.US|12|0.25|55
+Three Black Crows|Entity|STRA.US|16|0.25|57
+Three Black Crows|Entity|AFL.US|12|0.25|66
+Three Black Crows|Entity|ELS.US|12|0.25|79
+Three Black Crows|Entity|VPU.US|12|0.25|91
+Three Black Crows|Entity|FSS.US|12|0.25|96
+Three Black Crows|Entity|IJH.US|12|0.25|112
+Three Black Crows|Entity|AIZ.US|12|0.25|115
+Three Black Crows|Entity|CHD.US|12|0.25|116
+Three Black Crows|Entity|REZ.US|12|0.25|140
+Three Black Crows|Entity|SPY.US|12|0.25|208
+Three Black Crows|Entity|IVW.US|12|0.25|256
+Three Black Crows|Entity|ADSK.US|17|0.23529411764705882|33
+Three Black Crows|Entity|DOC.US|13|0.23076923076923078|39
+Three Black Crows|Entity|FXH.US|13|0.23076923076923078|63
+Three Black Crows|Entity|RSG.US|13|0.23076923076923078|134
+Three Black Crows|Industry|Insurance - Diversified|75|0.22666666666666666|83
+Three Black Crows|Entity|MYGN.US|14|0.21428571428571427|29
+Three Black Crows|Entity|ALL.US|14|0.21428571428571427|59
+Three Black Crows|Entity|AVB.US|14|0.21428571428571427|70
+Three Black Crows|Entity|D.US|14|0.21428571428571427|143
+Three Black Crows|Entity|XAR.US|19|0.21052631578947367|149
+Three Black Crows|Entity|VICR.US|10|0.2|14
+Three Black Crows|Entity|CLB.US|10|0.2|16
+Three Black Crows|Entity|JBL.US|10|0.2|26
+Three Black Crows|Entity|MOS.US|10|0.2|26
+Three Black Crows|Entity|BBWI.US|10|0.2|28
+Three Black Crows|Entity|SRE.US|15|0.2|33
+Three Black Crows|Entity|VDC.US|10|0.2|38
+Three Black Crows|Entity|WM.US|10|0.2|40
+Three Black Crows|Entity|TDY.US|10|0.2|41
+Three Black Crows|Entity|GTLS.US|10|0.2|42
+Three Black Crows|Entity|KNX.US|10|0.2|43
+Three Black Crows|Entity|DOV.US|10|0.2|54
+Three Black Crows|Entity|LIN.US|10|0.2|55
+Three Black Crows|Entity|LHX.US|10|0.2|55
+Three Black Crows|Entity|MOG-A.US|10|0.2|58
+Three Black Crows|Entity|EQR.US|10|0.2|61
+Three Black Crows|Entity|FMC.US|10|0.2|68
+Three Black Crows|Entity|SITC.US|10|0.2|68
+Three Black Crows|Entity|SANM.US|10|0.2|74
+Three Black Crows|Entity|ERIE.US|10|0.2|74
+Three Black Crows|Entity|MLR.US|10|0.2|81
+Three Black Crows|Entity|VCR.US|10|0.2|82
+Three Black Crows|Entity|WSO.US|15|0.2|82
+Three Black Crows|Entity|SYK.US|10|0.2|88
+Three Black Crows|Entity|XLB.US|10|0.2|90
+Three Black Crows|Entity|VMC.US|10|0.2|102
+Three Black Crows|Entity|ETN.US|10|0.2|122
+Three Black Crows|Entity|QQEW.US|10|0.2|144
+Three Black Crows|Entity|ES.US|10|0.2|160
+Three Black Crows|Entity|HON.US|10|0.2|168
+Three Black Crows|Entity|TR.US|10|0.2|240
+Three Black Crows|Entity|UTL.US|10|0.2|274
+Three Black Crows|Entity|AXON.US|16|0.1875|16
+Three Black Crows|Entity|GIS.US|16|0.1875|171
+Three Black Crows|Entity|SWK.US|11|0.18181818181818182|18
+Three Black Crows|Entity|MCK.US|11|0.18181818181818182|28
+Three Black Crows|Entity|CASH.US|11|0.18181818181818182|53
+Three Black Crows|Entity|SNPS.US|11|0.18181818181818182|62
+Three Black Crows|Entity|EXC.US|11|0.18181818181818182|64
+Three Black Crows|Entity|WWD.US|11|0.18181818181818182|81
+Three Black Crows|Entity|RTH.US|11|0.18181818181818182|116
+Three Black Crows|Entity|IVOG.US|11|0.18181818181818182|136
+Three Black Crows|Entity|GOOGL.US|11|0.18181818181818182|180
+Three Black Crows|Entity|BDX.US|11|0.18181818181818182|217
+Three Black Crows|Entity|CCI.US|17|0.17647058823529413|34
+Three Black Crows|Entity|LPX.US|12|0.16666666666666666|10
+Three Black Crows|Entity|VFC.US|12|0.16666666666666666|20
+Three Black Crows|Entity|IHF.US|12|0.16666666666666666|60
+Three Black Crows|Entity|ABG.US|12|0.16666666666666666|62
+Three Black Crows|Entity|BF-B.US|12|0.16666666666666666|74
+Three Black Crows|Entity|RHP.US|12|0.16666666666666666|120
+Three Black Crows|Entity|BRK-B.US|19|0.15789473684210525|141
+Three Black Crows|Entity|ADP.US|13|0.15384615384615385|62
+Three Black Crows|Entity|IJR.US|13|0.15384615384615385|116
+Three Black Crows|Entity|DHR.US|13|0.15384615384615385|156
+Three Black Crows|Entity|PPA.US|13|0.15384615384615385|180
+Three Black Crows|Entity|TREX.US|14|0.14285714285714285|11
+Three Black Crows|Entity|MA.US|14|0.14285714285714285|14
+Three Black Crows|Entity|LEN-B.US|14|0.14285714285714285|52
+Three Black Crows|Entity|PNR.US|14|0.14285714285714285|110
+Three Black Crows|Entity|SPYG.US|14|0.14285714285714285|152
+Three Black Crows|Entity|MKL.US|14|0.14285714285714285|160
+Three Black Crows|Entity|FI.US|15|0.13333333333333333|140
+Three Black Crows|Entity|NVEE.US|10|0.1|2
+Three Black Crows|Entity|HLI.US|10|0.1|7
+Three Black Crows|Entity|OKE.US|10|0.1|34
+Three Black Crows|Entity|JKD.US|10|0.1|41
+Three Black Crows|Entity|ILCB.US|10|0.1|41
+Three Black Crows|Entity|AMT.US|10|0.1|111
+Three Black Crows|Entity|IWF.US|10|0.1|197
+Three Black Crows|Entity|V.US|11|0.09090909090909091|8
+Three Black Crows|Entity|AME.US|11|0.09090909090909091|15
+Three Black Crows|Entity|DVA.US|11|0.09090909090909091|26
+Three Black Crows|Entity|UNF.US|11|0.09090909090909091|47
+Three Black Crows|Entity|BA.US|11|0.09090909090909091|54
+Three Black Crows|Entity|AON.US|11|0.09090909090909091|108
+Three Black Crows|Entity|MDYG.US|11|0.09090909090909091|266
+Three Black Crows|Entity|EXPD.US|12|0.08333333333333333|54
+Three Black Crows|Entity|DWAS.US|12|0.08333333333333333|59
+Three Black Crows|Entity|XHS.US|12|0.08333333333333333|97
+Three Black Crows|Entity|IDXX.US|12|0.08333333333333333|99
+Three Black Crows|Entity|FIS.US|12|0.08333333333333333|105
+Three Black Crows|Entity|IWR.US|13|0.07692307692307693|106
+Three Black Crows|Entity|IWB.US|13|0.07692307692307693|114
+Three Black Crows|Entity|BME.US|14|0.07142857142857142|35
+Three Black Crows|Entity|BRK-A.US|18|0.05555555555555555|15
+Three Black Crows|Entity|IWP.US|11|0|0
+Three Black Crows|Entity|CHTR.US|10|0|0
+Three Black Crows|Entity|IVV.US|10|0|0

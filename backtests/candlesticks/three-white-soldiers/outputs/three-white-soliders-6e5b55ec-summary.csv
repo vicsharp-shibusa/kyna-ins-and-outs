@@ -1,0 +1,80 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Three White Soliders|Industry|Industrial Distribution|10|0.8|46
+Three White Soliders|Industry|Packaging & Containers|13|0.7692307692307693|66
+Three White Soliders|Industry|Furnishings, Fixtures & Appliances|16|0.75|29
+Three White Soliders|Industry|Rental & Leasing Services|15|0.7333333333333333|50
+Three White Soliders|Industry|Specialty Business Services|11|0.7272727272727273|67
+Three White Soliders|Industry|Leisure|10|0.7|30
+Three White Soliders|Industry|Real Estate Services|10|0.7|99
+Three White Soliders|Industry|Aerospace & Defense|19|0.6842105263157895|70
+Three White Soliders|Industry|Insurance - Specialty|15|0.6666666666666666|47
+Three White Soliders|Industry|Medical Instruments & Supplies|39|0.6410256410256411|76
+Three White Soliders|Industry|Medical Distribution|11|0.6363636363636364|67
+Three White Soliders|Entity|TVC.US|11|0.6363636363636364|538
+Three White Soliders|Industry|Medical Devices|49|0.6326530612244898|23
+Three White Soliders|Industry|Gold|19|0.631578947368421|18
+Three White Soliders|Industry|Auto & Truck Dealerships|19|0.631578947368421|29
+Three White Soliders|Industry|Utilities - Regulated Electric|42|0.6190476190476191|115
+Three White Soliders|Industry|Farm & Heavy Construction Machinery|13|0.6153846153846154|31
+Three White Soliders|Industry|Integrated Freight & Logistics|13|0.6153846153846154|69
+Three White Soliders|Industry|REIT - Residential|13|0.6153846153846154|111
+Three White Soliders|Industry|Capital Markets|10|0.6|39
+Three White Soliders|Industry|Specialty Industrial Machinery|37|0.5945945945945946|66
+Three White Soliders|Sector|Consumer Cyclical|223|0.5829596412556054|43
+Three White Soliders|Industry|REIT - Office|21|0.5714285714285714|160
+Three White Soliders|Sector|Industrials|256|0.5703125|55
+Three White Soliders|Industry|Biotechnology|160|0.56875|10
+Three White Soliders|Sector|Healthcare|382|0.5654450261780105|27
+Three White Soliders|Industry|Telecom Services|23|0.5652173913043478|124
+Three White Soliders|Industry|Communication Equipment|16|0.5625|33
+Three White Soliders|Industry|Specialty Chemicals|27|0.5555555555555556|62
+Three White Soliders|Industry|Insurance - Property & Casualty|18|0.5555555555555556|64
+Three White Soliders|Industry|Farm Products|18|0.5555555555555556|70
+Three White Soliders|Industry|Information Technology Services|27|0.5555555555555556|82
+Three White Soliders|Industry|Restaurants|31|0.5483870967741935|72
+Three White Soliders|Sector|Utilities|84|0.5476190476190477|92
+Three White Soliders|Industry|Trucking|11|0.5454545454545454|20
+Three White Soliders|Industry|Consulting Services|24|0.5416666666666666|40
+Three White Soliders|Industry|Drug Manufacturers - General|13|0.5384615384615384|43
+Three White Soliders|Industry|Building Products & Equipment|15|0.5333333333333333|24
+Three White Soliders|Industry|Apparel Retail|32|0.53125|31
+Three White Soliders|Industry|Oil & Gas Midstream|17|0.5294117647058824|22
+Three White Soliders|Sector|Basic Materials|76|0.5263157894736842|42
+Three White Soliders|Sector|Real Estate|115|0.5217391304347826|102
+Three White Soliders|Sector|Communication Services|64|0.515625|81
+Three White Soliders|Overall|All|5164|0.5021301316808675|82
+Three White Soliders|Industry|Drug Manufacturers - Specialty & Generic|38|0.5|17
+Three White Soliders|Industry|Medical Care Facilities|24|0.5|25
+Three White Soliders|Industry|Utilities - Regulated Water|20|0.5|61
+Three White Soliders|Industry|REIT - Retail|18|0.5|79
+Three White Soliders|Industry|Electrical Equipment & Parts|14|0.5|107
+Three White Soliders|Industry|Banks - Regional|191|0.4869109947643979|75
+Three White Soliders|Industry|Oil & Gas E&P|27|0.48148148148148145|40
+Three White Soliders|Sector|Financial Services|331|0.48036253776435045|70
+Three White Soliders|Industry|Oil & Gas Equipment & Services|21|0.47619047619047616|36
+Three White Soliders|Sector|Technology|179|0.46368715083798884|42
+Three White Soliders|Industry|Electronic Gaming & Multimedia|11|0.45454545454545453|6
+Three White Soliders|Sector|Energy|104|0.4519230769230769|36
+Three White Soliders|Industry|Packaged Foods|31|0.45161290322580644|135
+Three White Soliders|Sector|Consumer Defensive|116|0.4482758620689655|80
+Three White Soliders|Industry|Software - Application|52|0.4230769230769231|36
+Three White Soliders|Industry|Credit Services|12|0.4166666666666667|38
+Three White Soliders|Industry|Security & Protection Services|17|0.4117647058823529|84
+Three White Soliders|Industry|Diagnostics & Research|27|0.4074074074074074|44
+Three White Soliders|Industry|Education & Training Services|10|0.4|20
+Three White Soliders|Industry|Electronic Components|10|0.4|31
+Three White Soliders|Industry|Oil & Gas Refining & Marketing|15|0.4|44
+Three White Soliders|Industry|Asset Management|51|0.39215686274509803|57
+Three White Soliders|Industry|Software - Infrastructure|36|0.3888888888888889|27
+Three White Soliders|Industry|Oil & Gas Integrated|13|0.38461538461538464|55
+Three White Soliders|Industry|Auto Parts|13|0.38461538461538464|62
+Three White Soliders|Industry|REIT - Specialty|16|0.375|94
+Three White Soliders|Industry|Household & Personal Products|16|0.375|96
+Three White Soliders|Industry|Scientific & Technical Instruments|11|0.36363636363636365|92
+Three White Soliders|Industry|Beverages - Non-Alcoholic|14|0.35714285714285715|46
+Three White Soliders|Industry|Engineering & Construction|20|0.35|59
+Three White Soliders|Industry|Specialty Retail|18|0.3333333333333333|125
+Three White Soliders|Industry|Marine Shipping|10|0.3|18
+Three White Soliders|Entity|MZZ.US|10|0.3|57
+Three White Soliders|Industry|Advertising Agencies|11|0.2727272727272727|122
+Three White Soliders|Industry|REIT - Mortgage|16|0.25|103
