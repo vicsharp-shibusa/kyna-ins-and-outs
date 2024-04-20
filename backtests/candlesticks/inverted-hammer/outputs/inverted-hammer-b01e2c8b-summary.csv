@@ -1,0 +1,1052 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Inverted Hammer|Entity|DHR.US|11|1|43
+Inverted Hammer|Entity|PEG.US|10|1|55
+Inverted Hammer|Entity|WEYS.US|14|1|70
+Inverted Hammer|Entity|NJR.US|25|0.96|152
+Inverted Hammer|Entity|UL.US|17|0.9411764705882353|70
+Inverted Hammer|Entity|UTL.US|17|0.9411764705882353|220
+Inverted Hammer|Entity|FMC.US|15|0.9333333333333333|33
+Inverted Hammer|Entity|SYK.US|13|0.9230769230769231|26
+Inverted Hammer|Entity|SMSI.US|12|0.9166666666666666|3
+Inverted Hammer|Entity|AIMD.US|12|0.9166666666666666|5
+Inverted Hammer|Entity|KMB.US|12|0.9166666666666666|54
+Inverted Hammer|Entity|TDTF.US|12|0.9166666666666666|1586
+Inverted Hammer|Industry|Footwear & Accessories|11|0.9090909090909091|10
+Inverted Hammer|Entity|LNN.US|11|0.9090909090909091|29
+Inverted Hammer|Entity|FELE.US|11|0.9090909090909091|66
+Inverted Hammer|Entity|SMTI.US|10|0.9|4
+Inverted Hammer|Entity|VBIV.US|10|0.9|6
+Inverted Hammer|Entity|APTO.US|10|0.9|8
+Inverted Hammer|Entity|ABT.US|10|0.9|21
+Inverted Hammer|Industry|Publishing|10|0.9|28
+Inverted Hammer|Entity|DALN.US|10|0.9|28
+Inverted Hammer|Entity|CTAS.US|10|0.9|40
+Inverted Hammer|Entity|MMC.US|10|0.9|58
+Inverted Hammer|Entity|BTI.US|10|0.9|66
+Inverted Hammer|Entity|RAND.US|86|0.8953488372093024|13
+Inverted Hammer|Entity|ONTO.US|19|0.8947368421052632|4
+Inverted Hammer|Entity|CPE.US|19|0.8947368421052632|13
+Inverted Hammer|Entity|RTO.US|28|0.8928571428571429|37
+Inverted Hammer|Entity|RRC.US|93|0.8924731182795699|4
+Inverted Hammer|Entity|SVRA.US|18|0.8888888888888888|6
+Inverted Hammer|Entity|ITIC.US|17|0.8823529411764706|19
+Inverted Hammer|Entity|EIX.US|17|0.8823529411764706|157
+Inverted Hammer|Entity|GEOS.US|16|0.875|16
+Inverted Hammer|Entity|PXD.US|16|0.875|21
+Inverted Hammer|Entity|ITW.US|16|0.875|52
+Inverted Hammer|Entity|SXI.US|31|0.8709677419354839|93
+Inverted Hammer|Entity|MGEE.US|80|0.8625|165
+Inverted Hammer|Entity|MLAB.US|50|0.86|11
+Inverted Hammer|Entity|DCTH.US|14|0.8571428571428571|5
+Inverted Hammer|Industry|Tobacco|14|0.8571428571428571|51
+Inverted Hammer|Entity|WTM.US|21|0.8571428571428571|99
+Inverted Hammer|Entity|CNMD.US|13|0.8461538461538461|13
+Inverted Hammer|Entity|CCEP.US|26|0.8461538461538461|81
+Inverted Hammer|Entity|DUK.US|13|0.8461538461538461|91
+Inverted Hammer|Entity|XOM.US|13|0.8461538461538461|114
+Inverted Hammer|Entity|USB.US|25|0.84|71
+Inverted Hammer|Entity|SO.US|31|0.8387096774193549|130
+Inverted Hammer|Entity|CYTH.US|12|0.8333333333333334|2
+Inverted Hammer|Entity|KNX.US|12|0.8333333333333334|26
+Inverted Hammer|Entity|SF.US|12|0.8333333333333334|37
+Inverted Hammer|Entity|BRK-A.US|24|0.8333333333333334|112
+Inverted Hammer|Entity|EFOI.US|29|0.8275862068965517|8
+Inverted Hammer|Entity|GTY.US|29|0.8275862068965517|25
+Inverted Hammer|Entity|GWW.US|29|0.8275862068965517|64
+Inverted Hammer|Entity|WASH.US|40|0.825|7
+Inverted Hammer|Entity|WAFD.US|17|0.8235294117647058|35
+Inverted Hammer|Entity|RPM.US|17|0.8235294117647058|37
+Inverted Hammer|Entity|DOMH.US|89|0.8202247191011236|2
+Inverted Hammer|Entity|MGRC.US|22|0.8181818181818182|32
+Inverted Hammer|Entity|CHDN.US|11|0.8181818181818182|38
+Inverted Hammer|Entity|SPTI.US|11|0.8181818181818182|1826
+Inverted Hammer|Entity|WMK.US|43|0.813953488372093|132
+Inverted Hammer|Entity|PTIX.US|16|0.8125|7
+Inverted Hammer|Entity|PAYX.US|16|0.8125|24
+Inverted Hammer|Entity|BLFS.US|37|0.8108108108108109|5
+Inverted Hammer|Entity|FSS.US|21|0.8095238095238095|64
+Inverted Hammer|Entity|ASB.US|21|0.8095238095238095|93
+Inverted Hammer|Entity|BHP.US|26|0.8076923076923077|54
+Inverted Hammer|Entity|FHN.US|88|0.8068181818181818|67
+Inverted Hammer|Entity|POWL.US|36|0.8055555555555556|15
+Inverted Hammer|Entity|CACI.US|46|0.8043478260869565|15
+Inverted Hammer|Entity|SLRX.US|10|0.8|3
+Inverted Hammer|Entity|CLRB.US|10|0.8|3
+Inverted Hammer|Entity|CUEN.US|15|0.8|5
+Inverted Hammer|Entity|SGLY.US|10|0.8|7
+Inverted Hammer|Entity|OFIX.US|10|0.8|17
+Inverted Hammer|Entity|BIO-B.US|10|0.8|32
+Inverted Hammer|Entity|NUE.US|20|0.8|34
+Inverted Hammer|Entity|SJM.US|15|0.8|48
+Inverted Hammer|Entity|SYY.US|10|0.8|50
+Inverted Hammer|Entity|SXT.US|20|0.8|53
+Inverted Hammer|Entity|MSA.US|10|0.8|58
+Inverted Hammer|Entity|T.US|20|0.8|65
+Inverted Hammer|Entity|GOVI.US|10|0.8|409
+Inverted Hammer|Entity|PNRG.US|153|0.7973856209150327|9
+Inverted Hammer|Entity|FONR.US|54|0.7962962962962963|7
+Inverted Hammer|Entity|JOUT.US|39|0.7948717948717948|42
+Inverted Hammer|Entity|CADE.US|29|0.7931034482758621|92
+Inverted Hammer|Entity|SNGX.US|24|0.7916666666666666|5
+Inverted Hammer|Entity|MUX.US|57|0.7894736842105263|9
+Inverted Hammer|Entity|ATRI.US|76|0.7894736842105263|48
+Inverted Hammer|Entity|OII.US|33|0.7878787878787878|18
+Inverted Hammer|Entity|IFF.US|33|0.7878787878787878|47
+Inverted Hammer|Entity|HOLX.US|14|0.7857142857142857|9
+Inverted Hammer|Entity|FI.US|14|0.7857142857142857|50
+Inverted Hammer|Entity|AJG.US|14|0.7857142857142857|56
+Inverted Hammer|Entity|VTNR.US|23|0.782608695652174|2
+Inverted Hammer|Entity|GTBP.US|46|0.782608695652174|8
+Inverted Hammer|Entity|TRV.US|23|0.782608695652174|41
+Inverted Hammer|Entity|MOD.US|23|0.782608695652174|72
+Inverted Hammer|Entity|LPTH.US|18|0.7777777777777778|8
+Inverted Hammer|Entity|CBRL.US|18|0.7777777777777778|28
+Inverted Hammer|Entity|NEM.US|27|0.7777777777777778|28
+Inverted Hammer|Entity|SEIC.US|27|0.7777777777777778|40
+Inverted Hammer|Entity|AVT.US|18|0.7777777777777778|44
+Inverted Hammer|Entity|IP.US|18|0.7777777777777778|61
+Inverted Hammer|Entity|JHI.US|54|0.7777777777777778|228
+Inverted Hammer|Entity|GYRO.US|58|0.7758620689655172|9
+Inverted Hammer|Industry|Insurance - Diversified|62|0.7741935483870968|68
+Inverted Hammer|Entity|EFX.US|22|0.7727272727272727|28
+Inverted Hammer|Entity|MATX.US|66|0.7727272727272727|43
+Inverted Hammer|Entity|TFC.US|22|0.7727272727272727|77
+Inverted Hammer|Entity|TCON.US|13|0.7692307692307693|8
+Inverted Hammer|Entity|AVNW.US|39|0.7692307692307693|10
+Inverted Hammer|Entity|TRIB.US|13|0.7692307692307693|12
+Inverted Hammer|Entity|USNA.US|13|0.7692307692307693|21
+Inverted Hammer|Entity|CPK.US|13|0.7692307692307693|21
+Inverted Hammer|Entity|ICUI.US|13|0.7692307692307693|40
+Inverted Hammer|Entity|EGPT.US|13|0.7692307692307693|44
+Inverted Hammer|Entity|CAC.US|13|0.7692307692307693|46
+Inverted Hammer|Entity|CLX.US|13|0.7692307692307693|69
+Inverted Hammer|Entity|NBTB.US|13|0.7692307692307693|117
+Inverted Hammer|Entity|KMPR.US|13|0.7692307692307693|132
+Inverted Hammer|Entity|DYNT.US|34|0.7647058823529411|6
+Inverted Hammer|Industry|Gambling|17|0.7647058823529411|31
+Inverted Hammer|Entity|UGI.US|21|0.7619047619047619|40
+Inverted Hammer|Entity|ASH.US|21|0.7619047619047619|52
+Inverted Hammer|Entity|LSTA.US|25|0.76|3
+Inverted Hammer|Entity|TNC.US|25|0.76|73
+Inverted Hammer|Entity|CBSH.US|58|0.7586206896551724|71
+Inverted Hammer|Entity|AIG.US|33|0.7575757575757576|33
+Inverted Hammer|Entity|NPK.US|33|0.7575757575757576|61
+Inverted Hammer|Entity|NHTC.US|37|0.7567567567567568|7
+Inverted Hammer|Entity|USEG.US|61|0.7540983606557377|7
+Inverted Hammer|Entity|NBR.US|24|0.75|7
+Inverted Hammer|Entity|OPY.US|60|0.75|9
+Inverted Hammer|Entity|ANTE.US|12|0.75|17
+Inverted Hammer|Entity|TT.US|16|0.75|35
+Inverted Hammer|Entity|CAG.US|12|0.75|37
+Inverted Hammer|Entity|BAX.US|12|0.75|49
+Inverted Hammer|Entity|DLX.US|32|0.75|53
+Inverted Hammer|Industry|Confectioners|16|0.75|87
+Inverted Hammer|Entity|HSY.US|16|0.75|87
+Inverted Hammer|Entity|SHEL.US|32|0.75|91
+Inverted Hammer|Entity|NNN.US|28|0.75|92
+Inverted Hammer|Entity|AVA.US|20|0.75|129
+Inverted Hammer|Entity|ONB.US|20|0.75|320
+Inverted Hammer|Entity|DOV.US|31|0.7419354838709677|66
+Inverted Hammer|Entity|SGA.US|27|0.7407407407407407|31
+Inverted Hammer|Entity|MAT.US|23|0.7391304347826086|12
+Inverted Hammer|Entity|LUMN.US|23|0.7391304347826086|26
+Inverted Hammer|Entity|IDA.US|23|0.7391304347826086|110
+Inverted Hammer|Entity|BOOM.US|19|0.7368421052631579|7
+Inverted Hammer|Entity|MCO.US|19|0.7368421052631579|60
+Inverted Hammer|Entity|COP.US|19|0.7368421052631579|64
+Inverted Hammer|Entity|KGC.US|102|0.7352941176470589|4
+Inverted Hammer|Entity|UNF.US|49|0.7346938775510204|52
+Inverted Hammer|Entity|ATLX.US|15|0.7333333333333333|2
+Inverted Hammer|Industry|Other Precious Metals & Mining|15|0.7333333333333333|2
+Inverted Hammer|Entity|IMNN.US|15|0.7333333333333333|10
+Inverted Hammer|Industry|Food Distribution|15|0.7333333333333333|39
+Inverted Hammer|Entity|SLNH.US|82|0.7317073170731707|7
+Inverted Hammer|Entity|RGEN.US|26|0.7307692307692307|8
+Inverted Hammer|Entity|MGM.US|26|0.7307692307692307|36
+Inverted Hammer|Entity|OKE.US|26|0.7307692307692307|49
+Inverted Hammer|Entity|CDZI.US|37|0.7297297297297297|8
+Inverted Hammer|Entity|WLYB.US|70|0.7285714285714285|62
+Inverted Hammer|Entity|AWH.US|11|0.7272727272727273|6
+Inverted Hammer|Entity|COO.US|22|0.7272727272727273|9
+Inverted Hammer|Entity|FRT.US|22|0.7272727272727273|31
+Inverted Hammer|Entity|PAAS.US|11|0.7272727272727273|32
+Inverted Hammer|Entity|CIGI.US|11|0.7272727272727273|50
+Inverted Hammer|Entity|MSEX.US|22|0.7272727272727273|186
+Inverted Hammer|Entity|GNMA.US|11|0.7272727272727273|850
+Inverted Hammer|Entity|WLY.US|117|0.7264957264957265|45
+Inverted Hammer|Entity|ABM.US|62|0.7258064516129032|65
+Inverted Hammer|Entity|KBH.US|29|0.7241379310344828|20
+Inverted Hammer|Entity|DCI.US|29|0.7241379310344828|45
+Inverted Hammer|Entity|BKH.US|116|0.7241379310344828|58
+Inverted Hammer|Entity|NWN.US|29|0.7241379310344828|78
+Inverted Hammer|Industry|Utilities - Regulated Gas|141|0.723404255319149|55
+Inverted Hammer|Entity|APDN.US|18|0.7222222222222222|3
+Inverted Hammer|Entity|NEON.US|36|0.7222222222222222|6
+Inverted Hammer|Entity|GE.US|18|0.7222222222222222|42
+Inverted Hammer|Entity|LNC.US|18|0.7222222222222222|56
+Inverted Hammer|Entity|WY.US|18|0.7222222222222222|66
+Inverted Hammer|Entity|PLXS.US|25|0.72|5
+Inverted Hammer|Entity|KAMN.US|25|0.72|46
+Inverted Hammer|Entity|SCL.US|25|0.72|66
+Inverted Hammer|Entity|PGR.US|32|0.71875|62
+Inverted Hammer|Entity|L.US|32|0.71875|62
+Inverted Hammer|Entity|TRP.US|46|0.717391304347826|58
+Inverted Hammer|Entity|MRKR.US|14|0.7142857142857143|4
+Inverted Hammer|Entity|CLDX.US|28|0.7142857142857143|9
+Inverted Hammer|Entity|GEG.US|14|0.7142857142857143|16
+Inverted Hammer|Entity|GVA.US|14|0.7142857142857143|20
+Inverted Hammer|Entity|RCKY.US|14|0.7142857142857143|32
+Inverted Hammer|Entity|ADP.US|14|0.7142857142857143|34
+Inverted Hammer|Industry|Other Industrial Metals & Mining|35|0.7142857142857143|58
+Inverted Hammer|Entity|SNA.US|14|0.7142857142857143|66
+Inverted Hammer|Entity|OGE.US|21|0.7142857142857143|282
+Inverted Hammer|Entity|UMBF.US|73|0.7123287671232876|63
+Inverted Hammer|Entity|ASTC.US|31|0.7096774193548387|8
+Inverted Hammer|Entity|WBA.US|24|0.7083333333333334|36
+Inverted Hammer|Entity|FUL.US|24|0.7083333333333334|47
+Inverted Hammer|Entity|ALTO.US|17|0.7058823529411765|3
+Inverted Hammer|Entity|BMY.US|17|0.7058823529411765|41
+Inverted Hammer|Industry|Insurance - Specialty|17|0.7058823529411765|58
+Inverted Hammer|Entity|NFG.US|17|0.7058823529411765|77
+Inverted Hammer|Entity|CIZN.US|17|0.7058823529411765|93
+Inverted Hammer|Industry|Electrical Equipment & Parts|44|0.7045454545454546|36
+Inverted Hammer|Industry|Specialty Business Services|115|0.7043478260869566|52
+Inverted Hammer|Entity|NVRI.US|27|0.7037037037037037|28
+Inverted Hammer|Industry|Medical Instruments & Supplies|287|0.7003484320557491|30
+Inverted Hammer|Entity|BCDA.US|20|0.7|5
+Inverted Hammer|Entity|JXJT.US|10|0.7|6
+Inverted Hammer|Entity|INDP.US|10|0.7|9
+Inverted Hammer|Entity|ORCL.US|10|0.7|16
+Inverted Hammer|Entity|CMCSA.US|10|0.7|22
+Inverted Hammer|Entity|JOE.US|20|0.7|49
+Inverted Hammer|Entity|HUBB.US|10|0.7|51
+Inverted Hammer|Entity|CAT.US|20|0.7|54
+Inverted Hammer|Entity|HMNF.US|10|0.7|67
+Inverted Hammer|Entity|NATH.US|10|0.7|70
+Inverted Hammer|Entity|MMM.US|30|0.7|75
+Inverted Hammer|Entity|ES.US|20|0.7|121
+Inverted Hammer|Entity|PPL.US|20|0.7|136
+Inverted Hammer|Entity|NMKBP.US|20|0.7|268
+Inverted Hammer|Entity|VGIT.US|10|0.7|1302
+Inverted Hammer|Industry|Utilities - Regulated Water|113|0.6991150442477876|73
+Inverted Hammer|Entity|DRS.US|33|0.696969696969697|6
+Inverted Hammer|Entity|TYL.US|33|0.696969696969697|24
+Inverted Hammer|Entity|AWR.US|33|0.696969696969697|132
+Inverted Hammer|Entity|KO.US|23|0.6956521739130435|77
+Inverted Hammer|Industry|Information Technology Services|128|0.6953125|32
+Inverted Hammer|Entity|ZYXI.US|13|0.6923076923076923|3
+Inverted Hammer|Entity|LEXX.US|13|0.6923076923076923|3
+Inverted Hammer|Entity|CRVO.US|13|0.6923076923076923|6
+Inverted Hammer|Entity|THRM.US|26|0.6923076923076923|8
+Inverted Hammer|Entity|EOG.US|13|0.6923076923076923|21
+Inverted Hammer|Entity|WTBA.US|13|0.6923076923076923|24
+Inverted Hammer|Entity|BEN.US|13|0.6923076923076923|31
+Inverted Hammer|Entity|CRVL.US|13|0.6923076923076923|40
+Inverted Hammer|Entity|CHD.US|26|0.6923076923076923|40
+Inverted Hammer|Entity|DD.US|13|0.6923076923076923|61
+Inverted Hammer|Entity|SR.US|52|0.6923076923076923|170
+Inverted Hammer|Industry|Diagnostics & Research|149|0.6912751677852349|10
+Inverted Hammer|Industry|Chemicals|42|0.6904761904761905|6
+Inverted Hammer|Entity|VOD.US|29|0.6896551724137931|32
+Inverted Hammer|Entity|VNO.US|29|0.6896551724137931|82
+Inverted Hammer|Entity|JNJ.US|29|0.6896551724137931|100
+Inverted Hammer|Industry|Biotechnology & Medical Research|16|0.6875|12
+Inverted Hammer|Entity|BBI.US|16|0.6875|12
+Inverted Hammer|Entity|HHS.US|16|0.6875|28
+Inverted Hammer|Entity|RGR.US|64|0.6875|36
+Inverted Hammer|Entity|CNP.US|54|0.6851851851851852|59
+Inverted Hammer|Entity|GMGI.US|19|0.6842105263157895|2
+Inverted Hammer|Entity|DMK.US|19|0.6842105263157895|9
+Inverted Hammer|Entity|UTMD.US|98|0.6836734693877551|10
+Inverted Hammer|Entity|ENVB.US|22|0.6818181818181818|5
+Inverted Hammer|Industry|Consulting Services|44|0.6818181818181818|27
+Inverted Hammer|Entity|FITB.US|22|0.6818181818181818|61
+Inverted Hammer|Industry|Utilities - Diversified|47|0.6808510638297872|143
+Inverted Hammer|Entity|TM.US|166|0.6807228915662651|51
+Inverted Hammer|Entity|TR.US|25|0.68|42
+Inverted Hammer|Entity|ASUR.US|28|0.6785714285714286|8
+Inverted Hammer|Entity|JKHY.US|28|0.6785714285714286|8
+Inverted Hammer|Entity|MIDD.US|28|0.6785714285714286|14
+Inverted Hammer|Industry|Real Estate Services|96|0.6770833333333334|17
+Inverted Hammer|Entity|MTW.US|34|0.6764705882352942|49
+Inverted Hammer|Entity|MLKN.US|40|0.675|51
+Inverted Hammer|Entity|GT.US|43|0.6744186046511628|35
+Inverted Hammer|Entity|WDFC.US|79|0.6708860759493671|31
+Inverted Hammer|Entity|BIOCQ.US|12|0.6666666666666666|2
+Inverted Hammer|Entity|HGBL.US|30|0.6666666666666666|4
+Inverted Hammer|Entity|ICAD.US|60|0.6666666666666666|5
+Inverted Hammer|Entity|SSYS.US|12|0.6666666666666666|5
+Inverted Hammer|Entity|ACHC.US|21|0.6666666666666666|5
+Inverted Hammer|Entity|DUOT.US|12|0.6666666666666666|6
+Inverted Hammer|Entity|ANIX.US|159|0.6666666666666666|6
+Inverted Hammer|Entity|BIMI.US|15|0.6666666666666666|8
+Inverted Hammer|Entity|PHIO.US|12|0.6666666666666666|9
+Inverted Hammer|Entity|MICS.US|15|0.6666666666666666|10
+Inverted Hammer|Entity|GCO.US|24|0.6666666666666666|10
+Inverted Hammer|Entity|USAU.US|48|0.6666666666666666|17
+Inverted Hammer|Entity|DORM.US|12|0.6666666666666666|21
+Inverted Hammer|Entity|DMLP.US|30|0.6666666666666666|23
+Inverted Hammer|Entity|THC.US|30|0.6666666666666666|27
+Inverted Hammer|Industry|Department Stores|24|0.6666666666666666|32
+Inverted Hammer|Entity|DDS.US|24|0.6666666666666666|32
+Inverted Hammer|Entity|D.US|12|0.6666666666666666|37
+Inverted Hammer|Industry|Railroads|12|0.6666666666666666|40
+Inverted Hammer|Industry|Pollution & Treatment Controls|42|0.6666666666666666|41
+Inverted Hammer|Entity|HON.US|21|0.6666666666666666|46
+Inverted Hammer|Entity|VRTX.US|12|0.6666666666666666|52
+Inverted Hammer|Entity|MKC.US|21|0.6666666666666666|53
+Inverted Hammer|Entity|NRT.US|105|0.6666666666666666|53
+Inverted Hammer|Entity|MOS.US|15|0.6666666666666666|55
+Inverted Hammer|Entity|SIGI.US|27|0.6666666666666666|59
+Inverted Hammer|Entity|EQT.US|39|0.6666666666666666|60
+Inverted Hammer|Entity|GAM.US|45|0.6666666666666666|62
+Inverted Hammer|Entity|SPGI.US|18|0.6666666666666666|64
+Inverted Hammer|Entity|GSK.US|15|0.6666666666666666|65
+Inverted Hammer|Entity|K.US|15|0.6666666666666666|67
+Inverted Hammer|Entity|ATO.US|12|0.6666666666666666|67
+Inverted Hammer|Entity|UHT.US|18|0.6666666666666666|90
+Inverted Hammer|Entity|GGG.US|80|0.6625|35
+Inverted Hammer|Industry|Conglomerates|38|0.6578947368421053|38
+Inverted Hammer|Entity|GURE.US|35|0.6571428571428571|5
+Inverted Hammer|Industry|Insurance - Life|35|0.6571428571428571|48
+Inverted Hammer|Industry|Agricultural Inputs|32|0.65625|39
+Inverted Hammer|Industry|Farm & Heavy Construction Machinery|87|0.6551724137931034|34
+Inverted Hammer|Entity|COHR.US|29|0.6551724137931034|35
+Inverted Hammer|Entity|ABEO.US|136|0.6544117647058824|8
+Inverted Hammer|Industry|Industrial Distribution|107|0.6542056074766355|54
+Inverted Hammer|Entity|CZR.US|26|0.6538461538461539|5
+Inverted Hammer|Entity|CAR.US|23|0.6521739130434783|17
+Inverted Hammer|Entity|JJSF.US|23|0.6521739130434783|20
+Inverted Hammer|Entity|CNA.US|23|0.6521739130434783|53
+Inverted Hammer|Entity|JBHT.US|23|0.6521739130434783|56
+Inverted Hammer|Entity|PBI.US|43|0.6511627906976745|32
+Inverted Hammer|Entity|WABC.US|83|0.6506024096385542|47
+Inverted Hammer|Entity|BBWI.US|20|0.65|28
+Inverted Hammer|Entity|WELL.US|20|0.65|53
+Inverted Hammer|Entity|RCRT.US|17|0.6470588235294118|7
+Inverted Hammer|Entity|RGLD.US|34|0.6470588235294118|8
+Inverted Hammer|Entity|MU.US|17|0.6470588235294118|10
+Inverted Hammer|Entity|SEE.US|17|0.6470588235294118|11
+Inverted Hammer|Industry|Auto Parts|68|0.6470588235294118|33
+Inverted Hammer|Entity|FBNC.US|17|0.6470588235294118|49
+Inverted Hammer|Entity|AFL.US|17|0.6470588235294118|50
+Inverted Hammer|Entity|CRT.US|17|0.6470588235294118|52
+Inverted Hammer|Entity|USLM.US|85|0.6470588235294118|54
+Inverted Hammer|Entity|CSL.US|51|0.6470588235294118|57
+Inverted Hammer|Industry|Home Improvement Retail|17|0.6470588235294118|61
+Inverted Hammer|Industry|Medical Devices|277|0.6462093862815884|10
+Inverted Hammer|Entity|THMO.US|31|0.6451612903225806|10
+Inverted Hammer|Entity|PNR.US|194|0.6443298969072165|25
+Inverted Hammer|Entity|OMEX.US|14|0.6428571428571429|12
+Inverted Hammer|Industry|Communication Equipment|140|0.6428571428571429|14
+Inverted Hammer|Entity|DX.US|14|0.6428571428571429|31
+Inverted Hammer|Entity|AUB.US|14|0.6428571428571429|41
+Inverted Hammer|Entity|WDS.US|14|0.6428571428571429|42
+Inverted Hammer|Entity|WRB.US|28|0.6428571428571429|48
+Inverted Hammer|Entity|SHW.US|14|0.6428571428571429|97
+Inverted Hammer|Entity|CBU.US|28|0.6428571428571429|166
+Inverted Hammer|Entity|TVC.US|14|0.6428571428571429|305
+Inverted Hammer|Industry|Resorts & Casinos|39|0.6410256410256411|8
+Inverted Hammer|Entity|CWT.US|39|0.6410256410256411|86
+Inverted Hammer|Entity|WFRD.US|25|0.64|12
+Inverted Hammer|Entity|OMC.US|25|0.64|44
+Inverted Hammer|Entity|OTTR.US|36|0.6388888888888888|80
+Inverted Hammer|Entity|MSI.US|94|0.6382978723404256|31
+Inverted Hammer|Entity|ONTX.US|11|0.6363636363636364|3
+Inverted Hammer|Entity|BTCS.US|11|0.6363636363636364|4
+Inverted Hammer|Entity|ELOX.US|11|0.6363636363636364|5
+Inverted Hammer|Entity|ADSK.US|11|0.6363636363636364|6
+Inverted Hammer|Entity|MCRI.US|11|0.6363636363636364|10
+Inverted Hammer|Entity|CAPR.US|11|0.6363636363636364|10
+Inverted Hammer|Entity|BBSI.US|11|0.6363636363636364|12
+Inverted Hammer|Entity|MDC.US|33|0.6363636363636364|15
+Inverted Hammer|Entity|URBN.US|11|0.6363636363636364|21
+Inverted Hammer|Entity|USM.US|44|0.6363636363636364|23
+Inverted Hammer|Entity|ADM.US|22|0.6363636363636364|38
+Inverted Hammer|Industry|Drug Manufacturers - General|66|0.6363636363636364|42
+Inverted Hammer|Entity|PNC.US|33|0.6363636363636364|45
+Inverted Hammer|Entity|CRK.US|41|0.6341463414634146|5
+Inverted Hammer|Industry|Staffing & Employment Services|41|0.6341463414634146|24
+Inverted Hammer|Industry|Semiconductor Equipment & Materials|30|0.6333333333333333|9
+Inverted Hammer|Entity|WPP.US|30|0.6333333333333333|32
+Inverted Hammer|Entity|BALL.US|30|0.6333333333333333|55
+Inverted Hammer|Entity|INTZ.US|19|0.631578947368421|7
+Inverted Hammer|Entity|IMKTA.US|38|0.631578947368421|38
+Inverted Hammer|Industry|Grocery Stores|38|0.631578947368421|38
+Inverted Hammer|Entity|ALE.US|19|0.631578947368421|206
+Inverted Hammer|Entity|AIR.US|27|0.6296296296296297|19
+Inverted Hammer|Entity|CMA.US|27|0.6296296296296297|39
+Inverted Hammer|Entity|SKY.US|27|0.6296296296296297|50
+Inverted Hammer|Entity|BIOL.US|24|0.625|6
+Inverted Hammer|Entity|TTNP.US|16|0.625|6
+Inverted Hammer|Entity|MTH.US|16|0.625|6
+Inverted Hammer|Entity|FCFS.US|24|0.625|6
+Inverted Hammer|Entity|JBSS.US|16|0.625|19
+Inverted Hammer|Industry|Travel Services|16|0.625|30
+Inverted Hammer|Entity|GL.US|16|0.625|44
+Inverted Hammer|Entity|SDP.US|24|0.625|49
+Inverted Hammer|Entity|CPF.US|16|0.625|52
+Inverted Hammer|Entity|KEY.US|24|0.625|53
+Inverted Hammer|Entity|BF-A.US|32|0.625|55
+Inverted Hammer|Entity|VXRT.US|61|0.6229508196721312|8
+Inverted Hammer|Industry|Capital Markets|90|0.6222222222222222|12
+Inverted Hammer|Entity|TARO.US|37|0.6216216216216216|20
+Inverted Hammer|Entity|LCII.US|37|0.6216216216216216|24
+Inverted Hammer|Entity|TDS.US|37|0.6216216216216216|29
+Inverted Hammer|Entity|ASTE.US|37|0.6216216216216216|31
+Inverted Hammer|Industry|Pharmaceutical Retailers|29|0.6206896551724138|11
+Inverted Hammer|Entity|AVY.US|29|0.6206896551724138|55
+Inverted Hammer|Entity|YTEN.US|21|0.6190476190476191|5
+Inverted Hammer|Entity|AMAT.US|21|0.6190476190476191|7
+Inverted Hammer|Industry|Solar|21|0.6190476190476191|13
+Inverted Hammer|Entity|KWR.US|21|0.6190476190476191|36
+Inverted Hammer|Entity|GD.US|118|0.6186440677966102|42
+Inverted Hammer|Industry|Advertising Agencies|73|0.6164383561643836|37
+Inverted Hammer|Entity|NSPR.US|13|0.6153846153846154|3
+Inverted Hammer|Entity|TOPS.US|13|0.6153846153846154|6
+Inverted Hammer|Entity|PMCB.US|13|0.6153846153846154|6
+Inverted Hammer|Entity|BYFC.US|13|0.6153846153846154|14
+Inverted Hammer|Industry|Personal Services|26|0.6153846153846154|26
+Inverted Hammer|Entity|TSN.US|13|0.6153846153846154|28
+Inverted Hammer|Entity|PHI.US|52|0.6153846153846154|33
+Inverted Hammer|Entity|LANC.US|26|0.6153846153846154|40
+Inverted Hammer|Entity|SWK.US|26|0.6153846153846154|52
+Inverted Hammer|Entity|R.US|13|0.6153846153846154|61
+Inverted Hammer|Entity|HQH.US|13|0.6153846153846154|68
+Inverted Hammer|Entity|UBSI.US|13|0.6153846153846154|94
+Inverted Hammer|Sector|Healthcare|2431|0.6145619086795557|14
+Inverted Hammer|Entity|CDE.US|75|0.6133333333333333|24
+Inverted Hammer|Entity|BSET.US|75|0.6133333333333333|57
+Inverted Hammer|Entity|TISI.US|31|0.6129032258064516|15
+Inverted Hammer|Entity|BELFA.US|49|0.6122448979591837|9
+Inverted Hammer|Industry|Real Estate - Development|18|0.6111111111111112|15
+Inverted Hammer|Entity|BZH.US|18|0.6111111111111112|39
+Inverted Hammer|Entity|BOH.US|18|0.6111111111111112|55
+Inverted Hammer|Industry|Rental & Leasing Services|64|0.609375|23
+Inverted Hammer|Entity|FKWL.US|23|0.6086956521739131|5
+Inverted Hammer|Entity|PCAR.US|23|0.6086956521739131|34
+Inverted Hammer|Entity|JCI.US|23|0.6086956521739131|37
+Inverted Hammer|Entity|GPC.US|23|0.6086956521739131|65
+Inverted Hammer|Entity|MRK.US|23|0.6086956521739131|82
+Inverted Hammer|Entity|MDT.US|84|0.6071428571428571|18
+Inverted Hammer|Entity|TRMK.US|28|0.6071428571428571|43
+Inverted Hammer|Entity|AZZ.US|33|0.6060606060606061|21
+Inverted Hammer|Entity|CINF.US|33|0.6060606060606061|56
+Inverted Hammer|Industry|Software - Application|228|0.6052631578947368|11
+Inverted Hammer|Entity|HRTX.US|48|0.6041666666666666|7
+Inverted Hammer|Industry|Biotechnology|1208|0.6026490066225165|7
+Inverted Hammer|Industry|Drug Manufacturers - Specialty & Generic|161|0.6024844720496895|10
+Inverted Hammer|Industry|Restaurants|103|0.6019417475728155|27
+Inverted Hammer|Sector|Technology|1107|0.6016260162601627|22
+Inverted Hammer|Entity|IZEA.US|10|0.6|4
+Inverted Hammer|Entity|MTEM.US|10|0.6|4
+Inverted Hammer|Entity|DIOD.US|35|0.6|10
+Inverted Hammer|Entity|PHM.US|25|0.6|17
+Inverted Hammer|Entity|BCO.US|20|0.6|23
+Inverted Hammer|Entity|AON.US|15|0.6|23
+Inverted Hammer|Entity|IMAX.US|10|0.6|24
+Inverted Hammer|Entity|HURC.US|100|0.6|25
+Inverted Hammer|Entity|VTRS.US|30|0.6|27
+Inverted Hammer|Industry|Oil & Gas E&P|305|0.6|31
+Inverted Hammer|Entity|TXN.US|15|0.6|39
+Inverted Hammer|Entity|KELYA.US|45|0.6|47
+Inverted Hammer|Entity|TFX.US|15|0.6|47
+Inverted Hammer|Entity|RF.US|20|0.6|57
+Inverted Hammer|Industry|Insurance Brokers|55|0.6|57
+Inverted Hammer|Entity|WTS.US|15|0.6|61
+Inverted Hammer|Entity|C.US|15|0.6|61
+Inverted Hammer|Entity|SRCE.US|35|0.6|72
+Inverted Hammer|Entity|GRC.US|40|0.6|72
+Inverted Hammer|Entity|SOR.US|40|0.6|99
+Inverted Hammer|Entity|NKSH.US|10|0.6|103
+Inverted Hammer|Entity|TY.US|40|0.6|157
+Inverted Hammer|Industry|Beverages - Non-Alcoholic|109|0.5963302752293578|66
+Inverted Hammer|Entity|AOS.US|47|0.5957446808510638|40
+Inverted Hammer|Entity|RLI.US|42|0.5952380952380952|35
+Inverted Hammer|Industry|Electronics & Computer Distribution|69|0.5942028985507246|29
+Inverted Hammer|Entity|CL.US|32|0.59375|40
+Inverted Hammer|Entity|RJF.US|32|0.59375|42
+Inverted Hammer|Entity|DOC.US|32|0.59375|116
+Inverted Hammer|Entity|TRC.US|27|0.5925925925925926|26
+Inverted Hammer|Entity|AEP.US|49|0.5918367346938775|73
+Inverted Hammer|Entity|PKE.US|44|0.5909090909090909|117
+Inverted Hammer|Entity|CODA.US|17|0.5882352941176471|3
+Inverted Hammer|Entity|LGND.US|17|0.5882352941176471|8
+Inverted Hammer|Entity|JAN.US|17|0.5882352941176471|13
+Inverted Hammer|Entity|DY.US|34|0.5882352941176471|14
+Inverted Hammer|Entity|VJET.US|17|0.5882352941176471|14
+Inverted Hammer|Entity|ATNI.US|17|0.5882352941176471|14
+Inverted Hammer|Entity|EAT.US|17|0.5882352941176471|17
+Inverted Hammer|Entity|BMI.US|51|0.5882352941176471|68
+Inverted Hammer|Entity|NDSN.US|34|0.5882352941176471|90
+Inverted Hammer|Industry|Scientific & Technical Instruments|99|0.5858585858585859|48
+Inverted Hammer|Entity|SMTC.US|24|0.5833333333333334|3
+Inverted Hammer|Entity|VS.US|12|0.5833333333333334|4
+Inverted Hammer|Entity|CRUS.US|12|0.5833333333333334|7
+Inverted Hammer|Entity|OCUP.US|12|0.5833333333333334|12
+Inverted Hammer|Entity|TTEC.US|12|0.5833333333333334|14
+Inverted Hammer|Entity|MBI.US|12|0.5833333333333334|14
+Inverted Hammer|Entity|NURO.US|12|0.5833333333333334|14
+Inverted Hammer|Entity|OXY.US|36|0.5833333333333334|17
+Inverted Hammer|Entity|HP.US|12|0.5833333333333334|22
+Inverted Hammer|Entity|BELFB.US|12|0.5833333333333334|25
+Inverted Hammer|Entity|WLFC.US|12|0.5833333333333334|28
+Inverted Hammer|Entity|PLPC.US|12|0.5833333333333334|35
+Inverted Hammer|Entity|CALM.US|12|0.5833333333333334|43
+Inverted Hammer|Entity|HVT-A.US|12|0.5833333333333334|80
+Inverted Hammer|Entity|WHR.US|55|0.5818181818181818|43
+Inverted Hammer|Industry|Software - Infrastructure|98|0.5816326530612245|15
+Inverted Hammer|Industry|Packaged Foods|74|0.581081081081081|34
+Inverted Hammer|Entity|CPG.US|31|0.5806451612903226|49
+Inverted Hammer|Sector|Industrials|2601|0.5790080738177624|37
+Inverted Hammer|Entity|FCEL.US|19|0.5789473684210527|10
+Inverted Hammer|Entity|HRB.US|19|0.5789473684210527|32
+Inverted Hammer|Entity|NEE.US|19|0.5789473684210527|209
+Inverted Hammer|Sector|Utilities|819|0.5787545787545788|84
+Inverted Hammer|Industry|Specialty Chemicals|291|0.5773195876288659|39
+Inverted Hammer|Industry|Aerospace & Defense|577|0.5771230502599654|31
+Inverted Hammer|Entity|LRCX.US|26|0.5769230769230769|9
+Inverted Hammer|Industry|Building Products & Equipment|104|0.5769230769230769|44
+Inverted Hammer|Entity|MCY.US|40|0.575|30
+Inverted Hammer|Entity|CW.US|127|0.5748031496062992|50
+Inverted Hammer|Entity|FLXS.US|47|0.574468085106383|42
+Inverted Hammer|Industry|Packaging & Containers|115|0.5739130434782609|50
+Inverted Hammer|Industry|Specialty Industrial Machinery|711|0.5738396624472574|46
+Inverted Hammer|Entity|CASI.US|21|0.5714285714285714|5
+Inverted Hammer|Entity|GVP.US|14|0.5714285714285714|10
+Inverted Hammer|Entity|CJJD.US|14|0.5714285714285714|16
+Inverted Hammer|Entity|AYRO.US|21|0.5714285714285714|16
+Inverted Hammer|Entity|TZA.US|21|0.5714285714285714|20
+Inverted Hammer|Entity|ODC.US|35|0.5714285714285714|25
+Inverted Hammer|Entity|ETN.US|14|0.5714285714285714|34
+Inverted Hammer|Entity|DXC.US|21|0.5714285714285714|37
+Inverted Hammer|Entity|SNV.US|28|0.5714285714285714|44
+Inverted Hammer|Entity|AIT.US|63|0.5714285714285714|57
+Inverted Hammer|Entity|TAP.US|170|0.5705882352941176|37
+Inverted Hammer|Industry|REIT - Industrial|107|0.5700934579439252|62
+Inverted Hammer|Entity|GHC.US|172|0.5697674418604651|94
+Inverted Hammer|Entity|STAA.US|44|0.5681818181818182|12
+Inverted Hammer|Entity|BC.US|44|0.5681818181818182|26
+Inverted Hammer|Industry|Telecom Services|81|0.5679012345679012|86
+Inverted Hammer|Industry|REIT - Healthcare Facilities|37|0.5675675675675675|113
+Inverted Hammer|Entity|TXT.US|76|0.5657894736842105|53
+Inverted Hammer|Entity|MTR.US|76|0.5657894736842105|107
+Inverted Hammer|Industry|Auto & Truck Dealerships|23|0.5652173913043478|14
+Inverted Hammer|Entity|WSM.US|23|0.5652173913043478|18
+Inverted Hammer|Entity|HUM.US|23|0.5652173913043478|35
+Inverted Hammer|Entity|SITC.US|23|0.5652173913043478|92
+Inverted Hammer|Entity|B.US|69|0.5652173913043478|122
+Inverted Hammer|Entity|CAMP.US|39|0.5641025641025641|3
+Inverted Hammer|Industry|Integrated Freight & Logistics|39|0.5641025641025641|24
+Inverted Hammer|Entity|AUPH.US|16|0.5625|17
+Inverted Hammer|Entity|ROK.US|16|0.5625|24
+Inverted Hammer|Entity|MCD.US|16|0.5625|25
+Inverted Hammer|Industry|Household & Personal Products|144|0.5625|32
+Inverted Hammer|Industry|Business Equipment & Supplies|112|0.5625|33
+Inverted Hammer|Entity|HNI.US|112|0.5625|33
+Inverted Hammer|Entity|SUP.US|16|0.5625|45
+Inverted Hammer|Entity|INTG.US|16|0.5625|64
+Inverted Hammer|Entity|GLT.US|16|0.5625|80
+Inverted Hammer|Entity|MUR.US|32|0.5625|82
+Inverted Hammer|Entity|SENEB.US|16|0.5625|135
+Inverted Hammer|Sector|Consumer Defensive|895|0.5620111731843576|54
+Inverted Hammer|Entity|SCX.US|57|0.5614035087719298|64
+Inverted Hammer|Entity|UFCS.US|66|0.5606060606060606|42
+Inverted Hammer|Industry|Beverages - Wineries & Distilleries|66|0.5606060606060606|52
+Inverted Hammer|Sector|Consumer Cyclical|1276|0.5603448275862069|31
+Inverted Hammer|Entity|IONS.US|25|0.56|7
+Inverted Hammer|Entity|TSEM.US|25|0.56|10
+Inverted Hammer|Industry|Consumer Electronics|25|0.56|12
+Inverted Hammer|Entity|TGT.US|25|0.56|39
+Inverted Hammer|Industry|Residential Construction|84|0.5595238095238095|24
+Inverted Hammer|Entity|PEGY.US|59|0.559322033898305|21
+Inverted Hammer|Industry|Education & Training Services|220|0.5590909090909091|77
+Inverted Hammer|Entity|AVNT.US|34|0.5588235294117647|33
+Inverted Hammer|Entity|HEI.US|70|0.5571428571428572|24
+Inverted Hammer|Industry|Banks - Regional|1128|0.5567375886524822|66
+Inverted Hammer|Entity|INDB.US|27|0.5555555555555556|11
+Inverted Hammer|Entity|DRD.US|27|0.5555555555555556|11
+Inverted Hammer|Entity|TOL.US|27|0.5555555555555556|11
+Inverted Hammer|Industry|Oil & Gas Equipment & Services|90|0.5555555555555556|19
+Inverted Hammer|Industry|Aluminum|27|0.5555555555555556|45
+Inverted Hammer|Industry|Credit Services|83|0.5542168674698795|25
+Inverted Hammer|Industry|REIT - Retail|168|0.5535714285714286|46
+Inverted Hammer|Sector|Basic Materials|820|0.552439024390244|31
+Inverted Hammer|Entity|EGP.US|96|0.5520833333333334|64
+Inverted Hammer|Entity|BBY.US|29|0.5517241379310345|12
+Inverted Hammer|Entity|SBCF.US|49|0.5510204081632653|96
+Inverted Hammer|Industry|Oil & Gas Drilling|20|0.55|17
+Inverted Hammer|Entity|COKE.US|60|0.55|64
+Inverted Hammer|Industry|Insurance - Property & Casualty|111|0.5495495495495496|55
+Inverted Hammer|Overall|All|35934|0.5494796014916236|55
+Inverted Hammer|Entity|PATK.US|71|0.5492957746478874|12
+Inverted Hammer|Entity|PHG.US|31|0.5483870967741935|29
+Inverted Hammer|Entity|AXP.US|31|0.5483870967741935|31
+Inverted Hammer|Industry|Furnishings, Fixtures & Appliances|197|0.5482233502538071|38
+Inverted Hammer|Industry|Electronic Components|137|0.5474452554744526|34
+Inverted Hammer|Sector|Communication Services|349|0.5472779369627507|37
+Inverted Hammer|Industry|Recreational Vehicles|53|0.5471698113207547|23
+Inverted Hammer|Sector|Financial Services|2003|0.5466799800299551|60
+Inverted Hammer|Entity|EKSO.US|11|0.5454545454545454|6
+Inverted Hammer|Entity|CHCI.US|22|0.5454545454545454|10
+Inverted Hammer|Entity|WMS.US|55|0.5454545454545454|13
+Inverted Hammer|Entity|QDEL.US|11|0.5454545454545454|16
+Inverted Hammer|Entity|COST.US|11|0.5454545454545454|18
+Inverted Hammer|Entity|HSON.US|11|0.5454545454545454|22
+Inverted Hammer|Entity|GOGL.US|11|0.5454545454545454|26
+Inverted Hammer|Entity|PXJ.US|11|0.5454545454545454|42
+Inverted Hammer|Entity|TGNA.US|22|0.5454545454545454|48
+Inverted Hammer|Entity|STRA.US|11|0.5454545454545454|48
+Inverted Hammer|Entity|TVE.US|11|0.5454545454545454|407
+Inverted Hammer|Entity|SMMU.US|11|0.5454545454545454|976
+Inverted Hammer|Industry|Electronic Gaming & Multimedia|57|0.543859649122807|7
+Inverted Hammer|Entity|MBOT.US|24|0.5416666666666666|10
+Inverted Hammer|Entity|AA.US|24|0.5416666666666666|49
+Inverted Hammer|Entity|VLO.US|37|0.5405405405405406|22
+Inverted Hammer|Sector|Energy|666|0.5405405405405406|35
+Inverted Hammer|Entity|AKTX.US|13|0.5384615384615384|12
+Inverted Hammer|Entity|INTC.US|13|0.5384615384615384|15
+Inverted Hammer|Entity|FENG.US|13|0.5384615384615384|19
+Inverted Hammer|Entity|NYT.US|13|0.5384615384615384|26
+Inverted Hammer|Entity|BAC.US|26|0.5384615384615384|27
+Inverted Hammer|Entity|AKO-B.US|13|0.5384615384615384|38
+Inverted Hammer|Entity|CCL.US|13|0.5384615384615384|39
+Inverted Hammer|Entity|MTEX.US|13|0.5384615384615384|66
+Inverted Hammer|Entity|CVX.US|39|0.5384615384615384|87
+Inverted Hammer|Entity|LIVE.US|13|0.5384615384615384|106
+Inverted Hammer|Entity|XEL.US|13|0.5384615384615384|113
+Inverted Hammer|Entity|PZT.US|13|0.5384615384615384|610
+Inverted Hammer|Entity|HOV.US|54|0.5370370370370371|15
+Inverted Hammer|Entity|SMN.US|28|0.5357142857142857|43
+Inverted Hammer|Entity|EQC.US|28|0.5357142857142857|117
+Inverted Hammer|Industry|Semiconductors|127|0.5354330708661418|19
+Inverted Hammer|Entity|AU.US|43|0.5348837209302325|22
+Inverted Hammer|Entity|SSKN.US|15|0.5333333333333333|4
+Inverted Hammer|Entity|AEMD.US|15|0.5333333333333333|5
+Inverted Hammer|Entity|TJX.US|15|0.5333333333333333|16
+Inverted Hammer|Entity|UNH.US|15|0.5333333333333333|28
+Inverted Hammer|Industry|Leisure|45|0.5333333333333333|29
+Inverted Hammer|Entity|SSP.US|15|0.5333333333333333|45
+Inverted Hammer|Entity|SAFE.US|15|0.5333333333333333|56
+Inverted Hammer|Entity|JPM.US|77|0.5324675324675324|33
+Inverted Hammer|Entity|PKOH.US|47|0.5319148936170213|18
+Inverted Hammer|Industry|Specialty Retail|126|0.5317460317460317|38
+Inverted Hammer|Entity|DINO.US|49|0.5306122448979592|36
+Inverted Hammer|Entity|MTRN.US|66|0.5303030303030303|53
+Inverted Hammer|Entity|BH.US|17|0.5294117647058824|16
+Inverted Hammer|Entity|STCN.US|17|0.5294117647058824|17
+Inverted Hammer|Entity|OCC.US|17|0.5294117647058824|29
+Inverted Hammer|Industry|Paper & Paper Products|17|0.5294117647058824|80
+Inverted Hammer|Entity|MTB.US|34|0.5294117647058824|87
+Inverted Hammer|Entity|HDGE.US|17|0.5294117647058824|118
+Inverted Hammer|Entity|BCE.US|34|0.5294117647058824|157
+Inverted Hammer|Industry|Apparel Retail|157|0.5286624203821656|28
+Inverted Hammer|Entity|AMSC.US|36|0.5277777777777778|18
+Inverted Hammer|Industry|Engineering & Construction|110|0.5272727272727272|19
+Inverted Hammer|Entity|AAPL.US|19|0.5263157894736842|14
+Inverted Hammer|Entity|MIND.US|19|0.5263157894736842|18
+Inverted Hammer|Entity|WFC.US|19|0.5263157894736842|58
+Inverted Hammer|Entity|EXC.US|19|0.5263157894736842|123
+Inverted Hammer|Entity|KMT.US|78|0.5256410256410257|49
+Inverted Hammer|Industry|Waste Management|40|0.525|9
+Inverted Hammer|Entity|CHNR.US|21|0.5238095238095238|6
+Inverted Hammer|Entity|SKYW.US|42|0.5238095238095238|19
+Inverted Hammer|Industry|Internet Retail|21|0.5238095238095238|25
+Inverted Hammer|Entity|SDD.US|21|0.5238095238095238|43
+Inverted Hammer|Industry|Marine Shipping|46|0.5217391304347826|21
+Inverted Hammer|Entity|EEV.US|23|0.5217391304347826|23
+Inverted Hammer|Entity|ARKR.US|23|0.5217391304347826|27
+Inverted Hammer|Entity|GATX.US|23|0.5217391304347826|34
+Inverted Hammer|Entity|SON.US|23|0.5217391304347826|79
+Inverted Hammer|Entity|OBLG.US|25|0.52|8
+Inverted Hammer|Industry|Real Estate - Diversified|25|0.52|10
+Inverted Hammer|Entity|SIG.US|25|0.52|12
+Inverted Hammer|Entity|KEX.US|50|0.52|15
+Inverted Hammer|Entity|RVTY.US|25|0.52|45
+Inverted Hammer|Entity|PSA.US|25|0.52|52
+Inverted Hammer|Entity|FL.US|27|0.5185185185185185|28
+Inverted Hammer|Entity|BA.US|27|0.5185185185185185|31
+Inverted Hammer|Entity|CARV.US|27|0.5185185185185185|35
+Inverted Hammer|Entity|APOG.US|27|0.5185185185185185|46
+Inverted Hammer|Entity|CRS.US|56|0.5178571428571429|52
+Inverted Hammer|Entity|CLH.US|29|0.5172413793103449|11
+Inverted Hammer|Entity|CAL.US|58|0.5172413793103449|40
+Inverted Hammer|Entity|CCK.US|29|0.5172413793103449|46
+Inverted Hammer|Entity|BXMT.US|60|0.5166666666666667|23
+Inverted Hammer|Entity|WERN.US|31|0.5161290322580645|27
+Inverted Hammer|Entity|HMC.US|35|0.5142857142857142|29
+Inverted Hammer|Industry|Utilities - Regulated Electric|494|0.5141700404858299|93
+Inverted Hammer|Entity|SQQQ.US|39|0.5128205128205128|16
+Inverted Hammer|Sector|Real Estate|917|0.5114503816793893|56
+Inverted Hammer|Industry|Entertainment|57|0.5087719298245614|19
+Inverted Hammer|Entity|BDX.US|57|0.5087719298245614|35
+Inverted Hammer|Entity|XOMA.US|59|0.5084745762711864|9
+Inverted Hammer|Entity|PNM.US|63|0.5079365079365079|54
+Inverted Hammer|Entity|XRX.US|65|0.5076923076923077|47
+Inverted Hammer|Entity|SBR.US|67|0.5074626865671642|74
+Inverted Hammer|Entity|TTC.US|87|0.5057471264367817|40
+Inverted Hammer|Industry|Oil & Gas Integrated|111|0.5045045045045045|68
+Inverted Hammer|Entity|FNGD.US|12|0.5|3
+Inverted Hammer|Entity|ENG.US|12|0.5|3
+Inverted Hammer|Entity|PRPO.US|20|0.5|3
+Inverted Hammer|Entity|LNW.US|28|0.5|3
+Inverted Hammer|Entity|CNVS.US|16|0.5|5
+Inverted Hammer|Industry|Health Information Services|14|0.5|6
+Inverted Hammer|Entity|USAP.US|14|0.5|7
+Inverted Hammer|Entity|DRIP.US|10|0.5|7
+Inverted Hammer|Entity|INFIQ.US|10|0.5|7
+Inverted Hammer|Entity|WHLM.US|18|0.5|7
+Inverted Hammer|Entity|OMQS.US|12|0.5|9
+Inverted Hammer|Entity|ARWR.US|10|0.5|9
+Inverted Hammer|Entity|EMKR.US|10|0.5|9
+Inverted Hammer|Entity|RKDA.US|10|0.5|10
+Inverted Hammer|Entity|ATHE.US|12|0.5|10
+Inverted Hammer|Entity|SYTA.US|10|0.5|12
+Inverted Hammer|Entity|AN.US|10|0.5|13
+Inverted Hammer|Entity|SSL.US|96|0.5|14
+Inverted Hammer|Entity|IEX.US|10|0.5|15
+Inverted Hammer|Entity|MARPS.US|24|0.5|16
+Inverted Hammer|Entity|SEED.US|12|0.5|16
+Inverted Hammer|Entity|BZQ.US|10|0.5|17
+Inverted Hammer|Entity|STRR.US|10|0.5|18
+Inverted Hammer|Entity|SCO.US|16|0.5|21
+Inverted Hammer|Entity|ODP.US|12|0.5|21
+Inverted Hammer|Entity|EXPD.US|12|0.5|23
+Inverted Hammer|Entity|SRTY.US|20|0.5|23
+Inverted Hammer|Entity|SCI.US|30|0.5|28
+Inverted Hammer|Entity|ECL.US|20|0.5|29
+Inverted Hammer|Entity|BIS.US|24|0.5|29
+Inverted Hammer|Entity|HES.US|28|0.5|30
+Inverted Hammer|Entity|VFC.US|18|0.5|31
+Inverted Hammer|Entity|PCH.US|20|0.5|34
+Inverted Hammer|Entity|HAFC.US|12|0.5|34
+Inverted Hammer|Entity|VLY.US|14|0.5|35
+Inverted Hammer|Entity|SSB.US|16|0.5|36
+Inverted Hammer|Entity|THO.US|44|0.5|37
+Inverted Hammer|Entity|WIRE.US|12|0.5|38
+Inverted Hammer|Entity|XRAY.US|10|0.5|40
+Inverted Hammer|Entity|HIW.US|10|0.5|41
+Inverted Hammer|Entity|GEF.US|24|0.5|41
+Inverted Hammer|Entity|BF-B.US|22|0.5|45
+Inverted Hammer|Entity|EWV.US|26|0.5|50
+Inverted Hammer|Entity|VZ.US|10|0.5|50
+Inverted Hammer|Entity|BANF.US|14|0.5|50
+Inverted Hammer|Entity|CIVB.US|10|0.5|51
+Inverted Hammer|Entity|ALCO.US|94|0.5|52
+Inverted Hammer|Entity|NTRS.US|20|0.5|58
+Inverted Hammer|Entity|EFU.US|14|0.5|61
+Inverted Hammer|Entity|LEG.US|30|0.5|78
+Inverted Hammer|Entity|FE.US|10|0.5|96
+Inverted Hammer|Entity|FFBC.US|22|0.5|97
+Inverted Hammer|Entity|EUM.US|22|0.5|128
+Inverted Hammer|Entity|GLDI.US|14|0.5|273
+Inverted Hammer|Entity|AGZ.US|14|0.5|891
+Inverted Hammer|Industry|Farm Products|149|0.4966442953020134|52
+Inverted Hammer|Entity|VMI.US|103|0.49514563106796117|21
+Inverted Hammer|Industry|Auto Manufacturers|87|0.4942528735632184|20
+Inverted Hammer|Industry|Security & Protection Services|81|0.49382716049382713|25
+Inverted Hammer|Industry|Banks - Diversified|81|0.49382716049382713|37
+Inverted Hammer|Entity|NEWT.US|73|0.4931506849315068|13
+Inverted Hammer|Entity|CTS.US|55|0.4909090909090909|70
+Inverted Hammer|Entity|PNW.US|51|0.49019607843137253|55
+Inverted Hammer|Industry|Trucking|45|0.4888888888888889|14
+Inverted Hammer|Entity|ARW.US|43|0.4883720930232558|22
+Inverted Hammer|Industry|Medical Care Facilities|129|0.4883720930232558|39
+Inverted Hammer|Entity|CBT.US|80|0.4875|38
+Inverted Hammer|Industry|Gold|352|0.48579545454545453|20
+Inverted Hammer|Entity|SIJ.US|35|0.4857142857142857|34
+Inverted Hammer|Entity|NEU.US|35|0.4857142857142857|52
+Inverted Hammer|Entity|NVR.US|33|0.48484848484848486|7
+Inverted Hammer|Industry|Healthcare Plans|60|0.48333333333333334|35
+Inverted Hammer|Entity|PG.US|60|0.48333333333333334|110
+Inverted Hammer|Entity|QMCO.US|29|0.4827586206896552|15
+Inverted Hammer|Entity|RAMP.US|29|0.4827586206896552|59
+Inverted Hammer|Entity|RTX.US|56|0.48214285714285715|67
+Inverted Hammer|Entity|RICK.US|27|0.48148148148148145|8
+Inverted Hammer|Entity|TALO.US|27|0.48148148148148145|17
+Inverted Hammer|Entity|EHC.US|27|0.48148148148148145|19
+Inverted Hammer|Entity|FBP.US|25|0.48|30
+Inverted Hammer|Entity|SWX.US|50|0.48|80
+Inverted Hammer|Entity|EFZ.US|25|0.48|194
+Inverted Hammer|Industry|REIT - Residential|71|0.4788732394366197|115
+Inverted Hammer|Entity|ROG.US|63|0.47619047619047616|48
+Inverted Hammer|Entity|PFE.US|21|0.47619047619047616|73
+Inverted Hammer|Entity|VALU.US|40|0.475|20
+Inverted Hammer|Entity|STC.US|118|0.4745762711864407|27
+Inverted Hammer|Entity|TENX.US|19|0.47368421052631576|2
+Inverted Hammer|Entity|CMS.US|19|0.47368421052631576|89
+Inverted Hammer|Entity|HE.US|19|0.47368421052631576|155
+Inverted Hammer|Industry|Oil & Gas Refining & Marketing|87|0.47126436781609193|35
+Inverted Hammer|Entity|GIGM.US|17|0.47058823529411764|17
+Inverted Hammer|Entity|NEPH.US|15|0.4666666666666667|5
+Inverted Hammer|Entity|SLNG.US|15|0.4666666666666667|9
+Inverted Hammer|Entity|UTSI.US|15|0.4666666666666667|21
+Inverted Hammer|Entity|FLS.US|105|0.4666666666666667|31
+Inverted Hammer|Entity|GOLD.US|15|0.4666666666666667|31
+Inverted Hammer|Entity|PARAA.US|30|0.4666666666666667|39
+Inverted Hammer|Entity|CUZ.US|60|0.4666666666666667|54
+Inverted Hammer|Entity|BP.US|60|0.4666666666666667|65
+Inverted Hammer|Entity|UNL.US|15|0.4666666666666667|66
+Inverted Hammer|Entity|AMD.US|28|0.4642857142857143|20
+Inverted Hammer|Entity|ADI.US|28|0.4642857142857143|27
+Inverted Hammer|Entity|TRST.US|28|0.4642857142857143|31
+Inverted Hammer|Entity|EPV.US|28|0.4642857142857143|47
+Inverted Hammer|Entity|UHS.US|41|0.4634146341463415|25
+Inverted Hammer|Entity|HELE.US|67|0.4626865671641791|11
+Inverted Hammer|Entity|BPTH.US|13|0.46153846153846156|6
+Inverted Hammer|Entity|MRIN.US|13|0.46153846153846156|7
+Inverted Hammer|Entity|TZOO.US|13|0.46153846153846156|20
+Inverted Hammer|Entity|FUNC.US|13|0.46153846153846156|34
+Inverted Hammer|Entity|PH.US|26|0.46153846153846156|37
+Inverted Hammer|Entity|DIS.US|13|0.46153846153846156|40
+Inverted Hammer|Entity|VSEC.US|26|0.46153846153846156|46
+Inverted Hammer|Entity|TDW.US|50|0.46|22
+Inverted Hammer|Entity|MGPI.US|37|0.4594594594594595|18
+Inverted Hammer|Entity|TECS.US|24|0.4583333333333333|10
+Inverted Hammer|Entity|SOXS.US|24|0.4583333333333333|13
+Inverted Hammer|Industry|REIT - Specialty|24|0.4583333333333333|87
+Inverted Hammer|Industry|Medical Distribution|35|0.45714285714285713|23
+Inverted Hammer|Entity|SJB.US|35|0.45714285714285713|262
+Inverted Hammer|Entity|XCUR.US|11|0.45454545454545453|3
+Inverted Hammer|Entity|BKYI.US|22|0.45454545454545453|4
+Inverted Hammer|Entity|PALI.US|11|0.45454545454545453|7
+Inverted Hammer|Entity|OPGN.US|11|0.45454545454545453|11
+Inverted Hammer|Entity|PDS.US|22|0.45454545454545453|12
+Inverted Hammer|Entity|EGAN.US|11|0.45454545454545453|13
+Inverted Hammer|Entity|CVLG.US|11|0.45454545454545453|20
+Inverted Hammer|Entity|SBLK.US|11|0.45454545454545453|24
+Inverted Hammer|Entity|EBIX.US|11|0.45454545454545453|25
+Inverted Hammer|Entity|REW.US|33|0.45454545454545453|29
+Inverted Hammer|Entity|GDXJ.US|11|0.45454545454545453|29
+Inverted Hammer|Entity|SYBT.US|11|0.45454545454545453|35
+Inverted Hammer|Entity|PGC.US|11|0.45454545454545453|35
+Inverted Hammer|Entity|TKR.US|44|0.45454545454545453|51
+Inverted Hammer|Entity|YXI.US|11|0.45454545454545453|59
+Inverted Hammer|Entity|UVSP.US|11|0.45454545454545453|84
+Inverted Hammer|Industry|REIT - Office|170|0.45294117647058824|68
+Inverted Hammer|Entity|OMI.US|20|0.45|39
+Inverted Hammer|Industry|Metal Fabrication|80|0.45|46
+Inverted Hammer|Entity|ALX.US|89|0.449438202247191|51
+Inverted Hammer|Industry|REIT - Mortgage|138|0.4492753623188406|49
+Inverted Hammer|Entity|SPXC.US|29|0.4482758620689655|29
+Inverted Hammer|Entity|NWLI.US|76|0.4473684210526316|26
+Inverted Hammer|Entity|LOW.US|47|0.44680851063829785|22
+Inverted Hammer|Entity|VHI.US|63|0.4444444444444444|11
+Inverted Hammer|Entity|EDZ.US|18|0.4444444444444444|13
+Inverted Hammer|Entity|MAN.US|18|0.4444444444444444|29
+Inverted Hammer|Entity|LEE.US|45|0.4444444444444444|51
+Inverted Hammer|Entity|ULE.US|18|0.4444444444444444|78
+Inverted Hammer|Industry|Asset Management|305|0.4426229508196721|70
+Inverted Hammer|Industry|Discount Stores|43|0.4418604651162791|25
+Inverted Hammer|Entity|BRC.US|34|0.4411764705882353|43
+Inverted Hammer|Entity|CASY.US|34|0.4411764705882353|45
+Inverted Hammer|Entity|UIS.US|50|0.44|20
+Inverted Hammer|Entity|TEX.US|25|0.44|21
+Inverted Hammer|Entity|BCS.US|25|0.44|21
+Inverted Hammer|Entity|SDOW.US|25|0.44|39
+Inverted Hammer|Entity|EVRG.US|25|0.44|96
+Inverted Hammer|Entity|GBCI.US|16|0.4375|25
+Inverted Hammer|Entity|CGA.US|16|0.4375|52
+Inverted Hammer|Entity|SPB.US|39|0.4358974358974359|26
+Inverted Hammer|Entity|MOG-A.US|39|0.4358974358974359|27
+Inverted Hammer|Entity|APD.US|23|0.43478260869565216|27
+Inverted Hammer|Industry|Internet Content & Information|67|0.43283582089552236|17
+Inverted Hammer|Entity|ZION.US|44|0.4318181818181818|54
+Inverted Hammer|Entity|RHI.US|44|0.4318181818181818|96
+Inverted Hammer|Entity|MTZ.US|123|0.43089430894308944|10
+Inverted Hammer|Entity|ACHV.US|21|0.42857142857142855|4
+Inverted Hammer|Entity|BWEN.US|14|0.42857142857142855|11
+Inverted Hammer|Entity|STRS.US|14|0.42857142857142855|11
+Inverted Hammer|Entity|AMRN.US|14|0.42857142857142855|12
+Inverted Hammer|Entity|IDCC.US|21|0.42857142857142855|13
+Inverted Hammer|Entity|ARCB.US|28|0.42857142857142855|16
+Inverted Hammer|Entity|UNG.US|14|0.42857142857142855|27
+Inverted Hammer|Entity|PPG.US|14|0.42857142857142855|31
+Inverted Hammer|Entity|MLP.US|14|0.42857142857142855|42
+Inverted Hammer|Entity|CVS.US|28|0.42857142857142855|43
+Inverted Hammer|Entity|RRX.US|63|0.42857142857142855|53
+Inverted Hammer|Entity|HXL.US|47|0.425531914893617|29
+Inverted Hammer|Entity|WGO.US|52|0.4230769230769231|23
+Inverted Hammer|Sector|Financials|19|0.42105263157894735|121
+Inverted Hammer|Entity|STZ.US|31|0.41935483870967744|34
+Inverted Hammer|Entity|AFG.US|31|0.41935483870967744|66
+Inverted Hammer|Entity|RGS.US|43|0.4186046511627907|30
+Inverted Hammer|Entity|DCO.US|55|0.41818181818181815|18
+Inverted Hammer|Entity|NBSE.US|12|0.4166666666666667|3
+Inverted Hammer|Entity|TAOP.US|12|0.4166666666666667|14
+Inverted Hammer|Entity|SHEN.US|12|0.4166666666666667|31
+Inverted Hammer|Entity|WST.US|60|0.4166666666666667|37
+Inverted Hammer|Entity|CMCT.US|24|0.4166666666666667|48
+Inverted Hammer|Entity|LLY.US|12|0.4166666666666667|51
+Inverted Hammer|Entity|GSBC.US|12|0.4166666666666667|84
+Inverted Hammer|Entity|WSFS.US|46|0.41304347826086957|14
+Inverted Hammer|Entity|WBS.US|46|0.41304347826086957|51
+Inverted Hammer|Industry|Utilities - Renewable|17|0.4117647058823529|10
+Inverted Hammer|Entity|IBCP.US|17|0.4117647058823529|48
+Inverted Hammer|Entity|REK.US|17|0.4117647058823529|94
+Inverted Hammer|Entity|VLT.US|22|0.4090909090909091|46
+Inverted Hammer|Entity|MFA.US|22|0.4090909090909091|47
+Inverted Hammer|Entity|SONY.US|22|0.4090909090909091|54
+Inverted Hammer|Entity|OXM.US|44|0.4090909090909091|56
+Inverted Hammer|Entity|TWM.US|27|0.4074074074074074|29
+Inverted Hammer|Entity|QID.US|47|0.40425531914893614|27
+Inverted Hammer|Entity|CMI.US|52|0.40384615384615385|61
+Inverted Hammer|Entity|CENN.US|15|0.4|4
+Inverted Hammer|Entity|ASRT.US|10|0.4|4
+Inverted Hammer|Entity|CLPT.US|10|0.4|6
+Inverted Hammer|Entity|NUGT.US|10|0.4|8
+Inverted Hammer|Entity|JWN.US|15|0.4|10
+Inverted Hammer|Entity|TPC.US|20|0.4|11
+Inverted Hammer|Entity|GYRE.US|10|0.4|11
+Inverted Hammer|Entity|BIG.US|25|0.4|11
+Inverted Hammer|Entity|NTZ.US|10|0.4|15
+Inverted Hammer|Entity|SRL.US|10|0.4|16
+Inverted Hammer|Entity|LIVN.US|15|0.4|17
+Inverted Hammer|Entity|DUG.US|20|0.4|24
+Inverted Hammer|Entity|EPAC.US|20|0.4|27
+Inverted Hammer|Entity|CPB.US|10|0.4|29
+Inverted Hammer|Industry|Oil & Gas Midstream|45|0.4|29
+Inverted Hammer|Entity|UFI.US|35|0.4|34
+Inverted Hammer|Entity|ATI.US|10|0.4|34
+Inverted Hammer|Entity|SMDD.US|35|0.4|36
+Inverted Hammer|Entity|IEP.US|20|0.4|43
+Inverted Hammer|Entity|BK.US|10|0.4|50
+Inverted Hammer|Entity|CHMG.US|10|0.4|108
+Inverted Hammer|Entity|MBSD.US|10|0.4|593
+Inverted Hammer|Entity|AEM.US|186|0.3978494623655914|18
+Inverted Hammer|Entity|SJW.US|58|0.39655172413793105|130
+Inverted Hammer|Entity|FBRT.US|38|0.39473684210526316|48
+Inverted Hammer|Entity|KLAC.US|28|0.39285714285714285|13
+Inverted Hammer|Entity|BDN.US|28|0.39285714285714285|23
+Inverted Hammer|Entity|FAZ.US|41|0.3902439024390244|23
+Inverted Hammer|Entity|SEEL.US|18|0.3888888888888889|5
+Inverted Hammer|Entity|WINT.US|18|0.3888888888888889|9
+Inverted Hammer|Entity|DVN.US|36|0.3888888888888889|25
+Inverted Hammer|Entity|LEN.US|54|0.3888888888888889|33
+Inverted Hammer|Entity|MYY.US|36|0.3888888888888889|166
+Inverted Hammer|Entity|SRS.US|31|0.3870967741935484|39
+Inverted Hammer|Entity|ALK.US|44|0.38636363636363635|24
+Inverted Hammer|Entity|ADBE.US|13|0.38461538461538464|6
+Inverted Hammer|Entity|BIO.US|13|0.38461538461538464|44
+Inverted Hammer|Entity|IBM.US|13|0.38461538461538464|186
+Inverted Hammer|Entity|HST.US|47|0.3829787234042553|55
+Inverted Hammer|Entity|WTRG.US|34|0.38235294117647056|146
+Inverted Hammer|Entity|TEVA.US|21|0.38095238095238093|31
+Inverted Hammer|Entity|UVV.US|29|0.3793103448275862|40
+Inverted Hammer|Entity|ELME.US|45|0.37777777777777777|69
+Inverted Hammer|Industry|REIT - Hotel & Motel|53|0.37735849056603776|53
+Inverted Hammer|Industry|Airlines|61|0.3770491803278688|23
+Inverted Hammer|Entity|AIN.US|32|0.375|39
+Inverted Hammer|Industry|Textile Manufacturing|32|0.375|39
+Inverted Hammer|Entity|DXD.US|40|0.375|66
+Inverted Hammer|Entity|UDR.US|32|0.375|125
+Inverted Hammer|Entity|TCI.US|89|0.3707865168539326|21
+Inverted Hammer|Entity|GHI.US|19|0.3684210526315789|71
+Inverted Hammer|Entity|TPL.US|106|0.36792452830188677|78
+Inverted Hammer|Entity|OLP.US|49|0.3673469387755102|73
+Inverted Hammer|Entity|OSK.US|30|0.36666666666666664|15
+Inverted Hammer|Entity|KZIA.US|11|0.36363636363636365|5
+Inverted Hammer|Entity|DGLY.US|22|0.36363636363636365|13
+Inverted Hammer|Entity|PKX.US|11|0.36363636363636365|31
+Inverted Hammer|Entity|SOYB.US|11|0.36363636363636365|90
+Inverted Hammer|Entity|EWK.US|11|0.36363636363636365|94
+Inverted Hammer|Industry|Investment Banking & Investment Services|11|0.36363636363636365|137
+Inverted Hammer|Entity|ED.US|80|0.3625|98
+Inverted Hammer|Entity|VIRX.US|14|0.35714285714285715|8
+Inverted Hammer|Entity|STRT.US|14|0.35714285714285715|13
+Inverted Hammer|Entity|TMO.US|14|0.35714285714285715|15
+Inverted Hammer|Entity|IESC.US|14|0.35714285714285715|18
+Inverted Hammer|Entity|SKF.US|45|0.35555555555555557|31
+Inverted Hammer|Entity|LDWY.US|17|0.35294117647058826|4
+Inverted Hammer|Entity|ABIO.US|17|0.35294117647058826|12
+Inverted Hammer|Entity|SSG.US|37|0.35135135135135137|18
+Inverted Hammer|Entity|OLN.US|40|0.35|24
+Inverted Hammer|Entity|DTE.US|66|0.3484848484848485|82
+Inverted Hammer|Entity|CHE.US|49|0.3469387755102041|85
+Inverted Hammer|Entity|STT.US|26|0.34615384615384615|18
+Inverted Hammer|Entity|TER.US|32|0.34375|31
+Inverted Hammer|Entity|BPOP.US|41|0.34146341463414637|61
+Inverted Hammer|Entity|NVFY.US|12|0.3333333333333333|7
+Inverted Hammer|Entity|SHIP.US|15|0.3333333333333333|8
+Inverted Hammer|Entity|TIGO.US|12|0.3333333333333333|21
+Inverted Hammer|Entity|SMP.US|63|0.3333333333333333|27
+Inverted Hammer|Entity|MKL.US|12|0.3333333333333333|28
+Inverted Hammer|Entity|FXE.US|12|0.3333333333333333|352
+Inverted Hammer|Entity|ASA.US|73|0.3287671232876712|36
+Inverted Hammer|Entity|AGR.US|55|0.32727272727272727|89
+Inverted Hammer|Entity|BKR.US|25|0.32|33
+Inverted Hammer|Entity|TROW.US|25|0.32|46
+Inverted Hammer|Entity|MAS.US|41|0.3170731707317073|41
+Inverted Hammer|Entity|FUN.US|19|0.3157894736842105|49
+Inverted Hammer|Entity|PVH.US|29|0.3103448275862069|33
+Inverted Hammer|Entity|FRPH.US|13|0.3076923076923077|18
+Inverted Hammer|Entity|WDC.US|23|0.30434782608695654|5
+Inverted Hammer|Entity|ERNA.US|23|0.30434782608695654|5
+Inverted Hammer|Entity|CAH.US|23|0.30434782608695654|26
+Inverted Hammer|Entity|RWM.US|23|0.30434782608695654|54
+Inverted Hammer|Entity|NCTY.US|10|0.3|7
+Inverted Hammer|Entity|GECC.US|10|0.3|42
+Inverted Hammer|Entity|RNST.US|10|0.3|43
+Inverted Hammer|Entity|AKO-A.US|10|0.3|49
+Inverted Hammer|Entity|FCNCA.US|20|0.3|89
+Inverted Hammer|Entity|EWS.US|10|0.3|162
+Inverted Hammer|Entity|BWZ.US|10|0.3|601
+Inverted Hammer|Entity|PROV.US|17|0.29411764705882354|42
+Inverted Hammer|Entity|VMC.US|17|0.29411764705882354|89
+Inverted Hammer|Industry|Mortgage Finance|24|0.2916666666666667|71
+Inverted Hammer|Entity|MZZ.US|31|0.2903225806451613|40
+Inverted Hammer|Entity|MGA.US|38|0.2894736842105263|15
+Inverted Hammer|Entity|ROST.US|39|0.28205128205128205|14
+Inverted Hammer|Entity|SPXU.US|32|0.28125|45
+Inverted Hammer|Entity|BPT.US|18|0.2777777777777778|16
+Inverted Hammer|Entity|VLGEA.US|18|0.2777777777777778|61
+Inverted Hammer|Entity|SEF.US|40|0.275|120
+Inverted Hammer|Entity|CRDF.US|11|0.2727272727272727|9
+Inverted Hammer|Entity|KPRX.US|11|0.2727272727272727|10
+Inverted Hammer|Entity|GPS.US|11|0.2727272727272727|14
+Inverted Hammer|Entity|GREE.US|11|0.2727272727272727|20
+Inverted Hammer|Entity|SZK.US|37|0.2702702702702703|48
+Inverted Hammer|Entity|DOG.US|37|0.2702702702702703|129
+Inverted Hammer|Entity|ERY.US|15|0.26666666666666666|9
+Inverted Hammer|Entity|SPDN.US|30|0.26666666666666666|97
+Inverted Hammer|Entity|SH.US|35|0.2571428571428571|146
+Inverted Hammer|Entity|PSQ.US|43|0.2558139534883721|72
+Inverted Hammer|Entity|EDSA.US|12|0.25|8
+Inverted Hammer|Entity|MT.US|16|0.25|15
+Inverted Hammer|Entity|HSDT.US|12|0.25|15
+Inverted Hammer|Entity|APA.US|12|0.25|17
+Inverted Hammer|Entity|NAT.US|12|0.25|34
+Inverted Hammer|Entity|NGE.US|24|0.25|65
+Inverted Hammer|Entity|FXY.US|12|0.25|478
+Inverted Hammer|Entity|SPXS.US|33|0.24242424242424243|24
+Inverted Hammer|Entity|SDS.US|33|0.24242424242424243|46
+Inverted Hammer|Entity|GIFI.US|13|0.23076923076923078|6
+Inverted Hammer|Entity|EWI.US|13|0.23076923076923078|81
+Inverted Hammer|Entity|DRV.US|27|0.2222222222222222|20
+Inverted Hammer|Entity|ISHG.US|19|0.21052631578947367|546
+Inverted Hammer|Entity|CFR.US|62|0.20967741935483872|14
+Inverted Hammer|Entity|AMWD.US|29|0.20689655172413793|10
+Inverted Hammer|Entity|FTFT.US|10|0.2|5
+Inverted Hammer|Entity|NWL.US|10|0.2|5
+Inverted Hammer|Entity|LPX.US|10|0.2|13
+Inverted Hammer|Entity|BEDU.US|10|0.2|14
+Inverted Hammer|Entity|MBWM.US|10|0.2|30
+Inverted Hammer|Entity|NXG.US|10|0.2|44
+Inverted Hammer|Entity|AFK.US|10|0.2|73
+Inverted Hammer|Entity|SCC.US|24|0.16666666666666666|43
+Inverted Hammer|Entity|RXD.US|18|0.16666666666666666|45
+Inverted Hammer|Entity|NYF.US|14|0.14285714285714285|563
+Inverted Hammer|Entity|SBB.US|22|0.13636363636363635|107
+Inverted Hammer|Entity|EWM.US|17|0.11764705882352941|10
+Inverted Hammer|Industry|REIT - Diversified|10|0.1|5
+Inverted Hammer|Entity|CRIS.US|11|0.09090909090909091|8
+Inverted Hammer|Entity|SEAC.US|11|0.09090909090909091|10
+Inverted Hammer|Entity|GYLD.US|13|0.07692307692307693|61
+Inverted Hammer|Entity|UDN.US|14|0.07142857142857142|306
+Inverted Hammer|Entity|SUB.US|14|0|0
+Inverted Hammer|Entity|CEW.US|10|0|0
+Inverted Hammer|Entity|MINT.US|12|0|0
+Inverted Hammer|Entity|SHV.US|10|0|0
+Inverted Hammer|Entity|SHY.US|12|0|0
+Inverted Hammer|Entity|FLTB.US|11|0|0
+Inverted Hammer|Entity|SPTS.US|13|0|0
