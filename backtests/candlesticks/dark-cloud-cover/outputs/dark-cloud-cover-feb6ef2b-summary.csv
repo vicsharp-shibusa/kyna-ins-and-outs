@@ -1,0 +1,80 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Dark Cloud Cover|Entity|MSI.US|10|0.7|34
+Dark Cloud Cover|Industry|REIT - Office|28|0.6428571428571429|100
+Dark Cloud Cover|Industry|Packaging & Containers|11|0.6363636363636364|88
+Dark Cloud Cover|Industry|Insurance - Life|10|0.6|36
+Dark Cloud Cover|Industry|Medical Care Facilities|24|0.5833333333333334|17
+Dark Cloud Cover|Industry|Beverages - Wineries & Distilleries|12|0.5833333333333334|99
+Dark Cloud Cover|Industry|Beverages - Non-Alcoholic|12|0.5833333333333334|106
+Dark Cloud Cover|Industry|Information Technology Services|19|0.5789473684210527|53
+Dark Cloud Cover|Industry|Banks - Diversified|14|0.5714285714285714|79
+Dark Cloud Cover|Industry|Gold|25|0.56|11
+Dark Cloud Cover|Industry|Biotechnology|72|0.5416666666666666|12
+Dark Cloud Cover|Industry|Restaurants|26|0.5384615384615384|42
+Dark Cloud Cover|Industry|Oil & Gas E&P|67|0.5373134328358209|21
+Dark Cloud Cover|Industry|Engineering & Construction|19|0.5263157894736842|18
+Dark Cloud Cover|Industry|Consulting Services|21|0.5238095238095238|35
+Dark Cloud Cover|Industry|Medical Instruments & Supplies|23|0.5217391304347826|36
+Dark Cloud Cover|Industry|Software - Application|27|0.5185185185185185|27
+Dark Cloud Cover|Industry|Oil & Gas Equipment & Services|18|0.5|7
+Dark Cloud Cover|Industry|Education & Training Services|16|0.5|27
+Dark Cloud Cover|Industry|Farm & Heavy Construction Machinery|10|0.5|29
+Dark Cloud Cover|Industry|Discount Stores|10|0.5|37
+Dark Cloud Cover|Entity|CALM.US|10|0.5|42
+Dark Cloud Cover|Industry|Entertainment|12|0.5|47
+Dark Cloud Cover|Sector|Consumer Cyclical|183|0.4808743169398907|39
+Dark Cloud Cover|Industry|Apparel Retail|25|0.48|28
+Dark Cloud Cover|Sector|Healthcare|240|0.4791666666666667|21
+Dark Cloud Cover|Sector|Energy|149|0.46308724832214765|24
+Dark Cloud Cover|Industry|Residential Construction|13|0.46153846153846156|14
+Dark Cloud Cover|Sector|Communication Services|50|0.46|23
+Dark Cloud Cover|Industry|Medical Devices|36|0.4444444444444444|17
+Dark Cloud Cover|Industry|Semiconductors|18|0.4444444444444444|29
+Dark Cloud Cover|Sector|Real Estate|136|0.4411764705882353|78
+Dark Cloud Cover|Industry|REIT - Retail|16|0.4375|36
+Dark Cloud Cover|Industry|Insurance Brokers|16|0.4375|66
+Dark Cloud Cover|Industry|REIT - Mortgage|16|0.4375|84
+Dark Cloud Cover|Sector|Technology|151|0.4370860927152318|35
+Dark Cloud Cover|Sector|Consumer Defensive|145|0.43448275862068964|54
+Dark Cloud Cover|Industry|Asset Management|53|0.4339622641509434|71
+Dark Cloud Cover|Overall|All|5319|0.42827599172776837|74
+Dark Cloud Cover|Sector|Industrials|258|0.4263565891472868|33
+Dark Cloud Cover|Industry|REIT - Residential|19|0.42105263157894735|127
+Dark Cloud Cover|Industry|Real Estate Services|12|0.4166666666666667|13
+Dark Cloud Cover|Industry|Telecom Services|12|0.4166666666666667|20
+Dark Cloud Cover|Industry|Rental & Leasing Services|12|0.4166666666666667|23
+Dark Cloud Cover|Industry|Airlines|17|0.4117647058823529|21
+Dark Cloud Cover|Industry|Insurance - Diversified|17|0.4117647058823529|63
+Dark Cloud Cover|Sector|Basic Materials|83|0.40963855421686746|28
+Dark Cloud Cover|Industry|Drug Manufacturers - Specialty & Generic|22|0.4090909090909091|18
+Dark Cloud Cover|Sector|Financial Services|362|0.40331491712707185|65
+Dark Cloud Cover|Industry|Banks - Regional|172|0.4011627906976744|69
+Dark Cloud Cover|Industry|Diagnostics & Research|20|0.4|32
+Dark Cloud Cover|Entity|ABT.US|10|0.4|38
+Dark Cloud Cover|Industry|Farm Products|18|0.3888888888888889|31
+Dark Cloud Cover|Industry|Specialty Retail|18|0.3888888888888889|78
+Dark Cloud Cover|Industry|Oil & Gas Midstream|21|0.38095238095238093|36
+Dark Cloud Cover|Industry|Drug Manufacturers - General|21|0.38095238095238093|61
+Dark Cloud Cover|Industry|Household & Personal Products|27|0.37037037037037035|57
+Dark Cloud Cover|Industry|Aerospace & Defense|30|0.36666666666666664|26
+Dark Cloud Cover|Industry|Auto Parts|11|0.36363636363636365|42
+Dark Cloud Cover|Industry|Software - Infrastructure|22|0.36363636363636365|52
+Dark Cloud Cover|Industry|Industrial Distribution|14|0.35714285714285715|55
+Dark Cloud Cover|Industry|Communication Equipment|23|0.34782608695652173|16
+Dark Cloud Cover|Industry|Specialty Industrial Machinery|52|0.34615384615384615|38
+Dark Cloud Cover|Industry|Oil & Gas Refining & Marketing|12|0.3333333333333333|20
+Dark Cloud Cover|Entity|TXN.US|12|0.3333333333333333|30
+Dark Cloud Cover|Industry|Insurance - Property & Casualty|18|0.3333333333333333|70
+Dark Cloud Cover|Industry|Healthcare Plans|13|0.3076923076923077|16
+Dark Cloud Cover|Industry|Utilities - Regulated Electric|61|0.29508196721311475|88
+Dark Cloud Cover|Industry|Packaged Foods|34|0.29411764705882354|38
+Dark Cloud Cover|Industry|Specialty Chemicals|35|0.2857142857142857|51
+Dark Cloud Cover|Industry|Oil & Gas Integrated|18|0.2777777777777778|68
+Dark Cloud Cover|Sector|Utilities|108|0.25925925925925924|94
+Dark Cloud Cover|Industry|Credit Services|16|0.25|58
+Dark Cloud Cover|Industry|Insurance - Specialty|17|0.23529411764705882|18
+Dark Cloud Cover|Industry|REIT - Industrial|17|0.23529411764705882|98
+Dark Cloud Cover|Industry|Utilities - Regulated Water|22|0.22727272727272727|129
+Dark Cloud Cover|Entity|HELE.US|10|0.2|14
+Dark Cloud Cover|Industry|Staffing & Employment Services|11|0.18181818181818182|38
+Dark Cloud Cover|Industry|Utilities - Regulated Gas|14|0.07142857142857142|46

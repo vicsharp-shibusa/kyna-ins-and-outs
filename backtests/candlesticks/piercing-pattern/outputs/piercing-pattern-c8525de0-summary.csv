@@ -1,0 +1,206 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Piercing Pattern|Entity|BF-A.US|11|0.9090909090909091|81
+Piercing Pattern|Entity|HP.US|10|0.9|27
+Piercing Pattern|Entity|SPY.US|10|0.9|69
+Piercing Pattern|Industry|Utilities - Regulated Gas|10|0.9|132
+Piercing Pattern|Industry|Beverages - Wineries & Distilleries|21|0.8571428571428571|91
+Piercing Pattern|Entity|RSPG.US|13|0.8461538461538461|17
+Piercing Pattern|Industry|Utilities - Regulated Water|23|0.8260869565217391|36
+Piercing Pattern|Industry|Oil & Gas Drilling|11|0.8181818181818182|27
+Piercing Pattern|Industry|Other Industrial Metals & Mining|10|0.8|32
+Piercing Pattern|Entity|AKO-B.US|10|0.8|32
+Piercing Pattern|Industry|Financial Data & Stock Exchanges|10|0.8|33
+Piercing Pattern|Entity|VDE.US|10|0.8|37
+Piercing Pattern|Industry|Insurance - Diversified|25|0.8|46
+Piercing Pattern|Entity|WKC.US|10|0.8|55
+Piercing Pattern|Entity|ADP.US|10|0.8|102
+Piercing Pattern|Industry|Beverages - Non-Alcoholic|22|0.7727272727272727|35
+Piercing Pattern|Entity|RRX.US|12|0.75|16
+Piercing Pattern|Entity|TROW.US|12|0.75|31
+Piercing Pattern|Industry|Industrial Distribution|27|0.7407407407407407|33
+Piercing Pattern|Entity|PXE.US|11|0.7272727272727273|24
+Piercing Pattern|Entity|PTF.US|11|0.7272727272727273|32
+Piercing Pattern|Entity|BLX.US|11|0.7272727272727273|32
+Piercing Pattern|Industry|Insurance - Life|27|0.7037037037037037|35
+Piercing Pattern|Industry|Gold|37|0.7027027027027027|21
+Piercing Pattern|Entity|WOLF.US|10|0.7|4
+Piercing Pattern|Entity|OI.US|10|0.7|9
+Piercing Pattern|Entity|SAFT.US|10|0.7|30
+Piercing Pattern|Entity|RMBS.US|10|0.7|35
+Piercing Pattern|Entity|SLB.US|10|0.7|44
+Piercing Pattern|Industry|REIT - Industrial|20|0.7|46
+Piercing Pattern|Entity|FCBC.US|10|0.7|48
+Piercing Pattern|Entity|AEP.US|10|0.7|58
+Piercing Pattern|Entity|HRB.US|10|0.7|69
+Piercing Pattern|Industry|Medical Distribution|10|0.7|88
+Piercing Pattern|Sector|Financials|10|0.7|106
+Piercing Pattern|Industry|Recreational Vehicles|16|0.6875|23
+Piercing Pattern|Entity|HMN.US|16|0.6875|49
+Piercing Pattern|Industry|Medical Instruments & Supplies|67|0.6865671641791045|37
+Piercing Pattern|Industry|Household & Personal Products|28|0.6785714285714286|54
+Piercing Pattern|Industry|Aerospace & Defense|65|0.676923076923077|33
+Piercing Pattern|Sector|Utilities|175|0.6685714285714286|79
+Piercing Pattern|Industry|Travel Services|15|0.6666666666666666|34
+Piercing Pattern|Industry|Discount Stores|24|0.6666666666666666|35
+Piercing Pattern|Entity|WMK.US|12|0.6666666666666666|36
+Piercing Pattern|Entity|K.US|15|0.6666666666666666|151
+Piercing Pattern|Industry|Utilities - Regulated Electric|103|0.6601941747572816|88
+Piercing Pattern|Industry|Farm & Heavy Construction Machinery|38|0.6578947368421053|32
+Piercing Pattern|Industry|Gambling|14|0.6428571428571429|44
+Piercing Pattern|Industry|Oil & Gas E&P|91|0.6373626373626373|25
+Piercing Pattern|Entity|MMLP.US|11|0.6363636363636364|13
+Piercing Pattern|Entity|MTH.US|11|0.6363636363636364|15
+Piercing Pattern|Industry|Utilities - Renewable|11|0.6363636363636364|32
+Piercing Pattern|Entity|IJS.US|11|0.6363636363636364|95
+Piercing Pattern|Industry|Insurance Brokers|30|0.6333333333333333|68
+Piercing Pattern|Industry|Personal Services|16|0.625|61
+Piercing Pattern|Industry|Residential Construction|29|0.6206896551724138|17
+Piercing Pattern|Industry|Specialty Industrial Machinery|112|0.6160714285714286|49
+Piercing Pattern|Industry|Health Information Services|13|0.6153846153846154|14
+Piercing Pattern|Industry|Home Improvement Retail|13|0.6153846153846154|46
+Piercing Pattern|Entity|CVX.US|13|0.6153846153846154|51
+Piercing Pattern|Entity|TRV.US|13|0.6153846153846154|88
+Piercing Pattern|Industry|Furnishings, Fixtures & Appliances|31|0.6129032258064516|25
+Piercing Pattern|Industry|Packaging & Containers|31|0.6129032258064516|70
+Piercing Pattern|Industry|Consulting Services|41|0.6097560975609756|50
+Piercing Pattern|Industry|Credit Services|46|0.6086956521739131|38
+Piercing Pattern|Industry|Specialty Retail|61|0.6065573770491803|41
+Piercing Pattern|Industry|Leisure|20|0.6|16
+Piercing Pattern|Industry|Metal Fabrication|25|0.6|29
+Piercing Pattern|Entity|ATLC.US|10|0.6|32
+Piercing Pattern|Entity|KBH.US|10|0.6|32
+Piercing Pattern|Entity|CCL.US|10|0.6|40
+Piercing Pattern|Entity|PARAA.US|10|0.6|42
+Piercing Pattern|Entity|DIN.US|10|0.6|56
+Piercing Pattern|Entity|RTX.US|10|0.6|68
+Piercing Pattern|Entity|IDGT.US|10|0.6|93
+Piercing Pattern|Industry|Telecom Services|30|0.6|155
+Piercing Pattern|Industry|Insurance - Property & Casualty|57|0.5964912280701754|35
+Piercing Pattern|Industry|Conglomerates|22|0.5909090909090909|43
+Piercing Pattern|Industry|Insurance - Specialty|34|0.5882352941176471|47
+Piercing Pattern|Industry|Rental & Leasing Services|29|0.5862068965517241|20
+Piercing Pattern|Industry|Drug Manufacturers - General|29|0.5862068965517241|62
+Piercing Pattern|Entity|KMT.US|12|0.5833333333333334|25
+Piercing Pattern|Industry|Oil & Gas Midstream|24|0.5833333333333334|31
+Piercing Pattern|Entity|PSA.US|12|0.5833333333333334|44
+Piercing Pattern|Entity|MSFT.US|12|0.5833333333333334|55
+Piercing Pattern|Industry|Staffing & Employment Services|24|0.5833333333333334|61
+Piercing Pattern|Industry|Building Products & Equipment|26|0.5769230769230769|42
+Piercing Pattern|Sector|Industrials|657|0.573820395738204|36
+Piercing Pattern|Industry|Footwear & Accessories|14|0.5714285714285714|19
+Piercing Pattern|Industry|Software - Application|132|0.5681818181818182|25
+Piercing Pattern|Sector|Energy|236|0.5677966101694916|28
+Piercing Pattern|Industry|Farm Products|30|0.5666666666666667|46
+Piercing Pattern|Sector|Consumer Defensive|235|0.5659574468085107|48
+Piercing Pattern|Industry|Specialty Chemicals|69|0.5652173913043478|57
+Piercing Pattern|Industry|Healthcare Plans|16|0.5625|26
+Piercing Pattern|Industry|Medical Care Facilities|36|0.5555555555555556|24
+Piercing Pattern|Industry|Semiconductors|54|0.5555555555555556|25
+Piercing Pattern|Industry|Apparel Retail|56|0.5535714285714286|14
+Piercing Pattern|Industry|Software - Infrastructure|78|0.5512820512820513|30
+Piercing Pattern|Sector|Basic Materials|211|0.5497630331753555|37
+Piercing Pattern|Sector|Financial Services|857|0.5484247374562428|49
+Piercing Pattern|Industry|Security & Protection Services|22|0.5454545454545454|27
+Piercing Pattern|Entity|SMP.US|11|0.5454545454545454|30
+Piercing Pattern|Industry|REIT - Healthcare Facilities|11|0.5454545454545454|53
+Piercing Pattern|Industry|Chemicals|24|0.5416666666666666|26
+Piercing Pattern|Sector|Consumer Cyclical|568|0.5404929577464789|33
+Piercing Pattern|Industry|Drug Manufacturers - Specialty & Generic|63|0.5396825396825397|10
+Piercing Pattern|Industry|Information Technology Services|63|0.5396825396825397|50
+Piercing Pattern|Industry|Integrated Freight & Logistics|26|0.5384615384615384|28
+Piercing Pattern|Sector|Technology|513|0.5341130604288499|27
+Piercing Pattern|Industry|Electronics & Computer Distribution|15|0.5333333333333333|12
+Piercing Pattern|Industry|Semiconductor Equipment & Materials|30|0.5333333333333333|18
+Piercing Pattern|Industry|Lodging|15|0.5333333333333333|18
+Piercing Pattern|Industry|Scientific & Technical Instruments|32|0.53125|28
+Piercing Pattern|Industry|REIT - Office|53|0.5283018867924528|25
+Piercing Pattern|Overall|All|14075|0.5270337477797513|61
+Piercing Pattern|Industry|Banks - Regional|408|0.5269607843137255|50
+Piercing Pattern|Industry|Airlines|19|0.5263157894736842|34
+Piercing Pattern|Industry|Oil & Gas Integrated|38|0.5263157894736842|38
+Piercing Pattern|Industry|Utilities - Diversified|21|0.5238095238095238|41
+Piercing Pattern|Industry|Electrical Equipment & Parts|31|0.5161290322580645|23
+Piercing Pattern|Industry|Restaurants|62|0.5161290322580645|46
+Piercing Pattern|Industry|Banks - Diversified|37|0.5135135135135135|46
+Piercing Pattern|Sector|Real Estate|268|0.5074626865671642|35
+Piercing Pattern|Sector|Healthcare|630|0.5063492063492063|24
+Piercing Pattern|Entity|CTS.US|10|0.5|10
+Piercing Pattern|Entity|RDUS.US|12|0.5|16
+Piercing Pattern|Entity|JLL.US|10|0.5|24
+Piercing Pattern|Industry|Real Estate Services|26|0.5|29
+Piercing Pattern|Entity|TSCO.US|10|0.5|30
+Piercing Pattern|Industry|Internet Retail|38|0.5|36
+Piercing Pattern|Entity|ATI.US|10|0.5|37
+Piercing Pattern|Entity|BP.US|10|0.5|41
+Piercing Pattern|Industry|REIT - Residential|38|0.5|53
+Piercing Pattern|Industry|Railroads|22|0.5|55
+Piercing Pattern|Entity|NOC.US|10|0.5|62
+Piercing Pattern|Entity|ADM.US|10|0.5|71
+Piercing Pattern|Entity|ATR.US|10|0.5|81
+Piercing Pattern|Entity|VMC.US|10|0.5|118
+Piercing Pattern|Industry|Oil & Gas Equipment & Services|39|0.48717948717948717|13
+Piercing Pattern|Industry|Asset Management|142|0.4859154929577465|67
+Piercing Pattern|Industry|Entertainment|33|0.48484848484848486|39
+Piercing Pattern|Industry|Specialty Business Services|29|0.4827586206896552|34
+Piercing Pattern|Industry|Oil & Gas Refining & Marketing|21|0.47619047619047616|55
+Piercing Pattern|Industry|Education & Training Services|19|0.47368421052631576|25
+Piercing Pattern|Industry|REIT - Retail|34|0.47058823529411764|38
+Piercing Pattern|Industry|Auto & Truck Dealerships|32|0.46875|17
+Piercing Pattern|Industry|Electronic Components|32|0.46875|18
+Piercing Pattern|Industry|Apparel Manufacturing|15|0.4666666666666667|22
+Piercing Pattern|Industry|Aluminum|15|0.4666666666666667|23
+Piercing Pattern|Industry|REIT - Mortgage|28|0.4642857142857143|24
+Piercing Pattern|Sector|Communication Services|132|0.4621212121212121|65
+Piercing Pattern|Industry|Capital Markets|24|0.4583333333333333|17
+Piercing Pattern|Entity|UHAL.US|11|0.45454545454545453|8
+Piercing Pattern|Entity|RHP.US|11|0.45454545454545453|13
+Piercing Pattern|Entity|PCAR.US|11|0.45454545454545453|14
+Piercing Pattern|Entity|FICO.US|11|0.45454545454545453|21
+Piercing Pattern|Entity|IVZ.US|11|0.45454545454545453|24
+Piercing Pattern|Entity|HWC.US|11|0.45454545454545453|97
+Piercing Pattern|Entity|KMB.US|11|0.45454545454545453|174
+Piercing Pattern|Industry|REIT - Specialty|29|0.4482758620689655|31
+Piercing Pattern|Industry|Medical Devices|74|0.44594594594594594|23
+Piercing Pattern|Industry|Biotechnology|249|0.4457831325301205|11
+Piercing Pattern|Industry|Diagnostics & Research|66|0.4393939393939394|38
+Piercing Pattern|Industry|Marine Shipping|16|0.4375|12
+Piercing Pattern|Industry|Electronic Gaming & Multimedia|16|0.4375|17
+Piercing Pattern|Industry|Communication Equipment|58|0.43103448275862066|17
+Piercing Pattern|Industry|Agricultural Inputs|26|0.4230769230769231|50
+Piercing Pattern|Entity|TDS.US|12|0.4166666666666667|22
+Piercing Pattern|Entity|RF.US|12|0.4166666666666667|32
+Piercing Pattern|Industry|Packaged Foods|62|0.4032258064516129|33
+Piercing Pattern|Entity|BCO.US|10|0.4|8
+Piercing Pattern|Entity|KLAC.US|10|0.4|12
+Piercing Pattern|Entity|BDC.US|10|0.4|13
+Piercing Pattern|Industry|Trucking|10|0.4|14
+Piercing Pattern|Entity|AR.US|10|0.4|17
+Piercing Pattern|Entity|TGT.US|10|0.4|29
+Piercing Pattern|Industry|Internet Content & Information|33|0.3939393939393939|23
+Piercing Pattern|Industry|Auto Parts|41|0.3902439024390244|31
+Piercing Pattern|Entity|GT.US|13|0.38461538461538464|24
+Piercing Pattern|Entity|NUS.US|13|0.38461538461538464|28
+Piercing Pattern|Entity|FMC.US|13|0.38461538461538464|37
+Piercing Pattern|Entity|CATY.US|13|0.38461538461538464|64
+Piercing Pattern|Industry|Advertising Agencies|19|0.3684210526315789|22
+Piercing Pattern|Entity|SVC.US|11|0.36363636363636365|18
+Piercing Pattern|Entity|PARA.US|11|0.36363636363636365|26
+Piercing Pattern|Entity|AVNW.US|11|0.36363636363636365|28
+Piercing Pattern|Industry|Auto Manufacturers|11|0.36363636363636365|39
+Piercing Pattern|Entity|PXJ.US|11|0.36363636363636365|41
+Piercing Pattern|Entity|JOE.US|11|0.36363636363636365|50
+Piercing Pattern|Entity|PNW.US|11|0.36363636363636365|72
+Piercing Pattern|Industry|Engineering & Construction|51|0.35294117647058826|17
+Piercing Pattern|Industry|Resorts & Casinos|20|0.35|28
+Piercing Pattern|Entity|NVR.US|10|0.3|46
+Piercing Pattern|Entity|BYD.US|10|0.3|46
+Piercing Pattern|Entity|INGR.US|10|0.3|54
+Piercing Pattern|Entity|SH.US|10|0.3|128
+Piercing Pattern|Entity|PEZ.US|10|0.3|191
+Piercing Pattern|Entity|UNL.US|14|0.2857142857142857|27
+Piercing Pattern|Entity|GPC.US|11|0.2727272727272727|24
+Piercing Pattern|Entity|PSQ.US|11|0.2727272727272727|66
+Piercing Pattern|Entity|SBB.US|11|0.2727272727272727|72
+Piercing Pattern|Entity|SEF.US|13|0.23076923076923078|287
+Piercing Pattern|Entity|SDS.US|10|0.2|28
+Piercing Pattern|Entity|DUG.US|10|0.1|1
