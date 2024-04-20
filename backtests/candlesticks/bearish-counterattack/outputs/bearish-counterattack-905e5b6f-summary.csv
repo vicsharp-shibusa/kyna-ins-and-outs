@@ -1,0 +1,286 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Counterattack|Entity|PGF.US|13|1|556
+Bearish Counterattack|Entity|PFF.US|11|1|694
+Bearish Counterattack|Entity|PCEF.US|11|0.9090909090909091|375
+Bearish Counterattack|Entity|FKWL.US|10|0.8|12
+Bearish Counterattack|Entity|BLW.US|10|0.8|330
+Bearish Counterattack|Entity|SPB.US|16|0.75|50
+Bearish Counterattack|Entity|HES.US|12|0.75|122
+Bearish Counterattack|Entity|NLY.US|11|0.7272727272727273|101
+Bearish Counterattack|Entity|TY.US|18|0.7222222222222222|69
+Bearish Counterattack|Entity|ALKS.US|10|0.7|11
+Bearish Counterattack|Entity|SUP.US|10|0.7|32
+Bearish Counterattack|Entity|YYY.US|10|0.7|338
+Bearish Counterattack|Entity|BNDX.US|10|0.7|1337
+Bearish Counterattack|Industry|Real Estate Services|13|0.6923076923076923|51
+Bearish Counterattack|Entity|BPT.US|13|0.6923076923076923|103
+Bearish Counterattack|Industry|Marine Shipping|22|0.6818181818181818|24
+Bearish Counterattack|Entity|AES.US|12|0.6666666666666666|31
+Bearish Counterattack|Entity|BDN.US|12|0.6666666666666666|73
+Bearish Counterattack|Entity|NOC.US|12|0.6666666666666666|76
+Bearish Counterattack|Entity|MDT.US|12|0.6666666666666666|76
+Bearish Counterattack|Entity|MFA.US|21|0.6666666666666666|152
+Bearish Counterattack|Industry|Conglomerates|28|0.6428571428571429|82
+Bearish Counterattack|Industry|REIT - Mortgage|58|0.6379310344827587|104
+Bearish Counterattack|Industry|Advertising Agencies|11|0.6363636363636364|24
+Bearish Counterattack|Entity|EXC.US|11|0.6363636363636364|109
+Bearish Counterattack|Industry|Farm Products|19|0.631578947368421|61
+Bearish Counterattack|Entity|CUZ.US|13|0.6153846153846154|82
+Bearish Counterattack|Entity|PBP.US|13|0.6153846153846154|421
+Bearish Counterattack|Industry|Packaging & Containers|31|0.6129032258064516|66
+Bearish Counterattack|Industry|Consumer Electronics|10|0.6|11
+Bearish Counterattack|Industry|Electronic Gaming & Multimedia|15|0.6|12
+Bearish Counterattack|Entity|SILC.US|10|0.6|13
+Bearish Counterattack|Entity|STAA.US|10|0.6|18
+Bearish Counterattack|Entity|SKYW.US|10|0.6|23
+Bearish Counterattack|Entity|HHS.US|10|0.6|42
+Bearish Counterattack|Entity|BLX.US|10|0.6|43
+Bearish Counterattack|Industry|Medical Care Facilities|40|0.6|44
+Bearish Counterattack|Entity|CDP.US|10|0.6|63
+Bearish Counterattack|Entity|TAP.US|10|0.6|84
+Bearish Counterattack|Entity|EXP.US|10|0.6|110
+Bearish Counterattack|Sector|Financials|10|0.6|352
+Bearish Counterattack|Entity|SPSB.US|10|0.6|1670
+Bearish Counterattack|Entity|FVD.US|12|0.5833333333333334|214
+Bearish Counterattack|Entity|LNT.US|12|0.5833333333333334|295
+Bearish Counterattack|Entity|TFI.US|12|0.5833333333333334|1482
+Bearish Counterattack|Industry|Capital Markets|14|0.5714285714285714|19
+Bearish Counterattack|Entity|RGS.US|14|0.5714285714285714|25
+Bearish Counterattack|Entity|DX.US|21|0.5714285714285714|42
+Bearish Counterattack|Entity|BP.US|21|0.5714285714285714|67
+Bearish Counterattack|Industry|Information Technology Services|76|0.5657894736842105|37
+Bearish Counterattack|Industry|Electronics & Computer Distribution|16|0.5625|33
+Bearish Counterattack|Entity|RAMP.US|11|0.5454545454545454|22
+Bearish Counterattack|Entity|CP.US|11|0.5454545454545454|32
+Bearish Counterattack|Entity|MGM.US|11|0.5454545454545454|35
+Bearish Counterattack|Entity|SFL.US|11|0.5454545454545454|72
+Bearish Counterattack|Entity|FE.US|11|0.5454545454545454|74
+Bearish Counterattack|Entity|GAM.US|11|0.5454545454545454|96
+Bearish Counterattack|Entity|CBSH.US|11|0.5454545454545454|117
+Bearish Counterattack|Entity|PID.US|11|0.5454545454545454|255
+Bearish Counterattack|Entity|DCO.US|13|0.5384615384615384|26
+Bearish Counterattack|Industry|Building Materials|13|0.5384615384615384|95
+Bearish Counterattack|Entity|EWC.US|15|0.5333333333333333|136
+Bearish Counterattack|Industry|Asset Management|177|0.5254237288135594|147
+Bearish Counterattack|Industry|Entertainment|25|0.52|29
+Bearish Counterattack|Sector|Basic Materials|142|0.5140845070422535|51
+Bearish Counterattack|Industry|Diagnostics & Research|39|0.5128205128205128|28
+Bearish Counterattack|Entity|ROSS.US|12|0.5|6
+Bearish Counterattack|Entity|BELFA.US|10|0.5|6
+Bearish Counterattack|Industry|Biotechnology|146|0.5|13
+Bearish Counterattack|Industry|Gold|24|0.5|21
+Bearish Counterattack|Entity|POWL.US|10|0.5|23
+Bearish Counterattack|Sector|Communication Services|98|0.5|28
+Bearish Counterattack|Industry|Furnishings, Fixtures & Appliances|28|0.5|33
+Bearish Counterattack|Industry|Airlines|10|0.5|34
+Bearish Counterattack|Industry|Auto Manufacturers|14|0.5|36
+Bearish Counterattack|Industry|Education & Training Services|16|0.5|37
+Bearish Counterattack|Entity|VHI.US|10|0.5|39
+Bearish Counterattack|Industry|Leisure|18|0.5|61
+Bearish Counterattack|Entity|J.US|10|0.5|65
+Bearish Counterattack|Entity|HQL.US|12|0.5|69
+Bearish Counterattack|Entity|AON.US|12|0.5|76
+Bearish Counterattack|Entity|SUI.US|16|0.5|100
+Bearish Counterattack|Entity|CNP.US|18|0.5|101
+Bearish Counterattack|Sector|Real Estate|343|0.4839650145772595|88
+Bearish Counterattack|Industry|Staffing & Employment Services|29|0.4827586206896552|46
+Bearish Counterattack|Industry|Utilities - Regulated Water|19|0.47368421052631576|101
+Bearish Counterattack|Sector|Healthcare|535|0.47289719626168225|25
+Bearish Counterattack|Industry|REIT - Office|72|0.4722222222222222|83
+Bearish Counterattack|Industry|Security & Protection Services|17|0.47058823529411764|22
+Bearish Counterattack|Entity|SCI.US|17|0.47058823529411764|63
+Bearish Counterattack|Industry|Telecom Services|32|0.46875|43
+Bearish Counterattack|Industry|Utilities - Diversified|32|0.46875|92
+Bearish Counterattack|Entity|MDC.US|15|0.4666666666666667|29
+Bearish Counterattack|Industry|Waste Management|15|0.4666666666666667|46
+Bearish Counterattack|Industry|REIT - Retail|67|0.4626865671641791|102
+Bearish Counterattack|Entity|SF.US|13|0.46153846153846156|32
+Bearish Counterattack|Entity|DY.US|13|0.46153846153846156|36
+Bearish Counterattack|Entity|WFC.US|13|0.46153846153846156|46
+Bearish Counterattack|Industry|Beverages - Non-Alcoholic|26|0.46153846153846156|48
+Bearish Counterattack|Entity|LNC.US|13|0.46153846153846156|66
+Bearish Counterattack|Industry|Oil & Gas Integrated|39|0.46153846153846156|71
+Bearish Counterattack|Industry|REIT - Residential|39|0.46153846153846156|117
+Bearish Counterattack|Industry|Drug Manufacturers - Specialty & Generic|76|0.4605263157894737|11
+Bearish Counterattack|Industry|Aerospace & Defense|74|0.4594594594594595|33
+Bearish Counterattack|Entity|LLY.US|11|0.45454545454545453|25
+Bearish Counterattack|Entity|STE.US|11|0.45454545454545453|26
+Bearish Counterattack|Entity|AIR.US|11|0.45454545454545453|35
+Bearish Counterattack|Entity|WABC.US|11|0.45454545454545453|57
+Bearish Counterattack|Industry|Oil & Gas Refining & Marketing|11|0.45454545454545453|70
+Bearish Counterattack|Entity|AMGN.US|11|0.45454545454545453|74
+Bearish Counterattack|Entity|CAG.US|11|0.45454545454545453|79
+Bearish Counterattack|Industry|Home Improvement Retail|11|0.45454545454545453|91
+Bearish Counterattack|Sector|Technology|431|0.45243619489559167|29
+Bearish Counterattack|Industry|Scientific & Technical Instruments|31|0.45161290322580644|38
+Bearish Counterattack|Industry|Mortgage Finance|20|0.45|37
+Bearish Counterattack|Industry|Medical Instruments & Supplies|69|0.4492753623188406|32
+Bearish Counterattack|Industry|Specialty Chemicals|67|0.44776119402985076|56
+Bearish Counterattack|Industry|Medical Devices|79|0.4430379746835443|30
+Bearish Counterattack|Industry|Communication Equipment|61|0.4426229508196721|27
+Bearish Counterattack|Industry|Oil & Gas E&P|84|0.44047619047619047|44
+Bearish Counterattack|Industry|Resorts & Casinos|16|0.4375|14
+Bearish Counterattack|Entity|HST.US|16|0.4375|58
+Bearish Counterattack|Industry|Building Products & Equipment|16|0.4375|90
+Bearish Counterattack|Industry|Semiconductor Equipment & Materials|23|0.43478260869565216|16
+Bearish Counterattack|Overall|All|11873|0.43459951149667314|126
+Bearish Counterattack|Industry|Oil & Gas Midstream|51|0.43137254901960786|85
+Bearish Counterattack|Sector|Energy|239|0.4309623430962343|57
+Bearish Counterattack|Industry|Specialty Industrial Machinery|121|0.4297520661157025|59
+Bearish Counterattack|Industry|Integrated Freight & Logistics|21|0.42857142857142855|39
+Bearish Counterattack|Entity|HAS.US|14|0.42857142857142855|68
+Bearish Counterattack|Industry|Engineering & Construction|66|0.42424242424242425|24
+Bearish Counterattack|Entity|RTX.US|19|0.42105263157894735|76
+Bearish Counterattack|Industry|Household & Personal Products|38|0.42105263157894735|90
+Bearish Counterattack|Entity|AEP.US|19|0.42105263157894735|125
+Bearish Counterattack|Sector|Industrials|627|0.4194577352472089|46
+Bearish Counterattack|Industry|Semiconductors|48|0.4166666666666667|24
+Bearish Counterattack|Industry|REIT - Hotel & Motel|24|0.4166666666666667|46
+Bearish Counterattack|Industry|Gambling|12|0.4166666666666667|56
+Bearish Counterattack|Entity|TTEK.US|12|0.4166666666666667|64
+Bearish Counterattack|Industry|Insurance - Life|24|0.4166666666666667|76
+Bearish Counterattack|Entity|XEL.US|12|0.4166666666666667|99
+Bearish Counterattack|Entity|EWL.US|12|0.4166666666666667|110
+Bearish Counterattack|Entity|EPD.US|12|0.4166666666666667|116
+Bearish Counterattack|Industry|Software - Application|89|0.4157303370786517|17
+Bearish Counterattack|Sector|Consumer Defensive|220|0.41363636363636364|58
+Bearish Counterattack|Industry|Consulting Services|27|0.4074074074074074|40
+Bearish Counterattack|Industry|Drug Manufacturers - General|52|0.40384615384615385|45
+Bearish Counterattack|Entity|CRMT.US|10|0.4|4
+Bearish Counterattack|Entity|MIDD.US|10|0.4|13
+Bearish Counterattack|Entity|MMSI.US|10|0.4|16
+Bearish Counterattack|Entity|GVP.US|10|0.4|16
+Bearish Counterattack|Entity|AMAT.US|10|0.4|19
+Bearish Counterattack|Industry|Residential Construction|25|0.4|23
+Bearish Counterattack|Entity|RCI.US|10|0.4|26
+Bearish Counterattack|Industry|Auto Parts|20|0.4|33
+Bearish Counterattack|Entity|IFF.US|10|0.4|58
+Bearish Counterattack|Entity|WTM.US|10|0.4|69
+Bearish Counterattack|Entity|CRT.US|10|0.4|74
+Bearish Counterattack|Entity|MBI.US|10|0.4|75
+Bearish Counterattack|Entity|RYT.US|15|0.4|88
+Bearish Counterattack|Entity|HD.US|10|0.4|108
+Bearish Counterattack|Entity|SJW.US|10|0.4|123
+Bearish Counterattack|Entity|KAMN.US|10|0.4|172
+Bearish Counterattack|Entity|JHI.US|15|0.4|559
+Bearish Counterattack|Sector|Financial Services|823|0.3973268529769137|91
+Bearish Counterattack|Industry|Electronic Components|38|0.39473684210526316|39
+Bearish Counterattack|Sector|Consumer Cyclical|408|0.3946078431372549|42
+Bearish Counterattack|Industry|Insurance Brokers|33|0.3939393939393939|53
+Bearish Counterattack|Industry|Restaurants|54|0.3888888888888889|36
+Bearish Counterattack|Industry|Discount Stores|18|0.3888888888888889|59
+Bearish Counterattack|Sector|Utilities|256|0.38671875|101
+Bearish Counterattack|Entity|WSO.US|13|0.38461538461538464|48
+Bearish Counterattack|Industry|Banks - Regional|386|0.38082901554404147|80
+Bearish Counterattack|Industry|Electrical Equipment & Parts|16|0.375|36
+Bearish Counterattack|Industry|Packaged Foods|56|0.375|49
+Bearish Counterattack|Industry|REIT - Healthcare Facilities|16|0.375|70
+Bearish Counterattack|Entity|CL.US|19|0.3684210526315789|107
+Bearish Counterattack|Entity|GTY.US|19|0.3684210526315789|111
+Bearish Counterattack|Entity|MAT.US|11|0.36363636363636365|15
+Bearish Counterattack|Entity|AMD.US|11|0.36363636363636365|19
+Bearish Counterattack|Entity|USPH.US|11|0.36363636363636365|34
+Bearish Counterattack|Entity|HQH.US|11|0.36363636363636365|48
+Bearish Counterattack|Industry|Personal Services|11|0.36363636363636365|50
+Bearish Counterattack|Entity|ESE.US|11|0.36363636363636365|50
+Bearish Counterattack|Entity|MSFT.US|11|0.36363636363636365|64
+Bearish Counterattack|Entity|R.US|11|0.36363636363636365|78
+Bearish Counterattack|Industry|Oil & Gas Drilling|11|0.36363636363636365|79
+Bearish Counterattack|Entity|PWB.US|11|0.36363636363636365|90
+Bearish Counterattack|Industry|Oil & Gas Equipment & Services|36|0.3611111111111111|28
+Bearish Counterattack|Industry|Software - Infrastructure|36|0.3611111111111111|51
+Bearish Counterattack|Industry|Utilities - Regulated Electric|173|0.3583815028901734|105
+Bearish Counterattack|Industry|REIT - Specialty|14|0.35714285714285715|38
+Bearish Counterattack|Entity|EVRG.US|14|0.35714285714285715|59
+Bearish Counterattack|Industry|Utilities - Regulated Gas|26|0.34615384615384615|111
+Bearish Counterattack|Industry|Healthcare Plans|18|0.3333333333333333|52
+Bearish Counterattack|Industry|Specialty Retail|42|0.3333333333333333|54
+Bearish Counterattack|Entity|XRX.US|12|0.3333333333333333|55
+Bearish Counterattack|Entity|ASB.US|12|0.3333333333333333|88
+Bearish Counterattack|Entity|ED.US|12|0.3333333333333333|97
+Bearish Counterattack|Entity|ALE.US|12|0.3333333333333333|163
+Bearish Counterattack|Industry|Auto & Truck Dealerships|25|0.32|19
+Bearish Counterattack|Industry|Banks - Diversified|41|0.3170731707317073|60
+Bearish Counterattack|Industry|Railroads|19|0.3157894736842105|32
+Bearish Counterattack|Industry|Apparel Retail|42|0.30952380952380953|30
+Bearish Counterattack|Entity|VECO.US|13|0.3076923076923077|27
+Bearish Counterattack|Entity|HIW.US|13|0.3076923076923077|57
+Bearish Counterattack|Industry|Rental & Leasing Services|23|0.30434782608695654|109
+Bearish Counterattack|Industry|Farm & Heavy Construction Machinery|33|0.30303030303030304|65
+Bearish Counterattack|Entity|ASRT.US|10|0.3|15
+Bearish Counterattack|Entity|HAL.US|10|0.3|18
+Bearish Counterattack|Entity|SSP.US|10|0.3|35
+Bearish Counterattack|Entity|WRB.US|10|0.3|51
+Bearish Counterattack|Entity|BKH.US|10|0.3|56
+Bearish Counterattack|Entity|OCFC.US|10|0.3|60
+Bearish Counterattack|Entity|GHI.US|10|0.3|80
+Bearish Counterattack|Entity|WST.US|10|0.3|102
+Bearish Counterattack|Entity|IDA.US|10|0.3|123
+Bearish Counterattack|Entity|EWA.US|10|0.3|495
+Bearish Counterattack|Industry|Beverages - Wineries & Distilleries|14|0.2857142857142857|55
+Bearish Counterattack|Entity|AB.US|14|0.2857142857142857|61
+Bearish Counterattack|Entity|CASY.US|14|0.2857142857142857|68
+Bearish Counterattack|Industry|REIT - Industrial|28|0.2857142857142857|88
+Bearish Counterattack|Industry|Insurance - Specialty|25|0.28|48
+Bearish Counterattack|Industry|Credit Services|40|0.275|29
+Bearish Counterattack|Entity|PRTG.US|11|0.2727272727272727|4
+Bearish Counterattack|Industry|Internet Content & Information|11|0.2727272727272727|7
+Bearish Counterattack|Entity|MTW.US|11|0.2727272727272727|11
+Bearish Counterattack|Entity|CRVL.US|11|0.2727272727272727|17
+Bearish Counterattack|Entity|SCHW.US|11|0.2727272727272727|25
+Bearish Counterattack|Entity|AEM.US|11|0.2727272727272727|33
+Bearish Counterattack|Industry|Specialty Business Services|33|0.2727272727272727|42
+Bearish Counterattack|Entity|FFIC.US|11|0.2727272727272727|58
+Bearish Counterattack|Entity|FRT.US|11|0.2727272727272727|69
+Bearish Counterattack|Entity|PG.US|11|0.2727272727272727|75
+Bearish Counterattack|Entity|TXT.US|11|0.2727272727272727|83
+Bearish Counterattack|Entity|SMP.US|11|0.2727272727272727|107
+Bearish Counterattack|Entity|TEX.US|15|0.26666666666666666|15
+Bearish Counterattack|Entity|LPX.US|15|0.26666666666666666|45
+Bearish Counterattack|Entity|USM.US|12|0.25|15
+Bearish Counterattack|Entity|MTZ.US|12|0.25|28
+Bearish Counterattack|Entity|RF.US|12|0.25|36
+Bearish Counterattack|Entity|BMY.US|12|0.25|48
+Bearish Counterattack|Industry|Insurance - Property & Casualty|36|0.25|51
+Bearish Counterattack|Industry|Recreational Vehicles|12|0.25|52
+Bearish Counterattack|Industry|Tobacco|12|0.25|59
+Bearish Counterattack|Entity|BTI.US|12|0.25|59
+Bearish Counterattack|Entity|APA.US|12|0.25|63
+Bearish Counterattack|Entity|DUK.US|16|0.25|126
+Bearish Counterattack|Entity|LEG.US|13|0.23076923076923078|58
+Bearish Counterattack|Entity|USB.US|13|0.23076923076923078|230
+Bearish Counterattack|Entity|LHX.US|14|0.21428571428571427|32
+Bearish Counterattack|Industry|Industrial Distribution|24|0.20833333333333334|35
+Bearish Counterattack|Entity|NEWT.US|10|0.2|17
+Bearish Counterattack|Entity|BIG.US|10|0.2|40
+Bearish Counterattack|Entity|DCI.US|10|0.2|44
+Bearish Counterattack|Entity|WTRG.US|10|0.2|44
+Bearish Counterattack|Entity|DOC.US|10|0.2|48
+Bearish Counterattack|Entity|OPY.US|10|0.2|48
+Bearish Counterattack|Entity|D.US|10|0.2|110
+Bearish Counterattack|Entity|ADP.US|15|0.2|126
+Bearish Counterattack|Entity|KIM.US|15|0.2|134
+Bearish Counterattack|Entity|MTG.US|16|0.1875|33
+Bearish Counterattack|Entity|PATK.US|11|0.18181818181818182|10
+Bearish Counterattack|Entity|LEE.US|11|0.18181818181818182|16
+Bearish Counterattack|Entity|WERN.US|11|0.18181818181818182|28
+Bearish Counterattack|Entity|NWN.US|11|0.18181818181818182|40
+Bearish Counterattack|Entity|WBS.US|11|0.18181818181818182|48
+Bearish Counterattack|Entity|EWM.US|11|0.18181818181818182|98
+Bearish Counterattack|Entity|DTE.US|12|0.16666666666666666|16
+Bearish Counterattack|Entity|PNM.US|12|0.16666666666666666|22
+Bearish Counterattack|Industry|Metal Fabrication|12|0.16666666666666666|31
+Bearish Counterattack|Entity|WEC.US|12|0.16666666666666666|62
+Bearish Counterattack|Industry|Insurance - Diversified|18|0.1111111111111111|67
+Bearish Counterattack|Entity|LUV.US|10|0.1|11
+Bearish Counterattack|Entity|NTRS.US|10|0.1|40
+Bearish Counterattack|Industry|Footwear & Accessories|10|0.1|43
+Bearish Counterattack|Entity|PKOH.US|10|0.1|70
+Bearish Counterattack|Entity|IUSG.US|10|0.1|77
+Bearish Counterattack|Entity|ATR.US|10|0.1|112
+Bearish Counterattack|Entity|NFG.US|10|0.1|204
+Bearish Counterattack|Entity|WMB.US|11|0.09090909090909091|26
+Bearish Counterattack|Entity|MMM.US|12|0.08333333333333333|71
+Bearish Counterattack|Entity|AIT.US|10|0|0
+Bearish Counterattack|Entity|ABM.US|10|0|0
+Bearish Counterattack|Entity|RGEN.US|10|0|0
