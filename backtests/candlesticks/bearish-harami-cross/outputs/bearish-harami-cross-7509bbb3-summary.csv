@@ -1,0 +1,108 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bearish Harami Cross|Entity|SLB.US|10|0.7|41
+Bearish Harami Cross|Entity|LLY.US|12|0.6666666666666666|43
+Bearish Harami Cross|Industry|Oil & Gas Midstream|17|0.6470588235294118|23
+Bearish Harami Cross|Entity|MRK.US|14|0.6428571428571429|68
+Bearish Harami Cross|Industry|Oil & Gas Integrated|25|0.64|51
+Bearish Harami Cross|Entity|GD.US|11|0.6363636363636364|52
+Bearish Harami Cross|Entity|DE.US|11|0.6363636363636364|54
+Bearish Harami Cross|Industry|Personal Services|13|0.6153846153846154|44
+Bearish Harami Cross|Entity|NSC.US|13|0.6153846153846154|57
+Bearish Harami Cross|Industry|Information Technology Services|31|0.6129032258064516|44
+Bearish Harami Cross|Industry|Drug Manufacturers - Specialty & Generic|18|0.6111111111111112|27
+Bearish Harami Cross|Industry|Insurance - Property & Casualty|25|0.6|54
+Bearish Harami Cross|Industry|REIT - Industrial|15|0.6|80
+Bearish Harami Cross|Industry|Insurance - Life|10|0.6|86
+Bearish Harami Cross|Industry|Biotechnology|36|0.5833333333333334|21
+Bearish Harami Cross|Industry|Scientific & Technical Instruments|12|0.5833333333333334|27
+Bearish Harami Cross|Industry|Oil & Gas Refining & Marketing|12|0.5833333333333334|46
+Bearish Harami Cross|Industry|Packaging & Containers|14|0.5714285714285714|34
+Bearish Harami Cross|Industry|Farm & Heavy Construction Machinery|14|0.5714285714285714|49
+Bearish Harami Cross|Industry|Engineering & Construction|18|0.5555555555555556|14
+Bearish Harami Cross|Industry|Auto Parts|18|0.5555555555555556|42
+Bearish Harami Cross|Entity|WMB.US|11|0.5454545454545454|43
+Bearish Harami Cross|Sector|Energy|136|0.5294117647058824|34
+Bearish Harami Cross|Industry|Consulting Services|17|0.5294117647058824|48
+Bearish Harami Cross|Industry|Gold|25|0.52|32
+Bearish Harami Cross|Industry|Oil & Gas E&P|49|0.5102040816326531|26
+Bearish Harami Cross|Industry|Restaurants|32|0.5|34
+Bearish Harami Cross|Industry|Medical Instruments & Supplies|26|0.5|38
+Bearish Harami Cross|Industry|Diagnostics & Research|18|0.5|44
+Bearish Harami Cross|Industry|Beverages - Non-Alcoholic|10|0.5|46
+Bearish Harami Cross|Industry|Telecom Services|12|0.5|49
+Bearish Harami Cross|Entity|NOC.US|10|0.5|51
+Bearish Harami Cross|Entity|DD.US|10|0.5|66
+Bearish Harami Cross|Entity|PSA.US|10|0.5|117
+Bearish Harami Cross|Industry|Insurance - Diversified|10|0.5|146
+Bearish Harami Cross|Industry|Software - Application|29|0.4827586206896552|30
+Bearish Harami Cross|Sector|Consumer Cyclical|222|0.481981981981982|37
+Bearish Harami Cross|Sector|Healthcare|218|0.47706422018348627|37
+Bearish Harami Cross|Industry|Household & Personal Products|21|0.47619047619047616|64
+Bearish Harami Cross|Industry|Semiconductors|17|0.47058823529411764|38
+Bearish Harami Cross|Industry|Leisure|15|0.4666666666666667|55
+Bearish Harami Cross|Sector|Real Estate|132|0.4621212121212121|69
+Bearish Harami Cross|Entity|MSI.US|13|0.46153846153846156|20
+Bearish Harami Cross|Industry|Banks - Diversified|13|0.46153846153846156|42
+Bearish Harami Cross|Industry|Banks - Regional|128|0.4609375|57
+Bearish Harami Cross|Industry|Utilities - Regulated Electric|115|0.4608695652173913|102
+Bearish Harami Cross|Industry|Oil & Gas Equipment & Services|22|0.45454545454545453|36
+Bearish Harami Cross|Entity|HAS.US|11|0.45454545454545453|38
+Bearish Harami Cross|Sector|Technology|152|0.45394736842105265|37
+Bearish Harami Cross|Industry|REIT - Retail|20|0.45|77
+Bearish Harami Cross|Overall|All|4393|0.4491236057363988|95
+Bearish Harami Cross|Sector|Basic Materials|81|0.4444444444444444|48
+Bearish Harami Cross|Industry|Specialty Retail|25|0.44|43
+Bearish Harami Cross|Sector|Industrials|254|0.43700787401574803|41
+Bearish Harami Cross|Industry|Healthcare Plans|23|0.43478260869565216|49
+Bearish Harami Cross|Sector|Financial Services|274|0.4343065693430657|71
+Bearish Harami Cross|Industry|Aerospace & Defense|37|0.43243243243243246|37
+Bearish Harami Cross|Industry|REIT - Specialty|14|0.42857142857142855|40
+Bearish Harami Cross|Sector|Consumer Defensive|115|0.4260869565217391|72
+Bearish Harami Cross|Industry|Medical Care Facilities|26|0.4230769230769231|35
+Bearish Harami Cross|Industry|Integrated Freight & Logistics|19|0.42105263157894735|28
+Bearish Harami Cross|Industry|Apparel Retail|19|0.42105263157894735|36
+Bearish Harami Cross|Industry|Residential Construction|12|0.4166666666666667|15
+Bearish Harami Cross|Industry|Home Improvement Retail|12|0.4166666666666667|56
+Bearish Harami Cross|Entity|HD.US|12|0.4166666666666667|56
+Bearish Harami Cross|Industry|Drug Manufacturers - General|29|0.41379310344827586|43
+Bearish Harami Cross|Entity|ED.US|17|0.4117647058823529|137
+Bearish Harami Cross|Industry|REIT - Mortgage|10|0.4|12
+Bearish Harami Cross|Entity|PG.US|10|0.4|77
+Bearish Harami Cross|Industry|Farm Products|10|0.4|79
+Bearish Harami Cross|Industry|Asset Management|20|0.4|167
+Bearish Harami Cross|Sector|Utilities|167|0.39520958083832336|111
+Bearish Harami Cross|Industry|Medical Devices|33|0.3939393939393939|39
+Bearish Harami Cross|Industry|REIT - Office|23|0.391304347826087|73
+Bearish Harami Cross|Industry|Specialty Industrial Machinery|41|0.3902439024390244|43
+Bearish Harami Cross|Entity|AXP.US|13|0.38461538461538464|72
+Bearish Harami Cross|Industry|Specialty Chemicals|38|0.3684210526315789|71
+Bearish Harami Cross|Industry|REIT - Healthcare Facilities|11|0.36363636363636365|18
+Bearish Harami Cross|Industry|Internet Content & Information|11|0.36363636363636365|18
+Bearish Harami Cross|Industry|Utilities - Diversified|17|0.35294117647058826|97
+Bearish Harami Cross|Sector|Communication Services|43|0.3488372093023256|38
+Bearish Harami Cross|Industry|Food Distribution|12|0.3333333333333333|39
+Bearish Harami Cross|Industry|Building Products & Equipment|13|0.3076923076923077|76
+Bearish Harami Cross|Industry|REIT - Residential|26|0.3076923076923077|131
+Bearish Harami Cross|Industry|Software - Infrastructure|23|0.30434782608695654|39
+Bearish Harami Cross|Entity|DOC.US|10|0.3|19
+Bearish Harami Cross|Entity|MCD.US|17|0.29411764705882354|56
+Bearish Harami Cross|Industry|Credit Services|21|0.2857142857142857|61
+Bearish Harami Cross|Entity|MMM.US|11|0.2727272727272727|40
+Bearish Harami Cross|Entity|HES.US|11|0.2727272727272727|44
+Bearish Harami Cross|Industry|Communication Equipment|11|0.2727272727272727|56
+Bearish Harami Cross|Industry|Insurance Brokers|11|0.2727272727272727|73
+Bearish Harami Cross|Entity|JNJ.US|11|0.2727272727272727|125
+Bearish Harami Cross|Industry|Utilities - Regulated Gas|22|0.2727272727272727|131
+Bearish Harami Cross|Entity|LPX.US|16|0.25|17
+Bearish Harami Cross|Entity|WEC.US|12|0.25|80
+Bearish Harami Cross|Entity|BMY.US|12|0.25|83
+Bearish Harami Cross|Industry|Packaged Foods|30|0.23333333333333334|52
+Bearish Harami Cross|Entity|RTX.US|13|0.23076923076923078|39
+Bearish Harami Cross|Entity|DUK.US|13|0.23076923076923078|53
+Bearish Harami Cross|Industry|Insurance - Specialty|13|0.23076923076923078|71
+Bearish Harami Cross|Industry|Specialty Business Services|14|0.21428571428571427|34
+Bearish Harami Cross|Entity|BKH.US|10|0.2|70
+Bearish Harami Cross|Entity|PCG.US|17|0.17647058823529413|123
+Bearish Harami Cross|Industry|Staffing & Employment Services|10|0.1|12
+Bearish Harami Cross|Entity|GIS.US|10|0|0
+Bearish Harami Cross|Industry|Utilities - Regulated Water|12|0|0

@@ -1,0 +1,235 @@
+Name|Category|Sub Category|Number Signals|Success %|Avg Duration
+Bullish Harami Cross|Entity|PEG.US|11|1|131
+Bullish Harami Cross|Entity|GIS.US|14|0.9285714285714286|133
+Bullish Harami Cross|Entity|MCD.US|13|0.9230769230769231|118
+Bullish Harami Cross|Entity|BKH.US|12|0.9166666666666666|94
+Bullish Harami Cross|Entity|AEP.US|12|0.9166666666666666|118
+Bullish Harami Cross|Entity|AON.US|11|0.9090909090909091|38
+Bullish Harami Cross|Entity|CLX.US|10|0.9|108
+Bullish Harami Cross|Entity|VZ.US|10|0.9|130
+Bullish Harami Cross|Entity|CI.US|13|0.8461538461538461|70
+Bullish Harami Cross|Entity|K.US|13|0.8461538461538461|143
+Bullish Harami Cross|Industry|Internet Retail|28|0.8214285714285714|34
+Bullish Harami Cross|Entity|CCL.US|11|0.8181818181818182|55
+Bullish Harami Cross|Entity|MKC.US|11|0.8181818181818182|77
+Bullish Harami Cross|Entity|DUK.US|11|0.8181818181818182|101
+Bullish Harami Cross|Entity|PG.US|16|0.8125|129
+Bullish Harami Cross|Entity|CASY.US|10|0.8|29
+Bullish Harami Cross|Entity|HAE.US|10|0.8|54
+Bullish Harami Cross|Industry|Household & Personal Products|35|0.8|75
+Bullish Harami Cross|Entity|D.US|10|0.8|152
+Bullish Harami Cross|Entity|WEC.US|10|0.8|202
+Bullish Harami Cross|Industry|Engineering & Construction|42|0.7857142857142857|36
+Bullish Harami Cross|Industry|Scientific & Technical Instruments|22|0.7727272727272727|28
+Bullish Harami Cross|Industry|Recreational Vehicles|13|0.7692307692307693|57
+Bullish Harami Cross|Industry|Utilities - Regulated Gas|28|0.75|79
+Bullish Harami Cross|Industry|Beverages - Non-Alcoholic|12|0.75|114
+Bullish Harami Cross|Entity|DD.US|19|0.7368421052631579|44
+Bullish Harami Cross|Entity|DDS.US|11|0.7272727272727273|19
+Bullish Harami Cross|Industry|Department Stores|11|0.7272727272727273|19
+Bullish Harami Cross|Entity|AVT.US|11|0.7272727272727273|74
+Bullish Harami Cross|Entity|LANC.US|11|0.7272727272727273|114
+Bullish Harami Cross|Industry|Travel Services|18|0.7222222222222222|46
+Bullish Harami Cross|Industry|Residential Construction|21|0.7142857142857143|28
+Bullish Harami Cross|Industry|Insurance - Specialty|28|0.7142857142857143|54
+Bullish Harami Cross|Entity|MMM.US|14|0.7142857142857143|118
+Bullish Harami Cross|Industry|Integrated Freight & Logistics|34|0.7058823529411765|55
+Bullish Harami Cross|Entity|SAH.US|10|0.7|28
+Bullish Harami Cross|Entity|TBRG.US|10|0.7|42
+Bullish Harami Cross|Entity|CAL.US|10|0.7|44
+Bullish Harami Cross|Entity|NWN.US|10|0.7|64
+Bullish Harami Cross|Entity|PEP.US|10|0.7|90
+Bullish Harami Cross|Entity|IP.US|13|0.6923076923076923|70
+Bullish Harami Cross|Entity|LLY.US|13|0.6923076923076923|87
+Bullish Harami Cross|Industry|Healthcare Plans|34|0.6764705882352942|52
+Bullish Harami Cross|Entity|FDX.US|15|0.6666666666666666|49
+Bullish Harami Cross|Industry|Medical Instruments & Supplies|69|0.6666666666666666|50
+Bullish Harami Cross|Entity|WHR.US|12|0.6666666666666666|69
+Bullish Harami Cross|Entity|OMC.US|12|0.6666666666666666|101
+Bullish Harami Cross|Industry|Packaging & Containers|29|0.6551724137931034|54
+Bullish Harami Cross|Industry|Discount Stores|26|0.6538461538461539|61
+Bullish Harami Cross|Industry|Specialty Business Services|20|0.65|112
+Bullish Harami Cross|Industry|Utilities - Regulated Electric|147|0.6462585034013606|103
+Bullish Harami Cross|Entity|LHX.US|14|0.6428571428571429|23
+Bullish Harami Cross|Entity|PRGO.US|14|0.6428571428571429|29
+Bullish Harami Cross|Industry|Real Estate Services|14|0.6428571428571429|32
+Bullish Harami Cross|Industry|Medical Distribution|14|0.6428571428571429|44
+Bullish Harami Cross|Entity|ES.US|14|0.6428571428571429|93
+Bullish Harami Cross|Entity|PNW.US|14|0.6428571428571429|140
+Bullish Harami Cross|Entity|BBWI.US|11|0.6363636363636364|29
+Bullish Harami Cross|Industry|Railroads|22|0.6363636363636364|31
+Bullish Harami Cross|Industry|Mortgage Finance|11|0.6363636363636364|38
+Bullish Harami Cross|Entity|BKE.US|11|0.6363636363636364|60
+Bullish Harami Cross|Entity|DLX.US|11|0.6363636363636364|108
+Bullish Harami Cross|Entity|GD.US|11|0.6363636363636364|113
+Bullish Harami Cross|Entity|HE.US|11|0.6363636363636364|117
+Bullish Harami Cross|Industry|Staffing & Employment Services|19|0.631578947368421|46
+Bullish Harami Cross|Industry|Drug Manufacturers - Specialty & Generic|43|0.627906976744186|26
+Bullish Harami Cross|Industry|Telecom Services|51|0.6274509803921569|86
+Bullish Harami Cross|Industry|Specialty Retail|69|0.6231884057971014|40
+Bullish Harami Cross|Industry|Medical Care Facilities|47|0.6170212765957447|40
+Bullish Harami Cross|Entity|DRQ.US|13|0.6153846153846154|9
+Bullish Harami Cross|Entity|DE.US|13|0.6153846153846154|22
+Bullish Harami Cross|Entity|MBI.US|13|0.6153846153846154|29
+Bullish Harami Cross|Entity|CMCSA.US|13|0.6153846153846154|38
+Bullish Harami Cross|Entity|UTHR.US|13|0.6153846153846154|53
+Bullish Harami Cross|Sector|Utilities|240|0.6125|103
+Bullish Harami Cross|Industry|Utilities - Regulated Water|28|0.6071428571428571|132
+Bullish Harami Cross|Industry|Aerospace & Defense|78|0.6025641025641025|50
+Bullish Harami Cross|Industry|Building Materials|10|0.6|28
+Bullish Harami Cross|Industry|Software - Application|95|0.6|29
+Bullish Harami Cross|Entity|BB.US|10|0.6|34
+Bullish Harami Cross|Industry|Information Technology Services|75|0.6|47
+Bullish Harami Cross|Entity|TWM.US|15|0.6|50
+Bullish Harami Cross|Entity|FONR.US|10|0.6|53
+Bullish Harami Cross|Industry|Insurance - Life|15|0.6|56
+Bullish Harami Cross|Entity|ETR.US|10|0.6|73
+Bullish Harami Cross|Entity|TGNA.US|10|0.6|78
+Bullish Harami Cross|Entity|CNA.US|10|0.6|90
+Bullish Harami Cross|Entity|BFS.US|10|0.6|91
+Bullish Harami Cross|Entity|LNT.US|10|0.6|133
+Bullish Harami Cross|Entity|SO.US|10|0.6|245
+Bullish Harami Cross|Industry|Drug Manufacturers - General|42|0.5952380952380952|60
+Bullish Harami Cross|Industry|Beverages - Wineries & Distilleries|17|0.5882352941176471|113
+Bullish Harami Cross|Industry|Insurance - Diversified|29|0.5862068965517241|79
+Bullish Harami Cross|Sector|Consumer Defensive|277|0.5848375451263538|67
+Bullish Harami Cross|Entity|GOLD.US|12|0.5833333333333334|24
+Bullish Harami Cross|Entity|ODP.US|12|0.5833333333333334|25
+Bullish Harami Cross|Entity|WBA.US|12|0.5833333333333334|34
+Bullish Harami Cross|Entity|BP.US|12|0.5833333333333334|60
+Bullish Harami Cross|Entity|OHI.US|12|0.5833333333333334|79
+Bullish Harami Cross|Industry|Packaged Foods|79|0.5822784810126582|67
+Bullish Harami Cross|Sector|Consumer Cyclical|529|0.5822306238185255|40
+Bullish Harami Cross|Industry|Restaurants|62|0.5806451612903226|39
+Bullish Harami Cross|Industry|Auto & Truck Dealerships|19|0.5789473684210527|30
+Bullish Harami Cross|Industry|Capital Markets|19|0.5789473684210527|33
+Bullish Harami Cross|Industry|Specialty Chemicals|76|0.5789473684210527|50
+Bullish Harami Cross|Industry|Electronics & Computer Distribution|19|0.5789473684210527|67
+Bullish Harami Cross|Industry|Diagnostics & Research|52|0.5769230769230769|38
+Bullish Harami Cross|Industry|Communication Equipment|33|0.5757575757575758|25
+Bullish Harami Cross|Entity|NEM.US|14|0.5714285714285714|30
+Bullish Harami Cross|Industry|Software - Infrastructure|77|0.5714285714285714|38
+Bullish Harami Cross|Entity|PPG.US|14|0.5714285714285714|52
+Bullish Harami Cross|Entity|MSI.US|14|0.5714285714285714|53
+Bullish Harami Cross|Industry|Internet Content & Information|30|0.5666666666666667|40
+Bullish Harami Cross|Sector|Healthcare|546|0.5659340659340659|36
+Bullish Harami Cross|Industry|Gold|46|0.5652173913043478|21
+Bullish Harami Cross|Sector|Communication Services|170|0.5647058823529412|59
+Bullish Harami Cross|Sector|Industrials|628|0.5636942675159236|45
+Bullish Harami Cross|Industry|Apparel Retail|71|0.5633802816901409|40
+Bullish Harami Cross|Entity|APA.US|16|0.5625|24
+Bullish Harami Cross|Industry|Insurance Brokers|32|0.5625|49
+Bullish Harami Cross|Sector|Technology|445|0.5595505617977528|34
+Bullish Harami Cross|Industry|Building Products & Equipment|29|0.5517241379310345|46
+Bullish Harami Cross|Industry|Banks - Regional|368|0.5516304347826086|67
+Bullish Harami Cross|Industry|Metal Fabrication|20|0.55|57
+Bullish Harami Cross|Industry|REIT - Residential|40|0.55|86
+Bullish Harami Cross|Industry|Advertising Agencies|31|0.5483870967741935|67
+Bullish Harami Cross|Industry|REIT - Specialty|31|0.5483870967741935|89
+Bullish Harami Cross|Industry|Luxury Goods|11|0.5454545454545454|32
+Bullish Harami Cross|Entity|DXC.US|11|0.5454545454545454|34
+Bullish Harami Cross|Entity|HRB.US|11|0.5454545454545454|64
+Bullish Harami Cross|Entity|BF-B.US|11|0.5454545454545454|114
+Bullish Harami Cross|Industry|Semiconductor Equipment & Materials|24|0.5416666666666666|26
+Bullish Harami Cross|Industry|Credit Services|48|0.5416666666666666|31
+Bullish Harami Cross|Industry|Education & Training Services|26|0.5384615384615384|24
+Bullish Harami Cross|Entity|XRX.US|13|0.5384615384615384|32
+Bullish Harami Cross|Entity|CP.US|13|0.5384615384615384|32
+Bullish Harami Cross|Entity|DAR.US|13|0.5384615384615384|34
+Bullish Harami Cross|Sector|Financial Services|745|0.538255033557047|74
+Bullish Harami Cross|Industry|REIT - Office|56|0.5357142857142857|74
+Bullish Harami Cross|Industry|Specialty Industrial Machinery|127|0.5354330708661418|46
+Bullish Harami Cross|Entity|IBM.US|15|0.5333333333333333|33
+Bullish Harami Cross|Industry|Security & Protection Services|15|0.5333333333333333|49
+Bullish Harami Cross|Industry|Agricultural Inputs|15|0.5333333333333333|70
+Bullish Harami Cross|Sector|Basic Materials|199|0.5276381909547738|40
+Bullish Harami Cross|Overall|All|11473|0.5221825154711061|82
+Bullish Harami Cross|Industry|Industrial Distribution|23|0.5217391304347826|25
+Bullish Harami Cross|Industry|Oil & Gas E&P|92|0.5217391304347826|36
+Bullish Harami Cross|Industry|REIT - Mortgage|27|0.5185185185185185|85
+Bullish Harami Cross|Industry|Furnishings, Fixtures & Appliances|33|0.5151515151515151|32
+Bullish Harami Cross|Industry|Consulting Services|33|0.5151515151515151|37
+Bullish Harami Cross|Industry|Medical Devices|68|0.5147058823529411|35
+Bullish Harami Cross|Industry|Electronic Gaming & Multimedia|14|0.5|29
+Bullish Harami Cross|Entity|GPS.US|10|0.5|32
+Bullish Harami Cross|Industry|Airlines|26|0.5|34
+Bullish Harami Cross|Entity|FDP.US|10|0.5|38
+Bullish Harami Cross|Entity|TRC.US|10|0.5|39
+Bullish Harami Cross|Industry|Entertainment|38|0.5|39
+Bullish Harami Cross|Entity|THS.US|10|0.5|47
+Bullish Harami Cross|Entity|OMI.US|10|0.5|51
+Bullish Harami Cross|Entity|PARA.US|10|0.5|52
+Bullish Harami Cross|Entity|VTR.US|10|0.5|58
+Bullish Harami Cross|Entity|FSS.US|10|0.5|62
+Bullish Harami Cross|Industry|REIT - Hotel & Motel|12|0.5|71
+Bullish Harami Cross|Sector|Real Estate|294|0.5|76
+Bullish Harami Cross|Entity|MRK.US|10|0.5|97
+Bullish Harami Cross|Industry|Biotechnology|167|0.49700598802395207|18
+Bullish Harami Cross|Industry|Farm & Heavy Construction Machinery|33|0.48484848484848486|28
+Bullish Harami Cross|Industry|Oil & Gas Equipment & Services|48|0.4791666666666667|13
+Bullish Harami Cross|Industry|Farm Products|40|0.475|54
+Bullish Harami Cross|Sector|Energy|268|0.47388059701492535|39
+Bullish Harami Cross|Industry|Electrical Equipment & Parts|19|0.47368421052631576|40
+Bullish Harami Cross|Industry|Auto Parts|36|0.4722222222222222|45
+Bullish Harami Cross|Industry|Banks - Diversified|36|0.4722222222222222|64
+Bullish Harami Cross|Industry|Utilities - Renewable|15|0.4666666666666667|22
+Bullish Harami Cross|Industry|REIT - Industrial|30|0.4666666666666667|72
+Bullish Harami Cross|Industry|REIT - Healthcare Facilities|15|0.4666666666666667|102
+Bullish Harami Cross|Industry|Leisure|28|0.4642857142857143|33
+Bullish Harami Cross|Industry|Electronic Components|28|0.4642857142857143|38
+Bullish Harami Cross|Entity|DUG.US|11|0.45454545454545453|27
+Bullish Harami Cross|Entity|GT.US|11|0.45454545454545453|46
+Bullish Harami Cross|Entity|HDGE.US|11|0.45454545454545453|108
+Bullish Harami Cross|Industry|Asset Management|108|0.4537037037037037|156
+Bullish Harami Cross|Industry|Oil & Gas Midstream|42|0.4523809523809524|64
+Bullish Harami Cross|Industry|Oil & Gas Refining & Marketing|20|0.45|36
+Bullish Harami Cross|Industry|Marine Shipping|20|0.45|40
+Bullish Harami Cross|Industry|Consumer Electronics|16|0.4375|32
+Bullish Harami Cross|Industry|Utilities - Diversified|16|0.4375|183
+Bullish Harami Cross|Industry|Personal Services|23|0.43478260869565216|78
+Bullish Harami Cross|Industry|REIT - Retail|46|0.43478260869565216|79
+Bullish Harami Cross|Industry|Semiconductors|44|0.4318181818181818|19
+Bullish Harami Cross|Industry|Food Distribution|14|0.42857142857142855|35
+Bullish Harami Cross|Entity|UBSI.US|14|0.42857142857142855|62
+Bullish Harami Cross|Entity|ADM.US|12|0.4166666666666667|35
+Bullish Harami Cross|Entity|TKR.US|12|0.4166666666666667|42
+Bullish Harami Cross|Industry|REIT - Diversified|12|0.4166666666666667|49
+Bullish Harami Cross|Industry|Pollution & Treatment Controls|12|0.4166666666666667|62
+Bullish Harami Cross|Entity|CVX.US|12|0.4166666666666667|80
+Bullish Harami Cross|Entity|ED.US|12|0.4166666666666667|153
+Bullish Harami Cross|Entity|SDS.US|17|0.4117647058823529|61
+Bullish Harami Cross|Industry|Insurance - Property & Casualty|39|0.41025641025641024|100
+Bullish Harami Cross|Industry|Oil & Gas Integrated|44|0.4090909090909091|53
+Bullish Harami Cross|Entity|NYT.US|15|0.4|35
+Bullish Harami Cross|Entity|AAPL.US|10|0.4|51
+Bullish Harami Cross|Entity|WY.US|10|0.4|56
+Bullish Harami Cross|Entity|VMC.US|10|0.4|87
+Bullish Harami Cross|Industry|Chemicals|13|0.38461538461538464|28
+Bullish Harami Cross|Entity|RGR.US|13|0.38461538461538464|44
+Bullish Harami Cross|Entity|FLS.US|11|0.36363636363636365|27
+Bullish Harami Cross|Entity|LPX.US|14|0.35714285714285715|28
+Bullish Harami Cross|Industry|Solar|12|0.3333333333333333|14
+Bullish Harami Cross|Entity|HAL.US|12|0.3333333333333333|18
+Bullish Harami Cross|Entity|MAT.US|12|0.3333333333333333|36
+Bullish Harami Cross|Entity|CBRL.US|12|0.3333333333333333|53
+Bullish Harami Cross|Industry|Grocery Stores|10|0.3|37
+Bullish Harami Cross|Entity|CSV.US|10|0.3|107
+Bullish Harami Cross|Entity|EXC.US|10|0.3|152
+Bullish Harami Cross|Entity|SDOW.US|14|0.2857142857142857|16
+Bullish Harami Cross|Industry|Rental & Leasing Services|25|0.28|16
+Bullish Harami Cross|Entity|TLK.US|11|0.2727272727272727|15
+Bullish Harami Cross|Entity|CPB.US|11|0.2727272727272727|57
+Bullish Harami Cross|Entity|OXY.US|11|0.2727272727272727|98
+Bullish Harami Cross|Entity|SJB.US|11|0.2727272727272727|126
+Bullish Harami Cross|Entity|SH.US|15|0.26666666666666666|112
+Bullish Harami Cross|Entity|PSQ.US|20|0.25|86
+Bullish Harami Cross|Entity|ELME.US|12|0.25|156
+Bullish Harami Cross|Entity|VRE.US|14|0.21428571428571427|25
+Bullish Harami Cross|Entity|SCO.US|10|0.2|4
+Bullish Harami Cross|Entity|WABC.US|10|0.2|44
+Bullish Harami Cross|Entity|SPXU.US|10|0.2|50
+Bullish Harami Cross|Entity|EQT.US|10|0.2|87
+Bullish Harami Cross|Industry|Auto Manufacturers|11|0.18181818181818182|46
+Bullish Harami Cross|Entity|DXD.US|19|0.15789473684210525|71
+Bullish Harami Cross|Industry|Other Industrial Metals & Mining|13|0.15384615384615385|108
+Bullish Harami Cross|Entity|DOG.US|21|0.09523809523809523|273
