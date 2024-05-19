@@ -1,8 +1,8 @@
 {
   "Type": "Candlestick Pattern",
   "Name": "Bullish Harami Cross 12",
-  "Source": "eodhd.com",
-  "Description": "move: 0.1;prologue len: 15;trend desc: S200C;vol factor: 1.5;use market: False",
+  "Source": "polygon.io",
+  "Description": "move: 0.1;prologue len: 15;trend desc: E200C;vol factor: 1;use market: False",
   "Entry Price Point": "Close",
   "Target Up": {
     "Price Point": "High",
@@ -15,15 +15,16 @@
   "Signal Names": [
     "Bullish Harami Cross"
   ],
+  "Length of Prologue": 15,
   "Max Parallelization": 10,
   "Only Signal With Market": false,
-  "Volume Factor": 1.5,
+  "Volume Factor": 1,
   "Chart Configuration": {
     "Interval": "Daily",
     "Moving Averages": null,
     "Trend Configuration": [
       {
-        "Trend": "S200C",
+        "Trend": "E200C",
         "Weight": null
       }
     ],

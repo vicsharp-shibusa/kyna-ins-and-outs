@@ -1,8 +1,8 @@
 {
   "Type": "Candlestick Pattern",
   "Name": "Piercing Pattern With FollowThru 14",
-  "Source": "eodhd.com",
-  "Description": "move: 0.1;prologue len: 15;trend desc: S21C;vol factor: 2;use market: False",
+  "Source": "polygon.io",
+  "Description": "move: 0.1;prologue len: 15;trend desc: S21C;vol factor: 1.5;use market: False",
   "Entry Price Point": "Close",
   "Target Up": {
     "Price Point": "High",
@@ -15,9 +15,10 @@
   "Signal Names": [
     "Piercing Pattern With FollowThru"
   ],
+  "Length of Prologue": 15,
   "Max Parallelization": 10,
   "Only Signal With Market": false,
-  "Volume Factor": 2,
+  "Volume Factor": 1.5,
   "Chart Configuration": {
     "Interval": "Daily",
     "Moving Averages": null,

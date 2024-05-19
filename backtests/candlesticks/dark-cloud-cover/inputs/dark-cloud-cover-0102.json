@@ -1,0 +1,34 @@
+{
+  "Type": "Candlestick Pattern",
+  "Name": "Dark Cloud Cover 102",
+  "Source": "polygon.io",
+  "Description": "move: 0.2;prologue len: 15;trend desc: S200C;vol factor: 2;use market: False",
+  "Entry Price Point": "Close",
+  "Target Up": {
+    "Price Point": "High",
+    "Value": 0.2
+  },
+  "Target Down": {
+    "Price Point": "Low",
+    "Value": 0.2
+  },
+  "Signal Names": [
+    "Dark Cloud Cover"
+  ],
+  "Length of Prologue": 15,
+  "Max Parallelization": 10,
+  "Only Signal With Market": false,
+  "Volume Factor": 2,
+  "Chart Configuration": {
+    "Interval": "Daily",
+    "Moving Averages": null,
+    "Trend Configuration": [
+      {
+        "Trend": "S200C",
+        "Weight": null
+      }
+    ],
+    "Length of Prologue": 15
+  },
+  "Market Configuration": null
+}

@@ -1,0 +1,45 @@
+{
+  "Type": "Candlestick Pattern",
+  "Name": "Tweezer Top 71",
+  "Source": "polygon.io",
+  "Description": "move: 0.1;prologue len: 30;trend desc: E200C;vol factor: 2;use market: True",
+  "Entry Price Point": "Close",
+  "Target Up": {
+    "Price Point": "High",
+    "Value": 0.1
+  },
+  "Target Down": {
+    "Price Point": "Low",
+    "Value": 0.1
+  },
+  "Signal Names": [
+    "Tweezer Top"
+  ],
+  "Length of Prologue": 30,
+  "Max Parallelization": 10,
+  "Only Signal With Market": false,
+  "Volume Factor": 2,
+  "Chart Configuration": {
+    "Interval": "Daily",
+    "Moving Averages": null,
+    "Trend Configuration": [
+      {
+        "Trend": "E200C",
+        "Weight": null
+      }
+    ],
+    "Length of Prologue": 15
+  },
+  "Market Configuration": {
+    "Codes": [
+      "SPY",
+      "QQQ"
+    ],
+    "Trend Configuration": [
+      {
+        "Trend": "S50C",
+        "Weight": null
+      }
+    ]
+  }
+}

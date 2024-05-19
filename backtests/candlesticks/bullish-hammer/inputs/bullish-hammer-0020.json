@@ -1,8 +1,8 @@
 {
   "Type": "Candlestick Pattern",
   "Name": "Bullish Hammer 20",
-  "Source": "eodhd.com",
-  "Description": "move: 0.1;prologue len: 30;trend desc: S21C;vol factor: 1;use market: False",
+  "Source": "polygon.io",
+  "Description": "move: 0.1;prologue len: 15;trend desc: E21C;vol factor: 1.5;use market: False",
   "Entry Price Point": "Close",
   "Target Up": {
     "Price Point": "High",
@@ -15,19 +15,20 @@
   "Signal Names": [
     "Bullish Hammer"
   ],
+  "Length of Prologue": 15,
   "Max Parallelization": 10,
   "Only Signal With Market": false,
-  "Volume Factor": 1,
+  "Volume Factor": 1.5,
   "Chart Configuration": {
     "Interval": "Daily",
     "Moving Averages": null,
     "Trend Configuration": [
       {
-        "Trend": "S21C",
+        "Trend": "E21C",
         "Weight": null
       }
     ],
-    "Length of Prologue": 30
+    "Length of Prologue": 15
   },
   "Market Configuration": null
 }

@@ -1,0 +1,34 @@
+{
+  "Type": "Candlestick Pattern",
+  "Name": "Three White Soliders 48",
+  "Source": "polygon.io",
+  "Description": "move: 0.1;prologue len: 30;trend desc: E200C;vol factor: 1;use market: False",
+  "Entry Price Point": "Close",
+  "Target Up": {
+    "Price Point": "High",
+    "Value": 0.1
+  },
+  "Target Down": {
+    "Price Point": "Low",
+    "Value": 0.1
+  },
+  "Signal Names": [
+    "Three White Soliders"
+  ],
+  "Length of Prologue": 30,
+  "Max Parallelization": 10,
+  "Only Signal With Market": false,
+  "Volume Factor": 1,
+  "Chart Configuration": {
+    "Interval": "Daily",
+    "Moving Averages": null,
+    "Trend Configuration": [
+      {
+        "Trend": "E200C",
+        "Weight": null
+      }
+    ],
+    "Length of Prologue": 15
+  },
+  "Market Configuration": null
+}
